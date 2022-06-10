@@ -1,0 +1,3771 @@
+{
+    "title_id": "0005000e10110e00",
+    "region": 1,
+    "version": 304,
+    "files": [
+        {
+            "file": "code/app.xml",
+            "hash": "BAA50DF17C503A07D1DD8DA50CC3C060BD322872F3EACB08254C9C7BCCC308B4"
+        },
+        {
+            "file": "code/cos.xml",
+            "hash": "ED668B94ADFFF53CE16FFB489F70F8244FD5F8468C495AB631BD02CB320EDCEC"
+        },
+        {
+            "file": "code/cross_f.rpx",
+            "hash": "29DB0C3B03D31435B85080078F97964883B981820CB2D7302C7AFCA76419625E"
+        },
+        {
+            "file": "code/mw_shamo.rpl",
+            "hash": "047A8E5EBF5C6DFF4DED9E8A715E1EFBE2D4FD43AE8E153B7F7617318199F9B1"
+        },
+        {
+            "file": "code/mw_shamo_sbc.rpl",
+            "hash": "E573E5D5FED5A68F5E9D89065B528FF7965D8A2225552276A746969BCE77B7CE"
+        },
+        {
+            "file": "code/nn_olv2.rpl",
+            "hash": "CA92183D6530B77FD8FAD15A5399117CB3538469469A9779014FB4079F1C92BE"
+        },
+        {
+            "file": "content/movie/crs-f_mov_64_ED_Mewtwo.mp4",
+            "hash": "EAA2EF42DF66BD9E78FE77E16C686A5CD5ED851F2439FD183F2555F5FE569CD4"
+        },
+        {
+            "file": "content/movie/crs-f_mov_65_ED_Lucas.mp4",
+            "hash": "DA04AE2414D08A203D31FB5D919DC250A7EDF295EBEB7D63E7DEFAF3ADB08972"
+        },
+        {
+            "file": "content/movie/crs-f_mov_66_ED_Ryu.mp4",
+            "hash": "FA4F8464375C5DE902E009307D1884D27113E1D4EA5B9E9DB13D51A4A1AC503B"
+        },
+        {
+            "file": "content/movie/crs-f_mov_67_ED_Roy.mp4",
+            "hash": "E21BA67B9684B7666A563723D736554832426D81B9ABD675B9135F1230EE812A"
+        },
+        {
+            "file": "content/movie/crs-f_mov_68_ED_Cloud.mp4",
+            "hash": "0AD2B38F499BD561E115006AD5EBB9060EC35E7F99D647E4E5228402C0B146BD"
+        },
+        {
+            "file": "content/movie/crs-f_mov_69_ED_Kamui.mp4",
+            "hash": "8739DD9FA068ACE6C817066C34CC3D7991302CDBC5C318FB676644BC6B01B587"
+        },
+        {
+            "file": "content/movie/crs-f_mov_70_ED_Bayonetta.mp4",
+            "hash": "17A8A5A2E1A9A6E4170A0CE6D09F2D51F1E012EA262D54AF94C4A0B6254A8A20"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/bayonetta/model/body/c00/packed",
+            "hash": "65EA30DA11FB9B022E6EB292BD4B5E01E9374B6624D9E9FD3F4EADFEE52FF8E7"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/bayonetta/model/body/c01/packed",
+            "hash": "A232FA9A87AF07B33F3CC46DD79DE2105EAAFA6BFB0AE241412C601810CDE2BE"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/bayonetta/model/body/c02/packed",
+            "hash": "4B23BE7108632D47650A9C2D3A2960195C17AF9AA77FDF3856BDE3ABF24168D2"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/bayonetta/model/body/c03/packed",
+            "hash": "89CC9F020DEFE78715A1A2E5C893C1B7214A87A10F783CAAACEC06D7F2B70130"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/bayonetta/model/body/c04/packed",
+            "hash": "74D15327AAB3C39CDCD1E05F20A3F8BF29CA15DA0B01CA1BF9595980412FB382"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/bayonetta/model/body/c05/packed",
+            "hash": "37E4A397986726E05F283DAD245BFBCA01054753C0039FE9E0D0BCFF69371123"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/bayonetta/model/body/c06/packed",
+            "hash": "D267580D6E8B44D425E10CC369181C65D17C3E1166A3F05C0A551E33EDDCD11E"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/bayonetta/model/body/c07/packed",
+            "hash": "36C5BD0AA880E36546E03D8397F5B6391D8FB3A666448056F5C38734D820F22C"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/bayonetta/model/body/l00/packed",
+            "hash": "B7183408B5854106D19DEFF50CE41748CDA65F826559F764AFC83245717BE7E5"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/bayonetta/model/body/l01/packed",
+            "hash": "239E4102459EF052CE5F3422D71820AB9F2108EA8F1F416133444C7E5163D93E"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/bayonetta/model/body/l02/packed",
+            "hash": "830CE45F76294527EE25913BD0A232392849989A0C4EA2F1078DD20FC399BF1E"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/bayonetta/model/body/l03/packed",
+            "hash": "0E5C72986D1089E836D5C7CBF349DB025ED1653B68C00D16566E96F4A5B3B561"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/bayonetta/model/body/l04/packed",
+            "hash": "ADE9EA5DFF2C27261FCDD8FBB878AE5F5B408E306107C45C639FD415FFCD95DB"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/bayonetta/model/body/l05/packed",
+            "hash": "B80F1E811F7994D4E4A364553D7EFB1AA4F59F3CCA8800DE4A0DCE2FDA02FB2E"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/bayonetta/model/body/l06/packed",
+            "hash": "E9296B263C1A12929BBD3FC2F389D3C38CE8ACB684C57F9734D10D6AEC360FBD"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/bayonetta/model/body/l07/packed",
+            "hash": "94AA8BDCD492B1185A964603F47FE65C9B9B37E05E67EE06CDFC3CC055148A20"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/bayonetta/sound/snd_vc_Bayonetta.nus3bank",
+            "hash": "2AD36CCD9559FEF2ED295F0B0601224F4CBE16699C604BE8FC69FBF780C3A46E"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/bayonetta/sound/snd_vc_Bayonetta_ouen.nus3bank",
+            "hash": "3532152B59814EDAC79F48744AE0E49B5162154C1C7881E1C12DB00A060042C9"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/bayonetta/sound/voiceanim_Bayonetta.vat",
+            "hash": "BA04C42705644C28671E227CFA8CDB30D8A474DFD6EC99206196ADEC2CA83FFE"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/cloud/effect/packed",
+            "hash": "C8E36323DEE7E5CAAFF08F7EAC77669AB8751FA5D540BA581FB00BE65C46265A"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/cloud/sound/snd_vc_Cloud_ouen.nus3bank",
+            "hash": "ECE23B7100A67B93497D4B297B8543A837373A0E4F8FD9F23DF59FC2CAF451D8"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/cloud/sound/voiceanim_Cloud.vat",
+            "hash": "3A9A7263042E83004C3B7A095B232FEBC44DFFEC8F8443D6688A3EABF35DEC79"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/fox/sound/voiceanim_Fox.vat",
+            "hash": "88B7AE01D097818777E51693954CAF6E2919BFA297B502C1F544C9C3B2652B1F"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/kamui/sound/snd_vc_Kamui.nus3bank",
+            "hash": "6DC3D88AE902BFEE906723E5EAFAD8F2AB209BA24A4AFEDA6201626D244B98BE"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/kamui/sound/snd_vc_Kamui_c01.nus3bank",
+            "hash": "121A535AC17AB8A52AB8CB3B96B969BCBD58E42ADBE6A1A99881C0C5E18851EB"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/kamui/sound/snd_vc_Kamui_ouen.nus3bank",
+            "hash": "D31D84881FBB64D94D9FAABDCDF8FF157B981121BBF745351458A00E41232090"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/kamui/sound/voiceanim_Kamui.vat",
+            "hash": "5C39448633D4C7ABD0CD51656EB46165E7D98B515D31F7826221D3C5B409D374"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/lucas/sound/snd_vc_Lucas_ouen.nus3bank",
+            "hash": "CB32DE761F67BD4ED7F3379A94C64961D9945294BF0F9D8C523F9537F122276D"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/lucas/sound/voiceanim_Lucas.vat",
+            "hash": "9493ED6D790ACBF4C25B814988506E0B7334049911D56D19109E41CF66BE1BFA"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/mewtwo/sound/snd_vc_Mewtwo.nus3bank",
+            "hash": "ABB16B970E29619D3ADD3CD007DFEAC415E7E54531A0CF9FA24F1A846A8EAFAC"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/mewtwo/sound/snd_vc_Mewtwo_ouen.nus3bank",
+            "hash": "913443BF327CC60EC930EB0288B6F62654EE994EF87CB4D31D0E2CDAE8821C88"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/mewtwo/sound/voiceanim_Mewtwo.vat",
+            "hash": "3F373A0A9556272E55483F59D9F2EAE77B02F690B61928BF7048918E354047AF"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/palutena/model/body/c00/packed",
+            "hash": "A90CAB281BEEB7A1A105A52928C7AF1571798279A14254203E48D4DAA9938EF0"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/palutena/model/body/c01/packed",
+            "hash": "6E729D21A9641BD4D2BF0F40A6E8698AF0CCBA95268B7CEA332C06EB26C68F76"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/palutena/model/body/c02/packed",
+            "hash": "83F5C6EF931AF7B08E2519A7160EA8CE87032D8707FD43A61F2F42CEBF4B15BB"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/palutena/model/body/c03/packed",
+            "hash": "54A06DC094EA1F29203AE7DA7D10927843FCC80A300026DE29F14B80A8F2F8BF"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/palutena/model/body/c04/packed",
+            "hash": "F17F27A2EC75077A0D3D04050B1764E98C2EE03C79CF1EDBEE75BB3069BC5A30"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/palutena/model/body/c05/packed",
+            "hash": "61BD8CCC3E070201AB6F1B7CA1D0E2B7C3DAA48ED6E0C380A2B454CA71FDF79A"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/palutena/model/body/c06/packed",
+            "hash": "A57A331E00DC7FEB8046D380ACFEC0662EBD9A0E213491379C9E5882EFC18913"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/palutena/model/body/c07/packed",
+            "hash": "4F3E4B51F413BFF1D3ADF29D64163805172F4B6672568BD4C18547E113801B71"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/palutena/model/body/l00/packed",
+            "hash": "9EC12F9B986082C342D9862FCCC98973D3AA856C4CF14B9E268903A7175FE314"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/palutena/model/body/l01/packed",
+            "hash": "D79C5DCCB764115CA90D41EE47F7004B8B4DF8822BF2DB2ED2A40E6810B05C07"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/palutena/model/body/l02/packed",
+            "hash": "E950FFBCCD94216172A96BF20217A4938C9DEB5CDAF3058C3E40980D3B056CF8"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/palutena/model/body/l03/packed",
+            "hash": "D6BB3ED856271BD722A964EBC32C1A5DF1C75B9D45E89E81026432DCB306B301"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/palutena/model/body/l04/packed",
+            "hash": "D321B4D39677D770BAA7218D8C90EE3253EDE477206DFEACB45C3EE9AA31FA39"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/palutena/model/body/l05/packed",
+            "hash": "C5C02D89E7673C85D41E981E4E6334CDA63FB3142DD9937F5994BE96F93051A7"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/palutena/model/body/l06/packed",
+            "hash": "DDA5062A3162C6A039A63C67B0868B6E81FAA40A20A3B8F7A8CB2D60C37E3B69"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/palutena/model/body/l07/packed",
+            "hash": "5301721A45308F7DB32CA62E35450252519FEA4130C4393AF623ACBEE475EFD2"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/pit/model/body/c00/packed",
+            "hash": "8F4B3C4E59BCDBCC1E54F780E67B37B78D8FCF92FA6C1D04DEE8B6931CAB0E23"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/pit/model/body/c01/packed",
+            "hash": "F9419B7DA58D6D5E2BE8AE39FF871E71207F3ECBA8D5038067C1A7528674A495"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/pit/model/body/c02/packed",
+            "hash": "F6E59186EF3B25E41A58A7D3D24D178114A9CF149BC295C4BBFD7532638DE6AF"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/pit/model/body/c03/packed",
+            "hash": "E5C46045D813264EC6F2233F270BAA46E146EFF1F838602CA2476F48780875E8"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/pit/model/body/c04/packed",
+            "hash": "90753B3A1D35F6B6A25B8A545C11F11F7FCF1C82BFB83FD40DD4E20FDF9F0946"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/pit/model/body/c05/packed",
+            "hash": "33D35424DBB8452652AFDC03B747CBE388D4741DE49C6EE7BE441178B15999A2"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/pit/model/body/c06/packed",
+            "hash": "88ADBAEC6FCFD9735FAE8C3316C328F6489B72EA1F102D3C5F405466BAFB9A4B"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/pit/model/body/c07/packed",
+            "hash": "9E44B03FB218F146205A531172A79E293D56AA49720EE4969F674694171EF921"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/pit/model/body/l00/packed",
+            "hash": "7C849F7B164956426BC09EEB660AF692F735A82D20BCCA1068667B5F22511E77"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/pit/model/body/l01/packed",
+            "hash": "0A091314C161C98D419300D2F93B492EDB1628064D53F828D023550EBA2EFDB1"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/pit/model/body/l02/packed",
+            "hash": "8AACB1926D03A139262DBE0349AE48B1221FF47CA47BFA92EA8934B3DD454911"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/pit/model/body/l03/packed",
+            "hash": "CE5CE5A745F364245B768E8F35C0E46F2726C10FC52B1A78142D6133C0136229"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/pit/model/body/l04/packed",
+            "hash": "B8EDE83AAAEDDF434C364F78F2098854765BCA79BE54C5E8E9B76BFCC53CAAB3"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/pit/model/body/l05/packed",
+            "hash": "4219C22F495C66CCE9A152C48C4612EE94BD285D63C988C0F389DE1DFAFB3180"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/pit/model/body/l06/packed",
+            "hash": "F87463ABF67C94A8147B3F797C10735B396706330012019A401F5E93E99A9A1D"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/pit/model/body/l07/packed",
+            "hash": "04AA5ECEBED581594C467F1F60E8629FCA7F04CC0C4699AADE8C8D1458E5F5A0"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/reflet/model/body/c00/packed",
+            "hash": "ECA23ED03949448A62A9EBA1B34806EEB585728FDD67AADE65F1575EED76FADF"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/reflet/model/body/c02/packed",
+            "hash": "3B012DC0E55EABB23680E69EC88B11752113C0F6E9D7D0C79ABC756334179BD5"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/reflet/model/body/c04/packed",
+            "hash": "1E65D6EE2A8406B635EE2B202EED2EAB4BB30CDF49ACC15F315845A0D85C2C5D"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/reflet/model/body/c06/packed",
+            "hash": "52DBA784C5C63126350AD7FAD2DF482DA7F7A5CE2392B55E9F07687D8C6EC1E1"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/reflet/model/body/l00/packed",
+            "hash": "62E6B1D257667F50177A8541ECFB7563CE44209557F9B99DD1574438726AAB84"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/reflet/model/body/l02/packed",
+            "hash": "EF2E237352D550EEA9C7DFF6F21056C0D856DFACB2BFE3979173EA90C2C17249"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/reflet/model/body/l04/packed",
+            "hash": "9E55A2FB169CB6C3AF5AEB011A6F9295A42E622CBEEB6C4CEF7F1BC2289AD3D3"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/reflet/model/body/l06/packed",
+            "hash": "F0A592BDAA8564EDD4064D9EB81D99CC806CDD1F08C44066DA141AB5BCD43690"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/roy/sound/snd_vc_Roy_ouen.nus3bank",
+            "hash": "FE7477CEDBA7F282564A21A5416151F270F4F5BEF151853DDC269F0CA95CFB62"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/ryu/sound/snd_vc_Ryu.nus3bank",
+            "hash": "A8CEA0217BB1D7EA41EFDC373CECBD1FBCC45ADF24A7C34BF2D2BB34C5784470"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/ryu/sound/snd_vc_Ryu_ouen.nus3bank",
+            "hash": "0FF44FDC41E07D404C1F3C0CB75258E2DB577FE9D256575D79690B18F03990EC"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/fighter/ryu/sound/voiceanim_Ryu.vat",
+            "hash": "D94A04C710C2D2D62CE9CE4084E5C3A569676CA715A6E7A751D181772DF3A9F0"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/item/figure_append/packed",
+            "hash": "E7E2503AB57F89E3B289C1C131C22C0F1168A775324CA14C2E5618E9BB52EA16"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/model/figure/Cloud_d_F/packed",
+            "hash": "79C0338FD35FC98350B3240603FB906AB1F8A139B72D1FEDE179D056B7E7DB7D"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/param/packed",
+            "hash": "F10FDAD53FCB27E39A6611E87E042B39E6741C2CCDDEB3912A78034B5A0B1EE5"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/sound/se/snd_se_Wsmash_Bayonetta.nus3bank",
+            "hash": "5DFB2842681DE0B1F4628F4A80BEAB5213DFA9A15B732095C75EC3C65946F1C0"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/sound/se/snd_se_Wsmash_Kamui.nus3bank",
+            "hash": "8853D2C14AE64C1C26E43AF26B14313A874EC0D171D17A8329B5145742954CE9"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/sound/se/snd_se_Wsmash_Ryu.nus3bank",
+            "hash": "3BDB8A6A2F7C60A21B826224BFF0CEB4B327AB829166EB017F7F0A8F0ACA55CD"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/sound/se/snd_se_narration_characall_Bayonetta.nus3bank",
+            "hash": "7243EA9A1C3A2D7BD858FA007F0B73AFFAC885561BDDA85DF771F4C417520476"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/sound/se/snd_se_narration_characall_Cloud.nus3bank",
+            "hash": "7CE3DC8BEF6DEDCC38AE7BED45FFC2AD676BB5C46085DF49DB9D27816748D886"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/sound/se/snd_se_narration_characall_Kamui.nus3bank",
+            "hash": "C8050B5856E2BD37E3AD547CC15538EC21A2ADD317090939C360E92A3161F985"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/sound/se/snd_se_narration_characall_Lucas.nus3bank",
+            "hash": "FF7255AC6BD3C495697458814EABCDB61539F87F95D3EB324697F732709FFFBF"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/sound/se/snd_se_narration_characall_Mewtwo.nus3bank",
+            "hash": "83831FE202CC3E950A38A7B186E5878EEBFF31C9BDAA46A490317868BBB6BF0A"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/sound/se/snd_se_narration_characall_Roy.nus3bank",
+            "hash": "AD539956D8F09989C884D591A43F82DE86BFA1F0844457B171A7E8A9C0DF097A"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/sound/se/snd_se_narration_characall_Ryu.nus3bank",
+            "hash": "FFAE3F4F4C898762B6059901907289EDBCC90EA2B7FF0408EB3FCE20C20015FF"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/sound/se/snd_se_narration_menu.nus3bank",
+            "hash": "B9659563941974563AA51317881F18966C08C4E570596A8B86521362205C48D1"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/sound/se/snd_se_narration_tournament.nus3bank",
+            "hash": "357562C07AEDC4E2A760A500617FAD98BF4919DE02CE9BE4CC32EF456BCDCA8C"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/stage/end/Village2/packed",
+            "hash": "440D024AC096B33F165C613729EC08BD28D33678E04CE1B7EF2DFE504A9670A4"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/stage/melee/Gw3/packed",
+            "hash": "97B744627A352E8FAD2750ADBD8AA217DC1504BAFD6771375196830E03508436"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/stage/melee/Village2/packed",
+            "hash": "FAEFA2587E69D9FF21DEEC8C988E338A89844DAAE632C25CC9AB621420E7B852"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/stage/melee/WiiFit/packed",
+            "hash": "A4D846CF0AA7E6C23747FA93032C96E1999E622587E3E309B02E5FD90571D17E"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/stage/melee/XVillage/packed",
+            "hash": "24BF8679C4A4617D15BDD57C8912ECB634FA4F719EF1B44701B7410C63D2E772"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/font/packed",
+            "hash": "A73D6CF946521D0DA4870DA6A13940281857E1778C256B261B160B37398644D1"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/info/packed",
+            "hash": "5676D924EC69ED52322941E600A27C1BF4C4868C515907F817503E74367FD051"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/lumen/challenger/packed",
+            "hash": "8E109B4D5C0F1E2A58041F0ADF17DD73A4F5E1F9203F77A80D5360F61992BC6A"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/lumen/chara_base/packed",
+            "hash": "58335AA9982A39D9755214C1358A120A1A6E77B7BB3BC86A938E40F875CC0D46"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/lumen/chara_base_8/packed",
+            "hash": "418D70C0C31BC9BD320F41587DE44EF4CFE76DF27DB453F2B82DABA769329F17"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/lumen/compe_howto/packed",
+            "hash": "921B00B97E19EB4EA913A4FB51BA033141CDB4870AD93673628A3E6A53C763F2"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/lumen/compe_result/packed",
+            "hash": "F73DCF8CC5CB3C4534469A2CBE0E184915278D2385E17E7E41E73C3C7560E712"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/lumen/conq_info1/packed",
+            "hash": "491163ADA62491982D9A53EB6E5BF23706C7DE257AABA5846A01C17ADB2A6C33"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/lumen/credit_congra/packed",
+            "hash": "7D8D1999FF24AAFCCAFA2AD6118A5E3E128BEFCE24A755EA9482C46B394E2806"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/lumen/eshop_howto/packed",
+            "hash": "567D4EC6FC2050B454B6AFEB74ECC1BB620CF5C4FA6FD9949B0DE7B6313FADB9"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/lumen/event_conq/packed",
+            "hash": "770324FC12936BACF0A85129EDFB5D26735FBB2276513AFEF3E60AFB402EEAB4"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/lumen/howto/packed",
+            "hash": "500EFF9365FB44EA5AFA8D3621AF86971E8C3955B024C53F93E1F678C62009FC"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/lumen/main/packed",
+            "hash": "2D77CFB91C436EC72E0AA420467B823F57CE802D462A910BA6E9EB851E759645"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/lumen/nfp/packed",
+            "hash": "44948F4B4F44FD01665105AB83AA14F1E55607E64EEF95205A284BDFCE64D6D6"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/lumen/nfp_load/packed",
+            "hash": "FCFA3981BED55B039423AC35449762B01C75BBE333CCC9EB31676F9346221C47"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/lumen/option_button/packed",
+            "hash": "A31F02A640ED128B7580551637926EC93DB291001F4E62D1C2B9B4B5909297C7"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/lumen/other/packed",
+            "hash": "121D5B6144573074B7E4A20FEE34A0E705671D112D604E906AA12612894F74A3"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/lumen/other_chrmake/packed",
+            "hash": "D8E5C7354EDAC2C372E042C0AD49838189372C3796D2C9118FFED9CBBE4D3AA1"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/lumen/other_col/packed",
+            "hash": "D00145E94C1CE4D1D1470AACAB264856A670AA8507808018B0065FC7D1E8DD20"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/lumen/result/packed",
+            "hash": "E97C70D2750576AD3D644B61B72CC08C23D890936B630BA913D506708FE17751"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/lumen/rule_item/packed",
+            "hash": "46FDC649A0E03A62AA214C4E063E8A2F6CEA08BB09A8C1D5A35DB64639F87C1C"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/lumen/rule_stage/packed",
+            "hash": "6D879224BAEA7B2AA4450379F158E53F0D7E38285D7178C865514895672911F2"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/lumen/share_receive/packed",
+            "hash": "BC0EF000F62335BD45CB2C459B995B90E17C775386466642A09A57CEDF121498"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/lumen/smacon/packed",
+            "hash": "9843C70BB2BE10450B583934BB7654B6E46722855243F3B7DF107E8B69E67357"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/lumen/smacon_howto/packed",
+            "hash": "4A8915C4BA702D0B37ADB79BC1F5DC220C614CE698D001F49AE7E596014EE99B"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/lumen/stadium_smb_howto/packed",
+            "hash": "EDD3601B8E315A58AD94F896EC479AF35393EC8F40B23F04EA3B127858C06B92"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/lumen/stage_cursor/packed",
+            "hash": "C750BBAC9925089D1673E6333905B92946325EB1AC74497DD7AB59D3C06E3102"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/lumen/stgmake_howto/packed",
+            "hash": "40212F03F27F84D5400E9CB1EFB2166D761AEE0E040DBCF83CEAA32F6B9B330E"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/lumen/tds/packed",
+            "hash": "1127A035B3D7E2606C6B7E9F4CEFD0210CD53C668D11FB58606061588CA8370F"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/lumen/tds_howto/packed",
+            "hash": "C3C0BBCA3986C6B22D22FB4DF2F608A29A20A485AB18A89385A3DA3ACFE69B3C"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/lumen/tour_intro/packed",
+            "hash": "849343E1589E9B3EEE3B05CFDF8AD4EF6FCDF911B242D9DE138D5D63333F3884"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/lumen/tour_menu/packed",
+            "hash": "DA140F7914758D31198DB972D906DEA283A422DDD53142BEE6FC463AFF6FF1D2"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/lumen/tour_opening/packed",
+            "hash": "1DBAA19E704E2355B3F5E822AF0B601EF816E6A1161CD7B724FDE3F9223F5BC6"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/lumen/tour_result/packed",
+            "hash": "7769C5A52224CB50B59F1E8E8E489CF323E94A0180757F3144043E4EAAF27BBD"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/lumen/tour_tree/packed",
+            "hash": "482385A703234A7FA20E207541FB6583300C28D0424FD72449EE2C558F1A4EC8"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/lumen/wifi_event/packed",
+            "hash": "093540CF84B17A9234FCA5749EFD1D0ADC39110F6AD0C6F93D487474F233518F"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/lumen/wifi_share/packed",
+            "hash": "5740890FECEE8FE549F456052FB5B99F018AD6E2D8984C9B9D59DBD21F1C9816"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/message/packed",
+            "hash": "6FF6372E27118115B5AC2BA49ADBEEDDF3243D75DB47787D3E1AB83A805542DC"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/replace/append/chr/packed",
+            "hash": "2E7FD379E8B22E5AE9778A4D1B2BAE9C8FBA3008DB318C7D6B212C11DDBF7E3B"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/replace/append/figure/packed",
+            "hash": "06B45878E6A168A87BD00F4ED747E2FB06745874BAFC1946C7C44FAB5C75C63B"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/replace/append/stage/packed",
+            "hash": "AF993822F33E00C4FAD0976EFDD077C760B3A4D8392DD0F79C087EC2040DA63C"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/result/packed",
+            "hash": "337648F6FCAFA4BBC4ABB5BBDB118383DFB1345FB1824DFD8EA943117CC03809"
+        },
+        {
+            "file": "content/patch/data(jp_jp)/ui/texture/append/packed",
+            "hash": "72A08932BBCE2E4FF5C57A36D0B5D204509EE411656F02D7FDD4FBBD59501718"
+        },
+        {
+            "file": "content/patch/data/animcmd/packed",
+            "hash": "4A6057DE3A1038FF7D0FACC2869D5D0489EAD218D8DC3EB737C31019D046257C"
+        },
+        {
+            "file": "content/patch/data/effect/packed",
+            "hash": "684851318A326BFBB8F12F014CDCFC4AEDDF112EF61E9796F67CA935E2A8475D"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/camera/packed",
+            "hash": "0F1B816235158FE14BB48201C6B2DA3C1ACE247585FD8CD816E0707262853D96"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/effect/packed",
+            "hash": "EEA6E50E67D7977B92A4A3C35EAE7DC2B9B94CBFB877FC51E6E4007DACCAFB01"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/model/bat/packed",
+            "hash": "9DCBC2B04D8CC8027A691F1B2DFFD4731BC537266A0726EC27399A7032FB1929"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/model/body/c00/packed",
+            "hash": "A964EBAEC5D0C22D63D9ED5060A994EBF5F79F273CC6BBCBBF0985E27CA92461"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/model/body/c01/packed",
+            "hash": "9A718F8096B3D0FD246817ECCD4A13A287BDC7AC939DE53A6A3D19D152005138"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/model/body/c02/packed",
+            "hash": "C2CA3645733D6821D8B86C128DDDDE01307DEA6F84EC7E87590BD35F3DFD27CE"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/model/body/c03/packed",
+            "hash": "077B16CB5E94BA4BFDDF390E3E4A8DEDB650A1E9BA58882676103EC9A7BCED6C"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/model/body/c04/packed",
+            "hash": "B8CA7EC1966DF15E51130563DDBFAA707EA6F71166F8087048F6B11099FE2FAF"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/model/body/c05/packed",
+            "hash": "DE77F8DCCBC671E8F49EB3AA35697A45FCEE601E1827AF79088E75891B3F69C8"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/model/body/c06/packed",
+            "hash": "74B76A8C8B7321BAE372CEF82156F26471E52538D87B662E6779AA8E645A11A8"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/model/body/c07/packed",
+            "hash": "8509A28C2E6DF5BB1A5ED33E535EE61E5685D9F2CB0E00051478F59227BDEF77"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/model/body/l00/packed",
+            "hash": "FCC3AC2FECE3AEEC6A011AD56F92FA1CDA9EF14CAB412F6C93AF583E9578A925"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/model/body/l01/packed",
+            "hash": "DF612D895092E9E458F2816E1987768BA98894656BEE6DFA8D35F0F714039015"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/model/body/l02/packed",
+            "hash": "F04D9F7E64D42FED569A4F48D4F8FB8BF52CF03450A03FC9359600C0B5D9EE3C"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/model/body/l03/packed",
+            "hash": "01C867C65849913A1C7FE5047DC1FE4A816ED24209735D4123F3E442D4086E94"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/model/body/l04/packed",
+            "hash": "98FBAE77DC2D18A89814B5B690FC1020313328B736171FFB58543620FB941CF0"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/model/body/l05/packed",
+            "hash": "6B92A11FE5796F196646B9939405369862027EB83FF54A720A31AE66BC753A38"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/model/body/l06/packed",
+            "hash": "A3D7B3A68C427326FAD8CF4DAAF3C00EC200A5D4E0EBA50146BB93C3FFDF9938"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/model/body/l07/packed",
+            "hash": "C84ACE9248ED690448C2E493D77A490C233A79696B3D68B50C4C2B66B5417059"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/model/gomorrah/packed",
+            "hash": "E3D0F5498F695F5F535E4B0319DBACA5E7BE042755AD6539AF7FF8F3E37612A3"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/model/hair/packed",
+            "hash": "3712593657A1D422474D4DB8AAB686AC97B1E7D803487AC1E289B865FB7A42B7"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/model/wickedweavearm/packed",
+            "hash": "F491FE899093B809827A3AA046F4D0BD94556DAD76FB760B77F2E5EDED90AC15"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/model/wickedweaveleg/packed",
+            "hash": "25A50B9EF77ECE04BA106CB6A1F7CEB16B537882CE79CE38A1F05B07BAC8FF2C"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/motion/bat/packed",
+            "hash": "6275DA7B43E60F4330484A7CB19F608067CDDF75F300A63FD60633F3AABD1F59"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/motion/body/packed",
+            "hash": "C88DDD89E91A0CDDBF4B13F2151C91346B1C0FD43F7B6482C1611E41BFA22DE3"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/motion/body2/packed",
+            "hash": "A2B8A4EA443BF38EC7473DEF3E42F7FD67873CBAC224E14F9DCD1BF8902D8099"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/motion/bodyentry/packed",
+            "hash": "9B5388549B1011598975923EEAF8B2FE1F7C7CEDC75642066A173CA96493B1B1"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/motion/bodyentry2/packed",
+            "hash": "F756F9AB73C05215CB27292134AE9BBD848C1B299628C364F87229404E77B5E5"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/motion/bodyresult/packed",
+            "hash": "E9885A10C49BBA5BE115E70517B20A30D9BD2E114F5E1A6B3D2D7F1E418720C5"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/motion/bodyresult2/packed",
+            "hash": "CDBB801504BE71CD717E59D6E47E447CB54846F6AFAB4F67EDA5F9549E26F497"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/motion/bodyroutemap/packed",
+            "hash": "8B4653387D9DBB3F288494D348AA0B212D8B70DAD708E9329363D2EF7F1467F9"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/motion/bodyroutemap2/packed",
+            "hash": "C7F3FB84DBB73AFA9F1FD1BF3CD06FEE1F7993BDD6F5938BFAD16993F21DE0B0"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/motion/gomorrah/packed",
+            "hash": "E0222479CF9C18B14FA0E35AB0D41F6C90E595FDF47722A251A946BE05361871"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/motion/hair/packed",
+            "hash": "041D6B017D155AE3F640A44C657CB06753F906F2F0D772CB6EE91222AE0AA28E"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/motion/wickedweavearm/packed",
+            "hash": "67BACE7DD8BC0F94A8C2B4DA8C526B8EAC4C82EFED0C6DBA5BA98BE90BF73A9C"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/motion/wickedweaveleg/packed",
+            "hash": "98BA28D8FC11ACDE94CFD3E22DC7DAADD8C9E3066D62A3C9DA8172F7B65246CD"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/script/packed",
+            "hash": "B93CC788E7F626D542D843155E964E11812B1B29679CE083F839B3CAC5ED3572"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/sound/snd_se_Bayonetta.nus3bank",
+            "hash": "F1353DDFB580CF49AF8CAD059341EFE9A16BC298FCDF6E326B8F0D77FFFCD2A8"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/sound/snd_se_Bayonetta_c01.nus3bank",
+            "hash": "5F1D2806FF1F078F9D06AB492EBF5290AD7462FA2CA23C45DF94F548B9F4775F"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/sound/snd_se_Bayonetta_common.nus3bank",
+            "hash": "0D4E265D175872E15FEE1A05C207FA0E9B3FC9CC4F3442A344E709A7F75C02AA"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/sound/snd_vc_Bayonetta.nus3bank",
+            "hash": "EA30289212E42988F8A55DD9C895D12916D293F4EDCD4AAE8602C81849E0D837"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/sound/snd_vc_Bayonetta_c01.nus3bank",
+            "hash": "2B7A1602EC1D6839A6A6C25FEE0FF5175E1310C7A556729E5C585DD4B39F9B6F"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/sound/snd_vc_Bayonetta_ouen.nus3bank",
+            "hash": "8FDFF020DA3535719722D646C9CB9C9F88E8919C125745D0FE20CAB38598D9E6"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/sound/soundseq_Bayonetta.sqb",
+            "hash": "076748DD09C4F5CA00FA4B3ED756145B1FC047074D8F1989B0D22B5FC55EACFB"
+        },
+        {
+            "file": "content/patch/data/fighter/bayonetta/sound/voiceanim_Bayonetta.vat",
+            "hash": "0765ECCC319E234876CC7D1A0C8E7003DC67958D35EA1F61532AE08961BEA01E"
+        },
+        {
+            "file": "content/patch/data/fighter/captain/effect/packed",
+            "hash": "EB96D936B111B175405B57805FCDAB2F663A8AB9EE4CD0A342CDAFA08B2551A7"
+        },
+        {
+            "file": "content/patch/data/fighter/captain/script/packed",
+            "hash": "09F40296C93D6D513EAD559601D69C027BD16A322F3BE69F2E1F96928C34371B"
+        },
+        {
+            "file": "content/patch/data/fighter/cloud/effect/packed",
+            "hash": "1B00B8242E0779C6AB9225C57501F4A97DC09E6FDAA5E44FA5904760E5008CC9"
+        },
+        {
+            "file": "content/patch/data/fighter/cloud/model/body/c00/packed",
+            "hash": "F5EA037A842950DDB2BA6258063823046FD62A5944850F471E5994543F2FA089"
+        },
+        {
+            "file": "content/patch/data/fighter/cloud/model/body/c01/packed",
+            "hash": "18F7B2A098D3289CE705384CEB3C4B9D58281B481C6B9EC10993DB8B40D2BF8F"
+        },
+        {
+            "file": "content/patch/data/fighter/cloud/model/body/c02/packed",
+            "hash": "593E2CB51FC99978FBDD6B1AC6F83175ABA589F9FB984CECAFB31CE304700A73"
+        },
+        {
+            "file": "content/patch/data/fighter/cloud/model/body/c03/packed",
+            "hash": "4710CCAB301C7ECFF591B0DB87ACFD2AD594550A43AF8C403AEA4CB24F48D9B4"
+        },
+        {
+            "file": "content/patch/data/fighter/cloud/model/body/c04/packed",
+            "hash": "78953BB15BF9752BB3DEFC7528E9D56A7CD7464C6308ACB2DFD259982E3B9B45"
+        },
+        {
+            "file": "content/patch/data/fighter/cloud/model/body/c05/packed",
+            "hash": "58A06E0727B00AFC49FBDE8E4C1CCE6FA336FFBFF2E686F216CA11FD01C7AA56"
+        },
+        {
+            "file": "content/patch/data/fighter/cloud/model/body/c06/packed",
+            "hash": "D5ABABD45A83A62682F4DBC84D85C285368A0055F92762D8C8867401E5502806"
+        },
+        {
+            "file": "content/patch/data/fighter/cloud/model/body/c07/packed",
+            "hash": "B0D01ECD2DEC6271F8DA047C0CD6402E6989C6BEEA17789D1B1AC20D9FA2F6C7"
+        },
+        {
+            "file": "content/patch/data/fighter/cloud/model/body/l01/packed",
+            "hash": "CE692692F0CEA794CF53E7394240BC8014A7444BCC952F3F96F89CF495467E5F"
+        },
+        {
+            "file": "content/patch/data/fighter/cloud/model/body/l03/packed",
+            "hash": "0A739CA3C517A0EE54ED3D9CD5F68E5E26E8649B6E6EDCCC2BAC774B3DF21256"
+        },
+        {
+            "file": "content/patch/data/fighter/cloud/model/body/l05/packed",
+            "hash": "4226070EF01AD52A591A5DBAE90292CCA96845B14D0A305D40E79AB44DF6F858"
+        },
+        {
+            "file": "content/patch/data/fighter/cloud/model/body/l07/packed",
+            "hash": "04A43AE5F8506A83EB0C2E3760AB0B5E2187CD551D7713F9CC87070D81B03E6F"
+        },
+        {
+            "file": "content/patch/data/fighter/cloud/motion/body/packed",
+            "hash": "BE9C4D22898C894C3C5E1ACCFF6F2F912BE8EB5D878F0F9EB778E2425E8B1C61"
+        },
+        {
+            "file": "content/patch/data/fighter/cloud/motion/bodyentry/packed",
+            "hash": "E0B04AAD7155403E24B0B008B131EE84C211842EFEBF787A231232310B9C0DD9"
+        },
+        {
+            "file": "content/patch/data/fighter/cloud/motion/bodyresult/packed",
+            "hash": "3539A0854390A11E0B517C9256A5AF0267964A4490952EDBD8A275E6BE6220D8"
+        },
+        {
+            "file": "content/patch/data/fighter/cloud/motion/bodyroutemap/packed",
+            "hash": "4A3857EAF9DDB9C267772375F7188495B8F33409386E252B046C60B07B356AE8"
+        },
+        {
+            "file": "content/patch/data/fighter/cloud/script/packed",
+            "hash": "1BF2AD63C04A99D4D1280B60AB1FA975A322C8A4921ED36530DD340F7E3D7C8E"
+        },
+        {
+            "file": "content/patch/data/fighter/cloud/sound/snd_se_Cloud.nus3bank",
+            "hash": "73C38936A4346B6E2FFDF4DCE9C1EBBCD7BD3C224243F756CA5D5FAD79FC7CC9"
+        },
+        {
+            "file": "content/patch/data/fighter/cloud/sound/snd_se_Cloud_c01.nus3bank",
+            "hash": "64E3D3B2EE6B65E5B4430F23870DD36A750129C37C4EBBFC433897804F0351C2"
+        },
+        {
+            "file": "content/patch/data/fighter/cloud/sound/snd_se_Cloud_common.nus3bank",
+            "hash": "05248D16F7F3C0B5A947FD2B67CE70C880328C258DEBD5B519409E1A2775E028"
+        },
+        {
+            "file": "content/patch/data/fighter/cloud/sound/snd_se_Cloud_common_c01.nus3bank",
+            "hash": "40C0D0545AF7EB96C2CA9DB23DBC1B0690214F3910AD50F443CF332FA0E8015A"
+        },
+        {
+            "file": "content/patch/data/fighter/cloud/sound/snd_se_vc_Kirby_copy_Cloud.nus3bank",
+            "hash": "7063E7D2ED95B5F3377D6F5B824F8FEA8C6ED7E2CC66DC3D6C2FC3596B743842"
+        },
+        {
+            "file": "content/patch/data/fighter/cloud/sound/snd_vc_Cloud.nus3bank",
+            "hash": "D3C28A32B1F625F8020393134483B4098CE25DAF835EA462C045D00BE7797123"
+        },
+        {
+            "file": "content/patch/data/fighter/cloud/sound/snd_vc_Cloud_ouen.nus3bank",
+            "hash": "234781A34AD43C6EFC93A7D81003BC49980C756F52EAE5E718F1CEC0682BC407"
+        },
+        {
+            "file": "content/patch/data/fighter/cloud/sound/soundseq_Cloud.sqb",
+            "hash": "BA8B8221CC5ACB7261F89FDE7749DFB0863F29E6841629B152BF8C0F349BC1CB"
+        },
+        {
+            "file": "content/patch/data/fighter/cloud/sound/voiceanim_Cloud.vat",
+            "hash": "896E69B79191BB135A539E3B018F26EEE1B97DED49F0410FA85B54F7320033F0"
+        },
+        {
+            "file": "content/patch/data/fighter/common/packed",
+            "hash": "6B4AD86525CC02533597BB56F0265E8175E3D6C92A587EF8A80CE4D4139DBB95"
+        },
+        {
+            "file": "content/patch/data/fighter/dedede/script/packed",
+            "hash": "D8FA3DE3F5E078504797BD515D78D9C183309D148DAE43E8FF34A22F951448E3"
+        },
+        {
+            "file": "content/patch/data/fighter/diddy/script/packed",
+            "hash": "985EA57F515287BAB95D21877B903F43EC5FB6F3053114D51A0610831AFAC6E7"
+        },
+        {
+            "file": "content/patch/data/fighter/donkey/script/packed",
+            "hash": "E4EE300F2C83CBE3CEF5D8B64E453D473437834BAA01B887DB02CFFF25734A9E"
+        },
+        {
+            "file": "content/patch/data/fighter/duckhunt/script/packed",
+            "hash": "68F273B5B62B1305A324EFFEDA7B3FFEF6B6520BA66E11CBF8FEC392D3B16527"
+        },
+        {
+            "file": "content/patch/data/fighter/falco/effect/packed",
+            "hash": "07826483D0C11A8EDFEFBBF34479D6C50490F1C68CB8524C1CFEEA404BD5B6C9"
+        },
+        {
+            "file": "content/patch/data/fighter/falco/script/packed",
+            "hash": "D35EDE12B96F73F38CB98C7F1A3EA85F4789BD2F910DE2F0EA08095E6DE4F59C"
+        },
+        {
+            "file": "content/patch/data/fighter/fox/script/packed",
+            "hash": "524501CE5212CBF17B2C946449DE98F7876A7B9DCC14154504ACC22D3E9EAE00"
+        },
+        {
+            "file": "content/patch/data/fighter/fox/sound/voiceanim_Fox.vat",
+            "hash": "EF1A3D0EDD2120D7096A9B8F91C8E4A5174FD0D49F6E78E4C34775B7DF738268"
+        },
+        {
+            "file": "content/patch/data/fighter/gamewatch/script/packed",
+            "hash": "FB9A65BD91287EE27F15153A06A864E23055D4907E87D1EF3B7D6175A307380B"
+        },
+        {
+            "file": "content/patch/data/fighter/ganon/script/packed",
+            "hash": "AF0CEF15981AD90A3AD39269263EB81E4150A581E8CDAE3309808F65BE2CFB45"
+        },
+        {
+            "file": "content/patch/data/fighter/gekkouga/script/packed",
+            "hash": "2241FDE06BCFA85663064DCB86EA34C29751CCC1702023F50083765F1211A8BE"
+        },
+        {
+            "file": "content/patch/data/fighter/ike/model/sword/packed",
+            "hash": "0919C46C57229183D03DB52D56811A164236E1B5B3AEBFCA4B66882E5AAA9E6E"
+        },
+        {
+            "file": "content/patch/data/fighter/ike/script/packed",
+            "hash": "6E02ABA74B95CF3D12C91EB89A165A610F6A27EE26B10EFF25E354D1D8D993A5"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/camera/packed",
+            "hash": "717A40346CCAEF2EC4A8A88AFF131A297F4ED8AEE14A52309F8FDFC5F37E9172"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/effect/packed",
+            "hash": "3CF833286FDDE322A1659E2627265F39195EB11CC7D94B2A4F5893CFFEABAAD0"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/model/body/c00/packed",
+            "hash": "548B36E851251E5605BC82EF33DC886C90F4672C4E08636DA9BD4B5EA7AF31F0"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/model/body/c01/packed",
+            "hash": "FEAB05B6183BB54D2A57C773747EDBE3F03DA5817F08BF4751E9134B54F92C24"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/model/body/c02/packed",
+            "hash": "136BD2BEA416ECC38F0108AD2C4E350004A6DDD551409D308F458E689A01C263"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/model/body/c03/packed",
+            "hash": "7171A4E071425AF6ED6260F8DF4A255415C5A772FE94DE5745F24C6F2797A288"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/model/body/c04/packed",
+            "hash": "83EABADD960C4F0EC297A0AB14D37371516BC99CDF24F4A599CBE304D793D0B6"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/model/body/c05/packed",
+            "hash": "965920DFBBC5E039EAF3228E23BD221FB9CEF0107CC6BE855268512FF6B599DD"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/model/body/c06/packed",
+            "hash": "C5F08A945814033D2A9FB1CB2A6A1A4E679E8FF28A707080B799E97CA9FF3746"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/model/body/c07/packed",
+            "hash": "05DEFA0AFD7F9EC64041C7274948B6086C01A1A8FB78741373775DC2D1C7C46D"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/model/body/l00/packed",
+            "hash": "71D1902CAB80CFE287DA755507DC4AFDE66A65274144284EE441E60DCE37588B"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/model/body/l01/packed",
+            "hash": "0496705B1ABD9B442A4E53FC118F95FE96F58C3F1EA87D87A8404D16E7911ED8"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/model/body/l02/packed",
+            "hash": "4938C480B1D3E90031964A0D4FA6FB49B5024F4900E5A3F238BE75EDCB719A9F"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/model/body/l03/packed",
+            "hash": "24361EAF50F16AF09345BB22EB6BC2364267B602DA63BEF689A77A731B3661B4"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/model/body/l04/packed",
+            "hash": "97F312704A7617A9D6BCE6F50D2D542CC4F6AB1B80E8BD61E031C3F1550B43B3"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/model/body/l05/packed",
+            "hash": "2B36758710A94F052689939567C216A8FFE816AAD3027C6FA7820C24D3417DD0"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/model/body/l06/packed",
+            "hash": "B8A9960E24A63C72D0AE51AA054A4A1F02D0AA8CEFD78A7974B4D0CDCD35D4AA"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/model/body/l07/packed",
+            "hash": "798428E7DBF7C15F9A7A28DEAABEC3C551E7C3E7C00881DAECFDFF941131577A"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/model/dragonhand/packed",
+            "hash": "643086A8A2306708F1FEA031AC9A969C4574CBD70584EFEBAAF0DE0D471335E5"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/model/spearhand/packed",
+            "hash": "7DAAF34B0F7BCD0B1BC3A8572F8B75FF8B1DF02621AD67FDA0F49F14371171B4"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/model/waterdragon/packed",
+            "hash": "EAD446E9A30CD84156715ACEA999192DE2A65C1D85AB64B73369E621BF3A4D4E"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/model/waterstream/packed",
+            "hash": "31EDA71B57E49B8558FD3A04311CFFC471D841CCFDD97818EF84A6746AA24062"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/motion/body/packed",
+            "hash": "0E32654316AE1D509AEF74ABA1C9134154259AB8ECA53A022A087D108E901B84"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/motion/bodyentry/packed",
+            "hash": "A30D2F48471EB7E6DCD284A879FF010C541492FC47FC74FBCEF50B18BC8F4D6F"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/motion/bodyresult/packed",
+            "hash": "14847E9B591230781394E751D6978E7D47C6D4722ECB10E64240211264A8C1B2"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/motion/bodyroutemap/packed",
+            "hash": "83B849D47A541589E5DD274FE3BBD6A5F4E7040D9F89486205E14BD32664B58B"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/motion/dragonhand/packed",
+            "hash": "46FF9D85A9B04A5F40AF460AFD3022CF7DAFA64F1320CBF85DA918B31A6F3141"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/motion/spearhand/packed",
+            "hash": "5CF72A49350523FAEDB124FCA06FBB70859F2E0BF91FD7A2289C36AE9854ADF9"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/motion/waterdragon/packed",
+            "hash": "4DFC94EEAAF15A972B3F53550CDB76DB7E2D085232AAAF30E6B95EF66DED5B4B"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/motion/waterstream/packed",
+            "hash": "CDD848641A7265F5B3135DCDD9DC3500B37F4606AD916EBB6866CC9A914AC72F"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/script/packed",
+            "hash": "0B4D719B3C2B614FE00E500F57B0D3FCF63784611CF0B26D91CA1DC858F70035"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/sound/snd_se_Kamui.nus3bank",
+            "hash": "2C3415AB1478BD3BFAB92C07CA16DBF13DC1B49C711739DED3898C4C748425FF"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/sound/snd_se_Kamui_common.nus3bank",
+            "hash": "68B1D79D3FD832B040E12F021A1AEAC6A6A064DE94EE9CED1334454947740020"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/sound/snd_se_vc_Kirby_copy_Kamui.nus3bank",
+            "hash": "B7F029D8CC4E62B5EE8866582A0E6C689C3B9A38743E9C0C93210C35DA49D523"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/sound/snd_vc_Kamui.nus3bank",
+            "hash": "276405E1664825B414FDF77DA8AC04EF6F28B1E6F619004552B6C5F619AB0443"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/sound/snd_vc_Kamui_c01.nus3bank",
+            "hash": "8DFFF4CAF7797045832F885681B9448715C550760F052AD16B973B365A61C7D2"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/sound/snd_vc_Kamui_ouen.nus3bank",
+            "hash": "29BE5F89EA163F449798273C9FD3DC1497213E7B1EAD747C3215E40621CEC515"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/sound/soundseq_Kamui.sqb",
+            "hash": "22031072E14E660F122561E00462FEC9A32A0799632AA894FD174E039E9F2B4B"
+        },
+        {
+            "file": "content/patch/data/fighter/kamui/sound/voiceanim_Kamui.vat",
+            "hash": "B8921497CC8D12BAF9B5DB7201393EEAA2BCFFAFE8630A23BF15E6C0780C4037"
+        },
+        {
+            "file": "content/patch/data/fighter/kirby/model/bayonettacap/packed",
+            "hash": "409702A86037484B46D145E35DA9BD2795CFED2E889144012D07C478C686BBAD"
+        },
+        {
+            "file": "content/patch/data/fighter/kirby/model/bayonettagunl/packed",
+            "hash": "0104873FDF7762D7075871D42EDB3A8B443C0D48F3C2073EDA65B10291DBF94C"
+        },
+        {
+            "file": "content/patch/data/fighter/kirby/model/bayonettagunr/packed",
+            "hash": "6232CE825C54BC1BCF3DFD5B01E41896A2A3C914BB44EB2886D9F919D66D0E47"
+        },
+        {
+            "file": "content/patch/data/fighter/kirby/model/body/c00/packed",
+            "hash": "4CF0522A976FE1DCD9A264539B20678A12F3029105E30EF4CC8FEB5A8C2159DF"
+        },
+        {
+            "file": "content/patch/data/fighter/kirby/model/body/c01/packed",
+            "hash": "015263A305C54AB6226AD72265F96F2019473BF7E91586FCAEC0A10A283FEF85"
+        },
+        {
+            "file": "content/patch/data/fighter/kirby/model/body/c02/packed",
+            "hash": "236AB475E30034164D21F2249A2BA8CDE97601DDF96C8B167611E4856A16460A"
+        },
+        {
+            "file": "content/patch/data/fighter/kirby/model/body/c03/packed",
+            "hash": "9761978923443744E055D3F0FDC7036655A9C4336FBC44E52646489D15D883B7"
+        },
+        {
+            "file": "content/patch/data/fighter/kirby/model/body/c04/packed",
+            "hash": "A89CB5CD744D5D3BEB1A336579A99E52604BFD85ACEF6A6D279D0725BA7D3353"
+        },
+        {
+            "file": "content/patch/data/fighter/kirby/model/body/c05/packed",
+            "hash": "33870B8B305AED2C1CEBA5934E99B2EB286D20B2BB4F8BBBEEA6F5E76100DA95"
+        },
+        {
+            "file": "content/patch/data/fighter/kirby/model/body/c06/packed",
+            "hash": "7F8E22BAA955C083DF7A1C11A2E7B43AC96C19E5AF059B8C24E6DB322D5379AD"
+        },
+        {
+            "file": "content/patch/data/fighter/kirby/model/body/c07/packed",
+            "hash": "25C11AE0C690B6A5B71A2DADC71EB5153D73BEA93A15FC0E0AF4D622D287382D"
+        },
+        {
+            "file": "content/patch/data/fighter/kirby/model/cloudcap/packed",
+            "hash": "E84CA76A1AC4C02D4C18D2C6A54A87DC7651084F7E40BCA2BA090B9A6DCE100B"
+        },
+        {
+            "file": "content/patch/data/fighter/kirby/model/cloudsword/packed",
+            "hash": "90A0CFE9783AD636BDBA5A8A19040BD2076196C112C46707331FDFF869DA0883"
+        },
+        {
+            "file": "content/patch/data/fighter/kirby/model/fitkirbydonkey/packed",
+            "hash": "DBD03358834782AC1F710287C7DF32EBB61E99065DDD8292897D48DD87509A38"
+        },
+        {
+            "file": "content/patch/data/fighter/kirby/model/fitkirbyfalco/packed",
+            "hash": "3340D27A376600340D4450CB1F045BDD60C2C6FFC8CD8812F90BB6C6F75EBF8D"
+        },
+        {
+            "file": "content/patch/data/fighter/kirby/model/fitkirbywiifit/packed",
+            "hash": "A9A9AB3E99EB21B366542D9974D633172D4AC48860862CAC71DBBCB293201970"
+        },
+        {
+            "file": "content/patch/data/fighter/kirby/model/kamuicap/packed",
+            "hash": "E674BB0CDA783ABABD0DE01FC371AF764AD2930169F334021F4775EA5C933DAD"
+        },
+        {
+            "file": "content/patch/data/fighter/kirby/model/lucascap/packed",
+            "hash": "B7A52E8BF4E57318D89B9CEC771DF600F48635A1F71CE0156CAA463CC0AEC2C8"
+        },
+        {
+            "file": "content/patch/data/fighter/kirby/model/mewtwocap/packed",
+            "hash": "A7AE590C92F4D6D21E2D2A9EBADA746DF434EE5BAA250D753274F43A60074EC3"
+        },
+        {
+            "file": "content/patch/data/fighter/kirby/model/roycap/packed",
+            "hash": "AE964AF8E41316CC23D5856FE8DEE3801A0C5D5128CF9C89DB9B7E4D3EEB0450"
+        },
+        {
+            "file": "content/patch/data/fighter/kirby/model/roysword/packed",
+            "hash": "D30523989A803804351AF23B07E5DD0FC5F0064506B30F135BDB6A7A5C90E25D"
+        },
+        {
+            "file": "content/patch/data/fighter/kirby/model/ryucap/packed",
+            "hash": "9381D29A99F813B414D8F9353403A409B860A7D1DB0ED13984406792791AB245"
+        },
+        {
+            "file": "content/patch/data/fighter/kirby/motion/bayonettabody/packed",
+            "hash": "638D4323C4704F240939BBF8F233E36699B9513E1A3E611737C0B45785A462AE"
+        },
+        {
+            "file": "content/patch/data/fighter/kirby/motion/cloudbody/packed",
+            "hash": "0C9D8ADA67F9BE4A34E58BAC3DE298D2F9E90706A47E75A486D8A823254BB224"
+        },
+        {
+            "file": "content/patch/data/fighter/kirby/motion/cloudsword/packed",
+            "hash": "5DA749BF85DCAD534C7AAFEEFE79542CD660525D321A5C19818C2C26E3200520"
+        },
+        {
+            "file": "content/patch/data/fighter/kirby/motion/kamuibody/packed",
+            "hash": "566372DB6973ED96BC5270A631BA14F2D38E1768BCF13E32F7E4CBF79F9E8B81"
+        },
+        {
+            "file": "content/patch/data/fighter/kirby/motion/lucasbody/packed",
+            "hash": "36853779118F575CC84A8AC9400BFC1B4487D77BFF5B3AE307C7989586483001"
+        },
+        {
+            "file": "content/patch/data/fighter/kirby/motion/mewtwobody/packed",
+            "hash": "7A4D4B014119F76ECB48A84FB739EFEE41ED7BDD8CB3F2C883B5047B835B416C"
+        },
+        {
+            "file": "content/patch/data/fighter/kirby/motion/roybody/packed",
+            "hash": "1F67F4C3E86FE87589F7747DCB8071CF180E7008FB87C5EFC9070DB9359B2AF2"
+        },
+        {
+            "file": "content/patch/data/fighter/kirby/motion/ryubody/packed",
+            "hash": "53658E6891C05307A9B5841C4453B58DE2917DD0ED9D55B444A91186D2C2265B"
+        },
+        {
+            "file": "content/patch/data/fighter/kirby/script/packed",
+            "hash": "48A144A3B8C8283530717BD77D25017E4DCC07E2EAEB224FC5203F0096CCA010"
+        },
+        {
+            "file": "content/patch/data/fighter/koopa/script/packed",
+            "hash": "F9740FCF61E0ABDE04E91F3385D0321A2BCF6A9BEAE9B32FE6A6347BE61AE0B6"
+        },
+        {
+            "file": "content/patch/data/fighter/koopag/script/packed",
+            "hash": "148F1C2855880EE5EE9F16C2EAC0A62BC397F2E1125A97C87A10B1BBFDC9ADF6"
+        },
+        {
+            "file": "content/patch/data/fighter/koopajr/script/packed",
+            "hash": "31B47DEEC94C2E6D011A532C3A0CB01E2DFCFFD9233E2649126F9C7DADAC003C"
+        },
+        {
+            "file": "content/patch/data/fighter/koopajr/sound/soundseq_KoopaJr.sqb",
+            "hash": "86C6ABC8E6E1867F888B169568C052792930C138E5383B8DC1971F5A7705F1BE"
+        },
+        {
+            "file": "content/patch/data/fighter/link/script/packed",
+            "hash": "4E31721A9926CE933EE0B2B9146C6E0D91BD219AF91CB30C062030EB75E71EF3"
+        },
+        {
+            "file": "content/patch/data/fighter/link/sound/voiceanim_Link.vat",
+            "hash": "57C70182B60A4DC3EEB5D887E3DAEC5110DB025A0183E5A3D6ED373D5784FA66"
+        },
+        {
+            "file": "content/patch/data/fighter/littlemac/motion/body/packed",
+            "hash": "5B2425326F70518B341F2D8427382BD2363AAAF590B2B7DF694744AB30FF22C5"
+        },
+        {
+            "file": "content/patch/data/fighter/littlemac/script/packed",
+            "hash": "196B8B53A1D5303EE44B37EABEA4D0CE8184C8E6F4B489E4FC924860C294F925"
+        },
+        {
+            "file": "content/patch/data/fighter/littlemacg/script/packed",
+            "hash": "89DDE4D3F7CB187E95B7F47455A8620CF4C22D4AD5AF3B4C4BE31DF583A55943"
+        },
+        {
+            "file": "content/patch/data/fighter/lizardon/motion/body/packed",
+            "hash": "856868AA03F9FAB1C003920C7AFE087F7C72CE5C0323B0501F73BDE5AF9FC892"
+        },
+        {
+            "file": "content/patch/data/fighter/lizardon/script/packed",
+            "hash": "12160A63CAA981A3D408BC14B7A685591390C54CDF598681188BF6D7C64BDCDD"
+        },
+        {
+            "file": "content/patch/data/fighter/lucario/script/packed",
+            "hash": "FCAC0A0500E2D6E3EC573BB3F68C507E1E873D081700D1D0E0DAF3B291FD50D6"
+        },
+        {
+            "file": "content/patch/data/fighter/lucariom/script/packed",
+            "hash": "25B3BD9E36D709A8E299ABBC5BF57044FF11D21639D9802714BB28112D118C03"
+        },
+        {
+            "file": "content/patch/data/fighter/lucas/effect/packed",
+            "hash": "3E7DFE330C8C2E0F52797613FEC0820BAC0D64618EE1CD13A16D279374BED340"
+        },
+        {
+            "file": "content/patch/data/fighter/lucas/model/body/c00/packed",
+            "hash": "40694CC0BB5897F3D4FB72E2B6F016EB4D7C8354CDCE91BD15C336EC52383E62"
+        },
+        {
+            "file": "content/patch/data/fighter/lucas/model/body/c01/packed",
+            "hash": "5D1853D1CF1FFF23A94A1A23F8E553AEEEFA82AA68B6EEDCD110307693C09F89"
+        },
+        {
+            "file": "content/patch/data/fighter/lucas/model/body/c02/packed",
+            "hash": "956E4258DE8191E97D702BCA17E3A30F50D47150F60D3817ED9E42F5B02C4F0E"
+        },
+        {
+            "file": "content/patch/data/fighter/lucas/model/body/c03/packed",
+            "hash": "E20429342E4729EAFF30BA2A303F1BCD0131291D2A309EBC6AB3331D41D71B2C"
+        },
+        {
+            "file": "content/patch/data/fighter/lucas/model/body/c04/packed",
+            "hash": "7CF7C6D9574B4F580686A183F443D42EEF4E6F45357F3FBFA9008907A36E6481"
+        },
+        {
+            "file": "content/patch/data/fighter/lucas/model/body/c05/packed",
+            "hash": "3C402262B1CFFC9DC1620A8CB4E43E83C49D357F9A2A9376FA41D945358F391A"
+        },
+        {
+            "file": "content/patch/data/fighter/lucas/model/body/c06/packed",
+            "hash": "3A8635F8C0DFD635ABCCC0B08DA09EE7D491B42778B03D6A6BEBF0EB098E34A4"
+        },
+        {
+            "file": "content/patch/data/fighter/lucas/model/body/c07/packed",
+            "hash": "25E5DE6FCBAA87EF35834D0D926B4A290FDA3D9B96C7D870587449116E632F7B"
+        },
+        {
+            "file": "content/patch/data/fighter/lucas/model/body/l00/packed",
+            "hash": "61B5A2569EC6035289C60607EE0F07B5F84BDEF0A73C576B2A2730E6E9F4325A"
+        },
+        {
+            "file": "content/patch/data/fighter/lucas/model/body/l01/packed",
+            "hash": "B93EFD910F37CE1FF6C0CF879B5CCDE101093C30D18B68CBF9363E672A14D026"
+        },
+        {
+            "file": "content/patch/data/fighter/lucas/model/body/l02/packed",
+            "hash": "047BB5DC800A08343A785CFCF22D9F79101F38E43D189568251E8C63E154D340"
+        },
+        {
+            "file": "content/patch/data/fighter/lucas/model/body/l03/packed",
+            "hash": "9B0CF039BB53FED2F903090C23FB10FA7A69C669B4F3E8E8953E8567DAB08602"
+        },
+        {
+            "file": "content/patch/data/fighter/lucas/model/body/l04/packed",
+            "hash": "B349EDE72BB1ADEB1C63D8B2EC58422D8165E82D0ECB312A59690C649B19DDA8"
+        },
+        {
+            "file": "content/patch/data/fighter/lucas/model/body/l05/packed",
+            "hash": "D2CD6706FB1DE57B2099994C492DF3C80D2AA89FA1033FDCBABDC3E5C9346086"
+        },
+        {
+            "file": "content/patch/data/fighter/lucas/model/body/l06/packed",
+            "hash": "0F287D39B6F393DE3B7F73AA30B967E890F8C71E38FE434B319070DB8BE2EFCA"
+        },
+        {
+            "file": "content/patch/data/fighter/lucas/model/body/l07/packed",
+            "hash": "DFB362AB394E5DEA547CDF8CFA0CDD3EAFECFBEFEA8591EAAE552CBBD92B0D18"
+        },
+        {
+            "file": "content/patch/data/fighter/lucas/model/doseitable/c00/packed",
+            "hash": "1EAD8EBB32CC882E27A041B25A0F5E110276F639DA703360B89F0DE9EF00A16D"
+        },
+        {
+            "file": "content/patch/data/fighter/lucas/model/himohebi/c00/packed",
+            "hash": "59308B6DCDFADE50E81C79B4C6766E7F8993CCE3ABCFBBF8B5B9A16938D5E9E0"
+        },
+        {
+            "file": "content/patch/data/fighter/lucas/model/himohebireverse/c00/packed",
+            "hash": "0EFF70E7C147D38319659446C234BE6954BBE2C332D450C7A63C9D72102074EC"
+        },
+        {
+            "file": "content/patch/data/fighter/lucas/model/needle/c00/packed",
+            "hash": "9E122BC9E5AAFA424891F7BFB13F643A3893D1B37DB9259F7B40EB31005C74AC"
+        },
+        {
+            "file": "content/patch/data/fighter/lucas/motion/body/packed",
+            "hash": "4DC92D7F22F1107AD6737649FDB8B92FA7869F5EA809F7F2D6FC96BC52A32EF6"
+        },
+        {
+            "file": "content/patch/data/fighter/lucas/motion/bodyentry/packed",
+            "hash": "B893F3B28FA26E548090C0A71DEBE26FEE8A5E46B2377FAE60D9289FBF9969F5"
+        },
+        {
+            "file": "content/patch/data/fighter/lucas/motion/bodyresult/packed",
+            "hash": "47173DEA2C9899A208A5979EAEE2F4747C90636E5F3348221120116C916E76E9"
+        },
+        {
+            "file": "content/patch/data/fighter/lucas/motion/bodyroutemap/packed",
+            "hash": "1A768FEA9D8ABC63A0A04232AEF49BC521EB0E7284CA01DC0DB95EAAD4978B7D"
+        },
+        {
+            "file": "content/patch/data/fighter/lucas/motion/doseitable/packed",
+            "hash": "13452B48525752BF7FBD134910D688E1A923FFAB6CC567FC056F81AAEAB57F98"
+        },
+        {
+            "file": "content/patch/data/fighter/lucas/motion/himohebi/packed",
+            "hash": "47B299345ABEDDE8FA268EE4E89BFA56518508E2ABA1E3B72A3840B04EDD73F8"
+        },
+        {
+            "file": "content/patch/data/fighter/lucas/motion/needle/packed",
+            "hash": "DBCF522131C69334EE65D3F56DF8CB89FE10CB005A4FA1A71055892F9DA97EB4"
+        },
+        {
+            "file": "content/patch/data/fighter/lucas/script/packed",
+            "hash": "A8D39FDA120BFEA06165AD6353DD0B1AFF924F6739B6D85B06CE2CC1B12D3240"
+        },
+        {
+            "file": "content/patch/data/fighter/lucas/sound/snd_se_Lucas.nus3bank",
+            "hash": "204869CC625987FE6F8C5ADD159DD4071945F042E065A0C29EAE0961AE731FE5"
+        },
+        {
+            "file": "content/patch/data/fighter/lucas/sound/snd_se_vc_Kirby_copy_Lucas.nus3bank",
+            "hash": "AB866126235CE051C0DF13DB4EC8D69695FD81973BC85C5026272F7E4EC21EFB"
+        },
+        {
+            "file": "content/patch/data/fighter/lucas/sound/snd_vc_Lucas.nus3bank",
+            "hash": "D3FD8A8F8ADBCE15575AABA5B32DAC3CD7CDCAFCCB6C9CD83CD33C33E3A9B5DD"
+        },
+        {
+            "file": "content/patch/data/fighter/lucas/sound/snd_vc_Lucas_ouen.nus3bank",
+            "hash": "5F93FDF9129AC6AD4A2041009CD7554E2CB4CB31DC4ECE9A3155062C39DB42FE"
+        },
+        {
+            "file": "content/patch/data/fighter/lucas/sound/soundseq_Lucas.sqb",
+            "hash": "CB8468DFC1C0553137A6875FDB6C4C7AFC1AA7CD5557C49CEEE7DEC08CA0D286"
+        },
+        {
+            "file": "content/patch/data/fighter/lucas/sound/voiceanim_Lucas.vat",
+            "hash": "3054DB4BE8FB63A6596B6691208009F92202C11FCDC1609A7601027CCA39CDFA"
+        },
+        {
+            "file": "content/patch/data/fighter/lucina/script/packed",
+            "hash": "C93B3E28F50DFB79B3B30A2FF88B7A2140846715894F73861FDE4F75BD4A2FD0"
+        },
+        {
+            "file": "content/patch/data/fighter/lucina/sound/soundseq_Lucina.sqb",
+            "hash": "AB2C23EDB9A8EA6B76BA95726CCD9C39E96B4B36578FE7D2ADCC1F5ABD550C66"
+        },
+        {
+            "file": "content/patch/data/fighter/luigi/script/packed",
+            "hash": "79C01D6C69BAA654F54D700CE4D73C5DBF324CA5F7882F6456ED987F4A583EAF"
+        },
+        {
+            "file": "content/patch/data/fighter/mario/script/packed",
+            "hash": "C249442335930F08319F50C9FFE55B2B1E354237DF2ACF5E0EF131AD04333859"
+        },
+        {
+            "file": "content/patch/data/fighter/mariod/effect/packed",
+            "hash": "1DC68183A12D91499D7152A12B46DB83C239449E0B5AFB004D8A0129360252CE"
+        },
+        {
+            "file": "content/patch/data/fighter/mariod/script/packed",
+            "hash": "C069F91A8548AA1B792A12475A77AD33ABB96906CDFFC65E5FCD0527B590B80C"
+        },
+        {
+            "file": "content/patch/data/fighter/marth/script/packed",
+            "hash": "D4CCFA87A93E9E1DFCD6B19E177980D1A8885B7737A1D6FB9398ACD7BC50951B"
+        },
+        {
+            "file": "content/patch/data/fighter/metaknight/effect/packed",
+            "hash": "75D652CECD9F498DF162D94BD9329C853C04ED3ED50F8391739F438F609F76F6"
+        },
+        {
+            "file": "content/patch/data/fighter/metaknight/motion/body/packed",
+            "hash": "7847D2E33718DFE45A09A984EA211C20249241F33EB253A516A6DCC38127F23E"
+        },
+        {
+            "file": "content/patch/data/fighter/metaknight/script/packed",
+            "hash": "AD0054FF41B505AE4A1A81C60D989EA42D50CC181B11530AEB72BE2C66634A18"
+        },
+        {
+            "file": "content/patch/data/fighter/mewtwo/effect/packed",
+            "hash": "EFC0B0ADD955E7C3C5E2CEDCEEA09C4AE045935EA201E055CC40201C492F3838"
+        },
+        {
+            "file": "content/patch/data/fighter/mewtwo/model/body/c00/packed",
+            "hash": "25D4C1E2FAA9907F8DD2F925C4595D40D441585E17B84B2DC7A647A716E4D66B"
+        },
+        {
+            "file": "content/patch/data/fighter/mewtwo/model/body/c01/packed",
+            "hash": "2B5A4E9B267A37E0E62A293A41FF4EAD63E563D5B447367AB649A0AE4A2EB46C"
+        },
+        {
+            "file": "content/patch/data/fighter/mewtwo/model/body/c02/packed",
+            "hash": "8A46901C6530D4DE47002BE4B9603C2CEE3CC54EC1E1982B0ACBA2BB73063B32"
+        },
+        {
+            "file": "content/patch/data/fighter/mewtwo/model/body/c03/packed",
+            "hash": "B994919BE2680154938683769495489B53F828E449B7FC8EABE8F934A4CD32DA"
+        },
+        {
+            "file": "content/patch/data/fighter/mewtwo/model/body/c04/packed",
+            "hash": "294F33E98D9588E5B4B9B216F4B7301F78D6C79C69F7C588EB86176C7A3F217E"
+        },
+        {
+            "file": "content/patch/data/fighter/mewtwo/model/body/c05/packed",
+            "hash": "6D7A0FCC275DEA59102C5660177738AD35960F27E470DD0B8C050AD03D9EA311"
+        },
+        {
+            "file": "content/patch/data/fighter/mewtwo/model/body/c06/packed",
+            "hash": "6167F1C192E5331DB765939F39EA5FF3ADBA0B727C10024DD62A3557ADDF7452"
+        },
+        {
+            "file": "content/patch/data/fighter/mewtwo/model/body/c07/packed",
+            "hash": "34D3AB53F862E8F46C26864F2468C9840800B61C170B8C63F9B6C918BF015AC1"
+        },
+        {
+            "file": "content/patch/data/fighter/mewtwo/model/mewtwom/c00/packed",
+            "hash": "738633AB0EB526CB319F633ED703D2B28BF0F277C0CB147A8B17C9EBEB56E30B"
+        },
+        {
+            "file": "content/patch/data/fighter/mewtwo/motion/body/packed",
+            "hash": "CBE2FB85FEC0A40FFDFE31A6386266F9551785AC9D7F383E44882753A191EF7C"
+        },
+        {
+            "file": "content/patch/data/fighter/mewtwo/motion/bodyentry/packed",
+            "hash": "32E18D5972866DDE3EEC12ABFC83DC7354729175B88698ED3F4285D2173CFD9D"
+        },
+        {
+            "file": "content/patch/data/fighter/mewtwo/motion/bodyresult/packed",
+            "hash": "515A0F36A0334F386C3F49BAC7703D5E820952BEC76CBE310D9FB853DD10EC47"
+        },
+        {
+            "file": "content/patch/data/fighter/mewtwo/motion/bodyroutemap/packed",
+            "hash": "841BE8DDE7E15CF2EF30E61356B011EEA00B258421C395E447F3C36F60AC7A45"
+        },
+        {
+            "file": "content/patch/data/fighter/mewtwo/motion/mewtwom/packed",
+            "hash": "3BC38DFCB28F724F9EB85600EB1F8A311EFEF1FF9D5516857A3429F3ECA751FB"
+        },
+        {
+            "file": "content/patch/data/fighter/mewtwo/script/packed",
+            "hash": "B3979119C32172F5C7DC6362138F94313BE34E1F6B8ECE72CBE31486C2CED7F3"
+        },
+        {
+            "file": "content/patch/data/fighter/mewtwo/sound/snd_se_Mewtwo.nus3bank",
+            "hash": "1881FA47FF3BFCDD3E36FBEF6AFDF7BDE019F80B2072E872B3CB7B13096CB7EB"
+        },
+        {
+            "file": "content/patch/data/fighter/mewtwo/sound/snd_se_vc_Kirby_copy_Mewtwo.nus3bank",
+            "hash": "7B12ABDF40A2BF377CA0409C19794096343D5B150280541E683DAEC4C526A32F"
+        },
+        {
+            "file": "content/patch/data/fighter/mewtwo/sound/snd_vc_Mewtwo.nus3bank",
+            "hash": "462BA8A5A239471C7E6DFD7652CC0B2C8B4D08E8DF8CD757C27B4CB31AA951D7"
+        },
+        {
+            "file": "content/patch/data/fighter/mewtwo/sound/snd_vc_Mewtwo_ouen.nus3bank",
+            "hash": "90D427C3733ACE1B313F3210B8CBF78FE079556B7ADCC79E8C7BEB0439173053"
+        },
+        {
+            "file": "content/patch/data/fighter/mewtwo/sound/soundseq_Mewtwo.sqb",
+            "hash": "3D06F14CADA0A11F4CF8CFC3C06990C091F3EF832EFAF33877987CFF054B4BA7"
+        },
+        {
+            "file": "content/patch/data/fighter/mewtwo/sound/voiceanim_Mewtwo.vat",
+            "hash": "AF6830F64A5B5BC9BE29E7D798D879B9B51C097C13691BF39E3E35FB029F3BE8"
+        },
+        {
+            "file": "content/patch/data/fighter/miienemyf/script/packed",
+            "hash": "5BDD9BB2A0DCB9CAEEB8271E03815E4C1D38A253C104A8661C234931185814E0"
+        },
+        {
+            "file": "content/patch/data/fighter/miienemyg/script/packed",
+            "hash": "21ADAC8510D61179E920365F58D97032C3AE54559318355842B69B2C28D9FEC3"
+        },
+        {
+            "file": "content/patch/data/fighter/miienemys/script/packed",
+            "hash": "3353CED51D3F82DD9692C015DD7FBF7BE4CD60C4342357BDE9A4F4A9614BAC1C"
+        },
+        {
+            "file": "content/patch/data/fighter/miifighter/model/body/c04/packed",
+            "hash": "A8BBF6C3D89A7006CD64A39A22F6F0E76288849909AB35AE4FED940D38D2706C"
+        },
+        {
+            "file": "content/patch/data/fighter/miifighter/model/body/c14/packed",
+            "hash": "1E31409850E87B27B17CD28E281074B5A4D8AC333BCBAE7E43DDFE82B2CEACE5"
+        },
+        {
+            "file": "content/patch/data/fighter/miifighter/model/body/c15/packed",
+            "hash": "CF3E179B4FC1825B9C983DDE48DF5E37CDA92B0587133C2BE506700FB84F8844"
+        },
+        {
+            "file": "content/patch/data/fighter/miifighter/model/body/c16/packed",
+            "hash": "68AFDC089FDAB65FA5D07A57C2024AD21D6D66A287D779A8052966B56A00AA3A"
+        },
+        {
+            "file": "content/patch/data/fighter/miifighter/model/body/c17/packed",
+            "hash": "15FF4814B8FEEE13F79FC358A2E95CA2C7BA1C534FB0188651B088161051B5E2"
+        },
+        {
+            "file": "content/patch/data/fighter/miifighter/model/body/c18/packed",
+            "hash": "728BAB2CECB46231DDF11A47CE5F6AC96E3AD4F65CAF9477A65997A50526CB04"
+        },
+        {
+            "file": "content/patch/data/fighter/miifighter/model/body/c19/packed",
+            "hash": "53845BC6071A0047CA8612624D80BD327BDE9F1015B2AF16489CCFB3822838B4"
+        },
+        {
+            "file": "content/patch/data/fighter/miifighter/model/body/c20/packed",
+            "hash": "4C9D6884646D570EFF18529458BA0A61AFF6098F903337223FBAEC50E18FBFC8"
+        },
+        {
+            "file": "content/patch/data/fighter/miifighter/model/body/c22/packed",
+            "hash": "6ABA91905F56FF867447081387F4C2941E1B42DB139DF6B7EFBD323B67F7A515"
+        },
+        {
+            "file": "content/patch/data/fighter/miifighter/model/body/c24/packed",
+            "hash": "62C1ABE0478D80EA6DDAFF958208D281508E9AB1453E91E2E05BCFF3FC6FF7AA"
+        },
+        {
+            "file": "content/patch/data/fighter/miifighter/model/body/c26/packed",
+            "hash": "E4E5171130B5C82E3A9D4A98420366887539354A21C79F2E0D6527A8017DF7B5"
+        },
+        {
+            "file": "content/patch/data/fighter/miifighter/model/body/c28/packed",
+            "hash": "0B448CBF6AD60E1FCE49ADC0E003E878A7BB60723E4FC236644433794EE67237"
+        },
+        {
+            "file": "content/patch/data/fighter/miifighter/model/body/c30/packed",
+            "hash": "A3558459F89EB9941D163A11DCA4405D57EB5B2AC36C131A9AFAB078AEBD1010"
+        },
+        {
+            "file": "content/patch/data/fighter/miifighter/model/body/c31/packed",
+            "hash": "9F63D51F1B3C873BEC77D65EBB23C102EAFB14B8C70AD6EC32259207B724E855"
+        },
+        {
+            "file": "content/patch/data/fighter/miifighter/model/body/c32/packed",
+            "hash": "4C228075D8BA21872DF1189757B5F412429ECD33BAE0FBB7CA5903982EE8AEA1"
+        },
+        {
+            "file": "content/patch/data/fighter/miifighter/model/body/c34/packed",
+            "hash": "DAFA780613969BAD7FD8C7A3085E5C313E39C6234849EA1FE9515A9A88CA976E"
+        },
+        {
+            "file": "content/patch/data/fighter/miifighter/model/body/c36/packed",
+            "hash": "C9903AEB7A1F98D7F4E698DBAF122B32653566A34EBFCC2D6BF89BA44B726CD6"
+        },
+        {
+            "file": "content/patch/data/fighter/miifighter/model/body/c37/packed",
+            "hash": "7D22D0DBCDCE35695FBC556D67ED433D78DC367863749A4D1CDA7E2A81DC15E8"
+        },
+        {
+            "file": "content/patch/data/fighter/miifighter/model/body/c38/packed",
+            "hash": "B4590EF19403D7191BF9B2A63C7C2E1F029A47892C98930BFEE823480C015402"
+        },
+        {
+            "file": "content/patch/data/fighter/miifighter/model/body/c39/packed",
+            "hash": "7003D9EBCC560A56EAB78DFB8D6AAE70B48B806EC853A40715E210B8D7C90B38"
+        },
+        {
+            "file": "content/patch/data/fighter/miifighter/script/packed",
+            "hash": "4B8A456F6EA5A7F49DAEF9B2CCE6EE17555ED1337E5E64BA04982BE9A25BCB12"
+        },
+        {
+            "file": "content/patch/data/fighter/miigunner/effect/packed",
+            "hash": "9FB32F22528BCA0C66553A868750BAE81FCC780B7AD439946C131ACE802028CD"
+        },
+        {
+            "file": "content/patch/data/fighter/miigunner/model/body/c14/packed",
+            "hash": "55BCE4714EEF890A208659FCB9C8905756EF5E197FA78CCD46FF72EA4C2A1BCE"
+        },
+        {
+            "file": "content/patch/data/fighter/miigunner/model/body/c15/packed",
+            "hash": "34697F42A0717C0F500E50D77C55A52414AF530D8B5A95DEAA2CC7D2321A6985"
+        },
+        {
+            "file": "content/patch/data/fighter/miigunner/model/body/c16/packed",
+            "hash": "4931F00EF007553C9F5FDEE5D5FB07140C4AB3D715EDB922B8FC4DF6A24D2E01"
+        },
+        {
+            "file": "content/patch/data/fighter/miigunner/model/body/c17/packed",
+            "hash": "E081E3BA79C208EEF3B15A7562E7EC849AA26D0B91B78DD02E05485CA623CE52"
+        },
+        {
+            "file": "content/patch/data/fighter/miigunner/model/body/c19/packed",
+            "hash": "0F390A6B33B0D1BAF7DDE0E283834ADC8B442DC53B6CB4F8197659365E08443C"
+        },
+        {
+            "file": "content/patch/data/fighter/miigunner/model/body/c21/packed",
+            "hash": "4C6A31C1A2BCB2ED2A7734DB9C84F3F53C62DAD3D490AE6EE6759E7459964CE5"
+        },
+        {
+            "file": "content/patch/data/fighter/miigunner/model/body/c23/packed",
+            "hash": "0DFAD0F14AD273E6396A112A7D20E83B7DC69B19B63416A7595661936E31E1E2"
+        },
+        {
+            "file": "content/patch/data/fighter/miigunner/model/body/c25/packed",
+            "hash": "0037770EBC4BAB85CCA01FAA8876589AF37B715D52A1702ED06B0123D439F6CD"
+        },
+        {
+            "file": "content/patch/data/fighter/miigunner/model/body/c26/packed",
+            "hash": "AC8522D06A4DFE8EC6325841384E4D578A36A92C09001F0BA722C1E5B35012A5"
+        },
+        {
+            "file": "content/patch/data/fighter/miigunner/model/body/c27/packed",
+            "hash": "600A27E719B3B4BFE37373D18E84803033E15300A664CBB7CE255A343586409A"
+        },
+        {
+            "file": "content/patch/data/fighter/miigunner/model/body/c28/packed",
+            "hash": "F4EA9F5F9E754375EF9804056479AB5EC66FD06DFD9F2B708A3F75B783E4D69B"
+        },
+        {
+            "file": "content/patch/data/fighter/miigunner/model/body/c29/packed",
+            "hash": "AA7C6AE6901D0DFB9B3E588A9F0292C1930432996812CE1BF78C81D16C2ECD49"
+        },
+        {
+            "file": "content/patch/data/fighter/miigunner/model/body/c31/packed",
+            "hash": "0369B14A6CBA6260C1A0B0690D6FA0047C1817FE17CA6192C6A93AD540FE3880"
+        },
+        {
+            "file": "content/patch/data/fighter/miigunner/model/body/c33/packed",
+            "hash": "83336353D6E594531EC1AB0016318C4C752A097E946532041AC821A3160291BF"
+        },
+        {
+            "file": "content/patch/data/fighter/miigunner/model/body/c37/packed",
+            "hash": "121701DCE89E92EC945553A784C54A17A3EF184397E0A968985F904FDC750CF7"
+        },
+        {
+            "file": "content/patch/data/fighter/miigunner/model/body/c38/packed",
+            "hash": "711C645765BF2AA9DBF12C34F6E277665342E8866F5F9F72ED529E231DDEAC91"
+        },
+        {
+            "file": "content/patch/data/fighter/miigunner/model/body/c39/packed",
+            "hash": "F3327A28658C368647ECAE47E5ECF335780956D36B5B8CB1141F191001CE3304"
+        },
+        {
+            "file": "content/patch/data/fighter/miigunner/model/body/c41/packed",
+            "hash": "D03EFE454C8D701C3BF7E7699CCAC882E3677057B3C90DEA39F4C4EC7CC2BB55"
+        },
+        {
+            "file": "content/patch/data/fighter/miigunner/script/packed",
+            "hash": "C8D8117F75A13A5FBE29C26A6688EA6E2D555FFA82DA6D14248CA6B64D006019"
+        },
+        {
+            "file": "content/patch/data/fighter/miiswordsman/effect/packed",
+            "hash": "6B9BA68975395634B9D83634940D216D6E8DC12D2DA496C0C298AC0061691613"
+        },
+        {
+            "file": "content/patch/data/fighter/miiswordsman/model/body/c10/packed",
+            "hash": "4AB22D0BA897399C89A5CA3E167AF9007A7D715150DAF7113DD812B0896AB6C7"
+        },
+        {
+            "file": "content/patch/data/fighter/miiswordsman/model/body/c11/packed",
+            "hash": "F069417542B365132CDA260C3DE49B48F9AC4008B94017096B318EA45DD639A5"
+        },
+        {
+            "file": "content/patch/data/fighter/miiswordsman/model/body/c12/packed",
+            "hash": "A0FC3DDCB0154B82C23B10CB1277F875CCF23214657C30E7C3727F82A89C914B"
+        },
+        {
+            "file": "content/patch/data/fighter/miiswordsman/model/body/c13/packed",
+            "hash": "24010F887FFB345F913FBD8959596A5FB3EFA7391C4658E4C659B5CD585C3FD7"
+        },
+        {
+            "file": "content/patch/data/fighter/miiswordsman/model/body/c14/packed",
+            "hash": "82CA535B897AA0C8546C3BDEE5BBFC0E057240A9EE9399F353E4E87CC4BFD794"
+        },
+        {
+            "file": "content/patch/data/fighter/miiswordsman/model/body/c15/packed",
+            "hash": "8937D32C80C3E2167E11DD937AD3A442359C7AD08F1622F842FF28002013C429"
+        },
+        {
+            "file": "content/patch/data/fighter/miiswordsman/model/body/c16/packed",
+            "hash": "B1657E104F9501878E2C9614121BA43028ADD1C017A4C236DF010CAE5960ED6E"
+        },
+        {
+            "file": "content/patch/data/fighter/miiswordsman/model/body/c18/packed",
+            "hash": "F9EA7234C4669074903CBDD2A28FAE6AB248A72CC11530366EBCAA41F7DE8B5C"
+        },
+        {
+            "file": "content/patch/data/fighter/miiswordsman/model/body/c20/packed",
+            "hash": "D8AB57B5114061A508BE82FA546E78D7F45760D3003BB519B90F7FF102E23AB3"
+        },
+        {
+            "file": "content/patch/data/fighter/miiswordsman/model/body/c22/packed",
+            "hash": "B8E7A1513C3CBC9ABED8BBA430A0C582CCDA17EB55872FC56C99CA0C555FA160"
+        },
+        {
+            "file": "content/patch/data/fighter/miiswordsman/model/body/c24/packed",
+            "hash": "A132408AB3B6DBE4BBC4BBE3B2D5855D3D52036E439078D18416822D162AB4D2"
+        },
+        {
+            "file": "content/patch/data/fighter/miiswordsman/model/body/c25/packed",
+            "hash": "5326AC404B2B406FF5F2119FDB9B4AB4DF384B0849B1B80192DD605D19C5733E"
+        },
+        {
+            "file": "content/patch/data/fighter/miiswordsman/model/body/c26/packed",
+            "hash": "872B69073F3130F3B3B52242E0FB7FE1B99E116DC97B2311E318B1588428320F"
+        },
+        {
+            "file": "content/patch/data/fighter/miiswordsman/model/body/c28/packed",
+            "hash": "AB76CB46ED6B99E16E87D768757CA5DB62CE920AB60336D97F6C1ADABC22B343"
+        },
+        {
+            "file": "content/patch/data/fighter/miiswordsman/model/body/c29/packed",
+            "hash": "E21A9B1053BDA35159246017A57F569908A6A6217BB5553CD04322F5BA2FBF0F"
+        },
+        {
+            "file": "content/patch/data/fighter/miiswordsman/model/body/c31/packed",
+            "hash": "CFED2D440ED92C1E1E9E0E2F850C6E7F9B51EF820DE249951C9B4A61F5955E44"
+        },
+        {
+            "file": "content/patch/data/fighter/miiswordsman/model/body/c33/packed",
+            "hash": "C42CA9ED9D2F7627027D1CC497AF61DDE41EF2C8E437B1D70DFAAE9946DD8A40"
+        },
+        {
+            "file": "content/patch/data/fighter/miiswordsman/model/body/c35/packed",
+            "hash": "BAC2B015E8CDDFFBDC8EB81FB1D1BBA723915AC08E15FF11AF1D7C17AFC97D1E"
+        },
+        {
+            "file": "content/patch/data/fighter/miiswordsman/model/body/c36/packed",
+            "hash": "6CF1E8C20FFFB5E2CB65E3B2612AC5EC19A2F7B9D68D61F9232DEAFD811BDF91"
+        },
+        {
+            "file": "content/patch/data/fighter/miiswordsman/model/body/c37/packed",
+            "hash": "498BD9C86EE0FBBA6F424E743D3602A2902AE75E8BF7703F11020EEB016E7DF9"
+        },
+        {
+            "file": "content/patch/data/fighter/miiswordsman/model/body/c38/packed",
+            "hash": "C09AA9E944916E7151EC6570EC7F2B9130F2EC21648B1AD9AE2744E456C2852A"
+        },
+        {
+            "file": "content/patch/data/fighter/miiswordsman/model/body/c40/packed",
+            "hash": "68912BFEA81873F2FB9A53758B7AE9D141E242C85530F0BF07692943AE7AF9CE"
+        },
+        {
+            "file": "content/patch/data/fighter/miiswordsman/model/body/c41/packed",
+            "hash": "3A3E892D286AC8CEE31A804745FB4812813B724F8F29CB09D5FC12D6A4C1F46C"
+        },
+        {
+            "file": "content/patch/data/fighter/miiswordsman/model/body/c42/packed",
+            "hash": "39EE996ACEA5142BF078905938A97FACF1E48F3515155D6DEF61542253CEEB74"
+        },
+        {
+            "file": "content/patch/data/fighter/miiswordsman/model/body/c43/packed",
+            "hash": "19749C9EA43816707F91B00E7DF79BFAD8C4160D727ECE3AA4C36594EC61446B"
+        },
+        {
+            "file": "content/patch/data/fighter/miiswordsman/script/packed",
+            "hash": "FAF2D44F8EA5789861AEFF48ADBA65E57C7779F043F6CC62E7F028D8A82B2434"
+        },
+        {
+            "file": "content/patch/data/fighter/murabito/script/packed",
+            "hash": "2384619E2DDF76906B33990C61A04A162988A6AE6357E3CBBFD1EBDD9E38FE00"
+        },
+        {
+            "file": "content/patch/data/fighter/ness/script/packed",
+            "hash": "5BAB0AF0B28E072ABE3277ADC94DE984762BD2BF9115FA27E90105E0958D9124"
+        },
+        {
+            "file": "content/patch/data/fighter/pacman/motion/body/packed",
+            "hash": "860BB6AB40254420F8CDE26B875429D2833403AF9F82E38B94E624035F49AE3B"
+        },
+        {
+            "file": "content/patch/data/fighter/pacman/script/packed",
+            "hash": "D07A9841C14DFEAAF7923622CCF5E89FE5AB6399808804420AE3BD66A0DF67A2"
+        },
+        {
+            "file": "content/patch/data/fighter/palutena/script/packed",
+            "hash": "92139204C9D32D470EC98E6C49259328BA0452E2F207D8DA44762CDB4162AE82"
+        },
+        {
+            "file": "content/patch/data/fighter/peach/script/packed",
+            "hash": "506FDA07327CA15F3A41170F012DD89D6F4C8E5A757DDCE3F0B23AD93A4E0CD1"
+        },
+        {
+            "file": "content/patch/data/fighter/pikachu/script/packed",
+            "hash": "EDB69699E2BEA123B1211F91D9E7BB5C206616A944903C2EC97E1AB7E2B7B25A"
+        },
+        {
+            "file": "content/patch/data/fighter/pikmin/script/packed",
+            "hash": "6FA4247717241AF0C7AA433C52CAB596426CE0899B262C8DDD99640D8E4DD9D3"
+        },
+        {
+            "file": "content/patch/data/fighter/pit/model/body/c00/packed",
+            "hash": "2BAD681F9E68A622CB65CCFD50A0E0F2475F8BB6197F22C701DB0386A118EBF7"
+        },
+        {
+            "file": "content/patch/data/fighter/pit/model/body/c01/packed",
+            "hash": "6623A1EBC8B05303A723C66ABA7488E56708E0132DA85E29CEC12264A3D2D59D"
+        },
+        {
+            "file": "content/patch/data/fighter/pit/model/body/c02/packed",
+            "hash": "A2EEEB1A427C742AF92CDF6CA59AE15BD76169102ED82F134067077297E57757"
+        },
+        {
+            "file": "content/patch/data/fighter/pit/model/body/c03/packed",
+            "hash": "23E4006EA37B38BC49A95B02A9B3F8DC0EE0DA024DBFC59C2A697B402CEC8C1F"
+        },
+        {
+            "file": "content/patch/data/fighter/pit/model/body/c04/packed",
+            "hash": "CF4E748EB9C497A514F00DCD126A708668E5103F8E578A43DC7433FA24EE860E"
+        },
+        {
+            "file": "content/patch/data/fighter/pit/model/body/c05/packed",
+            "hash": "FEDC44AF8A1D7923596907B767E2242C09FF6B0CA389BE3AC63DD64B91721C73"
+        },
+        {
+            "file": "content/patch/data/fighter/pit/model/body/c06/packed",
+            "hash": "E727C02F17D27A273E2EAF4989CA9F036ABE39318C232B3FCF316E503687AAE4"
+        },
+        {
+            "file": "content/patch/data/fighter/pit/model/body/c07/packed",
+            "hash": "6163BFD9FDFBB06A6FCC59DB5D09A8B28E7342BA8C12212CD4AA299825033D0E"
+        },
+        {
+            "file": "content/patch/data/fighter/pit/model/body/l00/packed",
+            "hash": "B09B7732550B706F58A1080902FD32AA71D9C52D6F8DE6FE45A932B89A484352"
+        },
+        {
+            "file": "content/patch/data/fighter/pit/model/body/l01/packed",
+            "hash": "D1E3A57F38FB98CA5625DAF2A2E4474C11C5840740E310D4EB7FEDDD93F52C8F"
+        },
+        {
+            "file": "content/patch/data/fighter/pit/model/body/l02/packed",
+            "hash": "08AA7124A431E0DBA49C81C0511C42D48B541DCFED76BC36B3A70752F26A0366"
+        },
+        {
+            "file": "content/patch/data/fighter/pit/model/body/l03/packed",
+            "hash": "0D97E1B7F0C897955F3769DDDDF3C2E3AE255068F4CC7E895178BF8EDAB3BD13"
+        },
+        {
+            "file": "content/patch/data/fighter/pit/model/body/l04/packed",
+            "hash": "6C46F8C708C2A2F92818BB579DB49BFDA5A8B25C9A946790EB2295C168FB9D75"
+        },
+        {
+            "file": "content/patch/data/fighter/pit/model/body/l05/packed",
+            "hash": "C1CC0C584DFD8CE767F09BFB7CF355A5E3E07A183224948A1DB65AFA465E3B7D"
+        },
+        {
+            "file": "content/patch/data/fighter/pit/model/body/l06/packed",
+            "hash": "FB246BB2149ACF24C9AE232FBC078539C26BB9F174677B2B42C81BF8EE39D839"
+        },
+        {
+            "file": "content/patch/data/fighter/pit/model/body/l07/packed",
+            "hash": "60C85B5A78576C80FBB52A92E81C50449AC79E14716DA7AD9EF82674628358F0"
+        },
+        {
+            "file": "content/patch/data/fighter/pit/script/packed",
+            "hash": "9102E04087970AE43C5839DAA81421BC0A843A0DF4B00F9F9FBF72D53A7B966E"
+        },
+        {
+            "file": "content/patch/data/fighter/pitb/effect/packed",
+            "hash": "25991885B54A9859E396B7F5BF837F357C2B35FEE00C55F1988C71F2C9FAD000"
+        },
+        {
+            "file": "content/patch/data/fighter/pitb/script/packed",
+            "hash": "3AB98D7CE39AE948B41270161FB685AFF222F9F7121B5DA39D94E166B1D88974"
+        },
+        {
+            "file": "content/patch/data/fighter/purin/script/packed",
+            "hash": "5441DD49C946334F5ABA4AD1AD8734D727FA1A25940896E098EAA5CB4E3B1427"
+        },
+        {
+            "file": "content/patch/data/fighter/reflet/model/body/c00/packed",
+            "hash": "3FE1C9E885050DF0584A31D7383502418B9F0817F641EE339BF5D6BDCA1C918D"
+        },
+        {
+            "file": "content/patch/data/fighter/reflet/model/body/c01/packed",
+            "hash": "8DA8261C1FAC7208EBAC11F3845E58C001741401AB5EC165361EA37BD396BC81"
+        },
+        {
+            "file": "content/patch/data/fighter/reflet/model/body/c02/packed",
+            "hash": "14004FB7780B0C4C87710FA3939B8D4BF50AFC9962830BE6739AC8D3356640DC"
+        },
+        {
+            "file": "content/patch/data/fighter/reflet/model/body/c03/packed",
+            "hash": "D3623B215D2FEBAA6762C2275B59C60C0A69F002063938B745DC6B64C10AA66B"
+        },
+        {
+            "file": "content/patch/data/fighter/reflet/model/body/c04/packed",
+            "hash": "0AB676A0AEE9822B0CA3DB3B6014094ABBF88B7C5C2122649C0E05E6A08AEC25"
+        },
+        {
+            "file": "content/patch/data/fighter/reflet/model/body/c05/packed",
+            "hash": "E66E6B2D0B2D1596BC725416F00269E4603D530680BB20CD32CC496309A4400A"
+        },
+        {
+            "file": "content/patch/data/fighter/reflet/model/body/c06/packed",
+            "hash": "64866629267268F542D81E2A14E827CBFB860EDD96518100BF3A129D47967EBE"
+        },
+        {
+            "file": "content/patch/data/fighter/reflet/model/body/c07/packed",
+            "hash": "6B3066FEA84908C605F30D3EAE6811AB2E69EBECA5575A9B9A7CB19F3CCBB7CA"
+        },
+        {
+            "file": "content/patch/data/fighter/reflet/model/body/l00/packed",
+            "hash": "0C90CA024672731B8B6F44691655B9DDE25B5CE1CAD201A9F51EAF6044EBB94C"
+        },
+        {
+            "file": "content/patch/data/fighter/reflet/model/body/l01/packed",
+            "hash": "C5DA866885DEFB547DFF4BD6DE7595C8C1EF329E0C57840B3C95FCD57934881D"
+        },
+        {
+            "file": "content/patch/data/fighter/reflet/model/body/l02/packed",
+            "hash": "99B3D95ECBBC11257D17A0459F5787B27EADFD279D89529EB166D0C6CD68654C"
+        },
+        {
+            "file": "content/patch/data/fighter/reflet/model/body/l03/packed",
+            "hash": "9B98BEC3D7C2EA815DECDB4B8D46244D456FAE979E2990756D0BC8A7CDF4D8AC"
+        },
+        {
+            "file": "content/patch/data/fighter/reflet/model/body/l04/packed",
+            "hash": "7C9ECBF160C18572311B792A33BA93E68C6DCB98E423FA5CB613366EB9AEB3F2"
+        },
+        {
+            "file": "content/patch/data/fighter/reflet/model/body/l05/packed",
+            "hash": "8A498A27B5E8CD7D65AA2622AD1A8358565A1A2DAA7DFD5CF9D8B5C01A92464B"
+        },
+        {
+            "file": "content/patch/data/fighter/reflet/model/body/l06/packed",
+            "hash": "3DBBC2BFF29255462D322211E204EC98FC0CDB31D72BA7D53B9533B16041357A"
+        },
+        {
+            "file": "content/patch/data/fighter/reflet/model/body/l07/packed",
+            "hash": "B9627EC3DD4E494992A51E3B34F19B2EE5B185629827D05206F56235AAD2EBF6"
+        },
+        {
+            "file": "content/patch/data/fighter/reflet/script/packed",
+            "hash": "DB4393DEAA6F2701886E196F6070356FC310DFD9AB71F5ABA4D9C1CA27662818"
+        },
+        {
+            "file": "content/patch/data/fighter/robot/script/packed",
+            "hash": "AD5752EF6392943B86096FA756ECF22F36493F44C45026D44FC53C0A8DD41D70"
+        },
+        {
+            "file": "content/patch/data/fighter/rockman/script/packed",
+            "hash": "F5C5CC342FDAC3EDCACEDC4131CC42DF6A9446BF3DD5FD2886CFF46F35DBF900"
+        },
+        {
+            "file": "content/patch/data/fighter/rosetta/script/packed",
+            "hash": "07B49B4FCAEFA6C0A8E09C717E973C5F3F251E634B92B403EE93FE4B81430172"
+        },
+        {
+            "file": "content/patch/data/fighter/roy/effect/packed",
+            "hash": "E25124D1E50FC8C94CE1A8D72CFB2943174B4FADF75D37E627FED495F86F5524"
+        },
+        {
+            "file": "content/patch/data/fighter/roy/model/body/c00/packed",
+            "hash": "403EFFCE401AE163F6669B35EEFE7D8B6DA359D9AC87787338504C6BBBEC1279"
+        },
+        {
+            "file": "content/patch/data/fighter/roy/model/body/c01/packed",
+            "hash": "6B4D437EFC31B8016B449DE32C56B9EBE06B02D693132A8C8857F005D76EB4BB"
+        },
+        {
+            "file": "content/patch/data/fighter/roy/model/body/c02/packed",
+            "hash": "FA5D1C52D4BA6429DC51571B4CE98CF5DF12F025BC6CD365EC05D0E14F0BE883"
+        },
+        {
+            "file": "content/patch/data/fighter/roy/model/body/c03/packed",
+            "hash": "571B6523DA7415297BBD40F13D070A86146DDB3C2AFEFED7E5A1A294BB57CE0D"
+        },
+        {
+            "file": "content/patch/data/fighter/roy/model/body/c04/packed",
+            "hash": "EFF725F440EC22012C3F628F2C9FC2F9B35AB1C2A7040E5DAB81E0BE0B70A8E7"
+        },
+        {
+            "file": "content/patch/data/fighter/roy/model/body/c05/packed",
+            "hash": "79B9345C153F0F764E542F740934B902566B715CFED98EDD1B38B9A2C35208B8"
+        },
+        {
+            "file": "content/patch/data/fighter/roy/model/body/c06/packed",
+            "hash": "4F3F2B33E737803AF26EA21E7F3D658739255E73FAE893C7A93048E34B464DAF"
+        },
+        {
+            "file": "content/patch/data/fighter/roy/model/body/c07/packed",
+            "hash": "D1BBFB12B6E80A965AC218D3A8809136318DFC055178FE5A64AECB60FEA14DD1"
+        },
+        {
+            "file": "content/patch/data/fighter/roy/model/body/c08/packed",
+            "hash": "39EFD2AD5672290E31F973496DEF50315071DE96B28FF1C485FEA0B31EBE10A1"
+        },
+        {
+            "file": "content/patch/data/fighter/roy/model/body/l00/packed",
+            "hash": "4269CAB5E19BF02EE2239156C96493CCF3671D7EF9D1BD2809C4B71C746095ED"
+        },
+        {
+            "file": "content/patch/data/fighter/roy/model/body/l01/packed",
+            "hash": "2B28B7FC2B5D893DF4D8CAAB072AF660C4A4EA4DF927C2D08A7E1F72D7F315AB"
+        },
+        {
+            "file": "content/patch/data/fighter/roy/model/body/l02/packed",
+            "hash": "7499C594A7EED3FAC44B053904B47A53A510306157A8B5C6565235592E1D407C"
+        },
+        {
+            "file": "content/patch/data/fighter/roy/model/body/l03/packed",
+            "hash": "61A084A9AA4FD6557D9C8D7EC1DF47039DA60E27ED0573879DCD341B3A9F5188"
+        },
+        {
+            "file": "content/patch/data/fighter/roy/model/body/l04/packed",
+            "hash": "D9388D90C25B9E5781B621FC0BB3E950D3549F1BD0E3FFE9705E964118AFC688"
+        },
+        {
+            "file": "content/patch/data/fighter/roy/model/body/l05/packed",
+            "hash": "10E68CDBAFFE94740C49A1A1C18D6E1852AEA4E8357BFB190649BAEFAA981245"
+        },
+        {
+            "file": "content/patch/data/fighter/roy/model/body/l06/packed",
+            "hash": "86BDA1AC83A350A844DEB02D7DA1B60123B3DB6ABC581A25B9E3B266D289B923"
+        },
+        {
+            "file": "content/patch/data/fighter/roy/model/body/l07/packed",
+            "hash": "DE45DC24CD961D57B91D60BEA9091F64949B10379C511D0F031E2EF17F22A78F"
+        },
+        {
+            "file": "content/patch/data/fighter/roy/model/roysword/packed",
+            "hash": "A68F6768E8581BF9CF3B4A0B6D3859D73CA5EA055AEB9B10A22B57A5ACE72FB9"
+        },
+        {
+            "file": "content/patch/data/fighter/roy/motion/body/packed",
+            "hash": "516450A5C23AB598FDE20CDDB99C3021DFE68CC777EB78C6FF74FC52D898F0F7"
+        },
+        {
+            "file": "content/patch/data/fighter/roy/motion/bodyentry/packed",
+            "hash": "FEE44E3377538EC8823015CA8DED4381DE87F5D3E2F7241E0BAAEB6934937258"
+        },
+        {
+            "file": "content/patch/data/fighter/roy/motion/bodyresult/packed",
+            "hash": "0FB40E1AAE0629B1039FEADE4CF28C2F2C3C5B90DD2A131A89BF0C85CA7A7DC1"
+        },
+        {
+            "file": "content/patch/data/fighter/roy/motion/bodyroutemap/packed",
+            "hash": "03B07749667EA1C392EA0800F59F76A378EC4FF4B6E98ECCCA0A50ECB4C74093"
+        },
+        {
+            "file": "content/patch/data/fighter/roy/motion/roysword/packed",
+            "hash": "DE7B7395B1E946354F162745935D59DBE7570D3640BEC9D5ECBF9210D8DA358E"
+        },
+        {
+            "file": "content/patch/data/fighter/roy/script/packed",
+            "hash": "F4E5054DA0997714C0FA8A5DC301A35D62C6E017E495A8B5711A16F270CA28F8"
+        },
+        {
+            "file": "content/patch/data/fighter/roy/sound/snd_se_Roy.nus3bank",
+            "hash": "1FF5D1CC5D5A6527D1DD89693D76080C30F18BB64D8BC20E83CA457CB2FFFCEA"
+        },
+        {
+            "file": "content/patch/data/fighter/roy/sound/snd_se_vc_Kirby_copy_Roy.nus3bank",
+            "hash": "09DBFD84A284AD31C362539CD083D784B71615ED7D02A5A96A5C0A3132B497E9"
+        },
+        {
+            "file": "content/patch/data/fighter/roy/sound/snd_vc_Roy.nus3bank",
+            "hash": "FE3CC54F90A5898E2B64D04227190A1C0574251A34FDE0F74E08836A3672A02F"
+        },
+        {
+            "file": "content/patch/data/fighter/roy/sound/snd_vc_Roy_ouen.nus3bank",
+            "hash": "3129DF41788541BE8410C0F07B1A818F143DE9A38D10B5857F17005E86412F18"
+        },
+        {
+            "file": "content/patch/data/fighter/roy/sound/soundseq_Roy.sqb",
+            "hash": "95F5B5FFF0D1C980BBDCBD915C91343387E35E2C542494052B8E4F6375CEEA74"
+        },
+        {
+            "file": "content/patch/data/fighter/ryu/effect/packed",
+            "hash": "4C7EF934B98782B48B3A3FD591A4E3B06FB4DA9A4A4C86171E1135F5F81E53F3"
+        },
+        {
+            "file": "content/patch/data/fighter/ryu/model/body/c00/packed",
+            "hash": "5C22363DA6A234493E153734D5FB938ACCE7214C2A65135341020A3BEE8FADB0"
+        },
+        {
+            "file": "content/patch/data/fighter/ryu/model/body/c01/packed",
+            "hash": "56A89E94706792DB408B23B9D6F6DB097D1D29FA6F746310D19F04FA841844A1"
+        },
+        {
+            "file": "content/patch/data/fighter/ryu/model/body/c02/packed",
+            "hash": "BB4C690238229D9E66066AC5DA09EC82CE21401E7A455062A8BF3F4AB5DD5907"
+        },
+        {
+            "file": "content/patch/data/fighter/ryu/model/body/c03/packed",
+            "hash": "74B1BEDAFF66D49BF58180747E07DAF89703ACFB098413D781F911E4C6F0FDC5"
+        },
+        {
+            "file": "content/patch/data/fighter/ryu/model/body/c04/packed",
+            "hash": "A45345F3001BE0D5DEFF95B01E31551198CF1F4CEF8EEFEBEEA88AB8C8044E6F"
+        },
+        {
+            "file": "content/patch/data/fighter/ryu/model/body/c05/packed",
+            "hash": "91AF23306EF727EAE18BC434EDA7528AC864DFF16282902F5E41BB6723BA19AD"
+        },
+        {
+            "file": "content/patch/data/fighter/ryu/model/body/c06/packed",
+            "hash": "8086733550026F636CEC6CBC6E080EFB3CBCBDDC1D7D1A62E6DF011D6266DC8E"
+        },
+        {
+            "file": "content/patch/data/fighter/ryu/model/body/c07/packed",
+            "hash": "A4C77C2526F7FADBCC9FE250226B27F799416B161B7A18AAFF72CCD9B8D0493F"
+        },
+        {
+            "file": "content/patch/data/fighter/ryu/model/body/l00/packed",
+            "hash": "B710CDDACD4A2486FF998CC4D0D836C059CB4A6E1BAE3390D80334000140A3A3"
+        },
+        {
+            "file": "content/patch/data/fighter/ryu/model/body/l01/packed",
+            "hash": "CDF6B9E7FC1B4E8B0105A4929F4C7F46B74981FC8C376850CE1FAABFF2031BA0"
+        },
+        {
+            "file": "content/patch/data/fighter/ryu/model/body/l02/packed",
+            "hash": "E13A82ABD6D03C4032E48DDCF1F4E9646CFE51F5829F7506278AD38FD318138F"
+        },
+        {
+            "file": "content/patch/data/fighter/ryu/model/body/l03/packed",
+            "hash": "AFBDDBB1E3D327F58EAD242AE8BB16613D2235BA7CC642493974717DA235B5BD"
+        },
+        {
+            "file": "content/patch/data/fighter/ryu/model/body/l04/packed",
+            "hash": "EF907672F762DF7E10BB68FADB39778963B8904892F4DAC55D8F9EACEA151F8F"
+        },
+        {
+            "file": "content/patch/data/fighter/ryu/model/body/l05/packed",
+            "hash": "3C740036A0A285EF67F67A02A226E39BDCF36231FB816AB525CD7CC9AF39840F"
+        },
+        {
+            "file": "content/patch/data/fighter/ryu/model/body/l06/packed",
+            "hash": "81859AD11E9C9FEC814CC33CCD75D3FB1F5BF5F3DCF69ACD9A9F586076DC9FBE"
+        },
+        {
+            "file": "content/patch/data/fighter/ryu/model/body/l07/packed",
+            "hash": "3D4D4D393BC1FEB925793079673132511509DDA40ACCEA201EBF6BD921DA5DF2"
+        },
+        {
+            "file": "content/patch/data/fighter/ryu/model/sack/c00/packed",
+            "hash": "0C078AB40DE80C64B45B54AAF186F304BB26D33ADEEEBF6B2EC88DB473D6434C"
+        },
+        {
+            "file": "content/patch/data/fighter/ryu/motion/body/packed",
+            "hash": "99B4007170CB11381F13180243C958F515DC0D1760BC011AFFA0D71DC18F57B4"
+        },
+        {
+            "file": "content/patch/data/fighter/ryu/motion/bodyentry/packed",
+            "hash": "54DFEADC6EFBC66FFBF10303B7CD17E3E27459473A815692815B897C05EC3210"
+        },
+        {
+            "file": "content/patch/data/fighter/ryu/motion/bodyresult/packed",
+            "hash": "A434C27CFFAA89F8324B992F512C150CFF09E209CF3DD6ED5B360C7938E2460F"
+        },
+        {
+            "file": "content/patch/data/fighter/ryu/motion/bodyroutemap/packed",
+            "hash": "2BBBB280E51AF4EAE80236394462532FC20514767E786B07D3EBB39D21329ECC"
+        },
+        {
+            "file": "content/patch/data/fighter/ryu/motion/sack/packed",
+            "hash": "88293A1F2F18BFDAE0430CF78FF1ABF9A3C72F16B558DDCB0EE4905785912945"
+        },
+        {
+            "file": "content/patch/data/fighter/ryu/script/packed",
+            "hash": "A8237BF68DE9D23F1F4F18AA56E1FDA4367F1F7784C23F491D2753E253E048B2"
+        },
+        {
+            "file": "content/patch/data/fighter/ryu/sound/snd_se_Ryu.nus3bank",
+            "hash": "4E54BBD6346A2300BFB82857D12B2F0A9DE9418521EF3493E196EFA97BF80C6A"
+        },
+        {
+            "file": "content/patch/data/fighter/ryu/sound/snd_se_vc_Kirby_copy_Ryu.nus3bank",
+            "hash": "BF03CF8BD5DCCBFE6D64DBC724CDA8F37AC2A7AFE891D720D433E59AFB061967"
+        },
+        {
+            "file": "content/patch/data/fighter/ryu/sound/snd_vc_Ryu.nus3bank",
+            "hash": "9E548F012C925537F8628BB5945B5A91648A8AF434CE45E4F8EB4B85F2A2AC94"
+        },
+        {
+            "file": "content/patch/data/fighter/ryu/sound/snd_vc_Ryu_ouen.nus3bank",
+            "hash": "B01D58221C0035D5CDFD297A460757929CBEBC62B914C7894F61398714948B81"
+        },
+        {
+            "file": "content/patch/data/fighter/ryu/sound/soundseq_Ryu.sqb",
+            "hash": "A8A89B6587308206FA6BE61284CA71C0ADC0B21299C298D217B2912E02312EA3"
+        },
+        {
+            "file": "content/patch/data/fighter/ryu/sound/voiceanim_Ryu.vat",
+            "hash": "C0CD9EF1186F47353F926FF1369329174008227CC1676987551180720AE014AD"
+        },
+        {
+            "file": "content/patch/data/fighter/samus/script/packed",
+            "hash": "F2855B2BD07B1786B1905A71E9E49A80FAC2136E10B7B0ED957420CC00365E99"
+        },
+        {
+            "file": "content/patch/data/fighter/sheik/effect/packed",
+            "hash": "0E82CD11813145A2D79DB9C58116263DF326D049125CFC2D7FE5C537830FABA8"
+        },
+        {
+            "file": "content/patch/data/fighter/sheik/script/packed",
+            "hash": "032DA6095608D0EED707AE1A85A99D4797F049567DCE03E2D445867CFA4E1F5F"
+        },
+        {
+            "file": "content/patch/data/fighter/shulk/script/packed",
+            "hash": "1E345AA3219D33189CF1CDBD70D9F5AB7C6423A980384508C5DDB0BC27E4215F"
+        },
+        {
+            "file": "content/patch/data/fighter/sonic/script/packed",
+            "hash": "8861DC84F52F79F28BCF1649FD1A266B518957F70F3BC1124A78F438A1107A21"
+        },
+        {
+            "file": "content/patch/data/fighter/szerosuit/script/packed",
+            "hash": "8B399576CD5B6688961FDF5FD4DB0E91EA84999ACAB6981FC3B8B523D26B4E33"
+        },
+        {
+            "file": "content/patch/data/fighter/toonlink/script/packed",
+            "hash": "816E06C1688B439CD32932C863F7EC32662F86578ECB6B2CFA1B67DD2F9914D0"
+        },
+        {
+            "file": "content/patch/data/fighter/wario/script/packed",
+            "hash": "53C640C27F2C9177401F0D4D1F0302C2CDFE9DC4123444C4E3F44A86C209131E"
+        },
+        {
+            "file": "content/patch/data/fighter/warioman/script/packed",
+            "hash": "6A6AC4EA5A489797E4863CF97721BC069C425B191629E64F05778E38C323CFAF"
+        },
+        {
+            "file": "content/patch/data/fighter/wiifit/script/packed",
+            "hash": "DAFCECB1D5F737E0C54E92AC2CF35FBAFB801879FE9DC08988047DBBE2E3304A"
+        },
+        {
+            "file": "content/patch/data/fighter/yoshi/script/packed",
+            "hash": "5AE62C82270A3A680414F6E86CE4A6CD383C4FB79792435E0ACBF23446766721"
+        },
+        {
+            "file": "content/patch/data/fighter/zelda/effect/packed",
+            "hash": "1EC905231EB19CFD19A2A177D0EC5184437347332809FE30199F06A95CE282D7"
+        },
+        {
+            "file": "content/patch/data/fighter/zelda/script/packed",
+            "hash": "76B02C22499B225F5C28740ACC20AEDB0978E9EE5E7135C5C2CCFF9E8D5F7261"
+        },
+        {
+            "file": "content/patch/data/item/common/packed",
+            "hash": "F59201F19C4A4CAB1AFA04D1AA14F3EA9B00C49C18C650C3C499C53AEB30BEC8"
+        },
+        {
+            "file": "content/patch/data/item/figure_append/packed",
+            "hash": "AA528EAC8F488837D7AB67A4FB399DB9170E5B9E6ADDE01A97A4587FFFD99251"
+        },
+        {
+            "file": "content/patch/data/item/melee/packed",
+            "hash": "981B9AFC43AD4E8C36C1A6E893830ACA608BC64B22A8A3FE57196188CE2BAF34"
+        },
+        {
+            "file": "content/patch/data/model/figure/Bayonetta1st_d/packed",
+            "hash": "9B009651A2E13D3283E313C80B7CE8F15B3552F89000C01A43EE16C52979A13B"
+        },
+        {
+            "file": "content/patch/data/model/figure/Bayonetta_d/packed",
+            "hash": "CFB2D3C50B375454D0EC0CD9E1D0A1E113E04F70F514BFC8774C829177995FED"
+        },
+        {
+            "file": "content/patch/data/model/figure/Bayonetta_d_F/packed",
+            "hash": "6D22957139B3A63BF3B45466DC5EC150C50BA2FE993C5EAC968220915C4FC103"
+        },
+        {
+            "file": "content/patch/data/model/figure/Bayonetta_d_v/packed",
+            "hash": "0A6AE0A6820FECF75C618B9E8108C3FB5056D1638227F943C9BC606C5C2E0478"
+        },
+        {
+            "file": "content/patch/data/model/figure/Cereza_d/packed",
+            "hash": "D15D9D10BCA5CFFD05A225E09BD4D1D534023E91895376854B5C6B8D1D42445D"
+        },
+        {
+            "file": "content/patch/data/model/figure/Cloud_d/packed",
+            "hash": "DDC27D48377C186502DBB7367BAB0FB368EFAA0C41C973AD0BFF92986B336B37"
+        },
+        {
+            "file": "content/patch/data/model/figure/Cloud_d_F/packed",
+            "hash": "68D1FBC0C093DE9F14C106B1CCB9948F6229B6293C4A838F3A0921A0DE420161"
+        },
+        {
+            "file": "content/patch/data/model/figure/Cloud_d_v/packed",
+            "hash": "05CA23E29F06AD5FB82EAD0B7131B886A38B7C39044C5420416A6EB0A91DAEF4"
+        },
+        {
+            "file": "content/patch/data/model/figure/Jeanne_d/packed",
+            "hash": "E06E90E9630839922DB61AD26D687C5A0F9367945EDCF673E40B817C397B3C89"
+        },
+        {
+            "file": "content/patch/data/model/figure/Kamui_d/packed",
+            "hash": "0FC6CF765AB4ABC0C3E5220C61D2F3EDDD5500F1232802090B5CD9E36FA6B9A5"
+        },
+        {
+            "file": "content/patch/data/model/figure/Kamui_d_F/packed",
+            "hash": "E81F706FF563F7BB2F6EE65BA81F4095059DE252145BC9F7DA883D718E327A1A"
+        },
+        {
+            "file": "content/patch/data/model/figure/Kamui_d_v/packed",
+            "hash": "708D037BBA3412116A12A0B9A3C31B3762DEE52250FECE6DF790F19EAB230960"
+        },
+        {
+            "file": "content/patch/data/model/figure/Ken_d/packed",
+            "hash": "EC7FA10D29BF17773C7E790E61AA5F8D7A7DA8CEAAC81BFE02D68E03CD557530"
+        },
+        {
+            "file": "content/patch/data/model/figure/Littlemac_F/packed",
+            "hash": "82DBBE05919DD8D7D1FD450A0A0931236EA24FEAFC7E7599E1352DD290784AFC"
+        },
+        {
+            "file": "content/patch/data/model/figure/Lucas_d/packed",
+            "hash": "C129C84EE74591BE6E115E82C12AF7E18A2D5909F6FF303B4ABE31401EAEB4D2"
+        },
+        {
+            "file": "content/patch/data/model/figure/Lucas_d_F/packed",
+            "hash": "7121BEBE0A5E517117FFC0BD09C98AA05EE8D204A9E3B83E95659FFD2912C562"
+        },
+        {
+            "file": "content/patch/data/model/figure/Lucas_d_v/packed",
+            "hash": "771677BCF58DDCAFBF44121BF1EBBCF209C1F67C9B6E710B66D470E01DD849EB"
+        },
+        {
+            "file": "content/patch/data/model/figure/Mewtwo_d/packed",
+            "hash": "DD01DD991E3D5ECA115BD2ED34B2D19BCD014DD33F9BC0E8C9A45B47051DFD8A"
+        },
+        {
+            "file": "content/patch/data/model/figure/Mewtwo_d_F/packed",
+            "hash": "B9A944354827D3F6D735338ACB729769428DC68E14735D53699C42DDDC02824F"
+        },
+        {
+            "file": "content/patch/data/model/figure/Mewtwo_d_v/packed",
+            "hash": "D8B875294129A23F82954E3C0734A5C2021ADC5207D5B6AF25DC67E0A6A2DA3D"
+        },
+        {
+            "file": "content/patch/data/model/figure/Rodin_d/packed",
+            "hash": "5ABE8A1539EE3C269CCF19B6E2857984086FD6A3024ABF2750AC4848E85A4E17"
+        },
+        {
+            "file": "content/patch/data/model/figure/Roy_d/packed",
+            "hash": "7A5DAD0CB4E7ECC1144DA8098BBFC7457733ED4FC187B8EE75386724A19C27ED"
+        },
+        {
+            "file": "content/patch/data/model/figure/Roy_d_F/packed",
+            "hash": "6928E40A48FC0F9032D6C0CD0CAD00D7EE580EA74B2C123DE8479062D7F3BBB6"
+        },
+        {
+            "file": "content/patch/data/model/figure/Roy_d_v/packed",
+            "hash": "51C1DF2C8B6833805936E6D980750DED42E80FCE15EACB922F059F3B0815D877"
+        },
+        {
+            "file": "content/patch/data/model/figure/Ryu_d/packed",
+            "hash": "F318D558902A1CA49A8EB8EB33C8658C76B7677D10FE22E5A6FE30C9A02DD1CC"
+        },
+        {
+            "file": "content/patch/data/model/figure/Ryu_d_F/packed",
+            "hash": "A88DE80D5DEC17971C1682AC1ED951F80B9C1F35BE46D0D73C38C72AAB57B3F2"
+        },
+        {
+            "file": "content/patch/data/model/figure/Ryu_d_v/packed",
+            "hash": "0F6D1431CD71CD8AB144800A3F2A2133BC06138718A226F65ED9A736F018F926"
+        },
+        {
+            "file": "content/patch/data/model/figure/Splatoon_d/packed",
+            "hash": "3188B9FD18CDB7F6C69288BE38F2172BAA3E8F0787BE57AB1A7C258692BB31E8"
+        },
+        {
+            "file": "content/patch/data/model/miihat/akira/packed",
+            "hash": "5C692999B89227C2DB85213BB5B8BBA3A17504F071640A28F15CA494F1C64714"
+        },
+        {
+            "file": "content/patch/data/model/miihat/ashley/packed",
+            "hash": "4BF4AA43BC9A13A376A013149D0051805C42F6AA74368BA3FC476B95CF330DA6"
+        },
+        {
+            "file": "content/patch/data/model/miihat/bearhead_f/packed",
+            "hash": "6605491723FAB08D83BC0E9B9CE56DA8B85E1C8331DB5BAECC7C1BB4B2EE50EB"
+        },
+        {
+            "file": "content/patch/data/model/miihat/bearhead_m/packed",
+            "hash": "8C2297A970D9E09851CAD36E13291C2DE51CAF0DD8FC052477AC7642DCEB7F9B"
+        },
+        {
+            "file": "content/patch/data/model/miihat/blackknight/packed",
+            "hash": "8EE2878676F6B217B0F2EC1570744A78D982E60E6E79832AD7556E2149BB1903"
+        },
+        {
+            "file": "content/patch/data/model/miihat/blues/packed",
+            "hash": "44D395E552934DF2C28172656072E8E48F00B61544C5743B5DEA6E784E83C84E"
+        },
+        {
+            "file": "content/patch/data/model/miihat/cathead_f/packed",
+            "hash": "E6367BCB5C7D43E7881AD75F369470E3F706C2A50DB334CFCDB0F97F43BD75FD"
+        },
+        {
+            "file": "content/patch/data/model/miihat/cathead_m/packed",
+            "hash": "D3A47B778833BD314A28385766BA9F54535CE625B4802A79992EF7FFF0FB190E"
+        },
+        {
+            "file": "content/patch/data/model/miihat/chocobo/packed",
+            "hash": "893799963291ADC0AA7A1648BEDECD9F69480C607EC646D8734F74FF628F7395"
+        },
+        {
+            "file": "content/patch/data/model/miihat/chrom/packed",
+            "hash": "EE4A44066145CE76217FEF0EAB1D191D22473F1DB90C30065E2722B250693AE4"
+        },
+        {
+            "file": "content/patch/data/model/miihat/dunban/packed",
+            "hash": "276B24FED6DBE065CF363B511D426A7CA278EE8D0F992FFA4B28F0B44F69630E"
+        },
+        {
+            "file": "content/patch/data/model/miihat/exe/packed",
+            "hash": "0021F1250D5D16FBC825AEE624BDED6C7A75521F7543674A544ADE5161457AA1"
+        },
+        {
+            "file": "content/patch/data/model/miihat/flyingman/packed",
+            "hash": "E767C26A733DB9F6D8A927EE415C6AC7242A07E7699412F6C34ACE82B64D1145"
+        },
+        {
+            "file": "content/patch/data/model/miihat/geno/packed",
+            "hash": "4192282E122F6C3BF14DD5ADD604278BBF60E31F539581449A83475931B5F457"
+        },
+        {
+            "file": "content/patch/data/model/miihat/gilgamesh/packed",
+            "hash": "842613A701910FB175F91B27A2BCB09926F4D902CDA4E31CEB9AE06DA8A75102"
+        },
+        {
+            "file": "content/patch/data/model/miihat/heihachi/packed",
+            "hash": "7D7B7319619D68FEFD6774EEB62D7C04432B95621387F2E6B44819AC69339125"
+        },
+        {
+            "file": "content/patch/data/model/miihat/isabelle/packed",
+            "hash": "28E8767784F01C66B7941E269031D3931624F617BC4A27B660C4934301C82E8E"
+        },
+        {
+            "file": "content/patch/data/model/miihat/jacky/packed",
+            "hash": "D9DFDAD816D09B87B06F2314ED2791AF5F7E7269B9F4FE77B2DB1F86425B8F73"
+        },
+        {
+            "file": "content/patch/data/model/miihat/kingkrool/packed",
+            "hash": "0989C5AD1DFF3951BB5DAF61007F8E40E5F835F9ED5D2DEDE50CBCDB6BB93660"
+        },
+        {
+            "file": "content/patch/data/model/miihat/kkslider/packed",
+            "hash": "B807D5932EC3F036AE616F42CC090589541DE56BF4094DF8463AD383F9A03C53"
+        },
+        {
+            "file": "content/patch/data/model/miihat/knuckles/packed",
+            "hash": "472195A3C499F465287ACC6DE6B4FEEDA14A75CE2EBC89A48E638DD2E762461E"
+        },
+        {
+            "file": "content/patch/data/model/miihat/link/packed",
+            "hash": "E70EE1EA7616CB820AE9568EE43B50C7005288F17E5AA4FF02B4296A78FCA9B7"
+        },
+        {
+            "file": "content/patch/data/model/miihat/lloyd/packed",
+            "hash": "1BE143CCE435F450504EFAB88E1F2C16C1A1225CDFDD2AB782ED43F887EABA2F"
+        },
+        {
+            "file": "content/patch/data/model/miihat/majorasmask/packed",
+            "hash": "488027D20121212E6ED47793C0E49CD8E1E80B1FD91C21C710B43484A06BBF25"
+        },
+        {
+            "file": "content/patch/data/model/miihat/metal_f/packed",
+            "hash": "8061960B50FD68B108D56A87211D78FF6DF31B6B53B33DE0995BEB1C572E9BE3"
+        },
+        {
+            "file": "content/patch/data/model/miihat/metal_m/packed",
+            "hash": "3744D0A00FCBBF5525E46EFC318BFF99D385441589CC2FA49F55F78278BBA670"
+        },
+        {
+            "file": "content/patch/data/model/miihat/mhhunter_f/packed",
+            "hash": "35032C00106217B61BB2CF3200A22BE7D1AA844A2226D134BACD857DF1907D7A"
+        },
+        {
+            "file": "content/patch/data/model/miihat/mhhunter_m/packed",
+            "hash": "6BD37EF889B63783E68052504F5784A9B92156F701290B90FAAFD4C5EE9D3DE1"
+        },
+        {
+            "file": "content/patch/data/model/miihat/mhreus_f/packed",
+            "hash": "4090C8899EB98AFE44EABB52825F498279DF745BED2877BE87B8E428E2926710"
+        },
+        {
+            "file": "content/patch/data/model/miihat/mhreus_m/packed",
+            "hash": "BBD8869B1D7E39B33ADAB74EE0F0BF54DD88CBC0715E2660DBA30FDD355E8D59"
+        },
+        {
+            "file": "content/patch/data/model/miihat/monkeyhead_f/packed",
+            "hash": "C55EC87F93FF23541D83C05AE472E69972839B1335E2F4CACEA4A73E7127530C"
+        },
+        {
+            "file": "content/patch/data/model/miihat/monkeyhead_m/packed",
+            "hash": "7F0CC090A87880285F9BC1C675FFA71EEF41175CBB3F451BB2F72E0F5D115B73"
+        },
+        {
+            "file": "content/patch/data/model/miihat/nature/packed",
+            "hash": "5C1BE62551502D8AE18E72C6B9797B08277D46293A07899B36678926D569F9D3"
+        },
+        {
+            "file": "content/patch/data/model/miihat/splatoon/packed",
+            "hash": "ED5F901AEFBB7CB12EA15169E60087001EA233121E67613ADA72D682308DD79B"
+        },
+        {
+            "file": "content/patch/data/model/miihat/splatoonhair_f/packed",
+            "hash": "ABAEC59DD0E8866C6276154A13AD2728E8A082409AB54204CB29C89CACC9786F"
+        },
+        {
+            "file": "content/patch/data/model/miihat/splatoonhair_m/packed",
+            "hash": "B30DFE399E3EC1E4C3AF6CDAC5D602ACE43C96F7F0517879B2D0C8817FAB4EE9"
+        },
+        {
+            "file": "content/patch/data/model/miihat/starfox/packed",
+            "hash": "78817A9C7F90E94820406E66DE8C2DD7F2000E3781227E2DAAF7E897931CB182"
+        },
+        {
+            "file": "content/patch/data/model/miihat/tails/packed",
+            "hash": "2D149AAB163732316C48D40BC65B03C38A9C8287E7E6F4933B3ECC6CF6B0AB21"
+        },
+        {
+            "file": "content/patch/data/model/miihat/takamaru/packed",
+            "hash": "F3DFF9194F6E9C5756810640EB1892DEA68920535747C8FE73457EE2548B901A"
+        },
+        {
+            "file": "content/patch/data/model/miihat/toad/packed",
+            "hash": "E4C2840569AC3D4690A12086E334D1147453C1AABBF7B9B47B6840EE53C2FA60"
+        },
+        {
+            "file": "content/patch/data/model/miihat/x/packed",
+            "hash": "F3B6DAFA53A44532E4AD097F4725F8A0900509C91324CB681034A2C0599ADAD0"
+        },
+        {
+            "file": "content/patch/data/model/miihat/zero/packed",
+            "hash": "CFFFC0B22226C40F1BC5010B6EBB8C65BC9F3BF263BCD9E802D18FFC9229676D"
+        },
+        {
+            "file": "content/patch/data/motion/packed",
+            "hash": "406AEEE108358C614301BA548D265353D3B6CDC634933804A9B7F7E666172462"
+        },
+        {
+            "file": "content/patch/data/param/packed",
+            "hash": "598AD45C3914A0DDDE1AA1C317B28F78F1BD435FF6AAE1E8918CB865590AA052"
+        },
+        {
+            "file": "content/patch/data/render/packed",
+            "hash": "25C5DAD2B44781F5F568D12C7025FEB84F4E43B369F240CC9041225573803BEB"
+        },
+        {
+            "file": "content/patch/data/script/packed",
+            "hash": "55AACC0C9BEE465AA873BDC2F469BA911B9CE067C97347953CA6BFFAB2D4C900"
+        },
+        {
+            "file": "content/patch/data/shader/packed",
+            "hash": "C10548CE1AF027DAF01FCD810350CCA637A89CFF0F4C424791AEEA1B1D90FF0F"
+        },
+        {
+            "file": "content/patch/data/sound/config/packed",
+            "hash": "5B87EAC66EA8B10AF6D411B7FB6ED81854673373A5B8E3DD85EB0BF63C90F4F5"
+        },
+        {
+            "file": "content/patch/data/sound/se/snd_se_Watch_append.nus3bank",
+            "hash": "4C919A720EAB49E1FE39256B4B79205D666401AC61D0E834D03F1CAD128D8E5C"
+        },
+        {
+            "file": "content/patch/data/sound/se/snd_se_Wsmash_Bayonetta.nus3bank",
+            "hash": "BB9580752160CB4EBE565913FC3E5DCFD1795CFC4E9D9AAAB4C7EF65A37598C5"
+        },
+        {
+            "file": "content/patch/data/sound/se/snd_se_Wsmash_Cloud.nus3bank",
+            "hash": "3C2A020990BBBADDA609D70BF21C12D7F27D6F49468E60B4D2C650C3DE147741"
+        },
+        {
+            "file": "content/patch/data/sound/se/snd_se_Wsmash_Kamui.nus3bank",
+            "hash": "B9EBE342952081ED1CAF72D68DE3F6A7A40DD039233B5481C4865D1EA8B591E8"
+        },
+        {
+            "file": "content/patch/data/sound/se/snd_se_Wsmash_Lucas.nus3bank",
+            "hash": "35E96B9A7850024BB38C176110E411F6C8C3D79CC58E969E77B0CBF2CCC16D9B"
+        },
+        {
+            "file": "content/patch/data/sound/se/snd_se_Wsmash_Mewtwo.nus3bank",
+            "hash": "5CF15AF677E6D5500F43BA70B458A9424149477F1B812E61AA43D7610C435538"
+        },
+        {
+            "file": "content/patch/data/sound/se/snd_se_Wsmash_Roy.nus3bank",
+            "hash": "4B7EB1D1229E1572AF019FFCA253B02720E8288D0E179FBA26798870D2166C3C"
+        },
+        {
+            "file": "content/patch/data/sound/se/snd_se_Wsmash_Ryu.nus3bank",
+            "hash": "5646CC2097216A57E16BE4576CB0F21A5B9CAE0F1C8FA18450D0B0B729EF7A60"
+        },
+        {
+            "file": "content/patch/data/sound/se/snd_se_narration_characall_Bayonetta.nus3bank",
+            "hash": "9DB066CD40988F6B7DEFC9F2E3899FBF27821F2C3EDC9706EBCFBAB907E646B4"
+        },
+        {
+            "file": "content/patch/data/sound/se/snd_se_narration_characall_Cloud.nus3bank",
+            "hash": "1FE6134B3274E5506C1B1972F81379B28F9AAA6305C84F34D9D65B2B80687E36"
+        },
+        {
+            "file": "content/patch/data/sound/se/snd_se_narration_characall_Kamui.nus3bank",
+            "hash": "7CBA59DC3A44BD8A2592CA8B6B75929E9883032F5476E3932CECC9B9131472B5"
+        },
+        {
+            "file": "content/patch/data/sound/se/snd_se_narration_characall_Lucas.nus3bank",
+            "hash": "364BEA87D328A1A0DF4F62364A26F3B139519456C1C5A1C50B1E4BC6F6E7FE6B"
+        },
+        {
+            "file": "content/patch/data/sound/se/snd_se_narration_characall_Mewtwo.nus3bank",
+            "hash": "62AD6F05E63B1B17624823BD2C5D3B3A1186F63C0DE71A68FA738A53507CAED0"
+        },
+        {
+            "file": "content/patch/data/sound/se/snd_se_narration_characall_Roy.nus3bank",
+            "hash": "6ED87CA600ECD6F011A46E5CF23B1D09D71BC459142123450E3C6E5FC218519B"
+        },
+        {
+            "file": "content/patch/data/sound/se/snd_se_narration_characall_Ryu.nus3bank",
+            "hash": "D85EEE8ED1A94ADD744F5833F0DBE66FD0EED6538597FEDBED70425267992349"
+        },
+        {
+            "file": "content/patch/data/sound/se/snd_se_narration_menu.nus3bank",
+            "hash": "C476DF92BDF161DD71E1AD7AD20D04A8290D76F48A4268E81DCD9EE975D1D89D"
+        },
+        {
+            "file": "content/patch/data/sound/se/snd_se_narration_tournament.nus3bank",
+            "hash": "4A21E2108F57F40B156047E481AB74ECDAEEC74AE67EE832EA73DD2EB6D3C94E"
+        },
+        {
+            "file": "content/patch/data/sound/se/snd_se_tournament.nus3bank",
+            "hash": "76DA4E0986D34743A065E131F2DC9A41FA47A745CA200D8859A228AC5C8ACEAE"
+        },
+        {
+            "file": "content/patch/data/sound/se/snd_se_tournament_community.nus3bank",
+            "hash": "541098E7DDBFC3056960187D2E5D55864371F1E58BA1BF532318BDEC55879928"
+        },
+        {
+            "file": "content/patch/data/stage/ExpandedEnd_cafe.bin",
+            "hash": "605A40D8F7C9F634EC204A6C1E85AB1F7DE6F80142AFC601E020DD18F746EE09"
+        },
+        {
+            "file": "content/patch/data/stage/end/Assault/packed",
+            "hash": "959BE1F2DFFD6F3D2E83F41E674951877C8AF504146984FFD8605A2FB93F74CA"
+        },
+        {
+            "file": "content/patch/data/stage/end/Cave/packed",
+            "hash": "8FB7DFAFE8D38EB67C038BE9FCF9B17335316B318CD8AF0E1DDC8994ECA35B89"
+        },
+        {
+            "file": "content/patch/data/stage/end/DxShrine/packed",
+            "hash": "E09B88527A02F2F213EFE5E302F7C9D13831F13660BBA7DFEC1D4E8E86B4B8B3"
+        },
+        {
+            "file": "content/patch/data/stage/end/Galaxy/packed",
+            "hash": "E17B90157DB2320A06EA3C5B7FB2492DB6641CA4564371F0A233A0ABAC8BE1B3"
+        },
+        {
+            "file": "content/patch/data/stage/end/Gw3/packed",
+            "hash": "80679CC7A0F48DF13F6B4A7F7C8C4801559FB2C50AC34A7ECF0F7E680EA5C3C5"
+        },
+        {
+            "file": "content/patch/data/stage/end/Hyrule64_f/packed",
+            "hash": "CF94AE91338E2989BD4790E6AE8396CF4D9CB7D623417AF8DDD99F35D67FA323"
+        },
+        {
+            "file": "content/patch/data/stage/end/Kalos/packed",
+            "hash": "66D1E879C230B9D1EC541025B9158859B10E4EFE97B688EF42191CC654A40CBC"
+        },
+        {
+            "file": "content/patch/data/stage/end/MarioMaker_f/packed",
+            "hash": "EA92389852380BF1AA89EE13C1D1D6E710944AE9ED8B19B5CDC3E3CD64EC2185"
+        },
+        {
+            "file": "content/patch/data/stage/end/MarioMaker_f/render/refection_cubemap.nut",
+            "hash": "BDCC502B9AFEF46AD872ED12AB61DBA8373EC4F65A65DB7EBED493B002ABEA5C"
+        },
+        {
+            "file": "content/patch/data/stage/end/Midgar_f/packed",
+            "hash": "F7C7292CFBA87D03D9B39FCBB6C2FFB87B2574C22C774FB8B14D174213B6C892"
+        },
+        {
+            "file": "content/patch/data/stage/end/Miiverse/packed",
+            "hash": "0C56563B87334B15BE1051BA89105A8D6CE69B9390F179FD5A2FB5C9270A26E3"
+        },
+        {
+            "file": "content/patch/data/stage/end/PeachCastle64_f/packed",
+            "hash": "573F899B1E539A39D191A092555710CD6E0E8848589EFE08D3B00CE1F338E5D1"
+        },
+        {
+            "file": "content/patch/data/stage/end/PikminU/packed",
+            "hash": "00971FE7964644E71EA5A805F7924EAB9DF4886C033CFFD2C9AC36F741753A67"
+        },
+        {
+            "file": "content/patch/data/stage/end/Pilotwings/packed",
+            "hash": "17950D6B5CCB46F206EC6B52F4E512AB5951E20231561777513760FD91F67708"
+        },
+        {
+            "file": "content/patch/data/stage/end/Pupupuland64_f/packed",
+            "hash": "67BA62D4741DF3F554B0F5F5B489D7E6CDC0A55A27F7E7C60604813349403E3A"
+        },
+        {
+            "file": "content/patch/data/stage/end/StreetFighter_f/packed",
+            "hash": "DF3B25F142D0B07352FFA2E0E25146F29FA9FBBA1640D913596F52809B448F7A"
+        },
+        {
+            "file": "content/patch/data/stage/end/Umbra_f/packed",
+            "hash": "30CAB24E9EDC195A21EBE142FB36D20C4257ECF3C13C9C848246D091BF93BE67"
+        },
+        {
+            "file": "content/patch/data/stage/end/Village2/packed",
+            "hash": "84C155600FEC459051736F4F7F805AEBED89E56FFFC9AE1067E4EC483503CA4A"
+        },
+        {
+            "file": "content/patch/data/stage/end/WiiFit/packed",
+            "hash": "7CCB683D5C3ED5CA4C097FA9C928BA6F8CF43E21B8A32EE29601CC68288A0891"
+        },
+        {
+            "file": "content/patch/data/stage/end/Wily/animation/dyr_light_tenmetu_set/dyr_light_tenmetu_set.omo",
+            "hash": "F2810A303E096C7D89ADA5059986024619AC9CDD37882E61262EFDCEEDA1891D"
+        },
+        {
+            "file": "content/patch/data/stage/end/Wily/model/dyr_light_tenmetu_set/model.mta",
+            "hash": "AD69F0860D36634918D33B337456BCB58DFF0ED8EF4EA471F4B0855CFA7550FE"
+        },
+        {
+            "file": "content/patch/data/stage/end/Wily/model/dyr_light_tenmetu_set/model.nud",
+            "hash": "E6F86C4D2A7453AFAD3C69CCAB00D47289D946D38575816BE38BFF759EE0FD0B"
+        },
+        {
+            "file": "content/patch/data/stage/end/XDolpic/packed",
+            "hash": "B3EF196919472198937DB1A3726854551E6A3EB578A2086C18EB1EC521687126"
+        },
+        {
+            "file": "content/patch/data/stage/end/XFzero/packed",
+            "hash": "92C13DF2DE6C155755C4A4E1420A26FADFA0A9B48225738BDCA55D547687DDAD"
+        },
+        {
+            "file": "content/patch/data/stage/end/XKart/packed",
+            "hash": "99B1EC923255F2F6CF53594EE085AAFDF2CD5308584A2169A6A54BB2ED9064E6"
+        },
+        {
+            "file": "content/patch/data/stage/end/XNorfair/packed",
+            "hash": "53F38F794DEEDF85FA9A029312F62F5A82AB1D328D7D7A94ADAD89C95A8C161D"
+        },
+        {
+            "file": "content/patch/data/stage/end/XPirates_f/packed",
+            "hash": "74808C1E84F8C4A64C43837ECA2D43AC331B42D2489D010956D397CF4AE0227F"
+        },
+        {
+            "file": "content/patch/data/stage/end/XStadium/packed",
+            "hash": "59950C1065DE4BFB4CA492F114C46A78500F49D63F43301EEF392D2D856DE692"
+        },
+        {
+            "file": "content/patch/data/stage/end/XStarfox/packed",
+            "hash": "9C821A9A4CEE576D58FE49B5A67E0045D55CBEDAB2E7A79E07B21A392B1CEF5E"
+        },
+        {
+            "file": "content/patch/data/stage/end/YoshiU/packed",
+            "hash": "F779414D4ADE424814E6D070FC411D6AE378C90C2ECD61A48AADFAEBEF2F72EE"
+        },
+        {
+            "file": "content/patch/data/stage/final/packed",
+            "hash": "21D4F51EED1DAD6F7997C35BD9D1E653B131829BA8BDD5C915EFFD7FB93690A2"
+        },
+        {
+            "file": "content/patch/data/stage/melee/Angeland/packed",
+            "hash": "01C2CBD0D5E9940F2B4BDA6B266EB4A106423EE4E13EA6888EE5E2EF2A24B856"
+        },
+        {
+            "file": "content/patch/data/stage/melee/Angeland/param/Angeland_00.lvd",
+            "hash": "A7DE551D58A7CFBF1B4B74DAB0EDFECA0FA0A827900CDAAFF5CF12D14B82E81A"
+        },
+        {
+            "file": "content/patch/data/stage/melee/BattleField_f/packed",
+            "hash": "706FE6307C9DAE90E3CCD79A21B1E88381D6205C4675A992C83C33214102F4E0"
+        },
+        {
+            "file": "content/patch/data/stage/melee/Cave/packed",
+            "hash": "05D08DB28C95212CDBAFF34DCFC551F11D681D23B95FE92A9D9C5618465DF8B3"
+        },
+        {
+            "file": "content/patch/data/stage/melee/DxShrine/packed",
+            "hash": "7CD67BDDC27A0142881588AC0396DDCDD756FB078FA8D89C88B51AC76DEC9312"
+        },
+        {
+            "file": "content/patch/data/stage/melee/Gamer/packed",
+            "hash": "D9B8550F1BDDADA2EEB98E16DC79710DE644F81671EDDECE3EF37F2D7C81BF4C"
+        },
+        {
+            "file": "content/patch/data/stage/melee/Gw3/packed",
+            "hash": "C0D4AF2F208CE311D2FB8F8054DED158D79C8234D0BFAC4DB951984575914A0C"
+        },
+        {
+            "file": "content/patch/data/stage/melee/Hyrule64_f/packed",
+            "hash": "AAE6DAB5088D4CA2F4456058DCE0ABD909A127FEB461CF2FB5AB9289EE863465"
+        },
+        {
+            "file": "content/patch/data/stage/melee/MarioMaker_f/packed",
+            "hash": "E64466A5E1D276E25820AD32B5F46DCF897A5EF62F0967581AFB332A3D628D03"
+        },
+        {
+            "file": "content/patch/data/stage/melee/Metroid/packed",
+            "hash": "42698F77F5EEDFAE3BBDE706D7F800A2ECA402F0C67AF5C079656865DD698B5E"
+        },
+        {
+            "file": "content/patch/data/stage/melee/Midgar_f/packed",
+            "hash": "39BBAF442193C80E982C1FC62CB257008573B7D7064E1619CAC0D29DD348B251"
+        },
+        {
+            "file": "content/patch/data/stage/melee/Miiverse/packed",
+            "hash": "CD756169E45894A5A2D18760285EDCE3D82CD0A05E0DF05A70BEDC5B61716E27"
+        },
+        {
+            "file": "content/patch/data/stage/melee/PeachCastle64_f/packed",
+            "hash": "B3DC9D11B5890BA72A79E49902C0011C1412727FFE8200F828EAC364703CAF83"
+        },
+        {
+            "file": "content/patch/data/stage/melee/PikminU/packed",
+            "hash": "CAA78B7D64ED60E2C42FD40976B098B6E743EBE04F20EC2717E0D30CA3771985"
+        },
+        {
+            "file": "content/patch/data/stage/melee/Pupupuland64_f/packed",
+            "hash": "13149E28CCA755DCE0A19AF14078B266992867AEC3C3E67A32046C7F2AF8DB5E"
+        },
+        {
+            "file": "content/patch/data/stage/melee/StreetFighter_f/packed",
+            "hash": "0C56F302ADB2FB0ACEA907F98EC63B8AB8352845B7A93D367BFB9C75D68B77AB"
+        },
+        {
+            "file": "content/patch/data/stage/melee/Umbra_f/packed",
+            "hash": "C460E5574457F4B6A18084EDB85FCBB210065CC4AFB4720F10D0396D79A37BF2"
+        },
+        {
+            "file": "content/patch/data/stage/melee/Village2/packed",
+            "hash": "C013D981D25C2F5A524C10F90AB9EEE92107A53DB358F2CE62F5CFC50CE22730"
+        },
+        {
+            "file": "content/patch/data/stage/melee/WiiFit/packed",
+            "hash": "39288046DD6970132F760AE5747782CA9FCB0BE06FECA8A0E5DCDBB3CBBE7D1E"
+        },
+        {
+            "file": "content/patch/data/stage/melee/Wily/animation/dyr_light_tenmetu_set/dyr_light_tenmetu_set.omo",
+            "hash": "315CDDFCC740655D1AF7ED0EDFB3B4CDC528158B4B130375FF2561B01EB849CC"
+        },
+        {
+            "file": "content/patch/data/stage/melee/Wily/model/dyr_light_tenmetu_set/model.mta",
+            "hash": "7CC2FEBD7F0BFC5782270093454E5EA9355A0ED2F9A7286F845267A7C9AC4E78"
+        },
+        {
+            "file": "content/patch/data/stage/melee/Wily/model/dyr_light_tenmetu_set/model.nud",
+            "hash": "4020BA71D766B1131DC3931535C2156DD3EEA80098CE1C0D93A42687D7D00D0A"
+        },
+        {
+            "file": "content/patch/data/stage/melee/Wufu/packed",
+            "hash": "06F537B69F13826EC0FF6C3CFB9CCC1D79E1B3D924A17DA316EEACA756607C68"
+        },
+        {
+            "file": "content/patch/data/stage/melee/XHalberd/param/XHalberd_00.lvd",
+            "hash": "D1EFDDE6D714767EDCC70ED81EC2F55531878FCF8F525405157B9A93335871FA"
+        },
+        {
+            "file": "content/patch/data/stage/melee/XKart/packed",
+            "hash": "B9DD462A96F217AC660833728D467F45A5719BB20A64CB78D9555C05DAF70595"
+        },
+        {
+            "file": "content/patch/data/stage/melee/XMansion/packed",
+            "hash": "C3A16935140782CF52253F23C0DF4F51405AE99E0DE4DD1CABEA8EA8E49E50C2"
+        },
+        {
+            "file": "content/patch/data/stage/melee/XNorfair/packed",
+            "hash": "E53C0B164297418A9D9AAA50A77E26226BFC764BC8987E35AE246BCEA88BD540"
+        },
+        {
+            "file": "content/patch/data/stage/melee/XPirates_f/packed",
+            "hash": "5B11DB2DCC8A24AFE1260D25058FA7ECDBB2880CF0494B45E4812A07F256441C"
+        },
+        {
+            "file": "content/patch/data/stage/melee/XStadium/model/stc_Koori_gr_set/model.nud",
+            "hash": "0A5375EE1FFEBCD68ABDDFB13F3202BB69A1AB438EDAE36B4E6FFC80C07A0638"
+        },
+        {
+            "file": "content/patch/data/stage/melee/XStadium/model/stc_Koori_gr_set/model.xmb",
+            "hash": "7E141CA04B6E778DBE8C770F48DC700CE84B8932A32BFB933CFCB98CD2C749AF"
+        },
+        {
+            "file": "content/patch/data/stage/melee/XStadium/packed",
+            "hash": "38B1A591D83B5EA337765DA42048CEA713C39902FA02668E0E7FA2E3E6498F0F"
+        },
+        {
+            "file": "content/patch/data/stage/melee/XStarfox/packed",
+            "hash": "60BCED1B1963D98DF08426ACAF7063E7091DD1207A0A25C4C03C4F7B980BED98"
+        },
+        {
+            "file": "content/patch/data/stage/melee/XVillage/packed",
+            "hash": "C3A21A2694F536181B7A5E07C89AD2DF68030CBB21302AC0E37B8995CDDDEF4E"
+        },
+        {
+            "file": "content/patch/data/stage/melee/XenoBlade/packed",
+            "hash": "7B2E946F73052A208F49B31B5ED00FA29045E065EF47ECD2A708B8C83A61C852"
+        },
+        {
+            "file": "content/patch/data/stage/other/Allstar_f/packed",
+            "hash": "9DB1871788190A2E65A236639F8A86080E7939B657F89DF75257B95FA234483F"
+        },
+        {
+            "file": "content/patch/data/stage/other/Allstar_f_append/packed",
+            "hash": "40EF896E0871126AEF3B43B46982B32CF1B4C6EC7F586C871DB266E24C20C0A9"
+        },
+        {
+            "file": "content/patch/data/stage/other/Homerun_f/render/light_set_param.bin",
+            "hash": "C2D0CA97971A919C163E2FBC4613326B84EB5CC0024C902B766DCC778ECD123F"
+        },
+        {
+            "file": "content/patch/data/ui/append_folders/packed",
+            "hash": "ABC1B63CCC5103E614970DDA09C01EA60AD97EC5793E09A034DE2929ED15D5C2"
+        },
+        {
+            "file": "content/patch/data/ui/effect/packed",
+            "hash": "96E894A8E4A48FB722862FF881A35DCFFFF545AB82803B044F8E23A9DCB04D98"
+        },
+        {
+            "file": "content/patch/data/ui/font/packed",
+            "hash": "FF7ED111F9D4C3C0C6D719E73A0AA15D60FB5F0363E7E36D3869D62365958319"
+        },
+        {
+            "file": "content/patch/data/ui/info/packed",
+            "hash": "45EA6C3980A586D1812A687452C42C0FE6AF41C2B6942F3ED6D6CF0B98CD2928"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/chara/packed",
+            "hash": "7326431C48318EE3212EBEC69C2AA92D2DB3446C1A2C4A7672AF41C6F9C7DA2A"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/chara_base/packed",
+            "hash": "38728D0041045D41AF52E707989474ECCB06B2CB2F7DD4375C080BA6B7C61B44"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/chara_base_8/packed",
+            "hash": "C6FF6A8933693BC8297707EFBBE551EFF9D7D9E46DDB2A906CEAB7FC5A10AF9F"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/chara_ctmz/packed",
+            "hash": "9EFA84EAC07FCEBCD769EF289167157E40736EFE5E1782FACB35AF2AED986851"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/chara_mii/packed",
+            "hash": "4206E7FAE6D5B9E63C3D9564D7D5F91B8522E58B36F416B5BE5CF986DB818DDE"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/chara_mii_base/packed",
+            "hash": "1C5EAD3C5E7E7855711912C99DF9677B3DE8EA7769ED8C125CA71380269721E5"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/chara_score/packed",
+            "hash": "ABC19BE075DE509BDE4F2EBCEC6C6E8589DC67422D45293271499397B1314CC5"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/chrmake/packed",
+            "hash": "F83EAE173921D36FCD7D91136676E2F1F2FBB68666F22EA8F6A1290FD4442C95"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/chrmake_first/packed",
+            "hash": "C79042C5B7A954E4D52E6ED7B19A35237DCED9CFA03F3BD4E92683824F6AF6F2"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/chrmake_special/packed",
+            "hash": "464569F33191B995BC458CC3A8D770724696DF684C623AED0ACC9798D9548D87"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/col_album/packed",
+            "hash": "E3964F523581A1E28844FF7DDD4F697C9989057F3FC749F18C570966BFA315AF"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/col_replay/packed",
+            "hash": "5C72C37FB0839A5DF305C7FFAA84DEBAF7645EC18B9965EF1B92DF8AC29EE6CE"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/col_replay_popup/packed",
+            "hash": "75ED07C6A8C1E0435AFD2BAB798B9A4E852144B1117519391B1349B01C540C23"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/com_limit/packed",
+            "hash": "93CAEE66A55DCF2425593ED03D0E236ED131FA77A6DEE4A91237898BBED10511"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/com_voice/packed",
+            "hash": "565C1891E755310A138E8AC608383254206F98953F55873CCFF2B86FD49FAE1B"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/compe_announce/packed",
+            "hash": "935A67F18C061F92E1B993DD2E36EB831C49577950B0FF05228A880AF1705EB7"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/compe_friend/packed",
+            "hash": "AAF88B57E7617306BAC86F2FFC3AEA42C8B67EF128A7300164A71E86D202F249"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/compe_howto/packed",
+            "hash": "FFA2B0AEE775FC608414CD62ADEE922CC65F939707A26A5E797A3A0B78C11B8C"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/compe_menu/packed",
+            "hash": "6514BE73CBFDE465EA7472C5AAE2DF09FEEFB515D1EE1A4221AAA975A46836D3"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/compe_ranking/packed",
+            "hash": "891C107627354A25EFBC2CE733924707F3AEF6A243AD7037B5CFB637C26F41AC"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/compe_result/packed",
+            "hash": "6B5BE8AFF0157CB06317F96369FBA19C7A866E3E60DFAC8BAFBC237289A34D9C"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/compe_search/packed",
+            "hash": "15C53C295E7252A002102AC319D5FFE309FD5BF66C78C827D553F1285B337FE5"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/conq_diagram/packed",
+            "hash": "A3C5E9B30CF99C93149866D143D9A15594075913FF9137AD63D8F758D32926ED"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/conq_info1/packed",
+            "hash": "4F470D4240260FDF33330DA6FA0EDBD0C86C2EC29806605B57E879C58C9FF2BB"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/credit_congra/packed",
+            "hash": "20D0A7868FB9F46DEB9EA4B442EC59E548112E941C7B22B23BDB441F7C30F40F"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/eshop_howto/packed",
+            "hash": "DA6CC5C84FE6D3CE08D5C97F2BF9257E2E50B7A420D3372530E6E7B0D92C9B7C"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/event_compe/packed",
+            "hash": "AA955F79C9E5C51271757CBA284C35A1C23DE9F98695E38C763458C4A5ADF59C"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/event_conq/packed",
+            "hash": "8989EDB71982C98A53632D3852622C646F7B0F3ED2299828411DD90D18B0EA3E"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/howto/packed",
+            "hash": "F2CFEDA4AEF6CD2932128CC9A75BE49EF8A977FAE2CB29462BC0D7CC8546239C"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/info/packed",
+            "hash": "2FE70088264D48E101F233B8EAD51CB9055BC145E5882A3202CA5DAC8FDB3B58"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/main/packed",
+            "hash": "AE7355CB6CFB4064D0984BB97104CE611E7699355D3351819A46E46AA21584F4"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/map_pause/packed",
+            "hash": "3BC3EC9973FA4C09D3FE69A9D3B726CAC2EF256B59B188D623DD088D466F434A"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/name/packed",
+            "hash": "6F02081AA2E8F3CABBD8A41AE4C2028EF7CAF31C4288B069D34D127331201541"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/nfp/packed",
+            "hash": "74CE562AD725DA9015F6E79F96640B2356082BD42BE3A304E43D7BD7F0BA67FA"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/nfp_chara_mii/packed",
+            "hash": "B739819B1543E037B32D2E8FB131DE46439A31B86E4812D2F559222D7B0C00DF"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/nfp_load/packed",
+            "hash": "6C5D6DE3EA3B4F9D61D0CF7BE02EBE66ACFFCCBE84359A95692FFCB9A900C61A"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/option_button/packed",
+            "hash": "75F1371F679EFDC7F174C1C3A92FE5F3695D5CF5A30AB9CD44CB8B703D75D7E7"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/option_wifi/packed",
+            "hash": "B8609BDA0948B55F4282F5694BD4817C59D19920A53C3D21F73E5E3F57380F7E"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/other/packed",
+            "hash": "9A6684D515EA76D672E42313D6A60358A20F08D790219822D583456C59F22A91"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/other_chrmake/packed",
+            "hash": "F1A4CD7C9A541974620104039217CD549BE3B621130C7FD2B3C62809D68C4390"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/other_col/packed",
+            "hash": "A7EBE5EB3063D9882640237E0CA37088F57DC6F2B758C51DCCFD5F5F8E9B496A"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/other_stgmake/packed",
+            "hash": "8274A6BB4AF1D25C6B228C89E8231E83655F0A72C2F21840983730C5224C3D53"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/popup2/packed",
+            "hash": "E1497DECC4155B60840935C351B73262DF3BC41EE72DFB12668653BD0AF591D9"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/popup_prof/packed",
+            "hash": "C71395756ECEB800A8E00B97115576504FA47A2490C4AC11C51263E5B76338D2"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/result/packed",
+            "hash": "032030DC822666799EB514B8042C0AD31D5F3AEF2B75AB7BEA4A51526EE80328"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/rule_item/packed",
+            "hash": "BE0F071F524E9A6B843AA374D740A50C739F44C0C5854C2DF5D727DF0489D656"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/rule_stage/packed",
+            "hash": "CB4DAA5A33FC216990F38B45E06EA44D64CAFED1F24E5F03076645962B360A50"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/share_friend/packed",
+            "hash": "0CA4F30D2E5FDAA828F17BE847AF027F82EC2E95CC48E77BE29C5E97068181D7"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/share_mii/packed",
+            "hash": "AA686ED1AF435C4974C9F5381A7623CB818A66AA380EB67071BCFE49F91618B2"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/share_miiverse/packed",
+            "hash": "8FCB55DE55E33AAA35C3CFF85848C2C6E4DA9EAE23801F64EE50CE3DC093E448"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/share_photo/packed",
+            "hash": "C1BC890FA21AC7802CD7620ED3F327EEEAD349A63543B264F12B5FA095B7CD04"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/share_receive/packed",
+            "hash": "89944CFE039E7191763DB5B0B91D9CAA057D1504ACBECE31F5F42CC3DE78FBFA"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/share_replay/packed",
+            "hash": "295013D1DB9CC5F0678240A6E697D221B010B19CE7CCE9CCA0D6D95705C641F2"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/share_seach/packed",
+            "hash": "D1FF9C782CE538667F9D9F1D2C464DCBFCD56F054D0245CFC44A3C38C9B2D490"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/share_seach_download/packed",
+            "hash": "51B121205037DE8D7FDB414A1DD2E879580859F408A8AD10581E06DBA1621F24"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/share_snap/packed",
+            "hash": "15E7CC8660E725E2D6AA21AA0487058DBEA939893119AFE711D77078DF79A3DC"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/share_snap_drc/packed",
+            "hash": "F418C8030A5F81587816CB96B9E543E672631EC1737F974FAB74397F531C4A1C"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/share_stage/packed",
+            "hash": "EC515F452893ACC8F3268ECE57C647C48975E89F64CA9E7CEDD33374D634B913"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/smacon/packed",
+            "hash": "D27B7AEE7F5FE6BB6910E7CA67A83CC4B916D008A17EAF58C6681BB4C119BDA6"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/smacon_howto/packed",
+            "hash": "F11D954774F6DE1CBD6B9B4BD2952DABF278BB710C23C6C151BFE7BCCB26F14D"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/stadium_smb_howto/packed",
+            "hash": "B76F4FC198F954EC56FBFC9953D14CC24B51075D054786A8682AFB4EDDE4DABD"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/stage/packed",
+            "hash": "968362146F5E9E2437108D94EA773A67FD8CC59BD2BBE32787306CD6A5B5C68F"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/stage_cursor/packed",
+            "hash": "0766A4350557B6C2B55BFD761615C17804C979F8FF9B815BAF7D597825C5C933"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/stgmake_howto/packed",
+            "hash": "E465ADA07E8C41ECCEA213CB87618ABFB6AC3794DD3691B9D64F2341331B45DD"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/tds/packed",
+            "hash": "F1FCFE60C8B650732D89402B1C87A3233D6173E303D0F39E945DCE40FC7B77DD"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/tds_c/packed",
+            "hash": "967A1A0E436365C051381EBC2DB9384960C12D55D35E0C4DE422CBF88483E872"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/tds_f/packed",
+            "hash": "F21DB8F425537F910069710CA9B775474E6AB48BBA352D09A67564553B053E67"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/tds_howto/packed",
+            "hash": "3710F25E8FACBBD4B8B7CD09B82E1E70577F5C4AFCD5DF1DA7FAAB53D30C6151"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/tour_howto/packed",
+            "hash": "D6DFAABD367FE7955F5AFE4141ADBCF3DCBDD916D24076768892F11A2D5E4D67"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/tour_intro/packed",
+            "hash": "F544B8B304FB7302E9D107D5A800ECA0A92098E8F43417A9B82BDF44BF4FC766"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/tour_menu/packed",
+            "hash": "F1681D7AE1F445EF9462CC34D07391E22C9A69B3D1E39730A988DE3B0FBBCA28"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/tour_opening/packed",
+            "hash": "E9FDA75A196D4B4E7D13E17FDFF72B6A550137A4E4A5B8701F178AB88B551F97"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/tour_result/packed",
+            "hash": "D72420D0E06AB8DEC81B64B5D9A825F90CC3852C06E3A82AFC74807FE42D656D"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/tour_top/packed",
+            "hash": "5866C62B48B4ADCC559111EB9784FBC22E38DDD3791031C33FAEF4D90D0FBBE4"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/tour_tree/packed",
+            "hash": "B94AD51F7B271607C51A2DE261534F33554A0DE3620151EEC9B96BE7F60CBE1E"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/tour_tree_back/packed",
+            "hash": "C2C8659974079FA5A47074C5D45DC24471964E66E6709DBB288FE2087AAFBB3B"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/wifi_event/packed",
+            "hash": "E0C0694CD5F07F33ED3625A01EC7903C91247A64C39329834D8E9AFA0866D655"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/wifi_share/packed",
+            "hash": "FD91295E8345997BD1BE5E528BC598E7297B63A5904FF04CAEB16DB8296A8BBF"
+        },
+        {
+            "file": "content/patch/data/ui/lumen/ws_select_mii/packed",
+            "hash": "0A515568195477A38649C35994D007FAE7AEFAE9CD794F8C0C0E66EEBF68EEA3"
+        },
+        {
+            "file": "content/patch/data/ui/message/packed",
+            "hash": "E29D12402083498CAE895E0FC4343DD9390EC436C1C2CD1DD018A7AAF7137F19"
+        },
+        {
+            "file": "content/patch/data/ui/motion/packed",
+            "hash": "49B01210C646BDC71B3270ADB65CBDD373719A2B6256F59795F9F56F4371748C"
+        },
+        {
+            "file": "content/patch/data/ui/render/packed",
+            "hash": "7C3038E2579174DB30D5C50F8B2F3AC517140620D3F60DAB6DA346C621478DCB"
+        },
+        {
+            "file": "content/patch/data/ui/replace/append/chr/packed",
+            "hash": "09D45B9AB5E6D3C423B718DE4A450C23DE0F3A08F0781D345243ED092A1DDC32"
+        },
+        {
+            "file": "content/patch/data/ui/replace/append/customize/packed",
+            "hash": "957A5A3C5EE039C4300BB4ADC56E8EDFE1938FC2789A73169172FCC454C4A448"
+        },
+        {
+            "file": "content/patch/data/ui/replace/append/figure/packed",
+            "hash": "74055938A435F8E63DC62DD9F5AA7D62D39381B583CAEE332C85C364ECB8E17C"
+        },
+        {
+            "file": "content/patch/data/ui/replace/append/image/packed",
+            "hash": "47DB79BD41D042836C77F001E00FE748EA56B5B72AA01251803A21E5BDCAD41A"
+        },
+        {
+            "file": "content/patch/data/ui/replace/append/mark/packed",
+            "hash": "340643F4DAECABD15A8346F66C280FBFFF90ED62C925AD61596F791875F8CD56"
+        },
+        {
+            "file": "content/patch/data/ui/replace/append/movie/packed",
+            "hash": "7E21DB6438763230DCCEB6A5373F6BB787C5FB568DA0F8F6BB08E403E174D67E"
+        },
+        {
+            "file": "content/patch/data/ui/replace/append/profile/packed",
+            "hash": "446D207CAC65095B0192C8CB09D34FE9CB1DA69FDF4AC5CDA0BE608351520E85"
+        },
+        {
+            "file": "content/patch/data/ui/replace/append/stage/packed",
+            "hash": "E6E96C70949C77664537C1BD326D8C4CC360ED9D64E6ABFF72A91BFACDD3BAAD"
+        },
+        {
+            "file": "content/patch/data/ui/replace/image/howto_stgmake/howto_stgmake_07.nut",
+            "hash": "8CF06492E360087EC36DCECCD4D32199BD5FCC10AFBEE3AAF8C24C991C61EBF3"
+        },
+        {
+            "file": "content/patch/data/ui/replace/image/howto_tds/howto_tds_04.nut",
+            "hash": "0F518D3DA31AF7C306C014796B30B180D591FDBD89D40BCE9534647901421BE4"
+        },
+        {
+            "file": "content/patch/data/ui/result/packed",
+            "hash": "979FDAB6750DCC2F021A031D6021E077FEF4AE1FE3F7A4E8CDC8BCAD19EF6619"
+        },
+        {
+            "file": "content/patch/data/ui/script/packed",
+            "hash": "22F83B18AE54A3B047ADA9BC13794E1DE4E7056E692C93A9A716DBB99A73D097"
+        },
+        {
+            "file": "content/patch/data/ui/texture/append/packed",
+            "hash": "9027761FC06EA9FA23440D8EC9DDC417B5882F4C0EADAE2126893CEEE9890E74"
+        },
+        {
+            "file": "content/patch/patchlist",
+            "hash": "87274F6373AF2EF611DE1C54C1A0A38BAE6CCFA9EDA11FFDA90DB0A8581FBEB2"
+        },
+        {
+            "file": "content/patch/resource",
+            "hash": "A4B7C446D0A761C63656F198D0A6ED9BA62EA8B954B72BE2459BC15CBB7772BE"
+        },
+        {
+            "file": "content/patch/resource(jp_jp)",
+            "hash": "1CBB4582ABBE658F9AA07747135DAB91E67FB503DA6B81A054612F2FA1C2D257"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A45a_NEWU_Chijyou_SMMLink.nus3bank",
+            "hash": "E983097B3EED71294864544DDDCC9C58D11E7E3182A6BEFD77BDEFCFA8EB0055"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A66_SMB3_Chijyou.nus3bank",
+            "hash": "1D7A30E02DD06C0C4A33279D1F78788876B6AFE1AAD425E263D287C52146C053"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A66a_SMB3_Chijyou_SMMLink.nus3bank",
+            "hash": "BE80DDE9065C6BB309A44716851A7B2DD5624940F5B6B074595276C6274E9D01"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A67_SM64_Slider.nus3bank",
+            "hash": "BE6F6C84170A1C7BD845191278833DF4BFBCC49E31FCDF8EFC72CC18311D3D3B"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A68_MUSA_Chijyou.nus3bank",
+            "hash": "FFED5C416BDD2F7938749F21B655FDBE198C43524E32D77C67DC791C24B747A2"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A69_SM64_MainTheme.nus3bank",
+            "hash": "5369C7C040063A2C09AEEFFE7FE4DE0E55E238782F550BFAF52E646A4E54FDF6"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A70_SMM_Title.nus3bank",
+            "hash": "B2F9A2522607F3848AFF31496D54FA1720A54004896A86C9F8DE372F204AD299"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A71_SMB_Chijyou.nus3bank",
+            "hash": "217F8495C4D624DA3D510BB75A89B9A1D6E61C0B527EB735812A2AE7001DFEC1"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A71a_SMB_Chijyou_SMMLink.nus3bank",
+            "hash": "0CC9B38B46DDC316427F96C92972BF5DC20ABAD000CC46E4F9F6B5FEBD944C4E"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A72_WLD_Chijyou.nus3bank",
+            "hash": "142E48E6C2CEDF2F19604E5E95E78BD7DF390DB1F830903B33396FB0895FF11F"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A72a_WLD_Chijyou_SMMLink.nus3bank",
+            "hash": "BBE0ECC855F141C4C46973B75027E383B5A95AE8CF8118EDDD2B3245C4A45CE3"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_BY01_BY_OneOfAKind.nus3bank",
+            "hash": "131000854DFFF213F8B442EF68DBE5332A1138A87EA4C3509DAB7DB15E95257D"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_BY02_BY_RidersOfTheLight.nus3bank",
+            "hash": "B69E2E5B6AB7A2E45664C1F1756095DBE5305131CCD2342D151331B689703FB1"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_BY03_BY_MysteriousDestiny.nus3bank",
+            "hash": "B8AE4CA2DD173A60DBDFA456549912370D89BF0DC08281B0767D442265F40CE1"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_BY04_BY_LetsHitTheClimax.nus3bank",
+            "hash": "B5D1C435603DA0D681F301E4AD7690918735DDAB3C50C0896808FBC006761748"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_BY05_BY_RedandBlack.nus3bank",
+            "hash": "79EFA673E0137D7EA9249784E1CE8D593045FB014A34D3FBB258BAA28E943BD6"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_BY06_BY_AfterBurnerClimaxMix.nus3bank",
+            "hash": "C7C97ADF4AD2DC6964810B3E5C86ABD9004E7159356DD39B6159736073DB925F"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_BY07_BY_TomoYo.nus3bank",
+            "hash": "2E97DC0A1F8AD8C9A9D4EC43F34D89B52CE2BB8E72DF84D52EBFCB0865F8D720"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_BY08_BY_LetsDanceBoys.nus3bank",
+            "hash": "0CF233F17EFC39A46C504C258A1FE7D79771D32ABCA9251BD69E817B3E515398"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_BY09_BY2_TheLegendofAesir.nus3bank",
+            "hash": "9A289E805A173105B8E8FA341A50E5FC5EBE4BB8D8BBC61CCDD89BAEEB29768C"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_BY10_BY2_TomorrowIsMine.nus3bank",
+            "hash": "0C687DBC298BC5CCFDCFE2A79CBEDA9F8EC1D2491852A4E6B573F6C60E45A097"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_BY11_BY2_TimeForTheClimax.nus3bank",
+            "hash": "FEB06E6FA769705AF058D4D7BBD8EBD902CA2321E76C54805154EA78984B8117"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_C14_MNK_TerminaHeigen.nus3bank",
+            "hash": "5727F7AC0ECAEFCC19AB883EB3A233748DDAE7A5EF01DE0FC1FB3DDE26DFA08C"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_C33_ZLD_Chijiyou.nus3bank",
+            "hash": "979C3CB8305676F1BBAFF103DB4B87FB2C9D472027E9FD2AE96F16A475A52726"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_C34_TRI_OmoteNoChijiyou.nus3bank",
+            "hash": "4514AE06B73D4D7D91AAB05A33BBCCBD3050D9B7AF92395993CDC302C009907D"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_C35_TNO_HyruleMainTheme.nus3bank",
+            "hash": "087220CB0D19BCA57464894F3CE5D5EE9ACA2A1DC456A6CE58330352BBEC4237"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_C36_ZLD_Medley.nus3bank",
+            "hash": "DB86A77C87E3843EDBAF15EF4E06E5DB3DEA97EF24F753492CD8E823AFDEDF59"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_F27_AIR_MoriStage.nus3bank",
+            "hash": "47A496C608E6E601A1C2B56EBA32C2A41B4BF3D815AD3C690886D88EE15AC819"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_F28_KBY64_PopStar.nus3bank",
+            "hash": "6C3763238F5C4435824AAC234CEB3317B8547126A4D1675A56741D47E09F6E9E"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_F29_TDX_TamashiiNoTatakai.nus3bank",
+            "hash": "C1AD959FDC4B0352970240B1E5254B6FAC3C716069A3F253CDAAADFEC3DFDE65"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_F30_YIM_IceCreamIsland.nus3bank",
+            "hash": "E4F1B69319B67715ADAD10774F24575CCD6422879202DF693C5639F678AA5009"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_FF01_FF7_TatakauMonotachi.nus3bank",
+            "hash": "1731E4263C067585033DEEC5F60954F2D5E0F4C15AD4FE6FBBA9DB72A19EC9F6"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_FF02_FF7_SaraniTatakauMonotachi.nus3bank",
+            "hash": "364DE3816233F7428D5A4AC278C0FBA6E40F2CDC0D965F0EE870BC4CD93BE77E"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_J24_IF_HitoriOmou.nus3bank",
+            "hash": "FA7EE4758BC08FDDFA03F112545BDE6C6F466B821CADF0E6BBACB67DC2D22B14"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_J25_IF_HitoriOmou.nus3bank",
+            "hash": "3B1318BE7C86CA35E906171E07A5376AF364D986CE7BC43807D8A78BE1BB2560"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_J26_IF_LostinThoughtsAllAlone.nus3bank",
+            "hash": "D4C76AE68A4D39C74EC0ADA0AEF2AA67E1C2A1BCE7675B65D28B5B704155EBA4"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R70_RTG_BlueBirds.nus3bank",
+            "hash": "422830CDA273EE41D07C75BE123FC89A07E66193301B173517562D54B3EFE8CA"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R71_MRT_SaruDokei.nus3bank",
+            "hash": "CE640FE7BD677FF8762025067171EB64C5D881BFB1BF233803D3D1099E706F4C"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_SF01a_SF2_Ryu.nus3bank",
+            "hash": "884EB777C23F7DAC4FBF2168A7110D2E9A8E99E1A4CF4E3A196FA825EF10C669"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_SF01b_SF2_Ryu_Pinch.nus3bank",
+            "hash": "20266085C84E9B2A77C1AF896355572C0FBB6C0905EE4E3DD2C8D7CC4CA9B4BD"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_SF02a_SF2_Ryu_2.nus3bank",
+            "hash": "0458E2E3E1C7FC3141B6B70E6C657DF993CDB986588D195CEC80D480B6318745"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_SF02b_SF2_Ryu_2_Pinch.nus3bank",
+            "hash": "FDC28371ABAA83A9A2F9E3F303EAEF55D0BFEA1D52F97F504E898C8AAD175CE3"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_SF03a_SF2_Ken.nus3bank",
+            "hash": "64CA72BB135815C416E13E73CBADA7037B056A44F0C76A7B164BE2E6CC7ABAE1"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_SF03b_SF2_Ken_Pinch.nus3bank",
+            "hash": "B1292A2AA1E10F1B4FB65B36E92D2A8A382C4CCE7E854825A40C35FF1BA54B1A"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_SF04a_SF2_Ken_2.nus3bank",
+            "hash": "F6EFE1281F2F2928B985947511796C347FD049B66A0CF8E4785C8746D144AD05"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_SF04b_SF2_Ken_2_Pinch.nus3bank",
+            "hash": "F0BCD19F28B4FFE51F8C44AB02090D21A52B404C483C1F7F05A7ABB4E202554E"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_SF05_SF2_RyuStage.nus3bank",
+            "hash": "ABBE91C9D94DBBE3BB07EC7EDA595FAB43711101DB358E2965C8E2E2A67C6781"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_SF06_SF2_KenStage.nus3bank",
+            "hash": "16E25DA87F20CA9024B09636BDE008826867FDEC11E343D8983BB733143B10BF"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_T09_SDX_PupupuLand.nus3bank",
+            "hash": "0F035BDB78E7DC48B3263C4D1638412D3936F6D0A869DA6CC0F3A7F165D44F7F"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_T10_SMB_PeachJyouJoku.nus3bank",
+            "hash": "69B4569EAB66383FB1F1DC37572275D613E74C2441E717CFDB6EC3A3F9A20768"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_T11_ZLD_HyruleJiyou.nus3bank",
+            "hash": "6569CA061541121546D7D2D9653FA95BE32AD1B034B9866B416FEB0D46EECD03"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_W06_SDX_YumeNoIzumi.nus3bank",
+            "hash": "1C92E99433F5F3E6EBFE30F3E6F86EDA09459A821B88199459B2D811861AF322"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z80_F_Mewtwo.nus3bank",
+            "hash": "E4BF9AE276D04394B56C2EC88702889F1336F94A5BF0364BE8B2D2BE00824C7B"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z81_F_Ryu.nus3bank",
+            "hash": "B04BB012F41445879BD8742B3BFD1BDB241AA6F49E370787B1B93CE0E5CA88AB"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z82_F_Lucas.nus3bank",
+            "hash": "6ECCF0DB27BC8F7D7E6BA5BF155F89DB66F4721DC2FA08C61A2C4C3E6BCC71B1"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z83_F_Roy.nus3bank",
+            "hash": "0B02C6715C520B9ECCE22915FB777134C82ED9665869533F8C548F0D0BD6E41D"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z84_J_Orekyoku_SMM_Chijyou_Link.nus3bank",
+            "hash": "AE80DE26A025A9019FB966F74E7F02395B0806678089893B7E01B881D9B14405"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z85_F_Cloud.nus3bank",
+            "hash": "C4ADDB049E118A5D5FBB84A2C4A3F937029F73520B57BE29991316BDD5307DAF"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z85a_F_Cloud_Tournament_Champion.nus3bank",
+            "hash": "A51B4B26FE61A22C0EE5F513859878521EF54F04CC7B5BD836672B6D068A5C0C"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z86_F_Bayonetta.nus3bank",
+            "hash": "5D8C8C83ADE4421CF0D0801FF2370667467043808BD1C2496BA0E28068E09169"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z87_F_Kamui.nus3bank",
+            "hash": "E5BCA21177A79328481BD0A5EAFB23E73BC8086DDE4A1CCA3C83A610C7A7812A"
+        },
+        {
+            "file": "meta/CERO_ja.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/CGSRR_zh.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/COB_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/ESRB_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/ESRB_fr.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/GRB_ko.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/Manual.bfma",
+            "hash": "8A8870DAAE490C6E80FE09AB76598DC1F072A8F6FE039A553EE8139AE03E0ABB"
+        },
+        {
+            "file": "meta/OFLC_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_BBFC_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_Portugal_pt.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_de.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_es.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_fr.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_it.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_nl.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_pt.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_ru.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/RAR_ru.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/USK_de.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/bootDrcTex.tga",
+            "hash": "95AC0337B72F83A167DF485F674A888EE746E0B58737B4DE98DBB3BBF879443A"
+        },
+        {
+            "file": "meta/bootLogoTex.tga",
+            "hash": "91B63D9C03F7F9153C8B9FC8179E1CCCB6F4AFC60204B988D91D1B5EFCEE4AA8"
+        },
+        {
+            "file": "meta/bootMovie.h264",
+            "hash": "069FD8C5713F4B23EA1098D2674BCC839E610BA844683BF532E1E6CB10642621"
+        },
+        {
+            "file": "meta/bootSound.btsnd",
+            "hash": "5B92B324559F7A23E19F599F258DE32E0CCAAB986C31D0C03FA72B9B13D4B96F"
+        },
+        {
+            "file": "meta/bootTvTex.tga",
+            "hash": "58F0A7BCA840D5E1BB6980BA5B55D3C0604363193C701D49F1E935BA5EAC1F8F"
+        },
+        {
+            "file": "meta/iconTex.tga",
+            "hash": "A932E443B0E9BCE284D931D0FC894A7754D89A4566BA9E94C73210F7E09B03D5"
+        },
+        {
+            "file": "meta/meta.xml",
+            "hash": "55C572DC0B37AFB18838FFC13355AAB3B6CCB3D663E2D234082B8F79967EA752"
+        }
+    ]
+}

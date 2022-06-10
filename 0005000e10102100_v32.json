@@ -1,0 +1,259 @@
+{
+    "title_id": "0005000e10102100",
+    "region": 4,
+    "version": 32,
+    "files": [
+        {
+            "file": "code/Lunch.rpx",
+            "hash": "48FAFE04F87296656C092BCD7F873CD2243B4E99879D3FFDC35C1037D2AD601A"
+        },
+        {
+            "file": "code/app.xml",
+            "hash": "084370DA608AD2B8DEE6FA81882D7ADB4D394BB3F4EB568EB1A950F487F4CE0B"
+        },
+        {
+            "file": "code/cos.xml",
+            "hash": "C7C6FA62070A041954D04AE17ACBDC61703718E25969F5C7C64AF7A543AABF2F"
+        },
+        {
+            "file": "code/preload.txt",
+            "hash": "32408C1FE28ACA8C8D9CDB9B7F3ABA03D318AFBA087A7F3ED735385EA5D46B39"
+        },
+        {
+            "file": "content/Common/Model/Cmn_Mii_Mro.szs",
+            "hash": "9BA9DF3ECCD07B6F21051DB2228C33CD12DDF22539E93D456974224E96C63EB4"
+        },
+        {
+            "file": "content/Common/Model/Mro_Field03S.szs",
+            "hash": "D9121F137439AFA903E9CAF149F90D9EBFE2E0CD7AA2873466AE275527D3EA2C"
+        },
+        {
+            "file": "content/Common/Package/Mro_Cmn.pack",
+            "hash": "CC3051316FEBB111A856F9ECDDB061AF6A13457E182C7769FF7628E1A12EC050"
+        },
+        {
+            "file": "content/Common/Package/Pkm_Cmn.pack",
+            "hash": "05CEC170918BE5CCBDB31CCCE200B8369E292EE04C11997AFCFB62F46CEC03D7"
+        },
+        {
+            "file": "content/Common/Package/Static.pack",
+            "hash": "9694B93DFCD92F33E16F77C636D9C1C415816E65CCF14D3582DFA8A42129D4E0"
+        },
+        {
+            "file": "content/Common/Package/Static2.pack",
+            "hash": "6C70BF75816949778786D1ABC09483974DD945A8888BE946C3C25A40936F69AC"
+        },
+        {
+            "file": "content/Common/Package/Ttl_Cmn.pack",
+            "hash": "5B1A10BF335A94DE98AE12DBABA369702F965BEDECCF4E2D7E4FC9D3830E63B7"
+        },
+        {
+            "file": "content/Common/Package/Ysi_Cmn.pack",
+            "hash": "B1CB7115405D3AD6D98ABE7811C62036DBCE81DF44FB09EB631BECAE666B0F9D"
+        },
+        {
+            "file": "content/Common/SeadResource/GSysRoot/gsys_resource_cafe_dev.szs",
+            "hash": "089626665391E6F8BF5B70EA340EAC5B13F00774BC8EC42C03155E04B68772BE"
+        },
+        {
+            "file": "content/Common/Sound/lunch.bfsar",
+            "hash": "6CC5EDA15D7E53F80A6E562EFDD0FE3A4B6F7D78BE8EDCDCAB14C38965BCD8E7"
+        },
+        {
+            "file": "content/Common/System/revision.txt",
+            "hash": "C6F1C38658C6C20CECB05DF95F16E36C15202444A26EFF3D2F5993321C13BB47"
+        },
+        {
+            "file": "content/Common/System/timeStamp.txt",
+            "hash": "89CBB4B60F66BF1BD73E7350054B4331370D79CC3F563E9F7C2B1B99951AEDEE"
+        },
+        {
+            "file": "content/EuDutch/Message/AllMessage.szs",
+            "hash": "5E738599591232348CB50AAC659724A3BB40A5C57F11940CD63AF9932B346539"
+        },
+        {
+            "file": "content/EuDutch/Voice/Atr.sarc",
+            "hash": "93990D6CBE7E58414728E537B8C5DE7949381DF1D1D83448037B1D9CB8A26B45"
+        },
+        {
+            "file": "content/EuDutch/Voice/Mtr.sarc",
+            "hash": "10D98397C82DFA197D53E7F1BF5C5398256E7C0F1CE0956458D8E496BB13F2B4"
+        },
+        {
+            "file": "content/EuDutch/Voice/Nzm.sarc",
+            "hash": "F9FDEE7D56AFDDAD02E7B7F97860BCC9A349EB839DDA130CD696BB3A502E23DE"
+        },
+        {
+            "file": "content/EuDutch/Voice/Pkm.sarc",
+            "hash": "90B84354650C233D251F86A689EE602D1C1D277879BFA389827794158D5ABCB2"
+        },
+        {
+            "file": "content/EuDutch/Voice/Ttl.sarc",
+            "hash": "DFCB266CE9E83A9325D950C96D9B4BC40B4061BFBF338DB14ED4ECD232E01D81"
+        },
+        {
+            "file": "content/EuDutch/Voice/Ttl_Statue.sarc",
+            "hash": "12E73A067269DFAE2B0FBE1C5AF6E8F3C0DE312055E8975AC364141023F77E2B"
+        },
+        {
+            "file": "content/EuEnglish/Message/AllMessage.szs",
+            "hash": "316C0D5D21D8A801DEE7B6154A42BA9FFB5153E8364687A8E1EED44FCBB0B379"
+        },
+        {
+            "file": "content/EuEnglish/Voice/Atr.sarc",
+            "hash": "1244E0AC730D0B11AC94E562BA8BB7E73D62B3237325F673487627BD81F487CE"
+        },
+        {
+            "file": "content/EuEnglish/Voice/Pkm.sarc",
+            "hash": "285159B0AEC80EC5367D1B27D6F957B00E5E1B7E0D3995C352297C3968B7C84B"
+        },
+        {
+            "file": "content/EuEnglish/Voice/Ttl.sarc",
+            "hash": "3CB41E9DC9A1BD08ED27DBE806F1A80FC75BE3AFF4D17CD44B8B81E6F26405EB"
+        },
+        {
+            "file": "content/EuEnglish/Voice/Ttl_Statue.sarc",
+            "hash": "E4164A5420796D82AA5B0754BFE0EB99405742A6C828AC16DD8C96BC7F0D170F"
+        },
+        {
+            "file": "content/EuEnglish/Voice/Ysi.sarc",
+            "hash": "CC544F0F926E4D2DDC6A6674686B95D7E6475F163044259940C3CF6D492EBC38"
+        },
+        {
+            "file": "content/EuFrench/Message/AllMessage.szs",
+            "hash": "ED02372009C53429F82CEF302A199A09CFF68B9EEFA1ECF67E8464FE114DC442"
+        },
+        {
+            "file": "content/EuFrench/Voice/Pkm.sarc",
+            "hash": "04DE523C47326965BB516F8223B4CA8F7C7F9CCE456D94FF04C4B197F5F52E56"
+        },
+        {
+            "file": "content/EuFrench/Voice/Ttl.sarc",
+            "hash": "9E5CE06B375134824E060BE0BEDC6504FAE3315F124D598D2124C5CA4E5F7F27"
+        },
+        {
+            "file": "content/EuGerman/Message/AllMessage.szs",
+            "hash": "C4993956F42D60E55C82009224E5173E1BCC93E77AA6ECBE1AA87949E104643B"
+        },
+        {
+            "file": "content/EuGerman/Voice/Atr.sarc",
+            "hash": "69CCAA0D9550F6D6C700883C540A44E010F7EF022C1FB718B87000DBF4B12CA2"
+        },
+        {
+            "file": "content/EuGerman/Voice/Lig.sarc",
+            "hash": "57B7A024F5AD0FD72B8E8E818121B86C463230EFF326D8C12900F77E1A02034B"
+        },
+        {
+            "file": "content/EuGerman/Voice/Pkm.sarc",
+            "hash": "224251E3FD5D6D10D8BEFD4740814457C51D2EBD3472C69EF0D217BB970E43A1"
+        },
+        {
+            "file": "content/EuGerman/Voice/Ttl.sarc",
+            "hash": "93FE9A0FE7287D12548B16D414935525489AE5E18F769A515F3EA83157603E13"
+        },
+        {
+            "file": "content/EuGerman/Voice/Zld.sarc",
+            "hash": "0430A6C44C468BFDC503FF1545F1FE579193B077DBB4EEB490ED6803787806E6"
+        },
+        {
+            "file": "content/EuItalian/Layout/Font.szs",
+            "hash": "E82DF7C14364C1B5FED72AD3ED23965C6D92030B48C89F3F2A8F5A78ADE45B35"
+        },
+        {
+            "file": "content/EuItalian/Message/AllMessage.szs",
+            "hash": "332667734BFF744B199DA4AEB6DB6CF0177885E43C9853829228593A520B627C"
+        },
+        {
+            "file": "content/EuItalian/Voice/Atr.sarc",
+            "hash": "6478EC1DC430B985BB17F24B596C277E78E9CE99F76DC263CC0CB8E6433C1A26"
+        },
+        {
+            "file": "content/EuItalian/Voice/Pkm.sarc",
+            "hash": "F403E181448FAF6F5E32DC1A1B4B1A7E04490154BFD4B8EC933BB9AE2D76426F"
+        },
+        {
+            "file": "content/EuItalian/Voice/Ttl.sarc",
+            "hash": "A1381E50A3DF4E06B08B1B27C334CFB50D5BA279CA16EF65325120515B170863"
+        },
+        {
+            "file": "content/EuPortuguese/Layout/Font.szs",
+            "hash": "8CED023A2F718188CC48470B974207161810628A7F29841013DD8B44ADDBBE6D"
+        },
+        {
+            "file": "content/EuPortuguese/Message/AllMessage.szs",
+            "hash": "23A601B82C0D35C3A972EFC1316648C60EFF3ACA10B3FDE04F4B41BA2169D144"
+        },
+        {
+            "file": "content/EuPortuguese/Voice/Atr.sarc",
+            "hash": "9B2B0D8CB78FA93C70B7741AD4756AA3F6A241A041A6127B4BE9FA3ACEDC3D46"
+        },
+        {
+            "file": "content/EuPortuguese/Voice/Pkm.sarc",
+            "hash": "72A2CA7DA3585E6AABB9D695C2AD67ACBF702D2E4136388D86CE435A8E623C14"
+        },
+        {
+            "file": "content/EuPortuguese/Voice/Ttl.sarc",
+            "hash": "4CBCCFACE5BFF748B7CCB0A734E0A2877CBF5400BE50BE91A771F4A41C19F101"
+        },
+        {
+            "file": "content/EuRussian/Message/AllMessage.szs",
+            "hash": "8BFC54154ED260535452E359411E8D82B1E055700CD7DDFF9F261F0838002F4E"
+        },
+        {
+            "file": "content/EuRussian/Voice/Pkm.sarc",
+            "hash": "D6A67F61FAEDFAC9AA9BEB995760A8F41A8F6F2090C06E0D6A70AB7CFA9183F9"
+        },
+        {
+            "file": "content/EuRussian/Voice/Ttl.sarc",
+            "hash": "48D2B31AA86488D42311DDDA3FA46A95EAE682F38BA11F5D13BE763CF57083F9"
+        },
+        {
+            "file": "content/EuSpanish/Message/AllMessage.szs",
+            "hash": "95E68CED518C0432FD1C77FA646B6D369CE2CC7CA3FAF56606FD9DF4E0DD7AA2"
+        },
+        {
+            "file": "content/EuSpanish/Voice/Pkm.sarc",
+            "hash": "0AF35ABAC274F221E7A6078D1FF811ED223C0E5ACCE36A2688D76AD0307038B3"
+        },
+        {
+            "file": "content/EuSpanish/Voice/Ttl.sarc",
+            "hash": "ABC8F33A5F2022C52451CE6700D33605DA2368C2A7CFDC2B53A02DB1599BBB24"
+        },
+        {
+            "file": "content/EuSpanish/Voice/Ysi.sarc",
+            "hash": "4F1B58D475A0A2CBF643AE2614CC21B0EBCFE7CC8C0C4CC20AA9E8BF3050EDB0"
+        },
+        {
+            "file": "meta/bootDrcTex.tga",
+            "hash": "925CE96C030CC4F335BABBE94590B54E6C96D46E0F169B8A6C98CB8465DACE8B"
+        },
+        {
+            "file": "meta/bootLogoTex.tga",
+            "hash": "91B63D9C03F7F9153C8B9FC8179E1CCCB6F4AFC60204B988D91D1B5EFCEE4AA8"
+        },
+        {
+            "file": "meta/bootMovie.h264",
+            "hash": "069FD8C5713F4B23EA1098D2674BCC839E610BA844683BF532E1E6CB10642621"
+        },
+        {
+            "file": "meta/bootSound.btsnd",
+            "hash": "1311CC05155DCD92D2ED26E44B9BF7EF543AF512B6151F4AB5B84152648F13D0"
+        },
+        {
+            "file": "meta/bootTvTex.tga",
+            "hash": "64E1F5A9E7810E4906BC2E759B35D122B70A018B8327A5C1C7DD291B7939F6DF"
+        },
+        {
+            "file": "meta/iconTex.tga",
+            "hash": "79CD784934DF8D2BB6DB34BE067EF7192054837658614302455196A202805880"
+        },
+        {
+            "file": "meta/manual.bfma",
+            "hash": "71CEF2D1FA8EE8583661F1F1EAE6B4FCBD6E2EEFA04871D131E21E59B730AFDD"
+        },
+        {
+            "file": "meta/meta.xml",
+            "hash": "7921E85F8787AE1EFA79193288F7B011F17A98E06B59836370AC1557AF62A41E"
+        }
+    ]
+}

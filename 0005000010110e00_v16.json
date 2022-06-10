@@ -1,0 +1,3067 @@
+{
+    "title_id": "0005000010110e00",
+    "region": 1,
+    "version": 16,
+    "files": [
+        {
+            "file": "code/app.xml",
+            "hash": "310F7C6DA23E6277E125666B2080188A917BCB3D2453EF1F163DA195152EC0F8"
+        },
+        {
+            "file": "code/cos.xml",
+            "hash": "ED668B94ADFFF53CE16FFB489F70F8244FD5F8468C495AB631BD02CB320EDCEC"
+        },
+        {
+            "file": "code/cross_f.rpx",
+            "hash": "1C5F284F546A55B46095EA2E26D173391F552514D84BACB62F6DC84153DD3251"
+        },
+        {
+            "file": "content/dt00",
+            "hash": "FCA7863081A1AB7003CF0A7B8A1BE02C62D6EC5890006445DF12E129AA5E2E17"
+        },
+        {
+            "file": "content/dt01",
+            "hash": "364B68FBAA15BDF3705DC843511977639F7145AD34A815E7FD287A6A0F49BC48"
+        },
+        {
+            "file": "content/ls",
+            "hash": "8D67A17A45896969502809EF9A96DB939D74005BE695A98553006E7332F92BFF"
+        },
+        {
+            "file": "content/movie/crs-f_mov_01_OP_JP.mp4",
+            "hash": "6CC5030ECB42E77D27E1E8D15F6CCB45EFB9319B181398674D5EEC82C05A3BB0"
+        },
+        {
+            "file": "content/movie/crs-f_mov_02_HowToPlay_JP.mp4",
+            "hash": "FA9F9E4C80A0F0AF357549036D481844EE4B5AF3A81F676F34EFC6774F0A8B83"
+        },
+        {
+            "file": "content/movie/crs-f_mov_03_E3-Main_JP.mp4",
+            "hash": "7855A79F16600C4F4EC09D632DB6B1A80C7F4ACE8EC3C06336506D3A7E5F31A5"
+        },
+        {
+            "file": "content/movie/crs-f_mov_04_Rockman_JP.mp4",
+            "hash": "7140140AB24180DAB08D56D1CDE66F1A6A29387BC42C148CB04835071E46A0EB"
+        },
+        {
+            "file": "content/movie/crs-f_mov_05_Wiifit_JP.mp4",
+            "hash": "50A3ED2B56196297F5D25AB67944A9F7D1C663AC3882B4881C2332040AAE941A"
+        },
+        {
+            "file": "content/movie/crs-f_mov_06_Rosetta_JP.mp4",
+            "hash": "790453665A122461B1871FBEA979BD98F5CFE697453DE5391315062493AB0FFE"
+        },
+        {
+            "file": "content/movie/crs-f_mov_07_Littlemac_JP.mp4",
+            "hash": "37FBE6AED92975E66E04FB0724FAF7CA988615A7CE367C0FA87991107CE265B1"
+        },
+        {
+            "file": "content/movie/crs-f_mov_08_Gekkouga_JP.mp4",
+            "hash": "274F4354F4B3CB9345CF2BFACDB7F08AA7BCBEBF35AB8D4DD50AC3FDCCF85E65"
+        },
+        {
+            "file": "content/movie/crs-f_mov_09_Palutena_JP.mp4",
+            "hash": "774304A2CAD12902C66E4F40006FD1A0195D24C0137F42BBFED6DB327BE05FAF"
+        },
+        {
+            "file": "content/movie/crs-f_mov_10_Pacman_JP.mp4",
+            "hash": "089AECA6C927490724BCF8ECFFC760474E760F6E75CAB24249ACEFD73B92C0EB"
+        },
+        {
+            "file": "content/movie/crs-f_mov_11_Reflet_JP.mp4",
+            "hash": "64BCA40DC2396B6ED73CDBA0C9D95D965D09A4C03C079617AD3D516B3ED0811E"
+        },
+        {
+            "file": "content/movie/crs-f_mov_12_Shulk_JP.mp4",
+            "hash": "4FA67530E043AA360A4EAC0972E31C96874ACBFAFFBA6C4B210DF39B95BCF4CB"
+        },
+        {
+            "file": "content/movie/crs-f_mov_13_Duckhunt_JP.mp4",
+            "hash": "AE3C0A633A88239568AFC4F7544D1F345DB370AD431A9C47A396E0085E507F01"
+        },
+        {
+            "file": "content/movie/crs-f_mov_14_KoopaJr_JP.mp4",
+            "hash": "0F7DAABC8BB23464EA4E1D183D3F3134583920C46A4FD0F615FF8E592CBCCBA5"
+        },
+        {
+            "file": "content/movie/crs-f_mov_15_ED_Mario.mp4",
+            "hash": "53C67BEF77FD5A6D772AB38B94CE5BB5BBEFFC2BE7BF98C54754CB6A876B97BE"
+        },
+        {
+            "file": "content/movie/crs-f_mov_16_ED_Donkey.mp4",
+            "hash": "AE818D51E2E8B477C21831807F31422B5C03F65FD8CA1824FFDD7D586AA2B7A7"
+        },
+        {
+            "file": "content/movie/crs-f_mov_17_ED_Link.mp4",
+            "hash": "D49EB86F2DB2B4996E509EE4BA0555E67D1B1204BF50E3994EB754D67D8D2376"
+        },
+        {
+            "file": "content/movie/crs-f_mov_18_ED_Samus.mp4",
+            "hash": "232A3DB70D639DB39B8DD48769C8BA9E4D5060A11B63DAAD4E2EDF59D3900442"
+        },
+        {
+            "file": "content/movie/crs-f_mov_19_ED_Yoshi.mp4",
+            "hash": "2FA83F16782AB93E24DCB4DB788BC04E3752267C1E3ACEA3CDDADFD3CFCABB48"
+        },
+        {
+            "file": "content/movie/crs-f_mov_20_ED_Kirby.mp4",
+            "hash": "B508C0D621DB4B74434929AA5AF7818B7B2413A62A372D30BA6425166BFCBE76"
+        },
+        {
+            "file": "content/movie/crs-f_mov_21_ED_Fox.mp4",
+            "hash": "E40FC94E15E4984E078735C39698854C5F79440216DD8BA59B250E8114391394"
+        },
+        {
+            "file": "content/movie/crs-f_mov_22_ED_Pikachu.mp4",
+            "hash": "E908197566729F2FFB3E7A24BCCE82ADC7DA9797482FE54A64EEE7CAEE193FF2"
+        },
+        {
+            "file": "content/movie/crs-f_mov_23_ED_Luigi.mp4",
+            "hash": "30E9B1163AB74964F6A14D30B99A12F1E4778FFC3AEB4315E39EA3EA196B11C1"
+        },
+        {
+            "file": "content/movie/crs-f_mov_24_ED_Captain.mp4",
+            "hash": "62B7DA900764E75FE10B882B486CA3637761DCCC353CF064923792B2CA1C728F"
+        },
+        {
+            "file": "content/movie/crs-f_mov_25_ED_Peach.mp4",
+            "hash": "268F8E9475458796B82C9F673D21202CA1888A829E1009944C3AB8A8B3A9DB28"
+        },
+        {
+            "file": "content/movie/crs-f_mov_26_ED_Koopa.mp4",
+            "hash": "418CB0481E7A908248B27F0F7CC4F92F150B6018D172D73B434C28817F2D409A"
+        },
+        {
+            "file": "content/movie/crs-f_mov_27_ED_Zelda.mp4",
+            "hash": "ED4C54D1A78C2F31D05003ED6B8C6A628A1323F374DA64F5C9AD647A244862A6"
+        },
+        {
+            "file": "content/movie/crs-f_mov_28_ED_Sheik.mp4",
+            "hash": "9B93223058E763FDD0FA5CB51654828E3A0CDF718422029064267D450DE73D34"
+        },
+        {
+            "file": "content/movie/crs-f_mov_29_ED_Marth.mp4",
+            "hash": "931B3198DA02B99381A63C1BE2CB2106F11A61D0486EA066A47A590C9B183FF9"
+        },
+        {
+            "file": "content/movie/crs-f_mov_30_ED_Metaknight.mp4",
+            "hash": "35953BBE3DD05C0D22B82037571F250943392FF6292DA2837CC2E5C179DBA1B1"
+        },
+        {
+            "file": "content/movie/crs-f_mov_31_ED_Pit.mp4",
+            "hash": "053C6107AF797706BB4B8322C22576041848E79CF121D5D423E69949DC71467D"
+        },
+        {
+            "file": "content/movie/crs-f_mov_32_ED_SZerosuit.mp4",
+            "hash": "83C0696A09667BE1DB51D3F132B722A4D8F35E8F4EE30CE427E1EF1C54981CFB"
+        },
+        {
+            "file": "content/movie/crs-f_mov_33_ED_Ike.mp4",
+            "hash": "A75514073EC779D474A8AEA774C9F369A523034013EA24973BFE72D801E25B3F"
+        },
+        {
+            "file": "content/movie/crs-f_mov_34_ED_Lizardon.mp4",
+            "hash": "459E2F3814ABEFFCC2E1A46034CD2909DB224A3063AC86EDE18C4724F04D73C1"
+        },
+        {
+            "file": "content/movie/crs-f_mov_35_ED_Diddy.mp4",
+            "hash": "024E2B5D1948603A6E7EAE3D6FB641B6E290EE667A66C722C6A3B25668682120"
+        },
+        {
+            "file": "content/movie/crs-f_mov_36_ED_Dedede.mp4",
+            "hash": "E325345560C761A72C907A4BEB136131C8851F69027D824C3D0002C129149E48"
+        },
+        {
+            "file": "content/movie/crs-f_mov_37_ED_Pikmin.mp4",
+            "hash": "1E0BBEC0DECC366C2E2F0089A355C766C61201203A889EA3F6C808D0F2950CC1"
+        },
+        {
+            "file": "content/movie/crs-f_mov_38_ED_Lucario.mp4",
+            "hash": "30246817A80F23B8C35D2F1EC1B01CF27D0FF643D5C74353D758356A5DE6A611"
+        },
+        {
+            "file": "content/movie/crs-f_mov_39_ED_ToonLink.mp4",
+            "hash": "8DADCDB52016BC44D0FBA3204AFEABDDB406B84BE239FCAA55A215A3446E4027"
+        },
+        {
+            "file": "content/movie/crs-f_mov_40_ED_Murabito.mp4",
+            "hash": "5BA2322A1F1C1023546DA55AD9503C985F8580DCD65F750D1E3BBEC7392EBCE9"
+        },
+        {
+            "file": "content/movie/crs-f_mov_41_ED_Wiifit.mp4",
+            "hash": "3F90CF7E9EE880CAEF97875BA0BE2CBA651C6695BC0E305DDF7E8D09302D4CFB"
+        },
+        {
+            "file": "content/movie/crs-f_mov_42_ED_Rosetta.mp4",
+            "hash": "07EC26FBA3823F5E2B7B4BC37F83DA5A5DBE48402F1285D3CBBED85629FDD40B"
+        },
+        {
+            "file": "content/movie/crs-f_mov_43_ED_Littlemac.mp4",
+            "hash": "92FB797FA533B92BA30E40715B6B4E070B973BBDD996E9FA2BF5A52B0AE6C75B"
+        },
+        {
+            "file": "content/movie/crs-f_mov_44_ED_Gekkouga.mp4",
+            "hash": "154C5A741E96DCDA804A1872FD30ABDA4A56E169D0F50FA50C3452332D255356"
+        },
+        {
+            "file": "content/movie/crs-f_mov_45_ED_Palutena_JP.mp4",
+            "hash": "1B1BB72B80B10ABA1104F7F43E251C259B5F6785583999F4F7A7C69411E42BA6"
+        },
+        {
+            "file": "content/movie/crs-f_mov_46_ED_Reflet.mp4",
+            "hash": "572D5B042C565DE91A1FDA57074B5C1AD2B6596EA5B804AF671BD5B31696D968"
+        },
+        {
+            "file": "content/movie/crs-f_mov_47_ED_Shulk.mp4",
+            "hash": "DC98DA95F13841240445EB42966ECE27682C147227BBB85FBE2D4F873500A130"
+        },
+        {
+            "file": "content/movie/crs-f_mov_48_ED_Sonic.mp4",
+            "hash": "09EB91EF5A003BF8E7624657A0DD588E45CE1F22FD0D70580B1F26C8D617B77D"
+        },
+        {
+            "file": "content/movie/crs-f_mov_49_ED_Rockman.mp4",
+            "hash": "4D8E1BFBEEFF2E3511A72A94DB2C8773115064FF7DBA213D15A8E49C0B401D71"
+        },
+        {
+            "file": "content/movie/crs-f_mov_50_ED_Pacman.mp4",
+            "hash": "6989F005AF62064F3F3FB22A889552FBBD8A43642515C04A476C9E0E879D28E3"
+        },
+        {
+            "file": "content/movie/crs-f_mov_51_ED_Mii.mp4",
+            "hash": "527E10490D4E3AE50B38F153A2021971FBE9E3453E76AB15EED8A8E70C35E3D3"
+        },
+        {
+            "file": "content/movie/crs-f_mov_52_ED_Ness.mp4",
+            "hash": "F5FB2F96C610517649F6B57D37A06502C0933F696071EA65D5E4CDE289489E93"
+        },
+        {
+            "file": "content/movie/crs-f_mov_53_ED_Purin_JP.mp4",
+            "hash": "CA4F081EC9EACE1FA87FC1B35632773A583F153BAEE451C2776E379D001311CC"
+        },
+        {
+            "file": "content/movie/crs-f_mov_54_ED_Falco.mp4",
+            "hash": "05470B1888DE1B6064047FA7340604C88A66EB3A4CD3C8AEE353CFCC6450B98A"
+        },
+        {
+            "file": "content/movie/crs-f_mov_55_ED_Ganon.mp4",
+            "hash": "283CF87C78BD8E59284B497DEB602B184695E246EB6A76B8A604E77DC30D38EE"
+        },
+        {
+            "file": "content/movie/crs-f_mov_56_ED_GameWatch.mp4",
+            "hash": "964D84C540876218FBE1CC85EBBCE8F793F75DC8C3C021D8F1D061F939B54DD2"
+        },
+        {
+            "file": "content/movie/crs-f_mov_57_ED_Wario.mp4",
+            "hash": "DF9EC8F7BA1ABA69915C841A55B7970D044011C404C0A7DF2005F97CCA055711"
+        },
+        {
+            "file": "content/movie/crs-f_mov_58_ED_Robot.mp4",
+            "hash": "72803E7128E858B9DCCEF926C03047FD38AE02AE0FAF69F3B1831197DD81FBB4"
+        },
+        {
+            "file": "content/movie/crs-f_mov_59_ED_Duckhunt.mp4",
+            "hash": "9571F97346CDC9986F22E64781ED1B97B433F2D2F5F43A0EA348E627B28E9562"
+        },
+        {
+            "file": "content/movie/crs-f_mov_60_ED_KoopaJr.mp4",
+            "hash": "44BFC720790F93790C3F9E069B7695BED24E9E6FC444C87641AE493F378FEA16"
+        },
+        {
+            "file": "content/movie/crs-f_mov_61_ED_MarioD.mp4",
+            "hash": "6BFE1E242F0506F9F6E5693910FF604361DCE3FBF8B1D845470AE470A35877B9"
+        },
+        {
+            "file": "content/movie/crs-f_mov_62_ED_Lucina.mp4",
+            "hash": "1CA9432FCE756DCA0A63AB51D3FB6C913FD9FEE8B8AB43084F0CEFB8905CFE20"
+        },
+        {
+            "file": "content/movie/crs-f_mov_63_ED_PitB.mp4",
+            "hash": "081339F2BD831E072D163D68C0FFA1CF5391E26780EA07EC5D04BA03DC4C8D76"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A01_SMB_Chijyou.nus3bank",
+            "hash": "15214036CBC20948BDB5D2A7B47458FAC842CB378A40BC2D368BA53423158207"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A03_SMB_Suichu.nus3bank",
+            "hash": "3C64CDC4976FD67D5256463D2F7D68433586D043765F71B4DC48F58D3598F42C"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A04_LND_Chika.nus3bank",
+            "hash": "7388EA39382AFF841BA5F375823BBD9AFAA48887C6C77342834315C1C3A8E6C6"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A05_SMB3_Hikousen.nus3bank",
+            "hash": "924A1E29C92034F319DDA104BD3979B6DDA930DF1B450A45FBA5B00C40D8154A"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A06_WLD_Castle_Toride.nus3bank",
+            "hash": "CED5358B67389BD1562AFC80A37A7E912C6B2F958330FA96E38FF900DCCD07FB"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A07_WLD_Title_Ending.nus3bank",
+            "hash": "8549C7320679762038638D4B5F204B25041ED20FCCD1D7FFE50F041D39154001"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A08_NEW_MainTheme.nus3bank",
+            "hash": "5D581A184D400996411BFBCF1AC0B5DBD30508A59ABC1DED9CB7D8D612EF3ECA"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A09_LM_Theme.nus3bank",
+            "hash": "516F5ABCBEC0187E81244D098C1727BDDCD5DB02F9A70A6D8D7C9653F70193EE"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A13_SMS_DolpikTown.nus3bank",
+            "hash": "6EAD24A3AE06EA787E15B8B1B936EA5B090CAFE99E8FD65076434E9C7E4D1361"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A14_SMS_RiccoHarbor.nus3bank",
+            "hash": "5F817F8ED58D231B19C3E39945C63DB23959D16A53B4DDF33DDE3BD21E733F90"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A15_SM64_MainTheme.nus3bank",
+            "hash": "3EA5261C2ADBB1A3926E395FDC7EE6CDF543582635469E2F7848665D32734FFA"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A17_MB_MarioBrothers.nus3bank",
+            "hash": "C3EBC24B728C449462B82A185EF69185B1A7FE0B30F3D21E34F0403B49EC1308"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A20_SMK_MarioCircuit.nus3bank",
+            "hash": "9BA58B3A20B54A9D9AFD2B05508F9D69D19770AE47BCA59011C97618B267C607"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A21_MK64_LuigiCircuit.nus3bank",
+            "hash": "F128334B93F4815F5820FB19D819ADEEE5E220D3F5A74ECB572FBA34987E4581"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A22_MKDS_WaluigiPinball.nus3bank",
+            "hash": "4F57C097EC09AB4673D22B7CEFD622226AC2ADF2CB2B3296D6F94D85F310F790"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A23_MKDD_RainbowRoad.nus3bank",
+            "hash": "867EFEC88D3FA8B9227AA0230E5AB77B6E95C76C6BB51A194B2DFA197CC70F5D"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A24_SMB_Chijyou_Chika.nus3bank",
+            "hash": "3365BFABBE9A540A0E0DA094886D147D1E209B88FBEDADDE987FD0F174D6E3E6"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A25_SMB3_Medley.nus3bank",
+            "hash": "776CD948DA73738B4C329646217AAEDD406980B84746363354689B792A7FC91C"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A26_NEW2_Athletic_Chijyou.nus3bank",
+            "hash": "A328E0440E53A7BC0DCB1E6B9D9576CD64A11C831AEABEAD5EE26661E53FD9EA"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A27_3DL_SMB_Theme.nus3bank",
+            "hash": "828F0A627EDE222607D4E0D04C4AE2035A488F40D74F85B4E2DEED917617332A"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A28_MALRPG4_TryAndTry.nus3bank",
+            "hash": "515F54C82506EBF2ED75D0629DDAF0073F9681C0C093B2B0C406504C1837651C"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A29_PPM_Medley.nus3bank",
+            "hash": "4BAD8592C358C906D8EFBD12A611B62A2085D3E68049DD8E07B3FF2A4B91469F"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A30_MKT_RainbowRoad_Medley.nus3bank",
+            "hash": "AA1D896C1F3087E9950A0E5CB58B3E30B0B0F5337394378281060D3D4BDF9FA7"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A31_MKT7_RainbowRoad.nus3bank",
+            "hash": "AF621B7B192C73B00AFCD0870B2B416C157D8483E6A2DCB18CEDE7D156944682"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A32_SMB_Medley.nus3bank",
+            "hash": "2B0CBF36C71B30D999A4DFD2EA40269400D2B0AF91B3620C7CCC3A60372446DF"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A33_SMB2_Medley.nus3bank",
+            "hash": "19F701BF195F8EF36CB121342124DAEED8F47349B9F74909818AF217DD653064"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A34_NEW2_TouBoss.nus3bank",
+            "hash": "21B05118F9781458049126B786856F78BF7A57FE3E30010472FFFC52CAD56839"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A35_WLD_Medley.nus3bank",
+            "hash": "F3A89B35DD4FF0667D098613F87920F10EC999F47C0F0B28D6A7BA9196DDC210"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A36_MKT7_Circuit.nus3bank",
+            "hash": "C8C92E2E7EA26DD457CDE96E3EF68009FB3BD938BCF73EA0797B52BE3733168A"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A37_MKT8_SkyGarden.nus3bank",
+            "hash": "11D9604CC31F6078EEB74C782E28599FFBEB8A49E95F2CED52121AADEDF93DD1"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A38_GLX_EggPlanet.nus3bank",
+            "hash": "D851E39E981E56CA53F11B63F934611D261529B678890CBF24ACCF9E26DD3CFE"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A39_GLX_TenmondaiNoRosetta.nus3bank",
+            "hash": "72D6D9E6E311232EEF6265C0C5B622EAC70DDD764314AF29F3831C61FB568E90"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A40_DRM_Chill_ver2.nus3bank",
+            "hash": "404EA38A7330D67BF7491C573FEB5765D2D29579BFF641F8FCEC5B175FA6D657"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A41_MPT_Medley.nus3bank",
+            "hash": "241A00ACDC499EA3C4657033F895649DA2C2118B5CF6F89139A6BCA9C494EAE4"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A42_LM_Medley.nus3bank",
+            "hash": "C14F420D8EB858D5FAEE9F76C66FF0B22DB24618889076B07E2E6A2EBFC35D2E"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A44_NEW2_Chijyou.nus3bank",
+            "hash": "A531B326062BF52DF97C0F48EE4B57774593742A1545ADADA22FFBB670639F44"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A45_NEWU_Chijyou.nus3bank",
+            "hash": "0639A970EDCC5FE280B79D57C0722AC80B1D1D178E7DDAB26597D5D4C528F927"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A47_PTY9_MiniGame.nus3bank",
+            "hash": "1AB9FA6D2287EA5B9A1A0F949E572C5546805ABFAA98ACEA7D3A8861E86C8309"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A48_MALRPG3_ChoitoTsuyoiYatsura.nus3bank",
+            "hash": "B10A9BDA19227DD64B78832FD21727697F6E2C29ACFC897FDE851554C7AEC832"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A49_MALRPG3_InTheFinal.nus3bank",
+            "hash": "7D1AE179D4D0E5F40B9645857E2DB7191201F414D8CC12DCB3953625903F2E73"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A50_MKTW_KinokoCanyon.nus3bank",
+            "hash": "6B559D652C4DE4AF5500530E0AAB8B4C142BDB7C40208E9D2A9AD9C569A96F7E"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A51_MKT8_MarioKartStadium.nus3bank",
+            "hash": "F88E9E05266B227FACC13D7EDBAE75CFDEB2ACAF0D2FC758E98CF282337DFA55"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A52_MKT8_MarioCircuit.nus3bank",
+            "hash": "FBFC51103FFE162CC0306485AA27EE02DDAECF373E8EE337CBDD26AF345CEDF9"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A53_MKT8_RainbowRoad.nus3bank",
+            "hash": "BA292EDA890F315A2A224C7A973B4875867E580F8A3C892932EB92C4F85B8867"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A54_GLX_EggPlanet.nus3bank",
+            "hash": "7D08F0839AD7821DE48A884C436E96FF77493D36A449CEC52E5774287F1D77ED"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A55_GLX_WindGarden.nus3bank",
+            "hash": "9C0D077B90C7D0242C87AA2EBA922959A18B7C5C595E78B71687EF62767A5875"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A56_GLX_SuperMarioGalaxy.nus3bank",
+            "hash": "121124F7713D041E4F8A7E592AD8C3A94A2E37EF4F1DB0CC302CB44E84FC6A6C"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A57_GLX2_SoraJima.nus3bank",
+            "hash": "5C6E2115033C6F875B25AD5424ED31E280C2EEFE4C1EE9EBE443CD0EF9D32B98"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A58_GLX2_ShinGingaTeikoku.nus3bank",
+            "hash": "927456294BCE4D18B4FA64E639D47E64A1DCCC7480ADF7B95F29B72A4B325FD4"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A59_GLX2_ShukumeiNoKessen.nus3bank",
+            "hash": "74E2BCCBD80E2FCC349F60AF4B6388A46DE0E81BE6E5613A640A55B126B56765"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A60_GLX2_ThemeofSMG2.nus3bank",
+            "hash": "EA4321A10BBAFA9F98ACC568BCD7340CA3AFC5B50C7C04F14342FA05EF3D1B1B"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A62_LM2_UrameshiYashiki.nus3bank",
+            "hash": "4590C180AD3F892344D10A69D14F5EBA8CAE753A907F13A80F8738A0E90B997C"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A63_3DW_Field01.nus3bank",
+            "hash": "76A1ACF6B4949EB30A6F8D0171E9ABC0BD1AD48FCE6FD729473A1814F3F69943"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A64_3DW_Finkoopa02.nus3bank",
+            "hash": "C93B29C1E8530C0138CBE01190592CB9E7C33B07BA6FCF41797D016F0AF99E8C"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_A65_3DW_Milkyway.nus3bank",
+            "hash": "06B6024CE2630FAD695B19A947BDE5E8C6BE4DD187709D690523147BA6155D9A"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_B01_SPR_JungleLevel_ver2.nus3bank",
+            "hash": "3D5D9F4CAB477BE9962A0A2298431E7DC808ADFF9A32D15E6BB2F58C4CE854F7"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_B03_DK_Opening.nus3bank",
+            "hash": "1B6383F999DD724D28ED6C225F78CEDBDB442E9B8A4933FB8B611F6DA81884F7"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_B04_DK_DonkeyKong.nus3bank",
+            "hash": "87C621AC1D158AEE03ECB8F5FD82FEFD3806EE61AB70F38B2F1457EFE79D06F3"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_B05_SPR_KingKRool_ShipDeck2.nus3bank",
+            "hash": "B5A982CA25296AD5E59514F7E8B72D580CF1585A6F087128AA6CE1BE0157890E"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_B06_SPR2_TogetogeTaruMeiro.nus3bank",
+            "hash": "4984F9236877BF08C70B6962903A5004F98FAE342205C7E724B2AA0D47FB3467"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_B07_JBT_ArashigaokaNoTatakai.nus3bank",
+            "hash": "9414EB44D7D1E838E461FE2125BA8DEB9ECEF25F1D4A6C6DDE2FC3135EA64816"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_B08_SPR_JungleLevel.nus3bank",
+            "hash": "70ED1309FF09391C7C4E20902857403021069BD799288FD957C59C15AF4812E6"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_B09_DK_25mBGM.nus3bank",
+            "hash": "7BAC43CCFC5FC13253F36BCEA8EECFC2449AF36B104DC97604D20D2F10A24583"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_B11_RTN_ThrillGearFlight.nus3bank",
+            "hash": "55ABB6E68140C7C380A751C4803BF6D13DC664CDE4E96A11D5D1FE89F3E43DBA"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_B12_SPR_JungleLevel.nus3bank",
+            "hash": "42D768157A9FDBC4C19AAE4EFC8BCD21AFA7E869CCC9977D06CE93F9B532E881"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_B13_RTN_DonkeyKongReturnes_CV.nus3bank",
+            "hash": "BF27A02EC0CB378B44854986B817BF20D4A40B266996F98EB7034AEB2192C0D0"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_B14_RTN_DonkeyKongReturnes.nus3bank",
+            "hash": "A1007D39A2632203959E3D5B2358F15D3339A189264D1F468212C7E0CBD709D9"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_B15_RTN_BananaJungle.nus3bank",
+            "hash": "D9C485D5B9915AF97DD7E3FD166013A01DC7EAF6EB3914CC7A1A36E53D52356A"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_B16_RTN_MogryaNoKoujigenba.nus3bank",
+            "hash": "E36ABCB007D6C9B088B4CE804EC612B40013B6C06951A4A3BA26C6E93A4E9C76"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_B17_TFR_Mangroves.nus3bank",
+            "hash": "DE9C392C00C298B9ED901D0232AF647DB8D7F51F06DA14ED1A9B0DFA99C3C06C"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_B18_TFR_Theme03.nus3bank",
+            "hash": "CDBBE71E2275CF6BA48BB78A41669463449A30EC0040DFB862089D373C01DF93"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_B19_SPR_JungleLevel_Ethnic.nus3bank",
+            "hash": "AE8B0453BC4E3E8B149C6184EA940D4E87425930429407102446E957AD6401D5"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_C01_ZLD_Title.nus3bank",
+            "hash": "D9B202440575A4CD18418EAB07F89A48D4E466772A61F43136F936A633282778"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_C02_ZLD_MainTheme.nus3bank",
+            "hash": "0557D0890914702163BCE6738F86203A1657B692F32DC5F46B3D8784266229ED"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_C03_LNK_DaiShinden_Shinden.nus3bank",
+            "hash": "7FEDBAE012150814C5352935894EA7EDA1E410B6814BD67D46FF94F344B077AF"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_C04_TRI_YamiNoSekai.nus3bank",
+            "hash": "8ACC7F5096C4C0334EF8784B5FFCD2DEA302142B772DAC1D5FC2E2FFEA733EBE"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_C05_TRI_UraNoYamaToMori.nus3bank",
+            "hash": "59909DB2E7111C8836209012A1F557FC89968200C3543F574FD5377E688D6A94"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_C07_YMS_TarutaruKougen.nus3bank",
+            "hash": "E9FF6920A6800AB9DC74B373CD0E85CE62234645C99FE122C7431A8F8D51D777"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_C08_TNO_HyruleMainTheme.nus3bank",
+            "hash": "D7871EA0D591E596DA2548F3894BD61795C8D615022D0B0DACBD213DB4234908"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_C09_TNO_Medley.nus3bank",
+            "hash": "0BA7A9B3DBD5FC93E28AF9C12639342C2833A58C3893C618CA1F0C93FCDABFEB"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_C10_TNO_ArashiNoUta.nus3bank",
+            "hash": "F92D83D304579FB9DEFEBDAEB2585581C432D8CC47DE07EABDB9D5335432CFE7"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_C12_4SW_AoNoMikoNoMura.nus3bank",
+            "hash": "3F6807BC72D595EDAA3395EAC559527747F5DBA5A03F78067CE8FA7A6E49C2D9"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_C15_KZT_RyuuNoShima.nus3bank",
+            "hash": "FC5B0CC5AF9E5384863ED48671CBE7515F8CDA0345E6B343A00A7CF46BB104C8"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_C17_TPR_MainTheme.nus3bank",
+            "hash": "5998640BD841C4CA3330EF6809240A34E53858B2D55C66B9953B1820932EFFAF"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_C18_TPR_WasureraretaSato.nus3bank",
+            "hash": "6D43976D591384295106BAF510DE9D37672846E0B97A3084F4998C0885AC227C"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_C19_TPR_KizudarakeNoMidna.nus3bank",
+            "hash": "FE7943774ADF4AF2419EA3DE8CE09C90CA45670CA387B59883B753BD27C6B51E"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_C20_ZLD_MainTheme_Chika.nus3bank",
+            "hash": "207FAE9A4E674BEE898EF9D99DDFF98E68363BE69C3D6B03A4ABFB84C451017C"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_C21_TRI_UraNoChijyou_UraDungeon.nus3bank",
+            "hash": "64E0EC3ABA3E364BA98A1B4F02A1D5EDFC3B71A91BAAF38753447DDC0B722236"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_C22_TNO_GerudoNoTani.nus3bank",
+            "hash": "76059AB4C057EE11193557849A47942A9281AED5D6C73C83696389CD564F2421"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_C23_DNK_TrainField2.nus3bank",
+            "hash": "597E86F182459B1E33C15ACB91C27D2D10F5C071365FB04841DE83656A4A4325"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_C24_SWS_MegamiNoUta_Ghirahim.nus3bank",
+            "hash": "0F3274D936EBE29FFD1FAB27A5989A96924A80457A6D5A97927D5DE870EDEFC2"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_C25_TNO_SariaNoUta.nus3bank",
+            "hash": "E9D7FCFBDD2B0920304BB54BDBEC5BC6BF1CD8514B18341D2161FD2EDFA5D3EE"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_C26_KZT_Oounabara_MenuSelect.nus3bank",
+            "hash": "525D248D542051720563BE5A327D7029AC373C3AE40AE5ECEBAAA0F4AF15E7DD"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_C28_TNO_GerudoNoTani.nus3bank",
+            "hash": "4D6845DDE75B622D766690554C223AB12FBB1F893404DD5D98A60BC92F479223"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_C29_SWS_MegamiNoUta.nus3bank",
+            "hash": "73043BBB0EE9F7E657F0285CC4B8F04F1B90188FD2D13A6221B00E58724350CA"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_C30_TRI2_HyruleMainTheme.nus3bank",
+            "hash": "526ED6F5F940D2319F993CE673D704604BE42CD71AEDA0DDAA15E376C8846582"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_C31_TRI2_LoruleMainTheme.nus3bank",
+            "hash": "90DB638FD5C7E1658747F2DFC0F0075BABD0BB4E933EC625FEE3CF8AE52E2163"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_C32_TRI2_YugaNoTheme.nus3bank",
+            "hash": "6AA4C4B8A0A2F657CD239D6433ABDF0D7076433D42B5625DA164702D5962E9A5"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS01_Menu.nus3bank",
+            "hash": "873141DEC9AF8CDC4A17D64AAFEEA771373CCD1A9DAB746EA1731AE810458E4F"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS02_Senjyou.nus3bank",
+            "hash": "3A2E8B0D12F0C9CD4BA77E0F6F75379F24D4FFA4D2E6388BFC69732E77B2C011"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS03_Shuuten.nus3bank",
+            "hash": "E5712D405D8E02C1BAD1798BBD2D4800CF9CB6DD4A15F665FA16F377F2CF786E"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS04_Kumite.nus3bank",
+            "hash": "D37F20DD674289AF96025EA4ED5ED2188C0398F837C1F482BF093F292C5E484F"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS05_MasterHand.nus3bank",
+            "hash": "287FD0D60C878C80ECE31EAEC33644C1D614BFAA559B04FA629AB769A804B94A"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS06_MasterCore.nus3bank",
+            "hash": "B5F2A996B3B91BB940604106FC22023C0238DC5326826E0763BD1C689E534C1B"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS07_Online.nus3bank",
+            "hash": "652CC199231C93621BB0815093924953CCB546A225418AE125D097594DE7D062"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS10_Simple_Intro.nus3bank",
+            "hash": "2BB2059B114A913976B2CC6EFE573CBD5C2A945BE88312F02C49432E5A1F4D6C"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS11_Simple_Result.nus3bank",
+            "hash": "608499675F4BC4951C48FB9532D823202C7B519E3D35B5554BD1332601DA7142"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS12_Simple_Result_Final.nus3bank",
+            "hash": "FAF8D81AA7794B076218E884DEABAA172C7216505A2DFC0F1179B76C72AF5610"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS13_Simple_Result_Failure.nus3bank",
+            "hash": "7907A6F97C976876DD28F2CAB38A1AA4BBB3848E543E40940710C7545A8F6804"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS14_Chronicle.nus3bank",
+            "hash": "F65B44A44F4853323A8DEF198851016593832D82DBD091113750164F418D0804"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS15_Rest.nus3bank",
+            "hash": "3C9809DCAA05B63F044112C3F67082CFCFC0758867D47E246EEC5EFD017059D8"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS16_SmashBomber.nus3bank",
+            "hash": "790E72DB6BC0623A0C2FB0B2315AE7CCA80BD07BE7DAB10B0A9386FC44387D46"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS17_SmashBomber_Result.nus3bank",
+            "hash": "33A324C218FFDC2B5C41B84F5A17A002A53FDA70E33D9319EE0810776FE37D2E"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS18_FigureMeikan.nus3bank",
+            "hash": "76A8DB55E641D77E971D3D020B14909F096B320E40C7463F62CF6C8B8A89ECFF"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS19_FigureShop.nus3bank",
+            "hash": "4998085B457610F3A6A1B5BB02AB0D4D6B87CA272565C662B2B58819B5CE8CE6"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS20_FigureRush.nus3bank",
+            "hash": "AA0F60C09563A1E5254689EEBF79C815209B3F71BFC072DA5F816EE67B62962E"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS21_Album.nus3bank",
+            "hash": "1B0BF45131B80161D9BFC2715D5C36056F4790E58485788D7AC6B0B4FDA0C5F2"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS23_Asobikata.nus3bank",
+            "hash": "A2DC3F9FF7713A55FCE4BC950E32CCC5A59E97239C1CA66BD57610450BB767AC"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS24_VS_Result.nus3bank",
+            "hash": "4FD82D14043B026A7FC0E2DFA8979165DEAF5285DD70BCF6FF6B7B83E6329387"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS25_StaffRoll.nus3bank",
+            "hash": "D023FBADE3F6075502275CB7742E800845CC482B37FF82F7A3D8B0517517444E"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS25a_StaffRoll_Loop.nus3bank",
+            "hash": "0200884C72F7D9729DC9AB9194713FF18570CD7063392D327A3002006535BBBB"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS26_Shuuten_ver2.nus3bank",
+            "hash": "1E7628EA3FE6DDCC48A669C0591364AD83907ADB18BAF311216839C089B3CB8C"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS27_MasterFortress01.nus3bank",
+            "hash": "4838AFD5B0AAA1165179715D40D7A7202D81159904A7F9BEFF673F3E4AE11FEA"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS28_MasterFortress02.nus3bank",
+            "hash": "CBECB38790ECD90EBFB4CC83614C175D02F69B259FE7399E5625ADEBDC6818DE"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS29_Simple_Map_WiiU.nus3bank",
+            "hash": "7E05C55F01F56CF757CF94C3709C059CD13EC133C8158BDB8F5C1E6500CE35B1"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS30_Simple_Result_Lose.nus3bank",
+            "hash": "E18BA10DE70F9DE8C4F2111C35762FE7E44DB6627F4EDBE94D2DBA2EC0FB6C00"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS31_World_Map.nus3bank",
+            "hash": "37AF153DCB50588F27FE6F0703ADD329D43804B5EF1C74B75044737BA127D02D"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS32_World_Map_Battle.nus3bank",
+            "hash": "BCB43944977D4F2C290CB19C6CBF54F3717F08E9E27F9C661EF814AA1EA3E21E"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS33_World_Map_5Turns.nus3bank",
+            "hash": "052C20925E68CE1901EC6FBD4D7E875A6AFDEC249B4D192F32EC54B05B8E8642"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS34_Tournament_Entry.nus3bank",
+            "hash": "7CB33C246B4CFA9782A172D98D9185A0CA767ACB93BB76F1E481C98E7B0738FC"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS36_Tournament_Table.nus3bank",
+            "hash": "BD40D4FCDD53D063AAF238FA725E17CE735D68F566C95E0F21FF7934A442934E"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS37_Tournament_Table_Watching.nus3bank",
+            "hash": "F19E73D77DAEC9F52E0FCB3BFD3D183C7C39BFF10B8BA25A917E5361114E4A13"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS38_Tournament_Result_Final.nus3bank",
+            "hash": "B609DB3ADA2A1BE6571DF4AA28A1DB65E0E143CDEDED1FD6EC876895390555E4"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS39_Order_MasterSide.nus3bank",
+            "hash": "100D2E5575E8BB7C9002DE0C033CF07D6CF13EFB1A380D5EDF84567B8EC83F1F"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS40_Order_CrazySide.nus3bank",
+            "hash": "E797CE0CED89953DC01A1FE56AD710E6FCDFE6BCEB0A3D84260E91F5D352A658"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS41_Order_CrazySide_Success.nus3bank",
+            "hash": "89A269115FCE5786F0953035AB287EDF7E1DE837C67826003A62A3F4FCA1D1ED"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS42_Order_Reward_Get.nus3bank",
+            "hash": "B7400A91A88C47CBFDFD3E8077EC010F2CF3764F9F46DBFDF156C8067D164ADF"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_CRS43_Order_Reward_Lost.nus3bank",
+            "hash": "88D3F9C2C892377FCDC5318DB209ED8146674CC74F4F4FABD388B77C121F82F1"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_D01_MR_MainTheme.nus3bank",
+            "hash": "1F9D2BE9729D11C43A3EDAFB09C146191A67993193ABF58BC3EC684DDD092447"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_D02_MR_Norfair.nus3bank",
+            "hash": "6A6606F6EF847B06C6B96009D59E87FECF15FDC791737F2BEF431B0044E1D5B0"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_D03_MR_Ending.nus3bank",
+            "hash": "19BFDC916548651A3D89F2D9C2682EA438BE7E1460DB2826707A40E07A635811"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_D04_SMR_VsRidley.nus3bank",
+            "hash": "21A8AA7455A71C08C17A14FCEC1982DEC8EBE26DE3C8EC80AF1E87A7761B6810"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_D05_SMR_SamusAranNoTheme.nus3bank",
+            "hash": "831FEC9D1B29B50C2EF4925EF17D325156295187E14DB3BF5D7155394D5B58AC"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_D06_FSN_Sector1.nus3bank",
+            "hash": "8C9E6DEC2E6A31A64FC5B4FA8E4D40656A2B4798A5319F482D39A11B42D3452D"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_D08_PRM_VsParasiteQueen.nus3bank",
+            "hash": "B77E6AB5AFFFEAB449DAD20636A90B036AD2BD037A23E40B421E1E18DBDA40CD"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_D09_PRM_VsMetaRidley.nus3bank",
+            "hash": "DBE712DDC2407B63385C0F89D0801B2BF187BF8596B678B08B028195D0A5DC8E"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_D10_PRM2_MultiPlay.nus3bank",
+            "hash": "55AFB0A79AAD3507D3F901E1FC01978D5DFBBA075329C1EC52629DEED591412A"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_D11_MR_Title.nus3bank",
+            "hash": "0F9C39013B14C21408A8E6D966CA07FE8B9E62BC62899CA2E39A79DA3983B95C"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_D12_MR_Dasshutu.nus3bank",
+            "hash": "EEF8869AA46A0B37BB93B55E04274DED7090C3AD29F032A0CEE9998BA86B1009"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_D13_PHT_PsychoBits.nus3bank",
+            "hash": "9716AEA2A350A48F401EDE84CE26069D7E7B9FA7FEA3943712A07575B3C71FC2"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_D14_OTM_YougangyoBattle.nus3bank",
+            "hash": "1DC5BF2C362631D23ADDA0CC87A076D85C826997DE8E94CDBFD91BFC0F286F28"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_D15_OTM_HanyouTojikomeBattle.nus3bank",
+            "hash": "123C864A6CE3320E28E2A80463E996BAF7A0702E433C5AC23727149EA26D852B"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_D16_OTM_RidleyBattle.nus3bank",
+            "hash": "728AFF48349B905BF5C2DD287CB11446AB021DD69B1234976DC67BBADD91CE9F"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_E01_STR_Ending.nus3bank",
+            "hash": "A02B11A447BD415982174B67B0B7B530C691F89C6C8BEBE12A44DC82EACFC8E4"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_E02_ILD_Athletic.nus3bank",
+            "hash": "26990197D2AA56F760ED9E01AFE00CF8EE01BF5AFC2C0487930CD54440724F1E"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_E05_CTY_Ohanabatake.nus3bank",
+            "hash": "F33C46BC2722FF74B65833DC6195E1E7788AC241D5CDEE052980BB5F216E503A"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_E06_ILDS_KouyaNoTheme.nus3bank",
+            "hash": "FF5805BA90E3A9515A3C97CDBB72B2AD7AACA2477975F093F4269429489CE7E3"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_E07_ILD_Stage1_1.nus3bank",
+            "hash": "17D2F971F782FD01D950A6DDD515471DFB4F7A8E46AE0726E2F9311D16E850CB"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_E08_KNY_KeitoNoYoshi.nus3bank",
+            "hash": "FC6B99AF67C276478161F5A8CED8F96CEFAE1233327F9224BD7432E7A4BBBFAF"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_E09_NILD_MainTheme.nus3bank",
+            "hash": "B63999A980CF925DCD9DC71697EFDFCD8359A8FAA73D7876F6D7F2BAF310CCD0"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_E10_NILD_Gypsy.nus3bank",
+            "hash": "3D19468940C94FC9919BF4CBB49013AAB553174F089E76962761545A4E7D0371"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_E11_WOL_YoshiWoolWorld.nus3bank",
+            "hash": "01B55569ACB6873D0CD0DFF12A27BF19D31B04046D4117EB6D449380B2C31BC8"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_F01_AIR_AirRideMachine.nus3bank",
+            "hash": "DD248E46C9793ABA07B779774E01DB77B9250FFB43F5ADDD8523ED2C25642FA1"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_F02_KBY_DededeOuNoTheme.nus3bank",
+            "hash": "30D4AAEFFB283C2179EED5437BDC75C80B806149CBE08FEBC0E1C6EA132C52FF"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_F03_KBY_BossThemeMedley.nus3bank",
+            "hash": "7F8D0E2326A4118FAC28F5ECE415B0769230D0F36115A75DFB997D8119E2D4DE"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_F04_YIM_ButterBuilding.nus3bank",
+            "hash": "4AD891228669DADCA0E5BCF6F86C3061D138B32D9E9967D1E5C8FE276A1A503D"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_F05_SDX_GekitotsuGourmetRace.nus3bank",
+            "hash": "E7B09209A3543614550ABCB889A5FD8C04243183E50C2EA4A9BF3D767601DC6D"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_F06_SDX_MetaKnightNoGyakushuu.nus3bank",
+            "hash": "CF4802858A42EBAEFC4D47B978B5A24952174B903F7DB5F786B8AA92C0464469"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_F07_SDX_VsMarx.nus3bank",
+            "hash": "F6240564F1DC911016B76F2F9DB2053C796B0594028B48BD52F359DA8B8C14CD"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_F08_KBY64_ZeroTwoSen.nus3bank",
+            "hash": "2F95FB9BAD16C2DE1045B1BBD004C94B41B40BADD4C63780095E3B45195BEC37"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_F11_AIR_Colda.nus3bank",
+            "hash": "F9F6203E82C997568E3B8183331B4F7DE840106F04865489AD1BC2AE83F82D48"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_F12_SDD_DorocheDanNoTheme.nus3bank",
+            "hash": "219F8ADA88AE3ABDA2D2C7EABB33A856493BCF0B7BA22ACDA021CC5AFB9A602F"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_F13_KBY_GreenGreens_ver2.nus3bank",
+            "hash": "D0790C4C1FF02F2ADF61D590F9243C97114D51333044C3003F44F693BAC11A97"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_F19_YIM_ButterBuilding.nus3bank",
+            "hash": "834658802401ECF517145FB8B3DDB1621A451BAEC8B7B3095B57CEECDD89F2CA"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_F20_SDX_DededeDaiouNoTheme.nus3bank",
+            "hash": "543B391AEF44F7F3882345AB816C509A63B9C6D61DA11B6B02DE4051AAA36FED"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_F21_SDX_DoukutsuDaiSakusen.nus3bank",
+            "hash": "C9FB8C9F1ACA020FE60E0195A34DCC6910632B5AA684A09C1E23A7514FCC18CF"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_F22_KND_MoriShizenArea.nus3bank",
+            "hash": "04EA94F273D9F33D69253084F5EC183A2115551F1A171F6C443A6ACE629F9187"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_F23_AIR_Vallerion.nus3bank",
+            "hash": "FA00478EA584FE246A21080EF9A85DE82636DB3B6DA0F2907AD3BE2FD971581B"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_F24_KBYW_BoukenNoHajimari.nus3bank",
+            "hash": "6AF61458C72F3DB5C2CF16BBF95A06BF4AF52FDA5805971D90B1F328A32416AE"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_F25_KBYW_MoriWoNukete.nus3bank",
+            "hash": "3F833B36D613218B5A203FA6D9DEBE75E635DE968959DB88D786BEBD73F5078C"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_F26_TDX_FuyuuTairikuNoHanabatake.nus3bank",
+            "hash": "395D124A450E2C9D92383C5A64555A1E220831ED4BDD773143D5A25DE4181E16"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_G01_SFX_MainTheme.nus3bank",
+            "hash": "336CE5A88339D046E49A5CDC9C33F924655EB830D022855821F47821D8398B33"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_G02_SFX_Corneria.nus3bank",
+            "hash": "84DD1BA8B110761140FA6E75AC036429E31269E18D5567E37926CF9E93350D09"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_G03_SFX64_MainTheme.nus3bank",
+            "hash": "77E43196B694D882A0704C2FBE1FDC2CED116EFB2723279B55A3753D7FDA41CD"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_G04_SFX64_Area6.nus3bank",
+            "hash": "24CFC227A88D1DFDB35C4FF4378B0C25E0F54DB887A5713A8DAA03A3D21CB4FB"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_G05_SFX64_StarWolf.nus3bank",
+            "hash": "3715929C7B951B122B32E628DF20E07311124E827D3ECEDF32125FCEAE7397A8"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_G07_AST_SentouTyuuiki.nus3bank",
+            "hash": "3D22E382F854C2303D3DC13171072706A68360412157D60A76657DCFCE33A385"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_G08_AST_HyougenToppaSeyo.nus3bank",
+            "hash": "99BD9ADDE8F3E2E3AE697C41C8D2E70BC97E5EDA1981C30B37DC66F9B7A4A342"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_G09_AST_StarWolf.nus3bank",
+            "hash": "50BA079E16E916BAAF6BE1AB62FC38F251EA8F2A61FA11F3D6A79FE65A1BC5CD"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_G10_SFX_SpaceArmada.nus3bank",
+            "hash": "BA18051CDF77ED77D061845B8D03ACA6DAFE883391EF61800F9A69BD120303A5"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_G11_SFX64_Area6Ver2.nus3bank",
+            "hash": "3902F9C0CE967ED071C741FDB5F3D40709A4BD4CAD932B0A98A8856E60143E3F"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_G12_SFX64_StarWolf_SectorZ.nus3bank",
+            "hash": "44B3900A5339D46EDC527A1C4EEC0A85EC493EB32BCC4488D5D8398A7E7C3A9C"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_G13_SFX64_CMD_Area6_Missle.nus3bank",
+            "hash": "B07E96E38CF1AC1D74A1E47FAA3EC0F25393A45B760173381761C2B50C900CB5"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_H01_PM_MainTheme.nus3bank",
+            "hash": "759410BD4FE57424B376565812F99CA2E50711364B8E148ED883D17541F4EB8E"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_H02_PM_PokemonCenter.nus3bank",
+            "hash": "511443E2DCBA9AE973F17B9C0DC59596C57D348DDC8D23D0BDC4F52205D7BF55"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_H03_PM_TokiwaHenoMichi_NibiCity.nus3bank",
+            "hash": "D7C6925916F062E0DFD53A5035F038B7076FB87087DEAF83C393CC7E5F706651"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_H04_PM_PokemonGym_Shinka.nus3bank",
+            "hash": "241006182D437A0FF2BBE21BAF0E150CB170426B53ABA9AA8A124D005ED2039B"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_H05_RS_Sentou_YaseiPokemon.nus3bank",
+            "hash": "232F727F25DD3D36962E865FD7BA11D324EC94913EA7BB6BE235F6806AF0AB19"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_H06_RS_ChampionRoad.nus3bank",
+            "hash": "6C9CA1B29A639D8F8DF90FE17C73F01A49CC0F98A0D006F46CE846185842DE15"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_H08_DP_DialgaPalkia_YariNoHashira.nus3bank",
+            "hash": "BDCCDE5A7E5B11856D4548AA3AC0BF9FE5768A83DEFB92358EACF9DD8538D3B4"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_H09_DP_GingaDan.nus3bank",
+            "hash": "2744E041D92680AFD242A677C4CE73BFF6F27DAFB194954A070FE4EA48845CA7"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_H10_DP_209BanDouro.nus3bank",
+            "hash": "F38884E9540DF50799BB77BAA3D3789501A6E838B8562889B17E31ADE4EC789F"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_H11_BW_N_Medley.nus3bank",
+            "hash": "82FC9957271402120B00C9F249C8B54FA48F27483EC81996525CFAD47ADE7B0E"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_H12_BW_Sentou_Zekrom_Reshiram.nus3bank",
+            "hash": "A49BA73A0697DAFD000FE64168A69B44F284208662A136529686A8CA424BC83B"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_H13_XY_Sentou_Trainer.nus3bank",
+            "hash": "CBA048A883BDDF7F79BC48C6B3AE20B192C9509F05B419EDE022E8B77285269C"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_H15_DP_Sentou_YaseiPokemon.nus3bank",
+            "hash": "AD92E166C06370C267B3B8C72DF700B46E4075B06121E0805F9589A9FA2EA499"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_H16_DP_Sentou_Champion.nus3bank",
+            "hash": "6217FE0290A239818935207835EA1866CCCB953BD4D578622217EF30F07FC794"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_H17_BW_10banDouro.nus3bank",
+            "hash": "6D67DE759C176CC10AE1C72F81DDA840F5E8CD9D3191400B7991254AEB255ABD"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_H18_B2W2_23banDouro.nus3bank",
+            "hash": "6CD4FBE0E8CB32AB2E2043A96D14D868FEC00F694B38714A90FA6E7384708D69"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_H19_XY_VS_Flare.nus3bank",
+            "hash": "F08FD533A73C6710DCF38214A32C0B02D4D60B84069DBAA800670F6BBA5F260B"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_H20_XY_Sentou_YaseiPokemon.nus3bank",
+            "hash": "DD56485753605F2841BDEA38B76B2A4CFEB44EA4210617278DD934A6ACADF217"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_H21_XY_ChampionRoad.nus3bank",
+            "hash": "812482B0CCEA5A334856FCEDFECACF63A357224E97F487296E068DB61F626DAD"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_H22_XY_Sentou_Champion.nus3bank",
+            "hash": "8DBECE1F1793FDDD6F30D9F64195786B82B351DF73EE6D833F2D05DF40C2C6F3"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_I01_FZR_MuteCity.nus3bank",
+            "hash": "6706660626AC8BF58A8F6CF667C6461875A58AFBBB08F51866078C2EF2E177B0"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_I02_FZR_WhiteLand.nus3bank",
+            "hash": "CD01193F71B19338C77C9BB9E3955199A4417181F9A7706E2D7E77599FDC09A5"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_I03_FZR_FireField.nus3bank",
+            "hash": "0D7246BC427760E5616B602C2A3BE081E843BCC3C9D9D89AF9D93481CE1346D7"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_I04_FZX_CarSelect.nus3bank",
+            "hash": "2CD0567E23C7D6AB08A6775695A2F389F1AB2A0C2BD34A65E1563C2B6A77CF86"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_I05_FZX_DreamChaser.nus3bank",
+            "hash": "8FEA05900105C319FB35DACC646837EAD28A7B6875BA7F872B5E0573AD829008"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_I06_FZX_DevilsCallInYourHeart.nus3bank",
+            "hash": "79D1B60D433A1613950BBF4123B3D56EFC431506C1A2392CCCD811A709D3544A"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_I07_FZX_ClimbUp_AndGetTheLastChance.nus3bank",
+            "hash": "A0C3DDB6F29EED8ADA64685EB89536F05FFF6492E593DFCCC498AFDFA76BBC86"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_I08_GX_BrainCleaner.nus3bank",
+            "hash": "F632C018171C0BB6A438633A82F09BECDDE9A0161BD98FBF106EDF84F7B32D82"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_I09_GX_ShotgunKiss.nus3bank",
+            "hash": "6C6A7B2B28BE61849CA085F226A945624504C0629CF4D9C64DAC3A9E14BE2A0B"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_I10_GX_PlanetColors.nus3bank",
+            "hash": "0893F12E844AD56B3B1D7194757FED6A4C494C34D7D0F7A0B1AAE1075BC225E9"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_I11_FZR_MuteCity.nus3bank",
+            "hash": "9325D86F6769D38E00BAD7047D7F5002D44EAD31337FAF25FF0B38E37168A9D6"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_I12_FZR_SFC_MuteCity.nus3bank",
+            "hash": "38201ED1F3992648B74A5E6210F77634130CC222CDDBC8A63A55137ED8F5B924"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_I14_FZR_RedCanyon.nus3bank",
+            "hash": "7BAEDD7B1A00F601BDDB1CA16A0B9744D5FF08B22EFD90F10A54D6B2A6A3EB5B"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_J02_FEM_Theme.nus3bank",
+            "hash": "0E628DF657A907F45BF79FFA455EFDA67E87C2478FC5257F55678A2F61563A27"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_J03_FEM_AankokuRyuuMedley.nus3bank",
+            "hash": "7918E1218B9AB4670EB4068A1F846B3B0BE28DD758021756150D3ECDB1F79161"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_J04_GDN_MiraNoKagoToTomoni.nus3bank",
+            "hash": "9EFFB9504BC27C9F8922DC357C626D19686E90EB82BB1CF42C3C2AF0DDC9ABF1"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_J06_SNK_ShingekiJunbi.nus3bank",
+            "hash": "0A4EE3A113A278852A024884BD092D0A4B29A9C1FD51FF9F9F77E8BDB63C625D"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_J07_FNK_WinningRoad_RoyNoKibou.nus3bank",
+            "hash": "72A1AD0DF5959C54C237031C0019BE7F3E01873E5663EEADA03C21381F0C496A"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_J08_RNK_Kougeki.nus3bank",
+            "hash": "994BE44ABF5E3407F844DC48C762E53D2215E9701AE25E718E7E5AC3A34B73C4"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_J09_SEK_AgainstTheDarkKnight.nus3bank",
+            "hash": "5B2AE98BF480E42D2D2C64CC7267391C3EC2F187B57F9F79306C6E43EA627AFF"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_J10_SEK_CrimeaArmySortie.nus3bank",
+            "hash": "ACFBB31C5CF8DFE747484464F39C3DB39B221955E2B44734C34B3974F6F1E936"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_J11_SEK_PowerhungryFool.nus3bank",
+            "hash": "68693893C3DBAB2F283E6F27640638307628C9613F1D576160D03B95B840B99F"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_J12_SEK_VictoryIsNear.nus3bank",
+            "hash": "B5DEB05A96EB20AB544051301B6CCEDF67F3C7655C9E327F2AC774A389020FCA"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_J13_ANM_IkeNoTheme.nus3bank",
+            "hash": "10A2B54CED38D92240B9E136EAACE998E7A10861AA11366B4AB723D0F43586E3"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_J14_KSI_I_I.nus3bank",
+            "hash": "E0F26FA040E5AC71D950B8FF7F8602E17A1783A2CE374DD65820804BA5862F21"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_J15_GDN_Tatakai1.nus3bank",
+            "hash": "BC0CA293FAE2C5849C0B05BD7A19C4FDD33E97423CE0EC98995EC533EEE4A58C"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_J16_MNN_DeaiNoTheme.nus3bank",
+            "hash": "AB15939E6357481DE74CC69606103D0373CEBA2E3A1E0A64E5457940BABA251E"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_J17_MNN_Singeki.nus3bank",
+            "hash": "8F72573B807D6DEA3A217CEC7159FC0217E1D70BA4C6C1B629014EC5ECBE6574"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_J18_SSK_Tougijyou.nus3bank",
+            "hash": "C56E26AF35D0C5371292C565231BF382A44BD634FB9E293A080487889F7C7463"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_J20_ANM_TyuugiTsukusan.nus3bank",
+            "hash": "DBF96ED73D5CC9CEB299BBF19C66B4E3B5F44448E243AA336FFE9E65A7E299C0"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_J21_ANM_KekkiNoToki.nus3bank",
+            "hash": "36F26E06B74C9B222D16B3A598CF0A2BF01A646E51E0685744C181DA46FD0E9D"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_J22_KSI_Shimei_Honoo.nus3bank",
+            "hash": "DBBE3A3136B8A958675C900852EF3701EA5783F0AB64C5C3702A445CC1744AE9"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_J23_KSI_Ensei_Honoo.nus3bank",
+            "hash": "2F2DF185C8568A8BA0AB0374F88F1BF7FCB9870A5A02FF25F366BEC99D867E82"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_K01_MTR_Snowman.nus3bank",
+            "hash": "993211CC7688BC5BBF042E2B3057C94B587F7C772DA03B8E5210F5C1256D4088"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_K07_MTR_PorkyNoTheme.nus3bank",
+            "hash": "D3870C763B6853FC110D3DF35A985340EF00F264D9AA3D623202DF7A8B62915E"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_K08_MTR3_AiNoTheme.nus3bank",
+            "hash": "212175B048B28DEB5C354F7DABCD664F2864F8600EDC6AA05808558CC19A4AE1"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_K09_MTR3_Revenge_BukkowashiSanka.nus3bank",
+            "hash": "3BBCAC8B01E25C8C0905FE2DF561820672AFAE942159BA771D1F806857B326D0"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_K11_MTR_Magicant_EightMelodies.nus3bank",
+            "hash": "3CECC7637FC089A8E0F30EC8825D22074C7055EAC8B441BFCA369ADC9E44E8A8"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_K12_MTR2_SmileAndTears.nus3bank",
+            "hash": "C6A60169FFE99ECE0D01587301BCDCE4F8E71AA7CDA1D832549551F87CD0A6C8"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_K13_MTR2_OnettNoTheme.nus3bank",
+            "hash": "D9325672382186FDFC81CC33F4ADEE068248E1A877EF9CDCEFD3BF649C1AC9FC"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_L01_PIK2_WorldMap.nus3bank",
+            "hash": "36684735B082E6C7B0FCC0F2EED5F2A27E9654A34C6C044B5685FFA1D0EA0352"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_L02_PIK_KibouNoMori.nus3bank",
+            "hash": "F072EFE8B519DBE243360C0AF29DE86F1D5B0717A825E7972664004E92719894"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_L03_PIK_KankyouOn.nus3bank",
+            "hash": "2B021F1F21F07839FAB53C90FBA0EA1D2BC8AD868293FBCB33B704577B8A1B80"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_L06_PIK_MainTheme.nus3bank",
+            "hash": "6E2E6437C12E4DC1CD97FB5FB848BA6D3859CED962317D0E6B19524DDFE428F6"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_L07_PIK_Clear_Title.nus3bank",
+            "hash": "857C03600820B045E46543787D333F977377667D8D688BCFBA30D75036E3A1ED"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_L09_PIK2_StageSelect.nus3bank",
+            "hash": "F280C075D6AD0B210F5770E00F7F31BDE958AAB6AD50252BF52D782500571026"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_L10_PIK3_MissionMode.nus3bank",
+            "hash": "93526083A643E50089D2E209448460F798883F142A5EE443764207FCBF2D4F66"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_L11_PIK3_SaikaiNoHanazono.nus3bank",
+            "hash": "CBE4F1C5ADBC8817FF15DCA63253CEE7A9CF5B216D14973F29D8CA5EB77FDA59"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_M01_MIW_MadeInWario.nus3bank",
+            "hash": "AA2A4574CDE23B430EA1825C42F4F7A0B6E5FE85DF34A59F125378D112BCFF65"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_M02_MIW_Medley.nus3bank",
+            "hash": "450B04FDDFD1A4DA827D911848E80F55B4862C241AB7CE5FC78A40746ED1A32F"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_M07_SMW_AshreyNoTheme.nus3bank",
+            "hash": "8DA469A0A84F342229F2BA3A885ED3DD7C8057F203C1813A0040DB82A5B5B8F8"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_M08_SMW_AshreysSong.nus3bank",
+            "hash": "6CF3FF6816630C87D5BE3B9B655568552D906F27C7FDF97695C5CE0A09EEBF59"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_M19_SMW_AshreyNoTheme.nus3bank",
+            "hash": "FAF92ABCC56BD90F9FCF066EFC96BB34B2DD8CD6BD5A84C4AF8CCA4914142D16"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_M20_WLS_1_1_1_Iseki.nus3bank",
+            "hash": "067C17B6AFB7927DC8E736000DC43037B1DF20512BFD6AA12BF25CE2CA3F9805"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_M21a_GAW_Gamer_Normal.nus3bank",
+            "hash": "AE62E28200F941CD0ADC876482AC6DD6DE76CD7EA3A3AC5656AC629832BCC922"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_M21b_GAW_Gamer_Mom.nus3bank",
+            "hash": "72FF0459F488C5DA9E4FF0D107D3F77F00FDECB81432E5AA517AEA68BD4A36E2"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_N01_DNM_Title.nus3bank",
+            "hash": "A7C4436E012056D17798CBABBF11EBB1D5A813FF33312F9DC198E138B6F36CBD"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_N02_DNM_Yuke_KekeRider.nus3bank",
+            "hash": "F8A114DCAD6B0CB147BB1A4F2D87D6A999AA587D057436B4322E1458C332EA01"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_N03_DNM_200AM.nus3bank",
+            "hash": "6438B19BBEDBB95BC2B16A048C71774D16F2EE1557C2F6613A959E8BECE8927E"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_N05_OID_JunKissa_HatoNoSu.nus3bank",
+            "hash": "6EC062AC9542FDF84A5C74FB889338F4AC97C7B7E43024B39AD73F166F15D933"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_N06_OID_YakubaToTanukichi.nus3bank",
+            "hash": "8EC4758E9483F6C989B66F1055D7263E923C87A5EFA11F94DE86B6AF2306547F"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_N07_DNM_KK_Urban.nus3bank",
+            "hash": "58C18A64C6CAD429277EB3B6353123B0D22DED40AE97F9E20048D41ABF682FCA"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_N08_DNM_KK_Western.nus3bank",
+            "hash": "6CA67AB574E3798691ADEF94A45B9AF244BBFC90D325C138B8B8E23F03BF48D0"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_N09_DNM_KK_NewOrleans.nus3bank",
+            "hash": "D0E0CCB80A443741AB232801A207D2AB93EC074F489182C2C16A79FF3E6955DA"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_N10_DNM_KK_RocknRoll.nus3bank",
+            "hash": "19E0B86359072BA358A02691476B785A4D9C9E2D4448A0F51C8275C00391A040"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_N11_DNM_KK_Eurobeat.nus3bank",
+            "hash": "FB1C33625E439F0B5507D4B444D9A1F57A7B0DE6FAB94791F95258286AF1FD96"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_N12_DNM_KK_PeruNoUta.nus3bank",
+            "hash": "CB9E060C6F177439F0F62E2E4D69C49D863C9D632A5FFE18057E75DEB19D0223"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_N13_TBD_KotobukiLand_Medley.nus3bank",
+            "hash": "9DD26AB9F4B2D4553AB6DD7A342A7EB67D4AB647A765C502B88FACC86B22C4D2"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_N14_TBD_KappeiNoUta.nus3bank",
+            "hash": "8F6D7FD3417373953219BA91DEE5B9EC4EC934EFAB2202A5E3E32B010AD6BD91"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_N15_MHI_Town_Main.nus3bank",
+            "hash": "64D512D329D81BD0FE67B837B71335DE6145A440961C440F84DC03814FE63D66"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_N16_TBD_Feild19Ji_Hare.nus3bank",
+            "hash": "D111CC722CA0F8C42224A359003A63D8AE1CBAF68EA9335ECA5D6587B55DC243"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_N17_TBD_Tour.nus3bank",
+            "hash": "56ED51293B180E96E62499A8FD880188829084ABED5B4FDDD6CF7918BF88CD90"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_N18_TBD_KekeIdol.nus3bank",
+            "hash": "0A84AFF843DB6A9546E36CF1FC4FB306F36601D3437EA7C8DF26710B7105CCBF"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_P01_PNK_Meifukai.nus3bank",
+            "hash": "64198C3817614DD104964CC5AF9658D743DF909104A18CCB75FF445FAF343FC8"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_P02_PNK_Title.nus3bank",
+            "hash": "DE16AE6644CBA74926C9AF5D47DA6E70A5E5228776F6EDE99E23C3BA226EBCF5"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_P03_PNK_Chijyoukai.nus3bank",
+            "hash": "A3735BB94945C3CFEA94A5C5BDD3BAFDEFBA88EAF9F9D7F7AB9439EB191C5320"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_P04_PNK_GenkyokuMedley.nus3bank",
+            "hash": "53B85CCF80FAEC51EEBE9204474EA0B2CBF6DC729470E3FFDF7A743E07EE86DB"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_P05_SHS_SyokikaBakudanNoKyoufu.nus3bank",
+            "hash": "F0C33BB828B7AF7D6C15A587C09167FED43F1B943B8FB23B28369D6DF964B913"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_P06_SHS_SeizokuSen.nus3bank",
+            "hash": "703BF5E752E4F5A73451FBDA95A71E67B95F5B7F99F159A81C0320DE5B963DCE"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_P07_SHS_BossSen1.nus3bank",
+            "hash": "B19FC9A8C3808DD66303D8559F45251D187A0108381316429BD337746204A522"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_P09_SHS_BlackPitNoTheme.nus3bank",
+            "hash": "224C407E312A9C764679ED3B06586A9842212A734D1AF979D91C815230255A64"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_P11_SHS_GingaNoSeiiki.nus3bank",
+            "hash": "E6AD13B17E7FD250F3A983A6C8D0B8AB1A854A0FF2D5B81219F6B495D84DAD86"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_P12_SHS_HoukaiEngeland.nus3bank",
+            "hash": "2053D3BE098D4B8B3E4862424744B9588C96A4A546BEDAA71EDD821AE43ABFEE"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_P13_SHS_MagnaNoTheme.nus3bank",
+            "hash": "97BEC159F7FDECEA16A27279C42225C9A616543C2EE67CFCF209F7A541C07B45"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_P15_SHS_HadesNoTheme.nus3bank",
+            "hash": "832FB8D2EE726350426B5B8352AADA2590B71FC475B8B12FA8B61957234D32EB"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_P16_SHS_RaiunNoTeien.nus3bank",
+            "hash": "E5C858A70959A58F531DCB946D426BB60B09CCB2F40F9B6590F3658F4546C000"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Q01_FC_FamicomMedley.nus3bank",
+            "hash": "A862E01E9B8D5D40F1B6DA803E7C91D3E4C626961C00D0511059A08B02E7B287"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Q02_ROB_BlockAndGyro.nus3bank",
+            "hash": "CC45F79C5B01A8CAF60D12DC72ABB7BC2DEAE0BEF89647843D7C6A32C99C1CE3"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Q04_DRM_Chill.nus3bank",
+            "hash": "F2E353EFC54F58A030E8139A7316CEB492896379CEA37DC1755F529C780E4D61"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Q05_CLU_CluCluLand.nus3bank",
+            "hash": "745935112B652B1BB9034FC7020DE9712A663A9E2247D7C82E31E200A6527F5F"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Q07_ICE_IceClimber.nus3bank",
+            "hash": "549C05698D26492DEEFA967C29320E2BA0EC3CF75172B1516C480AD2E8D50BBD"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Q08_ONI_ShinOnigashima.nus3bank",
+            "hash": "A5D4E512859EAAD0425826E8A7F72A9F6C53869B035D6DF152953F1C9BF4AB68"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Q09_3HR_Title.nus3bank",
+            "hash": "F18CFFB50BBC7AD1B6C915C6279E7487C855A7120EE9259B62C0E826E0C3EBB3"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Q10_TRS_TypeA.nus3bank",
+            "hash": "D1E49050DD724463CD71819769676015E6F1A4C4906480BF28625A7EA21C4D78"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Q11_TRS_TypeB.nus3bank",
+            "hash": "D9365F9E876B8CE05DA42A139956D89A28796652A7C8CCC6D2394CD64FC314D8"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Q12_X_TunnelScene.nus3bank",
+            "hash": "8AB18D59D7BAA1F13EFF8321F4AFE956674969E0C05273A3A6A159441CAC1948"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Q15_BFT_Medley.nus3bank",
+            "hash": "789F4B9DF0932B260528CD027789CE3E083323E269ADCBAA54B08963BDCA9ABA"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Q16_BFT_BalloonTrip.nus3bank",
+            "hash": "CCB107694CB08FACABD22E48D2066CA1D5A12D9A4166441D09EAC8E8A8E4F6FE"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Q17_NMJ_Medley.nus3bank",
+            "hash": "D689079148CEACC431E435CA648A434082F3345D6AE87089E6D569D92B55560E"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Q18_PO_Running_CountDown.nus3bank",
+            "hash": "50AE0FD26B124F4077767803BA87410073F4313DD4B26F35DB7446E5709FA3B9"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Q19_DKH_Title.nus3bank",
+            "hash": "BB31AE125A61CB65A563FDAAF897C8219B8B12B855BEF79359DFE842493DE25A"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Q20_WCR_GameStart.nus3bank",
+            "hash": "A72CE7EB4CA686D6CCB7E84B15C85B7E461226B9F08D12E57AD31386BD3DFA33"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Q21_MPO_ShiaiTyuu.nus3bank",
+            "hash": "B6A9586A196A89272B8EB169CA3022199DEF972D27AF9884FF9315FF404B19E0"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Q22_PW_LightPlane.nus3bank",
+            "hash": "476635F807BC50ED2889EAC9386E9489D8C09362411FF67FEB4CB038DDAC325D"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Q23_PW_LightPlane_ver2.nus3bank",
+            "hash": "5EC974F5C237A0E8753D4C36A3CF0154304BDE10A00E5E691666982B9A07CC3E"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Q24_WCR_BgmA.nus3bank",
+            "hash": "2C083A4EDDDDAE6C4A2BDD9E3ACB19F8DA3A63A5DD5F24D6E5AA50F985B1FA08"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Q26_PW_LightPlane.nus3bank",
+            "hash": "BEB840ED6029F02055B7FC3732BB07490BB0ED278964CC5F13D854B74E2A779A"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R02_PictoChat.nus3bank",
+            "hash": "B9E40EBAAE786DD6E30EA660CD2C16D54460768D766074C1B0CE8AA5304E732D"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R04_GW_FlatZone2.nus3bank",
+            "hash": "CAC93641B6162FE2FB90E87F434D381B5D6935217E0565AB534173B758F03F85"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R05_MTG_MarioTennis_MarioGolf.nus3bank",
+            "hash": "706907CE3998FC4B46F9E03B1B2CD0917AD652A966ED5DAEB8B62CD97D4484EE"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R06_PDP_LipNoTheme.nus3bank",
+            "hash": "7AF5F4C3CDEB7C2078F3EB3F8E5F832AFEFB8805E259DD5F15981299CA184699"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R07_MMG_MarionationGear.nus3bank",
+            "hash": "6D1C71226D66A7219A0824D71434670A2AF69D097B7A07B146B91CC48E650EF3"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R08_YAJ_Title.nus3bank",
+            "hash": "7656291376FAB8A87151AEA8EFA3B88A2F13262595D3B68B602DB0A0CAB4973A"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R09_1080_GoldenForest.nus3bank",
+            "hash": "F2DCE530E196E241CF93D1E33111342B8E8804EF7B032859257554F79108DBB3"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R11_SPC_WiiShopingChannel.nus3bank",
+            "hash": "D6F69498304DFEBE8033C079F52C3C3EADAF4C27D5E81D4A5006EF9937FECC44"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R12_ONT_Sentou_Boss.nus3bank",
+            "hash": "D925C405BC166CCA402F9C2459713DB4E7429ABA1FBEF5FA1911BB00186268DD"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R14_EXT_ExciteTruck.nus3bank",
+            "hash": "2BB7E725FE6888BFB641F67EF4550C2DA8BC4E643FC4A9987B05E4A682790E6E"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R15_NOU_DSTraning.nus3bank",
+            "hash": "862711D7E4CB64F5D380C5F1B5790EC813C4CCFA3F1BA0B3DDE33E24D900B20F"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R16_WSP_OpeningTheme_Select.nus3bank",
+            "hash": "7873EA82BEFB02404460EDA8AF1F22EB75F5752D304995D7EFFF6355A29EAFDA"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R18_NTD_Shower.nus3bank",
+            "hash": "00BF6378FAFEAA63847F0B9C9DE5CF5EC8CD2265EFED1B5A199AC77C4B19F492"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R19_NTD_Shower_ver2.nus3bank",
+            "hash": "9198396858E4CFF9BE412085BFD52D9B6563AA9685E5638379187FFD25DCA93F"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R20_NGC_NigaoeHiroba.nus3bank",
+            "hash": "160F5EBE3682391712ABE948DFFB5576A9214986E4CC46CA62C21349196FB78A"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R21_WPO_MinorCircuit.nus3bank",
+            "hash": "8F3C9D7C7883256A8BE8666A52C064E615344F7A053C462B6F477D324EB42B34"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R22_TDCS_TomodachiCollection.nus3bank",
+            "hash": "1EEDF3093EBE914641CA76D0CE030A0CDB6E4DEEA8F5FE75EC826DE513133407"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R23_XBD_GaurHeigen.nus3bank",
+            "hash": "C90660E54FD9337D45311D5922B470C0FFD9B1352EB554E85E5FF23741E56EB1"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R24_XBD_NawoKansuruMonotachi.nus3bank",
+            "hash": "3217A87F09E8E1D8A1EC9300D1B16E7EE47D28FA42D6BA4AB83E1E71F84D87C9"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R25_XBD_KiNoRitsudou.nus3bank",
+            "hash": "46FC1AD622008D7448D5B7B19F5B71FD1B78A2BCFC1AB66BC99C5BD5E8601E28"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R26_SCD2_SekaiWoSukueYuushayo.nus3bank",
+            "hash": "11CB34AE352FEBEF7C273C4DFD7A2E632F011A27E47373A9C72A74F45128DFD8"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R27_SCD2_YamiNoOu.nus3bank",
+            "hash": "B003414507217628FEC07FDB80784DF140E74C99FA3E9679AC0F4E5E385E4BE2"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R28_WFT_HoopDance.nus3bank",
+            "hash": "D64218D20D25241A21031B16D85A492FBC82D233FCB84BE98B0FE57F49C613EB"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R29_WFTP_AthleticMii.nus3bank",
+            "hash": "4198BF288FE65E8C7B472051A23EA028D11143A71961D35704D1BF7C7330DD3F"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R30_WFTP_Skebo_FreeMode.nus3bank",
+            "hash": "6451DCDFB24E0B581F9B5CD2F5059B1E044B04CFBC9608AF42AE521D308C1B69"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R31_WSP_Title.nus3bank",
+            "hash": "4AEB3D45ACEC52DD33432962DC53465AC80DF940335772E63676A362ADED6B77"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R32_WSR_Title.nus3bank",
+            "hash": "F342905149F724F1B575CD9C3C46ACBD2E84AB4246EFF62C3B9231EEB021C1BD"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R33_WSR_Title_ver2.nus3bank",
+            "hash": "EDB75474D4BF99FAFE6E3217C85D05B0661892C7A02AF30C998B1B3606272827"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R34_BT2_TheValedictoryElegy.nus3bank",
+            "hash": "0D1D17A55179A5EAF69789CFD93D889C8DB70B4BF05281E15E51BF2047E3EC8E"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R35_HNE_BattleAreaA_Greecce.nus3bank",
+            "hash": "9319C837A5A7FC56B07F0EFE31E7592127AB19E20832A1CD76A668AA66FC21BF"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R36_XBD_ArrangeMedley.nus3bank",
+            "hash": "1B91671731C37E022360484C6278292AD1D69F94081B8E4638F4635F8FCC6E3C"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R37_HSZ_Boss1.nus3bank",
+            "hash": "3C59043D1CD74B3267229AB13E60F410A22DAA5E2C52FC5D95E21808902C44CD"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R38_IKI_MainTheme.nus3bank",
+            "hash": "CA1F44DB2081168EBD5B2C0A6EFB625DBC2EFAF70DF58C983B31C2CCE976E5B7"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R39_PWR_Hikouki.nus3bank",
+            "hash": "3AA5183F65AA625FC356E26CA422B0DB57806BB02DDC3CA9533085DEA2435831"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R40_PWR_HangGlider.nus3bank",
+            "hash": "1F46BD76C5E6F3D691AC0A67F1E19D93ED76A2112C1A60BC778750974A73F406"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R41_CCT_Opening.nus3bank",
+            "hash": "4306097B5E964D357A4E6BDED3DC3C36194A5FF9677CAB03557B5A999F28BC1C"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R42_NLD_Title.nus3bank",
+            "hash": "AECA033290970D5B0711DCC22884DEC9F788778BE6A323E00FEC001436A6260E"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R43_WGF_Title.nus3bank",
+            "hash": "4E35C44ADD2D34F1DEA58C33294994F316C6B3210975BB59D4E321B75A2A0DEF"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R44_WFT_RhythmBoxing.nus3bank",
+            "hash": "2A5F4F083F97F290C31C04BE45722F5138FFE54DE3EBBD2DEFB4B407319665EB"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R45_WFTP_SegwayChallange_Tyuukyuu.nus3bank",
+            "hash": "64A79A3970C1097BA57F3225658B754E6DBB4D2508590D540C1EFCF68FEFFBCF"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R46_WFTU_Luge.nus3bank",
+            "hash": "2D8835003B002D6C042B9427E6F17B0FF5AA1F6FF67C4DE741AB13B207F7D2AC"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R47_WPTU_Theme_1.nus3bank",
+            "hash": "7F0BD253AA77584F2E746FFA0F2A37109EB45677D7851C7F4C8E9B1F8DE1BD19"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R48_WSR_Title.nus3bank",
+            "hash": "1B6B88D1AA87AC3626D94724699A8012682AC34D3CFF583600166EE7E29CB15B"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R49_MOTTO_Menu.nus3bank",
+            "hash": "8F1A50A07486BB401055FCB1C6ACF147C408820AA93721E366A27D803E99463B"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R50_SBG_BosskyuuMonsterBattle.nus3bank",
+            "hash": "5A5E79C10FD6DBE7DA6B2A33DC2ECE9EC5459F0408ECA647181749EE87C844A7"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R51_CAP_MacNoUta.nus3bank",
+            "hash": "DA135FB38052C159DF112C821452DF0F1ECC0EAFE8CB9B3298B183A9A6AD1999"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R52_BBDX_Performance.nus3bank",
+            "hash": "6F38051997B2526A8CDCAF27DD23FE113E4B0DDA9E52A58C40C27D15194A370A"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R53_PO_SplashScreen.nus3bank",
+            "hash": "3C6DDFE30AA31F0F4BF2C90AD672C72558C655A642D5D51DDEFC4B099833F223"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R54_PO_WorldCircuitFight.nus3bank",
+            "hash": "E3162708116E454C4E98E5354A979A6B07C3AA00BF64FF1F90DD6E3733A1647D"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R55_XBD_TekiTonoTaiji.nus3bank",
+            "hash": "E64AD655810C75AA0D667F0C45CBBC6F17720FB7BF61772543526768393A8610"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R56_XBD_Sentou.nus3bank",
+            "hash": "3FC237F461AD0C3ECE664FD04941E80DCE6DF2339F2ECFBDDA9F6653A6CCCBFA"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R57_XBD_GaurHeigen_Yoru.nus3bank",
+            "hash": "B991225F08813692065EFDA0D1F8572D45E7E5E0489ED6E04576C19025BAA469"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R58_XBD_YukuteWoHabamuMono.nus3bank",
+            "hash": "25D9595A35DE44193E58DC1F84E15469637659D8ED9BBFACE11ED05EC0A3F612"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R59_XRT_TunnelNormal.nus3bank",
+            "hash": "ACB92076B927171CBE48CC6D671553477B5A8024FD47246EA02AF4AD547EBA79"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R60_ONT_WorldMap.nus3bank",
+            "hash": "87208A96A363358AA510D79742CC60B40EE1B26310FE558E417295D25CB72988"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R61_EGK_Swan_Lesson.nus3bank",
+            "hash": "2677EA9D5FF288AAEA25F8093E04B49E7978625F68A565DB53801CC9479015E6"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R63_ARG_DragonNoTatakai.nus3bank",
+            "hash": "CD329041B1F9DA26421EE7B3FFE07451DB07E3AA77C68CC01C824637C049494E"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R64_NLD_Title.nus3bank",
+            "hash": "70EDCD721CAB6821913F552C7F2E3FF5584A04FA5324E40985CEDB9AEF526226"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R65_WGF_FashonShow.nus3bank",
+            "hash": "7335C0A803C9DF581710380093A50A42BCCA852E17FBE11D5C8BAD9E404A47E2"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R66_RLW_Move2.nus3bank",
+            "hash": "457A540EA930B6BE657006A291E2CD7C0EB62AF30942F77083F63441E223F2C6"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R67_RMX_Remix2_Title.nus3bank",
+            "hash": "DB1E2B248403C8E3A4E4D2858C2295CCCAEA81B222451F1432DEC027800E670E"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R68_101_RollOutWonderful100.nus3bank",
+            "hash": "8541A4C4FC172B6CCE24F11E842794C0288AEF23C05390E0E21CE8ED20140C1B"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_R69_101_JerginghaPlanetDestructionForm.nus3bank",
+            "hash": "64ECCCA17FD14D124046445688A50E4985104C429FB3A1653C9C7BFD168ECA06"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_S01_RM2_Medley.nus3bank",
+            "hash": "D08DE29B86860DEC48A4021571EACB8307197959B6D28AE97202EB241164323D"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_S02_RM2_AirMan_Stage.nus3bank",
+            "hash": "73820AE62979CA2FCC407457EC223A77D069E328B8EBE6E1B12306FACF8CC6F1"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_S03_RM3_SparkMan_Stage.nus3bank",
+            "hash": "3FEBC1003F7FD68E6A487B7DA40C66B30228F0BAAB5F791BA40C6200565648A2"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_S04_RM2_OriginalMedley.nus3bank",
+            "hash": "14C6EE3F08203E067490B832DC68C12577CD9C32FBAA26CDBA77F54117B32B7B"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_S05_RM_CutMan_Stage.nus3bank",
+            "hash": "F83034EAD054815E0098F9912964F610C56AE87E5940971EF7A5573A7E91B4E7"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_S06_RM2_QuickMan_Stage.nus3bank",
+            "hash": "B5B6D9E494F497C7C8F684BE86A0582DBF334134C9372CD2352D6593FBC3D33C"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_S07_RM3_ShadowMan_Stage.nus3bank",
+            "hash": "97C8945BA8EBAF113769632182DED11F2187A39B76C88CBEECB617A8056B8E37"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_S08_RM_OriginalMedley.nus3bank",
+            "hash": "EE47A90A87BE0709ECE39C8BCF5F995565269152A35A15AD3D042760473BC681"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_S09_RM3_OriginalMedley.nus3bank",
+            "hash": "21F54AFD593F88F175697FF2DEF026B78125C5D5B2734569C42552C6252C11A0"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_S10_RM4_6_OriginalMedley.nus3bank",
+            "hash": "5481B75D45A43C49735F06AB27D34F64B96BE1963E1CD285F61F8BBF94558F42"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_SEQ_item_Goldenhammer.nus3bank",
+            "hash": "8B3770D84F3DC0568E98BD80EAAEF8E01292D0E1F7BB1BFDFE489E0971872C66"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_SEQ_item_Hammer.nus3bank",
+            "hash": "0F6FCE6EE915273E92B216ED84C1E39C0C69BF8DD17C931210C6E7590EB17E55"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_SEQ_item_Superstar.nus3bank",
+            "hash": "0BC4A33C35A7D887D7A2D29378D25230C7406ED3D493F4BBB115AF23B8D6338B"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_T01_SB_StaffRoll.nus3bank",
+            "hash": "20673CD5B7F89850C21B812D1AD86A8AB9E56A13B4E25D500DA3E098305FB29B"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_T06_SPR_KongoJungle.nus3bank",
+            "hash": "65D5DB2A4D58040BE2C265828873D323D974EFA69869575C716693DCF5107DEF"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_T07_SB_StaffRoll.nus3bank",
+            "hash": "840BF1D4374ECEB50A76E866356EB559EAB3B57A6316FE5AA504C3507E3A2EE9"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_T08_SB_YoshiIsland.nus3bank",
+            "hash": "1D597B750E7DCBABAA26880E29C160D2E1A034AAB671BDB1400E77A77A1F61D5"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_TEST01.nus3bank",
+            "hash": "A3CBE0D500E6A8C4581EACE70DC86D19E1598B84D9FAF29429D181E33B7FEE42"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_TEST02.nus3bank",
+            "hash": "C91CAF22C18BFB360B57582F1EBE9C743223477B1AA209F1369410058A594F3F"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_TEST03.nus3bank",
+            "hash": "B3596378E47C0A32046A04523CB6615DFC45BA9D6462846785E3F1505419CB26"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_TEST04.nus3bank",
+            "hash": "12DEB39FDACC36E83F240C37B318B46F19942C33FA9F679BAAF25319D1A7F05F"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_TEST05.nus3bank",
+            "hash": "8A4942F88D888B3D1D2A102C63B25360C4A76D26A9424EB23E551C3BF2747E52"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_U01_SNC_GreenHillZone.nus3bank",
+            "hash": "280F9FB6ED8B0BBFFD44C2D9CA9FF9F9C8043DC89724803C03DD6F9A41B73F8C"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_U04_SNC3_AngelIslandZone.nus3bank",
+            "hash": "BCE3EF7F70ABD4746EB65AFEB219B20692609DAF36FBBAF1F7BF5C8063463B4D"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_U08_SADV_OpenYourHeart.nus3bank",
+            "hash": "813D7A42E5F2688F1A68C38650F0350A43B35FD818DC2FD14DB1CA9B277DD51E"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_U09_SADV2_LiveAndLearn.nus3bank",
+            "hash": "41A9DE08F771FA77E509E3B9D182E663BFD69A1B55D5870A0D51A9C82C656846"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_U10_SHRS_SonicHeroes.nus3bank",
+            "hash": "1EE397E54E2070C50E4A5B0244DAA5B3055C1208311EF13B2AE2D6B2FA5BD86C"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_U11_SRSH_RightThereRideOn.nus3bank",
+            "hash": "91D2D7658410470C4D54A4FA97234AD2CAEE59BF52BF1B541FCDA08C3B279AAA"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_U12_SNC06_HisWorld_Instrumental.nus3bank",
+            "hash": "8B8C8B461F9E640DDAFADEBB23608FB4ADC71682579F26CEF09AF38D6A8B111A"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_U13_SRNG_SevenRingsInHand.nus3bank",
+            "hash": "3EC6CDAB56591F37BFF89F668E582DA2328E0CCB28AA71FCFB31D923FF155E79"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_U14_SADV2_EscapeFromTheCity.nus3bank",
+            "hash": "899774AE575F5E19CD619224E1FAD3BD9D7163E18C285904F9F6D3DC7913EB15"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_U15_SBLK_KnightOfTheWind.nus3bank",
+            "hash": "FF2488C739602BD96EAB23A5FA0EB7C06864ABF2F3FB8C14F408B0C06B7DEB0F"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_U16_SCLR_ReachForTheStars.nus3bank",
+            "hash": "E8544DEF370468C4890479DB64A82010EEC27DDD3FF992F49B20170C735A29C8"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_U17_SGEN_RooftopRun.nus3bank",
+            "hash": "D63E54F3966849235358B2D41E86C6C56FDF74B892B06137DD164B4B4EAEB664"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_U18_SLST_WonderWorld.nus3bank",
+            "hash": "9600F434F58A373645DBBD90248C89C5E0224AD283D3A82D04D156A1BAB2A262"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_U19_SLST_WindyHill_Zone1.nus3bank",
+            "hash": "95CBA1F748CEE0EEE8D646AA05CF2395A1B78D33B3285966C057FC89835BA1BE"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_V01_PAC_PacMan.nus3bank",
+            "hash": "5F23874A757D7F470FA1501AEB8E7A87A0E2DF9F4ED8990CDA7D740A49035AAC"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_V02_PAC_PacMan_ClubMix.nus3bank",
+            "hash": "A4494A1D0072E3EE9FF57EF1928F338D103EBC17186B3858076552E052658446"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_V03_MNA_PacMansPark_BlockTown.nus3bank",
+            "hash": "919D4714F61154D52C5DA79F42A4F5DF43769DFEC830BA1B0C5A866149AC8CF1"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_V04_LBL_LibbleLabble_Medley.nus3bank",
+            "hash": "76D732B78FD65F63959ADD06C9DE6D78582468FCE466DC9D28865751D962CA77"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_V05_MCR_MetroCross_Medley.nus3bank",
+            "hash": "17192334992339E93A583AE212886B460BC7CDDB43336AAA852BE0B59530C535"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_V06_NMC_80sMedley1.nus3bank",
+            "hash": "B773655173C9DAADFF70B5E59C2DE5DE80DBA929A3780FF7CC2967A4F9FE2EEC"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_V07_NMC_80sMedley2.nus3bank",
+            "hash": "308E5CFAEF536FF3C0D1F2AA6BF08A47824457575627B5794A75A1801B1EEEEE"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_V08_SKD_SkyKid_Medley.nus3bank",
+            "hash": "58E28559E25CE343BFA9D3D0770672AAF3661ABB023F3FFBD49409FD5D539214"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_V09_BRV_BravoMan_Medley.nus3bank",
+            "hash": "B73A94157DA066BA765C7777C478C9BB67EFA2CA1A9C3E416A774E0F3BCB3D85"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_V10_YKD_YoukaiDouchuki_Medley.nus3bank",
+            "hash": "426DE106C9D5BDD77157614D01301D4CB92AFFD8D0AB876A673C867D2E0A91F8"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_W01_SMB_PeachJyou.nus3bank",
+            "hash": "D66A293FFC68A455B52D1B954A7241BD595DC808BFC2C8F1A32F131A1F40E3A7"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_W02_SM64_RainbowCruise.nus3bank",
+            "hash": "F21BA5500B0B44E6A623FA9981299150A88695C303F756622E26EB409DAAF77F"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_W04_MR_BrinstarShinbu.nus3bank",
+            "hash": "8EFD49D1750EE4A40FE7E6790676DE67EBDC597912D6088F34C14EA98845F26D"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_W05_WLD_YosterTou.nus3bank",
+            "hash": "205584FB986D8A8823C1F0D2C5364C1C6D2251F0F89891AAA9C8EFACEDC4ABA3"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_W07_KBY_GreenGreens.nus3bank",
+            "hash": "6C526F3AD5EB49BD8F0673C1BC6A8A2DA0BB6DCA574F67D5B6837DEF4EEDD461"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_W08_SFX_Cornelia.nus3bank",
+            "hash": "FC1CA2AA64620242F5095F7AA3A8913BD4D8E9864612AA8D14B2E5B5AD9E5F0C"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_W09_PM_PokemonStadium.nus3bank",
+            "hash": "BA1AFC48E86D997F336112FCAF2F93F00EC5EFE279CD8C2A0009272E15867102"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_W10_PM_PokemonAkuukan.nus3bank",
+            "hash": "FC210EC19E67E990F14AAE3EAF765312C995DCF66DEC826B7D56FA18B7D0BC19"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_W11_FZR_BigBlue.nus3bank",
+            "hash": "AA1C937D6408A88B27C454E1435ED71417D861D02062B0C9DD5A33FAAB10CFC1"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_W12_MTR_Onet.nus3bank",
+            "hash": "EDF3108856ABDA61C1419C6DBB3A42F750C266D2E8F6363DAE284BFECE6424A9"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_W13_ICE_IcicleMountain.nus3bank",
+            "hash": "A16BB49373A27A3A7D387D4A6CD32AB08DBCB6EE920937D7B40BF39CA5A82080"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_W14_GW_FlatZone.nus3bank",
+            "hash": "59D44FFA04F34C0BCA11C45029BE946D081A930452F84DB2F899C7DB0D050B5E"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_W15_SMB3_SuperMario3.nus3bank",
+            "hash": "25D1C3456377C417D844C4DB1AE77B86434A6EF281CD499AC8AD473CC9F785C1"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_W16_KG_PekemonStadiumKinGin.nus3bank",
+            "hash": "79D5CCB4B3DE864ADF5CDF0EE7B0E43509D27124ED8674540BDA7146D1C09E09"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_W17_FEM_FireEmblem.nus3bank",
+            "hash": "7BEBBBB5F06B4922077C53B25426E5E65056DA9A9484E81022557933A3E61887"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_W18_MRD_MachRider.nus3bank",
+            "hash": "16C5F093D0C9B54E261E84ED6EFD2B23D346C0B1C3A9891B337681C846E942F4"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_W19_MTR_Pollyanna.nus3bank",
+            "hash": "CCB8FE774DA750CD4A6210E4AC4EA3096968FBDD224BB2E62095893EDEBCED8B"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_W20_DRM_DrMario.nus3bank",
+            "hash": "6B6B9DD56B9915B1CB9A5087F15A732C9BF363E85F93BEA36316C5316C0070A2"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_W24_LNK_Shinden.nus3bank",
+            "hash": "0C56D6EBD327B44D062621BACD99F5CFD45069488C739E4CA85EF8AA24F110D8"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_W25_SBDX_Shuuten.nus3bank",
+            "hash": "2D95AEEC922314BFA3D8065634B69C4709F957675F4D345D821895CBCC9EC62A"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_W26_DK64_MonkyRap.nus3bank",
+            "hash": "5636E16207607CABDA2FB5E86B405AE08F57B1096B18464A15D3AA8328DF1B31"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_W27_MR_Brinstar.nus3bank",
+            "hash": "7DE08A1AA29A28C168433A98B5386CCECA04C95D9992554AC7197420C2DD3E5C"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_W28_SFX_WakuseiVenom.nus3bank",
+            "hash": "7040113E3E6188CE2595288095796A741EFD5861DF39DA93D9635C1A20C1E5AC"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_W29_FZR_Mutecity.nus3bank",
+            "hash": "28262FDC6AC775271E21905B36E670EC65770D6C69A53DF3F0B07B1235351D1B"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_W30_SBDX_Menu.nus3bank",
+            "hash": "AF2D3026552AB62CA67690065D83D56F59BF1798A4E43C5B2F1C4DEC6FA62AE8"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_W31_SBDX_GigaKoopa.nus3bank",
+            "hash": "95747DB8479A770588981618E902FA125D1F6DC617AF86A781D732072BB7724E"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_W33_SBDX_Menu2.nus3bank",
+            "hash": "12A845184CD84E12ABF45298C575AA34F4C100C4B57F840988E6C2BA8E9F0E43"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_W34_SBDX_Menu.nus3bank",
+            "hash": "F2D4BC2319DECFAD617F3F35C89DCBC0F803E0923AB79F84B8DFF19A494B2014"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_W35_SBDX_Menu_ver2.nus3bank",
+            "hash": "0D5AA859628AACCE87D45F4CE6F029FFAB2F2E1925F987BBE16CCD865AFB3731"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_W36_ZLD_GreatBay.nus3bank",
+            "hash": "2F1B3209913E8D0591BF1D54D7A285C2111D46A70F75F281B3D7641D03147585"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_W37_STR_YoshiStory.nus3bank",
+            "hash": "4F6F1130EA5683812244AE17EEB4492BEEADEE35E3463D266440B8264078008D"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_W39_SBDX_HyakuninKumite2.nus3bank",
+            "hash": "4F14666DD7904564B6BFCDDBB89AE6FED9C09313D728E0A89DDB1B3EAFAC6CBA"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_W40_SBDX_MetalBattle.nus3bank",
+            "hash": "7513A341B17C0F504E6065BDB3E626B15D853AB23A39D82ABAFEBB39246C633F"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_W41_SBDX_FigureMeikan.nus3bank",
+            "hash": "3F670CEE71E5813FF285EF4A6F5009E42D63AA3196F636DD01F3714E8F939C7F"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_X02_SBX_Menu1.nus3bank",
+            "hash": "E421CB8171398C88FBD0A1AF4870F5B15816EFFAAB221E78F6911AF8F908967C"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_X04_SBX_Senjyou.nus3bank",
+            "hash": "2305585F52DFEB9050E0CF001211087A8793BFA8F336B324398EBBDAF268F060"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_X05_SBX_Shuuten.nus3bank",
+            "hash": "A55425C59D311233B4C616438D3C1FCF39D6A6CF9A26CB79E0DC0016A5DD6CBC"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_X07_SBX_OnlineRenshuuStage.nus3bank",
+            "hash": "CD98CF251F0E6DCB8C4AF602368F8FAB0B94F2FF0440AF9684B8978F076E1DF8"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_X16_SBX_HomerunContest.nus3bank",
+            "hash": "B6340DB1126F08D690FD06EB11C426AC768D67B341C0B88633798EAD42FA18C5"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_X17_SBX_NasakeMuyouKumite.nus3bank",
+            "hash": "A9C73CE094E7242B1445670CB7F3BE43868AE38E038C3351C06D75EFA61F29FF"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_X18_SBX_BossBattle.nus3bank",
+            "hash": "CD150E730F52731962CAF822A860F60167BAFA26C40111DEC8F02778816C277D"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_X19_SBX_FigureMeikan.nus3bank",
+            "hash": "98EE213059D98DCC97359ABC10BD0DEFE18971CEC57F8154391F3DF9A0D99731"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_X25_SBX_Senjyou_ver2.nus3bank",
+            "hash": "E3AEDB60C9C8E5DBA0EC66085CFBD70B3B19E538F6E0265D08E51A289AEF6111"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Y05_SBX_BossSentouKyoku1.nus3bank",
+            "hash": "EF7E5E41081663FBB204D09002144D96E6E38FB32F92F139589F397858E1C352"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Y07_SBX_BossSentouKyoku2.nus3bank",
+            "hash": "4C2BCCB73C1214BE4F3AB258DB8DFD2B51336C5B105089534988434544796A20"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z00_F_MiiFighter.nus3bank",
+            "hash": "7CAC1D990E0589F078A7226A3D44FE4BB8EC8A593E13D73A7B000C34F90B41F5"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z01_F_Mario.nus3bank",
+            "hash": "7A534A00294CD7ABCFF4CD4A02EECD1BDDB5DCC9157329F064B3C8B4A9A2106B"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z02_F_Donkey.nus3bank",
+            "hash": "D454CADF3E0C30B8ED93C6AC18B557672A8F89F5268BFF661A6D175A3CE13937"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z03_F_Link.nus3bank",
+            "hash": "E653FB51E2B2298F3E5C1F8573B4C11F0EE9CF2C38406BC5777C80397CF15EEF"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z04_F_Samus.nus3bank",
+            "hash": "9444A1F86884E0868E63133F7A703AEC6BFB577D4EF0A0A3F315BB084BF1A0A7"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z05_F_Yoshi.nus3bank",
+            "hash": "A689782464AF8698815877CC893F7F8C224D409EF49EEB37ECDCE3E665F63112"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z06_F_Kirby.nus3bank",
+            "hash": "9C69E9C702CCA983F6EE4AE939B24A07E5DAD51B0403D7842694A3CCB755B838"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z07_F_Fox.nus3bank",
+            "hash": "5A267B91FFAEAEDE95ADDEC3E3982115E90ACB8D2E51BFDB4E27BF9AD75B278E"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z08_F_Pikachu.nus3bank",
+            "hash": "11647817C812D49748D0C0537C2E9962AACEAC3A0E0AE0A1465C97A58E140E90"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z09_F_Luigi.nus3bank",
+            "hash": "5FD7593C4F63A12625298B62EB27C4DE44817FEBF4B38703F834E3FB72A0C34F"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z10_F_Captain.nus3bank",
+            "hash": "377125CC214DC1FB3EFA4994479183749FD5BCE103EFD92721C29368D99A0AF3"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z11_F_Ness.nus3bank",
+            "hash": "8DF3CAE81157B4DDAB188250CDBA00C022B3623DEF81E8D6AC055E720FBF04B2"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z12_F_Koopa.nus3bank",
+            "hash": "785C807DFD5566E268304B42F82995406AD247DF4DDE1CA4708CC79829AD7B6F"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z13_F_Peach.nus3bank",
+            "hash": "E463FE844A52C60586C1ED1923F4B3ED2BAC944B2EACE93169770CC91ED4E842"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z14_F_Zelda.nus3bank",
+            "hash": "C50713A79B3FD36EFEA86D97038F2A88DFCB67A5CCD83C170259894FD8D8C71B"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z15_F_Sheik.nus3bank",
+            "hash": "2C98080FE61B55A3701B13BEAA05004FD9ACE97136C0926CF2C6141C8AA2A31D"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z17_F_Marth.nus3bank",
+            "hash": "A3BC8118BCB940A4A60C5EBFB9FF23B14629F19C09431471419E509664873A01"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z18_F_GameWatch.nus3bank",
+            "hash": "9B86079432FEE55BD7CDF443D023016DAAE44B41B9950BF49F26A9FA68FE3676"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z19_F_Falco.nus3bank",
+            "hash": "5EFA12D63B55009BDBF14BE6E96E11B03BCC661DFE17F323913560AC8AF52333"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z20_F_Ganon.nus3bank",
+            "hash": "7A922ABBFB56CCBE23F0F85AC0C7E4200238EEE6F6257BC4A5671C73B2CD08FD"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z21_F_Wario.nus3bank",
+            "hash": "2627577ED02894041C885BA0A0FB9C2131A890D2E0FBB48BE8FFC5577E0D32F3"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z22_F_Metaknight.nus3bank",
+            "hash": "527649BB4B2340412D06FA2E9DC57B68FBE033D76E0C06445AC676313E755119"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z23_F_Pit.nus3bank",
+            "hash": "10D018AEE5029ECF63DFA19951BA79216385504A9F5308185A143B7CD2AA4EFE"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z24_F_ZeroSamus.nus3bank",
+            "hash": "C0C936C3973061513AEE259305F2B21573C95740C1F4DC650D58AF8EE8C0325B"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z25_F_Pikmin.nus3bank",
+            "hash": "9BE5592F74FBEB4D253B34B3FAE051745989EBBDCD39D6E530E00CAD398B10E0"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z27_F_Diddy.nus3bank",
+            "hash": "9EC38482636B2A7D90059E09446BE5170420FA161360DAF1893581E09FDB04C1"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z32_F_Dedede.nus3bank",
+            "hash": "16911E03DF36033C532EC2FE6080C5700921A959145C281F4E1981AD2143C246"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z33_F_Lucario.nus3bank",
+            "hash": "4EC6348EE2863B990B5AEEC33FF52B9F053C755AC6EA6325AB82E329F339EA03"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z34_F_Ike.nus3bank",
+            "hash": "5E2C6BD2C631BE07A5485FD53376974FFAC517591373FB3EB45E6D6F2EBBA613"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z35_F_Robot.nus3bank",
+            "hash": "50E3BDCA4A73FA73D8ADC2066FF102413CC865B538413352DE705402A235FC5B"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z37_F_Purin.nus3bank",
+            "hash": "06C1EFE5196E5FC4B8C55CE6A1A0ABD32DB95A44171320BEAD79B920492320BB"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z41_F_ToonLink.nus3bank",
+            "hash": "984527CE1C12422C38A3F8C052A29E6FA1DC4F67A9FFD7C50CB9B2A10DA5FFFC"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z47_F_Sonic.nus3bank",
+            "hash": "1D7F4F824C026BF228B74C0EB86E111E6E9D57F3A5040AA17D44AA8DB7FD9358"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z50_J_Continue.nus3bank",
+            "hash": "ED7F280170641130D1F5E2DD64255C72E8DE391012AE2B0B0945D5BB8CC3D208"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z51_J_GameOver.nus3bank",
+            "hash": "26825A3DB3D24E8AB3A27F48E7DBEEDCD9D84964E0C27C9DC0FDA64E93FB9F95"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z54_J_FigureGet.nus3bank",
+            "hash": "56354C8AEB95E90ABAB0015C2F9D058F79B2626C8E7C1B45E4F1156B4BC66D55"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z55_J_RareFigure.nus3bank",
+            "hash": "1C15DC0815709A0B74E2D563BB413642CA968EC74659A7ED331B39A657C68014"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z57_J_Youso01.nus3bank",
+            "hash": "01921C91E587AB33F5620624B22805D0599CEC0D5739D6FFEA01643B825D8630"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z58_J_Youso02.nus3bank",
+            "hash": "86C97F0C4365365D75AB831B2AD85650438C2231C8F219F251BD33EE950DD04B"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z59_F_Lizardon.nus3bank",
+            "hash": "31D8306F660188BB1BE33C1CF275AADE2119A34D961B89C5EB9823195E5B38CE"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z60_F_MarioD.nus3bank",
+            "hash": "4BE53A97E4AC32F90E960BF10E16593D10235A2123D92937F45FE2F264E0768C"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z61_F_Lucina.nus3bank",
+            "hash": "4710E7147B3C1C900BAEAC2D3FC5267A8FD3DFF194389C51E635F933BE560E99"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z62_F_PitB.nus3bank",
+            "hash": "0A6435E9C039012F7A99C81353C1CED625DAC76904EB21C3A1030E732FD0CE1A"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z63_F_Rosetta.nus3bank",
+            "hash": "6F501C51FC9D892FC822B132293E4E43D0134AB1C27BC9B59ABB074757935C6A"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z64_F_Wiifit.nus3bank",
+            "hash": "67435FDCE1BB0A146ED2D49F6437B26B15EC7C2078D8981BDFC4F974195F267E"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z65_F_Littlemac.nus3bank",
+            "hash": "120CA26EC6D648DFCD99C383CAC6B8392199EE04E6498BF9B4C85ED7FACA7029"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z66_F_Murabito.nus3bank",
+            "hash": "FBE465425CE75B72869A920AB4A87329C393CDAD9A93DFCDE05841F480F5D791"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z67_F_Palutena.nus3bank",
+            "hash": "6FAF95066E0068DA0A14A62B345F9E1EB45060895C74C95F888AB668731C8DF4"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z68_F_Reflet.nus3bank",
+            "hash": "0FA625B7DC449AE83188E4E2E1C990048AEB25C24CAB70DB9B0117DB396F8AEF"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z69_F_Duckhunt.nus3bank",
+            "hash": "F9F21C1FDDEBB73A7626A588046DF28DBC7815C5E60A6BAB9B4F77EEC9CCAD03"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z70_F_Koopajr.nus3bank",
+            "hash": "092D733C133717DAB79F4F50FBE173BC5592C83803F3F4D4DF03B5911BB955AC"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z71_F_Shulk.nus3bank",
+            "hash": "62E3B3D2A327920F48F9B5E354AAF393033A109FD432DE92CFFE71D22A67ECC3"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z72_F_Gekkouga.nus3bank",
+            "hash": "AC3E9FA6B72BF5A3DE692FFDD139E57AB43542D2B03D10C6830144BF284DBA05"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z73_F_Pacman.nus3bank",
+            "hash": "ED192F2448104BCCB1DDE8BF25C44326F572284455E63C9EDBF5E708802070C7"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z74_F_Rockman.nus3bank",
+            "hash": "6B2E4ADDB120D424F23E2901FDBAE4234EDFD64113FCBD1B7AE84FA104074CA3"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z77_J_World_YellowDevil.nus3bank",
+            "hash": "9573F3BF90E805F5253A617A9C0C99CDC8FA9572D58A5377AE94C64870B83B9B"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z78_J_World_Ridley.nus3bank",
+            "hash": "78189B90328F990C8149C873DA677CC3FF9C37E1885843D6EAA82C31B5E95BBD"
+        },
+        {
+            "file": "content/sound/bgm/snd_bgm_Z79_J_World_Face.nus3bank",
+            "hash": "D2127D47985F2794D94FE4C44BBE3C1DC7104113B059A288F626B94343967A12"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_EU_46.nus3bank",
+            "hash": "D7D80CE06BC7BF2A3A125568FCA659E287A768356E9315EA20C22531F1E19687"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_EU_54.nus3bank",
+            "hash": "279F5EA94743A553F53CEDE05AA5F475908A58B515C7CF616008BAD235680690"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_EU_55.nus3bank",
+            "hash": "CD42651510C797DD80F533117E5955DF4116D5C325569658D7A1E022A5F0691F"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_EU_56.nus3bank",
+            "hash": "F893627498D6FECED7DBDD259CE6C9F45308131B7D0D773150576E3CF465D59E"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_EU_57.nus3bank",
+            "hash": "4880A9DDA7A4B846956FBC4D960D030C168C0F3071EAF91FE555DF9C4EED1E19"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_EU_58.nus3bank",
+            "hash": "4E9822D16D43ACE48C6783EC990D3B2233492651421E3E00BD41F13FA8E02764"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_EU_59.nus3bank",
+            "hash": "6B6B2ED645A78DE037CD43E6866907D41BDB78FEBB64092749C9106B84572577"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_EU_60.nus3bank",
+            "hash": "93C6018F8049124CAC12A428D0485014542D0833DE98BD094C27BE1A8C48EB07"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP.nus3bank",
+            "hash": "3B47531BD28A32EE9BFB8E950948093FAC6ECB6A8A936A1B210BFDF81A029B18"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_01.nus3bank",
+            "hash": "24D036F5943BECA676E0DC7E8606848F352B16670E37A277CDDDBC69561C5F9A"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_02.nus3bank",
+            "hash": "D2E535C802725144B0B55446FC991310E3F6E0A24114CC8D095ECB139F9BB976"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_03.nus3bank",
+            "hash": "00E91DFDA9F82E49CB5FDFC4A97413F5BAA855FCB85402925F1A373474738B99"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_04.nus3bank",
+            "hash": "F88F051514277029CBAF62A7413FAB2CB55FE0AF3A768430C779A66D2DF65EE9"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_05.nus3bank",
+            "hash": "EAA0414F9792E69923491809824CD2879DA9FF07564E5342999839881B516212"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_06.nus3bank",
+            "hash": "16C03D1FEDBBD4E57ADC3B85F3A78677E7D9082688E4EE45C4A6926E936AD6E5"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_07.nus3bank",
+            "hash": "1616706CE187160172EF19172A064BA36480A51E76659ED361834F82DDD02592"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_08.nus3bank",
+            "hash": "05681EFE8D3A18EE6C63ED69BB08CBF7A8CFDC08308CB18C5BB4897C33C3C78B"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_09.nus3bank",
+            "hash": "A60A4A04A4D48F835506FFBFBF6322546BD006424AFEA82329E4988128B26747"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_10.nus3bank",
+            "hash": "FB9427BC1AA68A32635FDE3CE71E2AF1DE94C7D9A3BEB8A49F3F5922550C2C79"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_11.nus3bank",
+            "hash": "A2A3004E1E49EFF744932550134F0649F5CB58C298FAC7A4BA45CD463FD94E5F"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_12.nus3bank",
+            "hash": "8BD6EB0887D9960D2D24CB741AA4152A81FDA019F4CB0CAB4B27BC763060393E"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_13.nus3bank",
+            "hash": "71537E3D70ED0A30613AD9EF46F1C07CF94F30078709F065774AEE04668B5A7B"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_14.nus3bank",
+            "hash": "1CF54E765E4BDA1C1787537B62488B27CE3A097320FE636FB463A7DA44270A25"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_15.nus3bank",
+            "hash": "77FE5449AAD4C37FCD80C38391F6D418412F58A0A49FA069C7E56F5961D735D7"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_16.nus3bank",
+            "hash": "2A854806CDE81F6710590B8E1E9149FE4C09269FFF5C6882D79D93D042D5CDA9"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_17.nus3bank",
+            "hash": "9C7F9D172F180A40553E43C0B958459E3B39E112D88FBF2C6B47B3447C75E0BF"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_18.nus3bank",
+            "hash": "641E108E467791FB662643BE6A2104ED2BB12551EC5012D592AF28D7CB933B77"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_19.nus3bank",
+            "hash": "A650E1DB803D0D9156AC4C7B49EC61F9DB7D260050549F0CF16C2263E22250EC"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_20.nus3bank",
+            "hash": "BD3B70089019FD85010CC1C860176C6781999090856495DDD74A692FF8855317"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_21.nus3bank",
+            "hash": "1016609D7EB1D26ACAE11EB787B4A6C53940602D98959F148E83F48791B5DDE0"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_22.nus3bank",
+            "hash": "DDCE22DE781A4C5A45E1088B0609291391D162CA3210E216C7ED700162BD23F1"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_23.nus3bank",
+            "hash": "1049BBB439F7491BA4756367B2BE8719312B17847249A5A407EE7ABEABAA46A7"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_24.nus3bank",
+            "hash": "5E241A7ACB41E70D861CE571BC729F6D6B358BAF79BE7D7549578F6508663678"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_25.nus3bank",
+            "hash": "637572F907498E957A2FDD45729ADCEBE57CE28E2924CB5A8A636D2EB6973D8A"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_26.nus3bank",
+            "hash": "DE321A5DFA98B114C935844207E0EBC3122D9BA4924E68A7CA02D177097FAFDC"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_27.nus3bank",
+            "hash": "866F157707600FB070908BC875C33098E86FFE351D7AE4560683D6EF4542FB5E"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_28.nus3bank",
+            "hash": "32422EFFB8A64FEC4F671DB01A88E345CB724CA8EB6D1068881532D4EBC49CFF"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_29.nus3bank",
+            "hash": "D79123AF30075AA7EC9AEDE01F7CD065AA1964E186A6E353AC634FEE1AB103A7"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_30.nus3bank",
+            "hash": "84A4DAF81F05FAE27A99D98CF2E7207296E10270FF2690E385AC2299DF68C9CA"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_31.nus3bank",
+            "hash": "F4E07DA2F829A254771C69DF5C5DEB36128CE60810C430B9D68DEA0C93E60C0C"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_32.nus3bank",
+            "hash": "EFF1A1B92171C4BE067E3EFF733083DBEE88FEB54FBBB519A35170D304735E18"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_33.nus3bank",
+            "hash": "5555DC5E2DE88897B42991D0081A8B702D8AFB4BF67352C45D39AAFD52BD928D"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_34.nus3bank",
+            "hash": "10639EA5CC38A56450F999BEEB3E8DABA7461B43DF4D269097B5F3648CAF3221"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_35.nus3bank",
+            "hash": "35C2EF45DCFF6A6015A9EA6210C683E5919AF7290A3C9FC2745CFD1C132E0B98"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_36.nus3bank",
+            "hash": "343C7067CC502809671A0BC72C6D7709FDFA26D64154D4079BE72FB6D7F41B1A"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_37.nus3bank",
+            "hash": "AB73F5A4D14EF4A8980993B31D81E441043663480AAFBFE5B31A5DE9AFD4D576"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_38.nus3bank",
+            "hash": "1D6273B6BC7ADA4087C5CE8207F4926421A486EF01BEF18D9BBD40777E139EAE"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_39.nus3bank",
+            "hash": "1AB03089CCE1B7456C6D6E663A8A355E6925DE50835E1110A0249DC18AD11AE7"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_40.nus3bank",
+            "hash": "DB6639F3D53A0F1FCF3C1A8DE109BB36BB7D0548D47823541D39D3D4FD8F2B4E"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_41.nus3bank",
+            "hash": "210E97D8921BC3F399A97F882D0C8680FCFB604001C4D6BCCEE282AACB81937E"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_42.nus3bank",
+            "hash": "23D481BBC1B1BC31E41871155809A88398D3726297A0172EAD8378C02D43AD41"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_43.nus3bank",
+            "hash": "32312E9E775E42DBBAADB197D6EDCC456447A6AFC802FB9443D1FDFDFA5B476A"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_44.nus3bank",
+            "hash": "6E4029A01C9FE9B482194CD43E2221FF306C93F829518C2B8C94D8CD69E2D483"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_45.nus3bank",
+            "hash": "CBD3B3176815147171967E6F484F83220AB172B4F5249D1E633F345E2764C64C"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_46.nus3bank",
+            "hash": "4A85B59E7BBCC1B4A30010C07A9A8436ADD628DA7365ACAFF6BD50B95FA1FACE"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_47.nus3bank",
+            "hash": "B91F6A2E7F462ACEE59AF68A4DF037E9CFCA050D091D8FCA493AABC3648E8D8D"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_48.nus3bank",
+            "hash": "17B885E2FC25F7A8EE47A9B723162516B1BE7DB5687EF82EBAB5A00BFA829290"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_49.nus3bank",
+            "hash": "3D272975FE57F604E235ADA24F894ECF4E891B8D42986BA0080097BEFFE9C7AD"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_50.nus3bank",
+            "hash": "B964E37233052EDF4687687490626700314EDEF9CC3A0022E2B7838B213AD8B7"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_51.nus3bank",
+            "hash": "5C284E626531C72357C3CF6DA36E191FD904C714AFD43A7DA22FC7D1DD7F7535"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_52.nus3bank",
+            "hash": "634A5B8F6EEE58BA1AD2818462CC11852ABEBFA0355A94E9C7AF7D573C2FDC87"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_53.nus3bank",
+            "hash": "CB11851C3FB32C37DFD39D37E2C58CFAADAE7DCC0E7C9E3AE5FDFDA2033B388A"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_54.nus3bank",
+            "hash": "0294784224A39DD8306977DA67777E4C7395D5F0CD3CC6B02A97C9DA239F7948"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_55.nus3bank",
+            "hash": "095A8C24582353BB0BACB62F89EB537AF8EEE22540A568273B928AD8BD3DBD66"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_56.nus3bank",
+            "hash": "F90E72CEFFB5341CCF8C47BFA0D2085E54EF8D52069894C0092CB3EB2C0852CA"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_57.nus3bank",
+            "hash": "0FDB35E6B17FB5550D660AEF89064E534325A7DB0A832ECEE6746F9B33445C10"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_58.nus3bank",
+            "hash": "8C1B4BE78DBD31FF3724AAFB9A906D80E1F5B88A05FFDFE0D920D17AA7B53C77"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_59.nus3bank",
+            "hash": "03885FEF75DB951E6E30B1F4BC6C83918475863C0EA87C88D0BEB69AD2030E07"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_JP_60.nus3bank",
+            "hash": "2649EDBAD70A23E38A666913632528496A76161EA30CCFBAA93DC7F5EBEB3C76"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_01.nus3bank",
+            "hash": "B03ADE02BB73C019A403364CC55C9197024F73F4009E6C340ED365365A68254C"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_02.nus3bank",
+            "hash": "B5445C03A0763E1D9EBC0F928B5D6DA4C873FAACAAC76A5C96C42249A546F567"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_03.nus3bank",
+            "hash": "6574C7A02FBCE24F1C2C07962E1A44D6FB27888A3F9BA8C4A61461073B0FC4EC"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_04.nus3bank",
+            "hash": "397221EE29781B0B326670C6E02A4710730BE4A6B88709DF94E69F6A4317F8B6"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_05.nus3bank",
+            "hash": "E60789CACFE7BBC39D21C43A42578C1BDD1311D3956EBFA31A326206B12392FE"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_06.nus3bank",
+            "hash": "83765A4CF69FC8E312A89DA066D3FE55465EE350A39652CAE8FF742D53FCBC5D"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_07.nus3bank",
+            "hash": "17019072E5351268A06FF2A2C2F3B8F54E4EF074E9E108434E83B27762F0C407"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_08.nus3bank",
+            "hash": "294F2808CBCD2A66CDDB42F8F2B87D5656AB9BC180197F43E71F412599E477C2"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_09.nus3bank",
+            "hash": "F617AD9A03BFDB754517BBEB239096CB1D363286A7CEB270D9E7A0B200DD1422"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_10.nus3bank",
+            "hash": "AEA1F43DC15A414E27A1126B186C4456B11BB803329E49139A6CD1CEB5C526AD"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_11.nus3bank",
+            "hash": "F4EAEEAB4FCC1D7A07D3E8E0EE98C8AD948BC58D30A524AAF4F203F75CB5CB22"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_12.nus3bank",
+            "hash": "33A05C87921D3EFD3EDD509B044A769F9DE54CE55BCA94E9084D6D4B5E830325"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_13.nus3bank",
+            "hash": "59BA0998C39D24A9E46FE30B409D9E4B15B848E58DDFC257B8044F413B7B52B7"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_14.nus3bank",
+            "hash": "753B5EE14967B1BBA1449A7C9FAF3048D7A68FAC2C09EFC1B54873A02ADE6043"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_15.nus3bank",
+            "hash": "2EE50E3FFBB1B86C128BF35A3706C07BC436506091517BC3F1380F168B4E6139"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_16.nus3bank",
+            "hash": "C20FEA243515A93084548307AB342EFED109AF99CA0242A6C2C340C3483524FC"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_17.nus3bank",
+            "hash": "84013B74F968E4A909A5C68642DD4EBDBD8999F099A046FFA8D843E120D6DC8C"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_18.nus3bank",
+            "hash": "B0140EFD2DE4D3384BA3362D30891ED6279525FFDA32AF03663AE9DBC456D324"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_19.nus3bank",
+            "hash": "E4C50E5A7E1BDD8FAD4872E6681E595FECABC92DC05B9D3719EEDF5BC0D20BB9"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_20.nus3bank",
+            "hash": "8103D7DEC95734BF659A7F438768C0FE28A3242EEF34EDE48008C5593AB64CFA"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_21.nus3bank",
+            "hash": "9481D65AAC0778638C3572A17E1839F8E4AF3ABF4395A5461CAB174B72044DE0"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_22.nus3bank",
+            "hash": "2D35F3AF6903A6BAF9593E882ADC2EF573B38125378101310E493A1E90CA0BE9"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_23.nus3bank",
+            "hash": "15B99D158C08E2C65428AAE5019CB979EC80ECC8F00A4DC5520C37B3DB9ABBD4"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_24.nus3bank",
+            "hash": "4435903A58271AE5A79B67E495057BF4EF9CB10B56BC9524B10A5A4C1AB54507"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_25.nus3bank",
+            "hash": "57647494C863C615AB916921B2A0C5481FA746CEB02831D295180BA13BDA1482"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_26.nus3bank",
+            "hash": "46F76E8A767BDD456238BC2B2EBE8F230A42D2EC20898B349FF3C040C9CDD98D"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_27.nus3bank",
+            "hash": "891227B74A0985063491092CFA9F0631380737C9A65708F1BEB8C001ADEBBB9D"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_28.nus3bank",
+            "hash": "24F04F605EA7505A2FE3A4861800E7D02231A3ACDB5FE83666E894A3E58B377F"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_29.nus3bank",
+            "hash": "438869FFB25583C185B7CE56DAA6E39D6B8447F3FA63B4E518A90E733891DC61"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_30.nus3bank",
+            "hash": "C3997CEA5AE8A9064273794F439C981C5853750E10AFF9CAF94DA630A190C5EE"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_31.nus3bank",
+            "hash": "BA14B650ADEE96DA10634C5795722DFFB0A131D48F08F1DE142B7B4CD7A25CAE"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_32.nus3bank",
+            "hash": "2AA8B58E77CAFD1678EF9DD99440EB912D3879184961ED5B905DA3E410F19293"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_33.nus3bank",
+            "hash": "7B982110B32FF6568F97A340A3AD99A52A91E635299C95D685B43E40B9BD8171"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_34.nus3bank",
+            "hash": "4210F9708F971E3CF359B3DAF89F045EF9E1AE52D962EE9A950CC4D4E40BC8FF"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_35.nus3bank",
+            "hash": "279C8FB5266A739A7D63DDD1F5A20ECBC6C01F33F81B47606D3A387D8636A891"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_36.nus3bank",
+            "hash": "BACE7E2D839E3E3649846E51217D7C68A85E5BF53B3165DCFD19912B72261551"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_37.nus3bank",
+            "hash": "A96E5146DDF798FA500D56D31073455127771FFA6F5FF58D39CF92EE1CBD9577"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_38.nus3bank",
+            "hash": "4499905AF729E627EF055DEA7A97BC38C5CE58A39A5873BAB2C966F8D7D7C52E"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_39.nus3bank",
+            "hash": "13407932807FC47B15BBADFCF5DCF7E02724A35F2625AE6016B593D4309951B4"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_40.nus3bank",
+            "hash": "FCD98F10EBCA3D628D54F26592E65F0508D85A720D8AD652977A553E4498DAC7"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_41.nus3bank",
+            "hash": "415AF087CF1F55B5AC395C3BEE7DFFFFFCCF6A87AA96CE3A63BA35431BF1FD92"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_42.nus3bank",
+            "hash": "DC0ADE99F0948D8D052E0A868BCF6162674A3F9154E2AA7C28148DDCD526E3C5"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_43.nus3bank",
+            "hash": "DFCD145B24A46D06B0FFC7DD014DF895E612EB9E8678E8F0FC11F15455D48996"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_44.nus3bank",
+            "hash": "98B87C971B4C61D7E89297A676FEE84345F5D94A3B05D29E4D4428CD174185FB"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_45.nus3bank",
+            "hash": "CF60D72D7B5BF8B69D1C590155032D39A08DDDA63F4E4213EA8A51C598C8CE55"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_46.nus3bank",
+            "hash": "BCFDA48A8F76427C795C0147572D460EECCBB48052730EDE891AC494D007A778"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_47.nus3bank",
+            "hash": "5A996B0E9581F78936F9BAA558C28690AA172D413D25A4B5C9C906B61FFAE68D"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_48.nus3bank",
+            "hash": "FB1D0F21EE64DD4BA5824CEE26EC7EDB1E321B7D19F2DAAEB08708FB15C9C477"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_49.nus3bank",
+            "hash": "31F607384D3164C855B7D08D3A9D6ADCBC09DF639D9425B8932B3D60159E86AC"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_50.nus3bank",
+            "hash": "CBC1DF8FA377E4F243B2D341DD5EB2AD3275A1DAFD7049474B009E87A6162387"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_51.nus3bank",
+            "hash": "87B2DB4EBC8F0ECF39C6560FE2459511BB8F8F93D4E5D4D4BDB194480BDEDB94"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_52.nus3bank",
+            "hash": "D79DCDF0D67125CA79887F306AA51C0B32539571E749525AD017FBBB1E717D07"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_53.nus3bank",
+            "hash": "7AD287B74139D3263AB8BA1B3825B99A415014D7257F9AF204A8FEC283C3DA24"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_54.nus3bank",
+            "hash": "A67534F6BD19903EA9997C8F6884DBD8E102A333989CA1010FB8E4E2AE368564"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_55.nus3bank",
+            "hash": "8B1B6AF3CA5F0C1841E396C22691EE288968EABE4BE3D95B860A2F19AF216C7E"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_56.nus3bank",
+            "hash": "89014B04DB15D66D430A6C5F637DDA077371E7B324B7D304C7C977197CAE23F7"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_57.nus3bank",
+            "hash": "FC562D991E5133CAC265644D9E78DA21A9A52A6EE0711A55CF52D39B5AF2C1A2"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_58.nus3bank",
+            "hash": "20B621CDAB980AE8DE5416AE8290DEE221760BD073C919564F469057D2C2C3C2"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_59.nus3bank",
+            "hash": "1CAE70370C23EA3C4A933F05401FAD1E377A6CFE69F74DCC5A9FFCEF9A7CCCCA"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Angeland_US_60.nus3bank",
+            "hash": "2098DB9C7184D497A38338C7F12F32B9D81941E6D1FA80C79A62B5A9C72F4BC3"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Assault_JP_01.nus3bank",
+            "hash": "3589916826F0EFF2BCA677AEE7DC111CD06A11E859BD1631832E67242DC0D3E6"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Assault_JP_02.nus3bank",
+            "hash": "DEDC02E56B7C91388F6CE3CE726FB8A981481C4C7BC1C93FBC71440DBF223DC3"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Assault_US_01.nus3bank",
+            "hash": "FD46F5E9944596414CFEEE47AAF3B713947C1C86B521DB133715FE1F114F73C3"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Assault_US_02.nus3bank",
+            "hash": "BA2720AC4652371226B43085F77809D1352BBF91B2CA4AE8F29512E82F61C820"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Xstarfox_JP_falco.nus3bank",
+            "hash": "A8F5AC872D99FF5BF306DFA386A5DB2520A835848E80ACCD35677BDE1D889305"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Xstarfox_JP_fox.nus3bank",
+            "hash": "CF19538A05BB1553012A3C769CBB3AEC19AA903814B2A9301C1D80A7E78C8D1B"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Xstarfox_US_falco.nus3bank",
+            "hash": "E719CD34E1B89B59F238E1B494CF3D4E2D7A9DF05133A9833E32644EE4A8B2A2"
+        },
+        {
+            "file": "content/sound/smashappeal/snd_vc_smashappeal_Xstarfox_US_fox.nus3bank",
+            "hash": "41E5AFB16A166500E2DE84381A417AF2C2102735051A7A4C9737F8ABB72AADE6"
+        },
+        {
+            "file": "meta/CERO_ja.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/CGSRR_zh.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/COB_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/ESRB_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/ESRB_fr.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/GRB_ko.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/Manual.bfma",
+            "hash": "3A175F6E7A360CC7FC9181257612B57F33F6E456A5F074264D81635D382941C5"
+        },
+        {
+            "file": "meta/OFLC_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_BBFC_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_Portugal_pt.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_de.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_en.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_es.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_fr.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_it.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_nl.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_pt.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/PEGI_ru.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/RAR_ru.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/USK_de.jpg",
+            "hash": "6E340B9CFFB37A989CA544E6BB780A2C78901D3FB33738768511A30617AFA01D"
+        },
+        {
+            "file": "meta/bootDrcTex.tga",
+            "hash": "95AC0337B72F83A167DF485F674A888EE746E0B58737B4DE98DBB3BBF879443A"
+        },
+        {
+            "file": "meta/bootLogoTex.tga",
+            "hash": "91B63D9C03F7F9153C8B9FC8179E1CCCB6F4AFC60204B988D91D1B5EFCEE4AA8"
+        },
+        {
+            "file": "meta/bootMovie.h264",
+            "hash": "069FD8C5713F4B23EA1098D2674BCC839E610BA844683BF532E1E6CB10642621"
+        },
+        {
+            "file": "meta/bootSound.btsnd",
+            "hash": "5B92B324559F7A23E19F599F258DE32E0CCAAB986C31D0C03FA72B9B13D4B96F"
+        },
+        {
+            "file": "meta/bootTvTex.tga",
+            "hash": "58F0A7BCA840D5E1BB6980BA5B55D3C0604363193C701D49F1E935BA5EAC1F8F"
+        },
+        {
+            "file": "meta/iconTex.tga",
+            "hash": "A932E443B0E9BCE284D931D0FC894A7754D89A4566BA9E94C73210F7E09B03D5"
+        },
+        {
+            "file": "meta/meta.xml",
+            "hash": "955B7547565A42BA67320DE1ABF4080F6A2A258E7239D2FAD78F2C7AB73FDF82"
+        }
+    ]
+}

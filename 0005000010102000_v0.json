@@ -1,0 +1,2475 @@
+{
+    "title_id": "0005000010102000",
+    "region": 2,
+    "version": 0,
+    "files": [
+        {
+            "file": "code/Lunch.rpx",
+            "hash": "7FC66FEE104A9076881DDC732D5F5156CDFEF9AC150FD947F49AD0984EFB5749"
+        },
+        {
+            "file": "code/app.xml",
+            "hash": "84CD7F6EEEE6DC3C29FCDD35C4D7230631855B340A91D37F7A0607898EE09B52"
+        },
+        {
+            "file": "code/cos.xml",
+            "hash": "C7C6FA62070A041954D04AE17ACBDC61703718E25969F5C7C64AF7A543AABF2F"
+        },
+        {
+            "file": "content/Common/Env/Atwk.szs",
+            "hash": "35FC40C8614E74BBCBA3F852CA743DFB73F3F1AD4C1331DFCC6C560B48B44304"
+        },
+        {
+            "file": "content/Common/Env/Common.szs",
+            "hash": "010E705595758A8996A3254B9AAC7A7A03DF57527E3D47EEFBF16AC295019129"
+        },
+        {
+            "file": "content/Common/Map/Mus_Field00.szs",
+            "hash": "EEF2561BE6ED79ED500BC044B045F6BBDEA6B89A8A7E3F42CB4ABD72B0576262"
+        },
+        {
+            "file": "content/Common/Map/Tst_Field01.szs",
+            "hash": "6E493C67C353E89781D3D67CC3634B04ADD377D8DF3ADB19D6DFD4922D9C7067"
+        },
+        {
+            "file": "content/Common/Model/Cmn_Mii_Blf.szs",
+            "hash": "46F336548786C4004D2351A7E35DFBFE487A468FEA57B3B0A1EC64F8050EE242"
+        },
+        {
+            "file": "content/Common/Model/Cmn_Mii_Dbt.szs",
+            "hash": "9B2D292E19113373A7126C4E7F21F458506B34A41C8005E2BDB686E9C04964C0"
+        },
+        {
+            "file": "content/Common/Model/Cmn_Mii_Dkb.szs",
+            "hash": "C122B3AC9D320C3156F47D31320F049BE24612AE6686BFE094ABD6CED42F2EC1"
+        },
+        {
+            "file": "content/Common/Model/Cmn_Mii_Fzr.szs",
+            "hash": "2B7539DCE259C7B506CF3CA779815323917962D6888CC3BBA1686130106FBE58"
+        },
+        {
+            "file": "content/Common/Model/Cmn_Mii_Gwr.szs",
+            "hash": "946E5B4B620B946A7B21FBFC9EEC485E0A1E8A4841431FFBAA195B3A6A37779C"
+        },
+        {
+            "file": "content/Common/Model/Cmn_Mii_Lig.szs",
+            "hash": "072CF60C4C42B69C523BB9921DB9FD67B3381D3CB354403B474760BA4ABAC7B7"
+        },
+        {
+            "file": "content/Common/Model/Cmn_Mii_Mro.szs",
+            "hash": "6A2CFB36B94AD8932282076BEC993124853EDF3899191E25772021FDF0EB728F"
+        },
+        {
+            "file": "content/Common/Model/Cmn_Mii_Mtr.szs",
+            "hash": "CF469EF742EBDFA1B7FC077E216F846C6D35A320C5508A5A0752B67AE4B5713E"
+        },
+        {
+            "file": "content/Common/Model/Cmn_Mii_Nzm.szs",
+            "hash": "7C0761CF852C9A1E46D649D8E261A083AC5523E941714CF7D4F8D31E26F3DD7D"
+        },
+        {
+            "file": "content/Common/Model/Cmn_Mii_Pkm.szs",
+            "hash": "3DA7DB957FE5918BED4779448DE2AAD34708DDE4C30EC75590EB8F043C3B207D"
+        },
+        {
+            "file": "content/Common/Model/Cmn_Mii_Ysi.szs",
+            "hash": "55A5B459491EBBA9B6E2344F96A95953BDE29EA6DAC13CDD6DA5402270930859"
+        },
+        {
+            "file": "content/Common/Model/Cmn_Mii_Zld.szs",
+            "hash": "0FA8FDF88D7D688663EBB384503E15029A3B4514A0E46D70D4F9BD74CEF92781"
+        },
+        {
+            "file": "content/Common/Model/Dbt_Field01.szs",
+            "hash": "5563F97EF9551403C2C26E27487C6E9929DB2774EDD474523E6898A43E8ABE61"
+        },
+        {
+            "file": "content/Common/Model/Dbt_Field02.szs",
+            "hash": "4B1A65F6A1B6E2C5F4617E79F204F647E5670A8FD34E04A346E81043AF9D4A32"
+        },
+        {
+            "file": "content/Common/Model/Dbt_Field03.szs",
+            "hash": "15DA53DFA6F5DFC205419C134D266CD097A795467A135B03F257341E637B9348"
+        },
+        {
+            "file": "content/Common/Model/Dbt_Field04.szs",
+            "hash": "2A69D3224B9520B0AEDA7B8D46676F153EAE14A0A057F94F7882B8F6D129F4AF"
+        },
+        {
+            "file": "content/Common/Model/Lig_Field01.szs",
+            "hash": "95EDFA30D1789CBB7BC95906A0257EB52A4677BB38574D0E37984E17028F3F16"
+        },
+        {
+            "file": "content/Common/Model/Lig_Field01S.szs",
+            "hash": "2D32E1312C719D0C8EB9E8B337D5F0C1F1FA34544E955D2FD164577FACD59C10"
+        },
+        {
+            "file": "content/Common/Model/Lig_Field02.szs",
+            "hash": "325F15F4ACA30E830CE6D8454EEB20C6FE71AA3E6A245A103CEFF1B13909FFA7"
+        },
+        {
+            "file": "content/Common/Model/Lig_Field02S.szs",
+            "hash": "B361EF586CF7D26FFF30532633CB18A31EA0196D54D61F5A19EA2000DA2158D6"
+        },
+        {
+            "file": "content/Common/Model/Lig_Field03.szs",
+            "hash": "BAB54F96510F3B9346E6B8D8DCD7B3A35A033F9DB6203169AD9E231E71318B9B"
+        },
+        {
+            "file": "content/Common/Model/Lig_Field03S.szs",
+            "hash": "22916AFD1E632B1F32C192CF099D1FA4FB48DBE7C20B7A3EC42B8D3670B92D88"
+        },
+        {
+            "file": "content/Common/Model/Lig_Field04.szs",
+            "hash": "BFB27D9154D4DA13583088FC9503DA88C7F4FD08972AD81185E1CBD7856C8391"
+        },
+        {
+            "file": "content/Common/Model/Lig_Field04S.szs",
+            "hash": "745F3A75F49BFFDF2DCF5369B4247F17BF4C39AEE894862FF855C9CE40ED6EAF"
+        },
+        {
+            "file": "content/Common/Model/Lig_Field05.szs",
+            "hash": "3D418A7571AD157A67237CA70176786DB25F8A052CB7F91F280886B0F36B36EB"
+        },
+        {
+            "file": "content/Common/Model/Lig_Field05S.szs",
+            "hash": "E94F6B929529160FA59108CDE69B2B80D4A7948AB3433AC33DE16F6BDB2692AC"
+        },
+        {
+            "file": "content/Common/Model/Mro_Field02.szs",
+            "hash": "1CEFC2CAF9D25CD95BEC1B504F3B29753B0FD4945B968D38F2FA6FD5BFE8F697"
+        },
+        {
+            "file": "content/Common/Model/Mro_Field02S.szs",
+            "hash": "7695319CB0B1EF45A24559CCDE1D51F0E62558E8CA8D5A1F32D4C470329AC276"
+        },
+        {
+            "file": "content/Common/Model/Mro_Field03.szs",
+            "hash": "B4980315519D83860C4B2C446632987C0A6E8E330EE8D90B470852AFE9151953"
+        },
+        {
+            "file": "content/Common/Model/Mro_Field03S.szs",
+            "hash": "2A199BC5CBDEB0C35C9390C3F06CF25369EBFC4695591914A3E1CF882FBCB0E1"
+        },
+        {
+            "file": "content/Common/Model/Mro_Field04.szs",
+            "hash": "2CC0AE963DC29D915C2132BDF19438173F7F358E3760A15CC8E0CC52F563DC29"
+        },
+        {
+            "file": "content/Common/Model/Mro_Field04S.szs",
+            "hash": "DDD2494C196AD85E24E20F69F4AA729127C90827923890732524140F28735AA8"
+        },
+        {
+            "file": "content/Common/Model/Mtr_Field01.szs",
+            "hash": "59228423A4E9105818EC1F408B7498303F2A37D40F990F8868AB7DB0F8446515"
+        },
+        {
+            "file": "content/Common/Model/Mtr_Field01_VR.szs",
+            "hash": "D17858F145936F18F9489FEE653DC244F04435B69CBB94D60B6E369469192F2F"
+        },
+        {
+            "file": "content/Common/Model/Mtr_Field02.szs",
+            "hash": "E4B4E58E71A36A819A6B540BE26DA2151B0B162A102C6A27ECDAE2ACB7959D98"
+        },
+        {
+            "file": "content/Common/Model/Mtr_Field02_VR.szs",
+            "hash": "BF6F18F96083012648137B656FF575976D0967060D0270A298656A41549B58BC"
+        },
+        {
+            "file": "content/Common/Model/Mtr_Field03.szs",
+            "hash": "F84A0EF67368BFA166826ACE91BE61DFA5FA1F8DD419FE09882D48E6F33E50E3"
+        },
+        {
+            "file": "content/Common/Model/Mtr_Field03_VR.szs",
+            "hash": "7AD7CA08E7A8497C6B35FF2EA51E095D690CD2E5C337DA490178110DCD1EB27F"
+        },
+        {
+            "file": "content/Common/Model/Mtr_Field04.szs",
+            "hash": "3C286ED0F7CB604C3A3CC7E440B35C70BD67C4AEE1FDADC7DDC6411B2F6EA388"
+        },
+        {
+            "file": "content/Common/Model/Mtr_Field04_VR.szs",
+            "hash": "4B60132A22CF83C8F72C5A459EF146BC57506630A2BEA8B064D7C61626A59518"
+        },
+        {
+            "file": "content/Common/Model/Mtr_Field05.szs",
+            "hash": "076A3086C2942C90D251C10C738C1D9D649848BFBAC8C13E16ACD90E3202D2AE"
+        },
+        {
+            "file": "content/Common/Model/Mtr_Field05_VR.szs",
+            "hash": "B7E2496E48784A76ED9313C54D079335F145C653429867D75495493F3C901BFB"
+        },
+        {
+            "file": "content/Common/Model/Mtr_Field06.szs",
+            "hash": "DEB5967B0E5E5564659FA97B8396CE17F6CBF013CCDCDC51CCB93FE120012900"
+        },
+        {
+            "file": "content/Common/Model/Mtr_Field06_VR.szs",
+            "hash": "2F0B351223184EF86E7B90CAE3A33E093064749B9A6F24EC992900282634AAF5"
+        },
+        {
+            "file": "content/Common/Model/Mtr_Field07.szs",
+            "hash": "AEB1CFF156D1A66C5E03FF01E0E72A40FB4D85FD72F523677A2C119E8361CAE4"
+        },
+        {
+            "file": "content/Common/Model/Mtr_Field07_VR.szs",
+            "hash": "42A2379599F016567371AB7CC0FF727704BC72C325C3FEA6D19717E92124D826"
+        },
+        {
+            "file": "content/Common/Model/Mtr_Kraid.szs",
+            "hash": "39D50D0B83283E6B55C3A8B4DA6A5915E0012E6E27DE1707ACBD70F464567B2B"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Blf_BallToge.szs",
+            "hash": "DB89E43526771F8AF9E8C83A2755E7F014BD69A04474BF644C47AFAAE0025797"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Blf_Balloon.szs",
+            "hash": "776E56F6BAD5EDC7104F58275546CCB4E91FD815CCE2B48975931436351B8788"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Blf_Buoy.szs",
+            "hash": "91D00D560421EF1DE5EE8A09810123B315B0129DB1DD138907B9912DC115957B"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Blf_Enemy01.szs",
+            "hash": "BB4A603CCF0BCD87E6D504DE4BFE447D5D7CA7C463C79B14FFBDCFEB50F290BE"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Blf_Fish.szs",
+            "hash": "7239E642AD0BB59066640404C8BC3033D1146601276BACF8215C281F9CA80AC3"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Blf_House.szs",
+            "hash": "9597817874266C9D6F546C46AFB7F8F2E8CF47C53131597E8F24A0F3AF35F2FB"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Blf_Island.szs",
+            "hash": "58DB75D070748D9074B07829A0602ED9B5EEBAE85C288862BF7813F33904D2AB"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Cmn_Hatena.szs",
+            "hash": "DCB313E0B5426A162BBE6C438BF5FCEF4C550817474E81E16CB022B6CB3488B3"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Cmn_Heart.szs",
+            "hash": "BA40903AB76D511DB729ECEC89EEF9F7D830D9B202B1560E2571D2D46371789E"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Cmn_Watch.szs",
+            "hash": "F84732AF94B851EC496DBBA96DA1F07E6D567516406262E119558CA7248C8178"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Dbt_Candy.szs",
+            "hash": "AD3ABB13FA4487BC309ABFA64D700EC2EC79F231EE83DB064A9E4F8DF3099704"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Dbt_CoinButton.szs",
+            "hash": "12171FF29BC5B74F7CB613B8CC0A921FFEEA19C18C41901E441323DEC4EF0B11"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Dbt_House.szs",
+            "hash": "9663E59112F095D782397B2763747A165FC8D7F54AD15A32432AD75A6024CC9B"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Dbt_TotemPole.szs",
+            "hash": "2BFA0315112E6C44D86A99384766AA4E7A71CED8CCB769896A877D1DA7BC81A4"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Dbt_Tree.szs",
+            "hash": "15B2C77EFCBE6E1B5F42ABCAAF562DC2F38C3B1A3C8D9A68D50601D537C81749"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Dbt_Windmill.szs",
+            "hash": "F0F287DE1FE08CD4C8AAEA96274FD82082F18EDADB53B774FEBDE9709EABC9AA"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Dkb_Field_Handle.szs",
+            "hash": "817C0F3D3FB5E24909B5E546816CD94ACC2DE6C0F9141499451BAF57A75FF8DC"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Dkb_Goal.szs",
+            "hash": "5B5ACAEAB042761BDDBBA7DC90B70A5B768709B1C149B7ECD7A8743430DAC279"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Fzr_Bomb01.szs",
+            "hash": "EA40309026101C9E7C7116B547FC50AA1AAA1E5D9AF1C48168F58558CFA2CFD0"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Fzr_Car01.szs",
+            "hash": "2934851D9DAB9BDB462054BD72B2557F48FFBB37177DC1A28F829ED77E79A838"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Fzr_Car02.szs",
+            "hash": "3668DE0563A0A79BA339F5F3D93CD944C130D88185789CF70186C9CAA508D49F"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Fzr_Dart01.szs",
+            "hash": "C099ECC3D5F498C578310049DD40BEE1451A2C64D895AECB1B2BACBC6CCA3EB8"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Fzr_Light_R01.szs",
+            "hash": "2981BC17B78B76EF5708CC5168B6019228D94FA16A9E86AAC4CB9CF27D62F609"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Fzr_Obstacle01.szs",
+            "hash": "1AC7238FCB1372DD2E7D89E80E3FACDCC0DD83A4D76525C0A5BB196401E8687B"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Fzr_WindMachine01.szs",
+            "hash": "4805F4CE219819CA9C07E2451C6E2C11AE06980B096539F74A132E766FB16DAD"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Gwr_Octopus.szs",
+            "hash": "603583441FE35B3571C4621093C8C3ACAF50AD4C6C5EC0DDE1C3391F1C77BA52"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Gwr_Seaweed.szs",
+            "hash": "110D33B302ECD3F539AD4C9E263B03A5E3FB8EF12B32555E6C05012CBAB7BFFE"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Gwr_SmallOct.szs",
+            "hash": "9B07F2A395817875985378A7C80D8F4173272FCAEA3CAC9C5985BAA6BD66E943"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Gwr_Submarine.szs",
+            "hash": "010B0D825DA7DE3C925053B6A41D2300C1B996F1A118FDEF26D2D51074D05E71"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Gwr_Teacher.szs",
+            "hash": "46D8F05C9F85199B8F212680B3CC8C7E9068B08C90B4EA9E2956718EF4F6A9CB"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Lig_Armor.szs",
+            "hash": "F4527883DCB6E989097079BD4B44723D919E718BDAD28B594E1EAE8E93CA6C32"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Lig_Battery.szs",
+            "hash": "9F8BAB0988C6B61BD9976EDD08C3959BFA6CC98B44BB07EB9BFE68A093423438"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Lig_HighLight.szs",
+            "hash": "3285D652E4F0F447F89B225264A7FA411BB1AE9D8C4D42AB4E1092D897ABEC38"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Lig_Light.szs",
+            "hash": "B0967E3985AD2E82B152F8C7E868D90402927ECC0747C6971691183B7DDFBFFC"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Lig_RobotArm.szs",
+            "hash": "2743877BC7EF8AAC2FDCF3813A03BF5813DCCE34C0C12F7A2A1F7DF1D1BDB664"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Lig_YapooStatue.szs",
+            "hash": "041AA435377D4B2A74340441EF20497A69E741EE7F69D4E0F9D85FB71ACD7864"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mro_Gesso.szs",
+            "hash": "430D44F2013B6362A5E5892EB9D16EC513712C00DF9D91058231DE854A9DFAE1"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mro_Kame.szs",
+            "hash": "74E08344044166B6CEBBEE435D80FAB3B0E53D8CD0F06E350D18ACD3B9C781B4"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mro_Killer.szs",
+            "hash": "779E8C1EC287CFDA2D3177F26E5C2D35E717B59CFCE9EC5951BF0E556FA92F16"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mro_Pakkun.szs",
+            "hash": "1A34FB9656E9C8ED935A52A5246C7E4C575EC90F03FF2F54C7A8CC5C324A6DE2"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mro_Yoshi.szs",
+            "hash": "B5EC3584965EC12219EBB0494D4197EAD75ABBCCE3D9121A0B44B20E5E127000"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mtr_Birdman.szs",
+            "hash": "6A65BB3A985F8B5039A113EF8E23CBE666830E9F06E322732A2E3F54941580F6"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mtr_Bom.szs",
+            "hash": "338831E5FB66728DD24D62749B6964490EC848167EDF6B4FBFCB2DF2E8CF8DED"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mtr_ChargeIce.szs",
+            "hash": "EAD5E1E7EBCC9AE91E681BEE102F4514B2338ED9C7B22A8F8A6EE6D70DF5A80B"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mtr_Core.szs",
+            "hash": "A4A7B2E98D1C1A28F1905775D2DA7A6805F5C9FA9122EBAD5391232AAA3D077B"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mtr_KraidHead.szs",
+            "hash": "DDFCA5C4FA4D174DE26E87142C424F8FEE70D32229E6AEF563D9DECF64729CB8"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mtr_Metroid.szs",
+            "hash": "2D470A384D2B3129BD5EE8D4A5FA6A67FCEA1DB90E1851685B8FC972CBDE8FB7"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mtr_Missile.szs",
+            "hash": "038A2B278C87ECBF9011162CA9747C4B1D20C4C300C8FCBCE41D87FAFC6EED22"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mtr_Morphball.szs",
+            "hash": "E5724677F5523C6B0FA23C7B3340552B40443A83332F42F9D3669B31A0DD328B"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mtr_Ridley.szs",
+            "hash": "51F74FB991FB952FE507489AC1A13F6E5C9291FA4A847C59D5AB698886188222"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mtr_Ridley_Hand.szs",
+            "hash": "3CD76EB27AF61D26B0739972D6E6B6855EA72735FF4E5FA49B974E1B51890596"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mtr_RocketBom.szs",
+            "hash": "A5358A5FD2F172E2722AE5865A634165456D5B7E6E88CD9EF54365BD2E037775"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mtr_Samus_Helmet.szs",
+            "hash": "131132D2097225568C9AC505913ACD857092EF79728181438E95211647EDB970"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mtr_StarShip.szs",
+            "hash": "EEFB17A2DFC0B1F8D1B413DC87314B9BA9222291D00B167D4AA86FE587C5ECFF"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mtr_Target.szs",
+            "hash": "9CED626D5CA8265B1CF57074094AD5157F57BE3F0BD04BC14626A461A46D22DB"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mtr_TogeBom.szs",
+            "hash": "2387E8859243F1C38A74EF7182CBEF7A2546E9995907D9779AB93441BD049C94"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mtr_WaverCombined.szs",
+            "hash": "478DBC28E067B1FF4BBA519DD1F89E26D4B33848FB192A25D9CA785FD3DBC276"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mtr_Zeves.szs",
+            "hash": "D6B39A977CA0C7A0604253C7D2EFDCDC5D91274AA6CF42AE831471CC996650E7"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mtr_Zima.szs",
+            "hash": "891C2AB057F71BF64535C83E8CF1FF2E4737EEC313F4CF8034E41A87B65D2D2A"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mus_DemoReplay.szs",
+            "hash": "8FBD32C2FA17C3EF71FD73467A289380F0EDFFD8442D7B06B3BC9FD44E87A852"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mus_JukeBox.szs",
+            "hash": "FC18373E06E7D18ADAD8963067750B4A5F894BF2753BDC9F9F8480790D57B4B7"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mus_JukeBox_Btn00.szs",
+            "hash": "42D8C14DC3BB0576BD836AA81E1646D182E596DF1C3D7790A82629012CFF8E67"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mus_SignBoard.szs",
+            "hash": "CB7EDB6D6891A683940C268234CCC72F234888E6A564DC111E6BFE0FC1FCC52D"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mus_StaffRoll.szs",
+            "hash": "E6D22ECFB715B7C84A0462FD5702D19DA89AD1E0083CD131A60F19007BCC0135"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mus_Star.szs",
+            "hash": "11910049F0EEA9BD8FE73660E7233625DFF4D9432160B57A01DAE12009B0B71D"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mus_SwitchBig.szs",
+            "hash": "BB59920F25640C15219BB4B293D78F2F9D10A41A1C4F967BA6C9221166659C13"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mus_SwitchBox.szs",
+            "hash": "1AE60F98DD5D7CC7B6D4F60FE604C17D5F1844B52EB264BBD3C97E4937C827C2"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mus_SwitchEf00.szs",
+            "hash": "0819796EE2C236D47F6A00CD5738CEE4695CE18C8686467E61383DF5500E2C5B"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mus_SwitchEf01.szs",
+            "hash": "5484899C98ADDA97BB76E2CC9B22D688190CF2C2542285FDBCAD4EEC5451552B"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mus_SwitchEnv.szs",
+            "hash": "8D643AFD3DFDB34B45BFA3B7E64A484563C4F538A90CA045357EF60C61D5BBBF"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mus_SwitchParade.szs",
+            "hash": "6B3A36209885F6F273C29D28FA59ECCBD1EC2D5D1DFEC334322DD471004AC7E6"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Mus_Trophy.szs",
+            "hash": "22944BCE8C6FC600922C340E0DE38759A25C85CAD300F2A982A2C2AC79A8B805"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Nzm_Candle.szs",
+            "hash": "C2C0996B76BD333566D2309493F82A58D1CA0ED2C78DBFAD0944BB9647F2B05B"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Nzm_Hannya.szs",
+            "hash": "3E315E5F62DB8C5BB47EFAD41F76A10FADF263B5DCB2D1DD693B7EAEF1E07723"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Nzm_Kemuridama.szs",
+            "hash": "FBF843CE21EFA4918F39DE51D0B0F597585A1E365AB291762E7D242AE79AB98F"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Nzm_Makimono.szs",
+            "hash": "C822121A234B570E5B81ABBDFD2BFCE7B19EA89703584CC38220FD704440C76E"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Nzm_Ninjya.szs",
+            "hash": "D917DCA8909052E26FCDFDC192F675B09C7CA723663AFB99200F29E47F54481D"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Nzm_NinjyaSword.szs",
+            "hash": "26B89FFA4EF870CBF0383BD04A79DC0ABAB7E6FEE719800917047084E2584380"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Nzm_Syuriken.szs",
+            "hash": "16F110D3305F109258A857BA208BE1E2BDAE051363CBEC079E10F2FCABFB0971"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Nzm_Taiko.szs",
+            "hash": "AC24A5C997D38680BDF81081AB78300CD6CAD61BCFDC9695F6348E461F32BC40"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Nzm_Takenoko.szs",
+            "hash": "DBA953A0977D881DF7F14241CD43BD87D2367C7A1F690B86F693849071B3B139"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Nzm_TuboBig.szs",
+            "hash": "DBC99CFF108D6D82A618E5498053D1EF67DA9FC034A64C810847EF536FAE7E90"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Nzm_TuboSmall.szs",
+            "hash": "B73DE5064F7535C6B68D21BE57B3B1D390E2247F6465886AB92C395DF86866E2"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Arms_Hammer.szs",
+            "hash": "CA98A6FC91498F25E7E3E4F4BB6BA53BDB1F31609899A08C257CDA5972CDB832"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Arms_Taijutsu.szs",
+            "hash": "757534DAD2401A6EFB6D8D7F15646CC1337BEC71AB3A1BE8AA5419B86A3B3104"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Arms_Whip.szs",
+            "hash": "3D836C421B223723D1068260BBC321C40B1E73993DBBEA10B4887EABDA927651"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Atm0_ConnectA.szs",
+            "hash": "D898198C5F7E3AA3BEACE7A86B1AB4B512761787F1FA9AB56C1902DE179BF131"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Atm0_ConnectB.szs",
+            "hash": "3A0CAB624B03701C8C60A31E14679AB527E1D8906C8A66658D53867A72D7149C"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Atm0_Tree.szs",
+            "hash": "971013BB27F9A65754DF9DA783442650CCF6BDB432D3B28EE97A6BF8A3D1F2AD"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Chappy_Red.szs",
+            "hash": "2864A438E60EC7A114DAF7A25013ACC52A90C78784813DDE4E57B70C839AF1E4"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Chappy_Tonosama.szs",
+            "hash": "27BB5D303D23EE98ADD6297E3F1D5D031CBD9CF80F568FA5B548F2E225D27929"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Cmn_JumpGate.szs",
+            "hash": "4C2751684017BB94E00BC87657111262AB3FE20EBA940894438F9173CF0F0A8A"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Cmn_SmallGate.szs",
+            "hash": "DB606C61F1084E4954AF8EC08F1C7AD9FF5A82EA61079F092808AF8B90134229"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Core.szs",
+            "hash": "72B7329B97C30AF158690D35C4A2D967308839821EAB9F287C91B345E238DD6C"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Honey.szs",
+            "hash": "9DF79918CAA7A354B44B234CD95132216017B63D63D53F918BC667E303652AC9"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Husen.szs",
+            "hash": "110743FF9B12D3CEBAD53D388431FF44BBA4408A7C26525554B1B36011691922"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Hutakuti.szs",
+            "hash": "3C6C89AF597CE499A5551A1A90B387EA39E181170755D2A355DE31F86D5F15AD"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Imogaeru_Oguchi.szs",
+            "hash": "0FB23815BC80736F07C9AE2E6174BE13D7C712C1A80F21552BDCF4A27E3191F0"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Mukade.szs",
+            "hash": "283C5FD8861C316628DAA5449DD2D845CEF6EFFDC8DB0E5B002788D964397F67"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Rock.szs",
+            "hash": "4A6257C151499CEF3BFF97BE5F839B19667FF02F18EA498176A97176B619C068"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Rocket.szs",
+            "hash": "377CF512B94D2FD54DF3C5AAB0F88225124C6E88EBC93B71707675A740318403"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Spr0_ConnectA.szs",
+            "hash": "A8A280D0DCBF02B427F039FF269459292D6977B3A72CAC2368DE11FBF4A115BD"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Spr0_ConnectB.szs",
+            "hash": "51CF054ABE583EA57964EF53FAA139BE8449EED9B0FE19ED918975316D14F806"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Spr0_Tree.szs",
+            "hash": "181D53898E9BDE9606F71F590FC4005EA6D62BA7A1074498D8365743B20BA2C7"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Sum0_ConnectA.szs",
+            "hash": "B0760E3D6EF88AF72381CAD3D33C1C46BFCA46596918CD04092E3CF991D1AB37"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Sum0_ConnectB.szs",
+            "hash": "2CC13CF0E612C744F781FCA8671431B2E8B793F0EA408FF9DCB039847181E4A6"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Sum0_Tree.szs",
+            "hash": "4F16993EE2EDD8CF6787B08816C8F092128880D728075A8B1B402570FFE273A4"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Tekkyu.szs",
+            "hash": "0EC5801049A9C5A72278B32F947757849DEC5B64837674AC502C89FBD438E3E3"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Unco.szs",
+            "hash": "D0D598B94B696C87B0F97E75160676C16E69F124E42561C4EC917F545A6D3C7B"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Under_ConnectA.szs",
+            "hash": "699A1D2DD42953932DEFFA0F8D2DD13B832CE76132519E892443AB6AA952E269"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Under_ConnectB.szs",
+            "hash": "0EBBCF3951B4D32D87D2D17D751B6D921BE0BE094F5AA1D84B005BA8E6A44A9A"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Under_Tree.szs",
+            "hash": "F71E005BE100157FB51110705162F8AE3037AEE5ED033E7C1063E1D3E33205FA"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Warazi_King.szs",
+            "hash": "A0A3FFA769AD1DC1CE741F35E00B336B26A1C9B75A47AEEEFEA281E03203D55A"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Warazi_Kizami.szs",
+            "hash": "4EF802732F3F80362F1E31C82BD9ACF156A2F87B125A71FC42E1A0AA6A6A214A"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Warazi_Sakure.szs",
+            "hash": "A68F8A7B85C6F60747E5FDC0E1BAE7379495C62A12C298E59D9C2C75E019F55D"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Warazi_Zako.szs",
+            "hash": "7D4ED3AC3F077277777C1E173576A8A259799F43BF242997959951E402236069"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Win0_ConnectA.szs",
+            "hash": "757820EE3F9360984A9061D7995C1B8DBEBCB965C725FD52FC9AEECC66FEC61E"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Win0_ConnectB.szs",
+            "hash": "29DCD96308066C8D5BFC5C2B8E1626A308B682F29B5BE69389908D160D93F7D4"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Pkm_Win0_Tree.szs",
+            "hash": "1160363A863F3B404061F2A0D1F14702DBDA4ACAF5B0B2144751C74AC8895571"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Ysi_Enemy.szs",
+            "hash": "F07399A9B0F79460BDC7C63640AB2BCF3FF19C731CAC2D25EECB7FBB3AFA706E"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Ysi_Flag.szs",
+            "hash": "3D647BB6DF69E5B3FF0293CC4E7FF1B088300AFC21BDD959B831E6D423676209"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Ysi_Fruit_L01.szs",
+            "hash": "A130FDDF0880F01D4ADB30349FF4EA03075638E0984456F006459DBF714F5560"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Ysi_Fruit_L02.szs",
+            "hash": "C6A067C2B5ACEFEA21E42B0969E6394B18246167472514DC067DD7D770FF1721"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Ysi_Fruit_L03.szs",
+            "hash": "377470ACE9E68B3B6B8A4FA2C37C906B7B0A8B0B79E4BB1CED6DD017F2212513"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Ysi_Fruit_M01.szs",
+            "hash": "B5482DBBCACB72EB2B6F8B4AF298F0B2A19C461C9779C7AFEF49FC6278DA79F5"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Ysi_Fruit_M02.szs",
+            "hash": "03B690D884F699DF9CD8C6CC57D4A91F767E4A08CB4695A3186010E812FAD962"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Ysi_Fruit_M03.szs",
+            "hash": "D5B3F2B105CE8E97EB118B6190BA2359270EF5E45F931E76543D9AB03D2731AB"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Ysi_Fruit_S01.szs",
+            "hash": "FCF32A6EDE7F235DB329DCEA45163069FC2205206AAE00A67390CAC5C85F5142"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Ysi_Fruit_S02.szs",
+            "hash": "E49A589171A4E316D3CC45EF06B317310FD6D172E882426C30392744901F6F6E"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Ysi_Fruit_S03.szs",
+            "hash": "23AB88B4771FAB981717E16526B750BAE3EEC1D6C515DBF724A9A97A841966BD"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Ysi_Goal.szs",
+            "hash": "01434552E9ED25F54842A00B5CCCD948BD8F1EF5EE90ACE6FE74A99B87891721"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Ysi_Plate.szs",
+            "hash": "9DBAE14A0B6B1B7AD339C4290991D9034249462AA37053CD46AC52B71C8EDFA7"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Ysi_Plate_M.szs",
+            "hash": "665F2C9F49C975B4474A366BAD3484E3134626B4906A780730E31024FC59EEC8"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Ysi_Plate_S.szs",
+            "hash": "8C30CFA02A03AC7CE8631C6E899DCF185038FA8AE6F8729B9A4C5339E9158BBF"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Ysi_Present.szs",
+            "hash": "45125AABBA57504A808A9E53BDEDE747D4AA62683904E7E6474715CC9DCBD7C8"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Ysi_Thorn.szs",
+            "hash": "CD0A5B21B5A4BFE4F7DCEA936AE0162818D334C6BE3607967D89810D36CB88F2"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Ysi_Yoshi_egg.szs",
+            "hash": "565CEC5A1C5E0D0846F17AE0DB4EA875F1EFEE97C7288674BCA25E31FF50D24E"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Zld_Arrow_Wall.szs",
+            "hash": "DD328117DD09B437F0DBCCAB385BD156D80E21770B91833A9147BC8EA4A38D75"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Zld_Bakudan_A.szs",
+            "hash": "BFF96FC0EF546627F8565857AB1EF9ECC4B7ECBFFCF4ED676D62D04EB5A13E52"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Zld_Bone.szs",
+            "hash": "69A5EEBA09D8107985570619176D4E9BC06F94A99BC7575C371FEC5532C13302"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Zld_Bow.szs",
+            "hash": "2798F6AF47D051C1A05D54E860CCA4E52AE582F7194034D5C4591267D6CC509E"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Zld_Cargorock.szs",
+            "hash": "1A051EE19D034800BC4C45D8512B131A4A5FABC409F74256E3C2293C3E71663B"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Zld_Chuchu.szs",
+            "hash": "BC3D38D95F922AFAD9647CAC474F814D76CCB4E5DAD8A07AA2A8FFD76D91B322"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Zld_Crowly.szs",
+            "hash": "66CC3401F760312C6A3A021AD4EA0B752255C9E956456A0FE12236B08810B19B"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Zld_Dekaburin.szs",
+            "hash": "64DD89C0278C3C83D0FD15E8E3B4C910FEDCED726D7F9DBE1B267AB65D63E638"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Zld_Dekunoki.szs",
+            "hash": "147A4BF1C684AA8630F21D2B0984EDE1B7A9C4D3F9891AFDAECE4E14896DC41F"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Zld_Eye_Switch_A.szs",
+            "hash": "DDE8835F11C08E7032BD37B5F77B0CE50BCCEE904CC5FEA775E7012653621DD9"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Zld_Ganon.szs",
+            "hash": "62E6B2CDF8235C1C51AC492E5AF86C365452FA0D28411EE21497ECC3947D7835"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Zld_GorogoroIwa.szs",
+            "hash": "60D400C105B375C3EFF13E290FDB6C9DBD5416EA49CB46D176CB3F7BE273636C"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Zld_Goron.szs",
+            "hash": "753AE6516426C8C788A9462A4586971F3782871E07A8E57CA26827409BFD4E2C"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Zld_Kiesu.szs",
+            "hash": "9B49EF1C12ACC2CEA19A95A8EBC32650D65137D51668CA3648B6F437A6FF1E17"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Zld_Link.szs",
+            "hash": "74D191A1C9EFEC8E7A37337391BE4E772155CE194FACE2792EB438EFFE8BB025"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Zld_Moriburin.szs",
+            "hash": "EFB1F053043C4833DD89D3402D67A9E61EC264B8004660E7519DF5DBAF318C90"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Zld_Rupee.szs",
+            "hash": "F834F8173699BD282DDA1DBDF4280C2343528E23E561CFE8949A5EA208AF4932"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Zld_SougenTree.szs",
+            "hash": "5E04F24FED12123D9F144C9D3903E54154D61FBF175EAB1BB81263C165A06EBA"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Zld_Stalfos.szs",
+            "hash": "2807B350CAFE0414C6C10D7AE03BE80F3A53E7E4195AFB5EB853B378F58B13DC"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Zld_Sutaruchura.szs",
+            "hash": "3AF3858AC136C8808B0D29566F0BA1C06A5D87D9FBDA71D2BAE5DCA64011B644"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Zld_Switch_A.szs",
+            "hash": "7D489F121D5A9FEFEAF655FB75CC44D0F5B3D06D59C34730793EF9A859EE3A30"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Zld_Tektight.szs",
+            "hash": "95C7DFE52888CB755E09B20BD41E3C43EBA218B3D503C670414480E3B48DEDE2"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Zld_Triforce.szs",
+            "hash": "6CA32B2F6EE4892A4915EF38A4E510DFF82B3E9AEED9BED42283DD33F729E106"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Zld_Tsubo.szs",
+            "hash": "855F9999C31FDCF6817519E21A80801251BE7F83791191535E81E57CE9E24222"
+        },
+        {
+            "file": "content/Common/Model/Ttl_St_Zld_Wizzrobe.szs",
+            "hash": "351DDFF86EA50127F19BD7787F0F42D92B14F92F1A3FC612B559B18C7D55BFDB"
+        },
+        {
+            "file": "content/Common/Model/Zld_Field_Mori_A.szs",
+            "hash": "4056CA7BF09E3457E32543B1973F0B1F02B0A9EF8A8D9B55B7F098C7F113AB70"
+        },
+        {
+            "file": "content/Common/Model/Zld_Field_Mori_B.szs",
+            "hash": "CA06F7D681F31E6A6973A0F146AA223F9054E8C1B25F35F0D5007FABAD200E25"
+        },
+        {
+            "file": "content/Common/Model/Zld_Field_Mori_C.szs",
+            "hash": "71B2D59C0B7A8A07EBB49E54D39C9CB3449278D3364EFC173E35B68E5CF758B6"
+        },
+        {
+            "file": "content/Common/Model/Zld_Field_Mori_D.szs",
+            "hash": "A60FC51702B35DB4A411CC5AC20CB8BF725FA34862CF7BFD073303B277060F00"
+        },
+        {
+            "file": "content/Common/Model/Zld_Field_Mori_E.szs",
+            "hash": "146216F4ACA1438ED12B201425AEF8FDA85A23015CF5E2780E1417C5FB9B868A"
+        },
+        {
+            "file": "content/Common/Model/Zld_Field_Mori_F.szs",
+            "hash": "E699770DC8498E35643A0ED4A0B8C3DC0FD860C1580549B0BC263878C7FAF394"
+        },
+        {
+            "file": "content/Common/Model/Zld_Field_Sougen_A.szs",
+            "hash": "6856B066363D49F81DFDBF74B2C348EBA7E186B33B49D691F059ACD10256B059"
+        },
+        {
+            "file": "content/Common/Model/Zld_Field_Sougen_B.szs",
+            "hash": "F1EFB5263DFE6769F2A821549D04F163A5F985EEA9D6CE5C687FC3EA4901B683"
+        },
+        {
+            "file": "content/Common/Model/Zld_Field_Sougen_C.szs",
+            "hash": "AECC884A13153210B85B1B3E4E6278B9E3A2676EB8568BF7B63407537BBC6CA1"
+        },
+        {
+            "file": "content/Common/Model/Zld_Field_Sougen_D.szs",
+            "hash": "60E02343BD027E87307E754EEFC90A5E5DA6463A7F52FDE4C776CBC3D3460735"
+        },
+        {
+            "file": "content/Common/Model/Zld_Field_Sougen_E.szs",
+            "hash": "1186C70DFC1747AD4790CF2E465CF21BF47B65951C2BF8040CF81B0C01C1EAA5"
+        },
+        {
+            "file": "content/Common/Model/Zld_Field_Sougen_F.szs",
+            "hash": "8ADC38AD335A2D7944BD91309C69446DA4860F10F4F8D939B22F3F136CAA9B6D"
+        },
+        {
+            "file": "content/Common/Model/Zld_Field_Sougen_G.szs",
+            "hash": "E478E99B235B864A3D8D83F53B946E00C3D22BFC582DD48ED7AF37763B114DF0"
+        },
+        {
+            "file": "content/Common/Model/Zld_Field_Tatemono_A.szs",
+            "hash": "EC5DFA026DD3AED55B5548730E560F36848362D53307701107AAA91AD918F896"
+        },
+        {
+            "file": "content/Common/Model/Zld_Field_Tatemono_B.szs",
+            "hash": "CEF01A6B91118AF1C2E5EE49A9C9F7E549C4E1235C09DA4E41194C3DAB655573"
+        },
+        {
+            "file": "content/Common/Model/Zld_Field_Tatemono_C.szs",
+            "hash": "E3551E096EE71CDD1BE7B925AC4888C761BB9195D798433F39FAA7A85D1E320F"
+        },
+        {
+            "file": "content/Common/Model/Zld_Field_Tatemono_D.szs",
+            "hash": "FAAEA0C90F608F02128C60463F7D5D5A2227941FB16D6C8D47428443C1E645D4"
+        },
+        {
+            "file": "content/Common/Model/Zld_Field_Tatemono_E.szs",
+            "hash": "BF00F3B9FFADB2A9C7DF712BAEC35B75B8C9850C22569E2B08CC484C07840B30"
+        },
+        {
+            "file": "content/Common/Model/Zld_Field_Tatemono_F.szs",
+            "hash": "F9DFFB2FF0A10B3211B825FEB38E2D7BD527F86F3D423C2C9913AE9A6C2BF3A1"
+        },
+        {
+            "file": "content/Common/Model/Zld_Field_Tatemono_G.szs",
+            "hash": "55FA89CA669E05BF26D42A64F9315B64FF056FD007F155CC8D47AF432F037FB9"
+        },
+        {
+            "file": "content/Common/Model/Zld_Field_Tatemono_H.szs",
+            "hash": "807241924D08B9CDAEEF9E2D2EDA2F81A37D5325967CD9BE18B00267D0A205D3"
+        },
+        {
+            "file": "content/Common/Model/Zld_Field_Tatemono_I.szs",
+            "hash": "3E254B588E579DA74D01F4D9AE64A29A558D668C053D7359FBC6555E867C841B"
+        },
+        {
+            "file": "content/Common/Model/Zld_Field_Yama_A.szs",
+            "hash": "558042611FAD271AD535E30D544D930B79662602FB30C82102B17F6BF4D76BB6"
+        },
+        {
+            "file": "content/Common/Model/Zld_Field_Yama_B.szs",
+            "hash": "6B3B3A6FBA8B37F586A6F7E69846ABA05BEEB0C8BBB1E12BA46691154C296EC0"
+        },
+        {
+            "file": "content/Common/Model/Zld_Field_Yama_C.szs",
+            "hash": "41DCAD44640D658ED5A128D649D832BEB6AA97414C2862371A9958C392DF555F"
+        },
+        {
+            "file": "content/Common/Model/Zld_Field_Yama_D.szs",
+            "hash": "6A64C857B6DFF3077FDA0D3E29A6E5843A201CF86F608AEB55C5CB0B6B54EA5C"
+        },
+        {
+            "file": "content/Common/Model/Zld_Field_Yama_E.szs",
+            "hash": "1572A74CFC8E3C67EA92654892882CD281E41F27FC0B52A0B52C728626A1B453"
+        },
+        {
+            "file": "content/Common/Model/Zld_Field_Yama_F.szs",
+            "hash": "BF8442A7631574DBC7132816B23BEE92DDFB1BAD9C447AAFA8D872F1FCB47054"
+        },
+        {
+            "file": "content/Common/Model/Zld_Field_Yama_G.szs",
+            "hash": "B9B8FB7D95ED48B58B3711481EA6B17E39A695CA411AE25C2CF72421A71E178B"
+        },
+        {
+            "file": "content/Common/Model/Zld_Field_Yama_H.szs",
+            "hash": "22704719CA2660231CDAA0B494C4F313AA5515CA29A6310DF48B7DE74464AEAE"
+        },
+        {
+            "file": "content/Common/Model/Zld_Field_Yama_I.szs",
+            "hash": "3A1F150D897E88670CF6822B715FBB4FAC9CAF37CC5B4323A6A2E155C1699914"
+        },
+        {
+            "file": "content/Common/Package/Atr_Cmn.pack",
+            "hash": "289E2F467E5CF81096753F7C3BF324E98D6868B23A0641C7225D858E617CD7D0"
+        },
+        {
+            "file": "content/Common/Package/Blf_Cmn.pack",
+            "hash": "3FEFB9FC881864FA9F4FF5A6080E3C532C61547B9606BA991FF995CF605F7EEA"
+        },
+        {
+            "file": "content/Common/Package/Dbt_Cmn.pack",
+            "hash": "F9851CB202CC5F569A8AB5EC2BB521C7D02A5D70FAACC600F6E58E32F80D7BF0"
+        },
+        {
+            "file": "content/Common/Package/Dkb_Cmn.pack",
+            "hash": "F5B5DF794B0EBAD64DD1832E59A79851D1ED7083F98B7573F3B29E799A19AFAA"
+        },
+        {
+            "file": "content/Common/Package/Fzr_Cmn.pack",
+            "hash": "1C3871F48748E8F1B1AA96F7660CB3A05EF9A954A204FEDCB169C1A9DA9F900C"
+        },
+        {
+            "file": "content/Common/Package/Gwr_Cmn.pack",
+            "hash": "A44FB5C155E1C293E923A1BBCE6F447ED935B361DC5D641F3B29BD5967532706"
+        },
+        {
+            "file": "content/Common/Package/Lig_Cmn.pack",
+            "hash": "8FA62019F311B1BD938C3A0C976F8FE245BA78631BD470E7E4705841DFCB26CA"
+        },
+        {
+            "file": "content/Common/Package/Mro_Cmn.pack",
+            "hash": "EA2B5E1A0D077934D83A3C557B619FDAAEBA764C67BEF01AF9501E4A3FA91265"
+        },
+        {
+            "file": "content/Common/Package/Mtr_Cmn.pack",
+            "hash": "0B17FF631673B87061A25C2AA241E7AB711390AE6F01AF743824381B4453A548"
+        },
+        {
+            "file": "content/Common/Package/Nzm_Cmn.pack",
+            "hash": "064338826E7E84F20E5EA60B017206676F872972249BC36FC645FD2A7F61E7BE"
+        },
+        {
+            "file": "content/Common/Package/Pkm_Atm.pack",
+            "hash": "09B5B4B82D2C8F7ADE65D811EBF8EE35697ABBB6FAF61E54A1EBA5097F40106B"
+        },
+        {
+            "file": "content/Common/Package/Pkm_Cmn.pack",
+            "hash": "C5B631CD60EF2B4A74B120477BCE622BC1EB5F943ADDFC8C3207697724A9A810"
+        },
+        {
+            "file": "content/Common/Package/Pkm_Spr.pack",
+            "hash": "2B07391FCC358DCC4A5826839706AF74D601B08899F949FF9B07C839036B89AD"
+        },
+        {
+            "file": "content/Common/Package/Pkm_Sum.pack",
+            "hash": "65F28B84A4B2533D1EF0E0659AD7613BD00A227F4DD6F903B477458E83F992B6"
+        },
+        {
+            "file": "content/Common/Package/Pkm_Under.pack",
+            "hash": "A42711E5DCBC2FCD22DD2AA037B40492D75E0B80322F1B275A220A98A15FC934"
+        },
+        {
+            "file": "content/Common/Package/Pkm_Win.pack",
+            "hash": "6FD8D3CDBFECF790CFC99F0E806E94EEA395DBFA5E0E091541E5D279FA3258B6"
+        },
+        {
+            "file": "content/Common/Package/Static.pack",
+            "hash": "F99BDC2DC72AE1A1912D548063BAC53C012787ED48F6EE0D2F2FB35B5C62A9AF"
+        },
+        {
+            "file": "content/Common/Package/Static2.pack",
+            "hash": "1875DF7B60A86FFC2E5DF59E04E551CE7F18226301E62A33250B1F1890263F4F"
+        },
+        {
+            "file": "content/Common/Package/Ttl_Cmn.pack",
+            "hash": "EE51893C9A33A2C11204E4DF707F489A210F338C407F150CF60CCB5957A165CA"
+        },
+        {
+            "file": "content/Common/Package/Ysi_Cmn.pack",
+            "hash": "13D5B06BCB2771CDC863F316A5FD9F4B4E91FB3F403D8FD0994A0245B5F4F568"
+        },
+        {
+            "file": "content/Common/Package/Zld_Cmn.pack",
+            "hash": "47F925A1A429CD05D2CBBBBF4ECDFB93BA533301B8503398E1B03BE1D2E6D8BB"
+        },
+        {
+            "file": "content/Common/Scene/SmkkTest.szs",
+            "hash": "B2A04070AEF2351B72B69641ADD742F4CFEA36BD4D6E3CAB552B96C58BA00B08"
+        },
+        {
+            "file": "content/Common/SeadResource/AglRoot/agl_resource_cafe.sarc",
+            "hash": "A1F38557CCA823E1EF5CC62C3E744E25BA05E92590D58431202BD2C641725484"
+        },
+        {
+            "file": "content/Common/SeadResource/AglRoot/agl_resource_cafe_dev.sarc",
+            "hash": "AA6DF21CD9BC416975CB6D688282ED0C501701F1150872EFFCD4BC795EB04001"
+        },
+        {
+            "file": "content/Common/SeadResource/AglRoot/agl_resource_cafe_dev.szs",
+            "hash": "B106B04DEC5635DA44E97AC111E07DD94FC531286976A086C29731D9BC3B2EB3"
+        },
+        {
+            "file": "content/Common/SeadResource/AglRoot/agl_resource_minimum_cafe.sarc",
+            "hash": "AB834F320536C089AE8932E569E88CED9E8DC716B1917D0277E7CD1FDC25ED47"
+        },
+        {
+            "file": "content/Common/SeadResource/AglRoot/agl_resource_minimum_cafe.szs",
+            "hash": "4F1867ADD0CAECD6C32BF1642F6743841089A5604212058BD6E664366F614B42"
+        },
+        {
+            "file": "content/Common/SeadResource/AglRoot/agl_resource_minimum_cafe_dev.sarc",
+            "hash": "5D998878FE75258F68E6DF0E7CF9E5BBA0D4961D6E675D56E800ACBF2A39F45B"
+        },
+        {
+            "file": "content/Common/SeadResource/AglRoot/agl_resource_minimum_cafe_dev.szs",
+            "hash": "0494BED89625FF4967ABFA0B23A3F8A908D652FAEC1364A02B1BB7D6C73A670F"
+        },
+        {
+            "file": "content/Common/SeadResource/GSysRoot/gsys_model_shader_cafe_dev.szs",
+            "hash": "8F03578303B376DC52B818FDA4003AE4CBBD4B1487785C6D9CBEDFD8EE7DD808"
+        },
+        {
+            "file": "content/Common/SeadResource/GSysRoot/gsys_resource_cafe_dev.szs",
+            "hash": "940CC01A38F8CDCB08753D362CA20F637B3B9A1370A7708CC89D81D6AC8F94F9"
+        },
+        {
+            "file": "content/Common/SeadResource/GSysRoot/gsys_resource_no_model.szs",
+            "hash": "E9FA8D8A6F346A9211216F9C729C73ECE618F05EEE9237BAE568895261C5B5E2"
+        },
+        {
+            "file": "content/Common/Sound/lunch.bfsar",
+            "hash": "95494FEE7A0406236E0A4FA7B50538188DE9358871A3C6A60209253259814231"
+        },
+        {
+            "file": "content/Common/Sound/stream/ATR_Result.ry.48.dspadpcm.bfstm",
+            "hash": "C5BA80AFD6B34DAAE9B3E0C5C3F81F88F2B36D4364F6AD686BDA24687D07589B"
+        },
+        {
+            "file": "content/Common/Sound/stream/BGM_BLF_MAIN_EVENING.bfstm",
+            "hash": "0AA2E814D58B229012E17EAA44A9C9E7EA7840AAD76DA25BDE3CAFEF97FC5F5B"
+        },
+        {
+            "file": "content/Common/Sound/stream/BGM_BLF_MAIN_MORNING.bfstm",
+            "hash": "6B2EAC253614D88C5495A13AD013A457FD5D91D4434A6C2E4FE095A98E59851B"
+        },
+        {
+            "file": "content/Common/Sound/stream/BGM_BLF_MAIN_NIGHT.bfstm",
+            "hash": "2D25AA289FDA26126B7E326AFCDDD378801B1176258607FDC9EBD22767F0D1F7"
+        },
+        {
+            "file": "content/Common/Sound/stream/BGM_BLF_MAIN_NOON.bfstm",
+            "hash": "3A0DC9A7F0D387F0078D0A6E1B676D507868B0ADE0AEEDFB6B016DF45A2DDAD1"
+        },
+        {
+            "file": "content/Common/Sound/stream/BGM_DKB_DEMO_OPENING.bfstm",
+            "hash": "AF02AEE60A3FF6D567D63556C522D33B2285D058707AA7B837BB9650FF7B7719"
+        },
+        {
+            "file": "content/Common/Sound/stream/BGM_DKB_RESULT.bfstm",
+            "hash": "69AFFC85D623BE5DCF906D164E62AB0B5DA081636F1A496F17AFE85A762FDB2A"
+        },
+        {
+            "file": "content/Common/Sound/stream/BGM_FZR_MAIN_1_4.bfstm",
+            "hash": "FBE748FC532FFD88D2584AA3F5E6C5CFD427635E88186839E0938DA158D67AA5"
+        },
+        {
+            "file": "content/Common/Sound/stream/BGM_FZR_MAIN_5_8.bfstm",
+            "hash": "9721CE8EB1F56ABA3CFA1935F3B68D2BD12E2853D29FF77D1E0A83C3B99A3861"
+        },
+        {
+            "file": "content/Common/Sound/stream/BGM_FZR_MAIN_9_12.bfstm",
+            "hash": "9D886E893C5B79C10FC668991E409C5D3DEBFBD1709F4F0A5569775BFDD36C77"
+        },
+        {
+            "file": "content/Common/Sound/stream/BGM_FZR_MAIN_EX_1_4.bfstm",
+            "hash": "4BC4D6E0415D49A3C15ABA16E937A4F533B3FD56F129800E9423A60431DE41CC"
+        },
+        {
+            "file": "content/Common/Sound/stream/BGM_FZR_MAIN_EX_5_8.bfstm",
+            "hash": "6C31FD245C9DEF83AF0CD3D2FF460E7C3085841A6F4AD9154E759CD529EA3F0C"
+        },
+        {
+            "file": "content/Common/Sound/stream/BGM_FZR_MAIN_EX_9_12.bfstm",
+            "hash": "4CE2136A5E2D860CEA28DBDCE06AA8B24E593E3BC65FE1682AF41CEFAD33FEBE"
+        },
+        {
+            "file": "content/Common/Sound/stream/BGM_MTR_STAGE_01.bfstm",
+            "hash": "656C115AA83834D645C62F0A8A5D09CF3146A83262AF8B6A618AE28E0AD28FE8"
+        },
+        {
+            "file": "content/Common/Sound/stream/BGM_MTR_STAGE_02.bfstm",
+            "hash": "0A5B35740310D8918092E192210AD84FD642E3EA05CA36839014A5EB8355C9A6"
+        },
+        {
+            "file": "content/Common/Sound/stream/BGM_MTR_STAGE_03.bfstm",
+            "hash": "1DB18F255C5721C3A32E2DE1D692F100B1E32669C2EDAFF27DDD3D03201FD162"
+        },
+        {
+            "file": "content/Common/Sound/stream/BGM_MTR_STAGE_05.bfstm",
+            "hash": "BA0E446B687E6C00877840385669774E51B11B937BFD673559F3D53065C9AE98"
+        },
+        {
+            "file": "content/Common/Sound/stream/BGM_MTR_STAGE_06.bfstm",
+            "hash": "E7C3282447A02C8AF718F54A90A99F222B4D8FB0310D6D4F2D2E69ED991065E0"
+        },
+        {
+            "file": "content/Common/Sound/stream/BGM_MTR_STAGE_07.bfstm",
+            "hash": "A7AF5A79466F24B0B13176447AD109CC03D602E75AC84CCD70604BEF641F5107"
+        },
+        {
+            "file": "content/Common/Sound/stream/BGM_PKM_DEMO_KAERU.bfstm",
+            "hash": "4FD95BDCFC5242F10D9431CCD7FD7B8980DEE7F61F8097E85A98888520B75382"
+        },
+        {
+            "file": "content/Common/Sound/stream/BGM_PKM_MAIN_AUTUMN.bfstm",
+            "hash": "1102D11AB33EF42C53E3E00792B747DBFA2ABDFBF851222435EB300CE8BA65C5"
+        },
+        {
+            "file": "content/Common/Sound/stream/BGM_PKM_MAIN_SPRING.bfstm",
+            "hash": "E3CA1CCE265E19020021F615145563DF0B209EA0ADBA9DE4E7DE9637BCB2D26E"
+        },
+        {
+            "file": "content/Common/Sound/stream/BGM_PKM_MAIN_SUMMER.bfstm",
+            "hash": "D51E5DEEFA20A66DAC6F0629B7B686E7EBD4721D89178EF535948BC772E96E08"
+        },
+        {
+            "file": "content/Common/Sound/stream/BGM_PKM_MAIN_UNDER.bfstm",
+            "hash": "EEA5DD573018D152B3812B0B87D21FCA4041C3A082AC5443524F25888E03D86F"
+        },
+        {
+            "file": "content/Common/Sound/stream/BGM_PKM_MAIN_WINTER.bfstm",
+            "hash": "FB5687290DF07CBA1033AB07B2425948E1067FD7B94DC51EF874CC2266D3B560"
+        },
+        {
+            "file": "content/Common/Sound/stream/BGM_TTL_MAIN_DAYTIME.bfstm",
+            "hash": "6A615645E39FBEC46C97AF79BF07D7360E0CC1B1DC0C112AC162665FA54E137F"
+        },
+        {
+            "file": "content/Common/Sound/stream/BGM_TTL_MAIN_EVENING.bfstm",
+            "hash": "3352E84AAA8E1D8716E945D753E2B9B13B52004DBCE0A0D7A9DAE36218FB9194"
+        },
+        {
+            "file": "content/Common/Sound/stream/BGM_TTL_MAIN_NIGHT.bfstm",
+            "hash": "684BAAD280118122B78C3F53C8E0039EF1D0EC454B634748640748D0820AD8D4"
+        },
+        {
+            "file": "content/Common/Sound/stream/BGM_ZLD_TATEMONO.bfstm",
+            "hash": "6689C85B23A0E5EA17A6842E81460FD3D65D25ED3349FF3501DCDA6F7FEF43D6"
+        },
+        {
+            "file": "content/Common/Sound/stream/BGM_ZLD_TATEMONO_PRE_BOSS.bfstm",
+            "hash": "1B1E901B6DAB66A8B6D601C3D7FFF28E80D510677136117FE6092917FA6ED204"
+        },
+        {
+            "file": "content/Common/Sound/stream/BGM_ZLD_YAMA.bfstm",
+            "hash": "EA03672591E64A067608216DF2F32DE7D92BE1E035F2F008AC33EDBEB2C177B1"
+        },
+        {
+            "file": "content/Common/Sound/stream/BGM_ZLD_YAMA_YUGATA.bfstm",
+            "hash": "841AB14571332F1D3E3053A049EF9748C3D0B6DE1EA9F425A0539AEF08C294B5"
+        },
+        {
+            "file": "content/Common/Sound/stream/BGM_ZLD_YAMA_YUGATA_FIELD_6.bfstm",
+            "hash": "955CC64A2C7F4CD96AFC232281402390B0F07FD407C55609A77413EA5D3B08FB"
+        },
+        {
+            "file": "content/Common/Sound/stream/BLF_AllClear.ry.48.dspadpcm.bfstm",
+            "hash": "3FE2DD26D8B960C0509E3B2943627966583E15721B1E083367397E6618BB228B"
+        },
+        {
+            "file": "content/Common/Sound/stream/BLF_bonus.ry.48.dspadpcm.bfstm",
+            "hash": "20EF0DD2DEB5CDDFB261DDD848E285920B23D97FF9BDDDEB60B43A4489622EF0"
+        },
+        {
+            "file": "content/Common/Sound/stream/BLF_clear.ry.48.dspadpcm.bfstm",
+            "hash": "F3F8E837A1950B0DD66784CD9750D4D6A1A8A60892C207095DE1931B47F34FFA"
+        },
+        {
+            "file": "content/Common/Sound/stream/BLF_gameover.ry.48.dspadpcm.bfstm",
+            "hash": "717E15BB3CADCFAE70AA8EFD367FC7DA93333EED9C2ECD893D09DEF3ED36C6A1"
+        },
+        {
+            "file": "content/Common/Sound/stream/BLF_startdemo.ry.48.dspadpcm.bfstm",
+            "hash": "7F0ECB0086F1FCC6E5A5CED1E6D259D13892C89B2CB5531C1B28528435FAE725"
+        },
+        {
+            "file": "content/Common/Sound/stream/BLF_tutorial.ry.48.dspadpcm.bfstm",
+            "hash": "816D4EA69906496D11FFE813FCFC49C5FF4E8842FF1FFEF165EF5F773F530DA1"
+        },
+        {
+            "file": "content/Common/Sound/stream/DKB_FlipPanelDemo.ry.48.dspadpcm.bfstm",
+            "hash": "6C1719FC0E19B8B144279FFB42F6B9D29DD769730BA77E2D44813F7B61A17215"
+        },
+        {
+            "file": "content/Common/Sound/stream/DKB_Goll.ry.48.dspadpcm.bfstm",
+            "hash": "BD38E92DDE4D5053DD2E2EFEF92C6BBC8EFD01DB8A11FB945153CC2EDE0D143C"
+        },
+        {
+            "file": "content/Common/Sound/stream/DKB_Goll_3_4stage.ry.48.dspadpcm.bfstm",
+            "hash": "C2B38D9EDFA94E49E9A188E9FDAD7EDA679E161573D9F50B7F6950F9953A10AE"
+        },
+        {
+            "file": "content/Common/Sound/stream/DKB_Goll_tutorial.ry.48.dspadpcm.bfstm",
+            "hash": "C751A117E1C47D4DE8303109A75FB3448EB19B976CD72F1E61149446805553BE"
+        },
+        {
+            "file": "content/Common/Sound/stream/DKB_StartDemo.ry.48.dspadpcm.bfstm",
+            "hash": "3A21CA46CD4A71777D576007B6F5036C9F843971E4943920B1A3D5B0EA7ADFDC"
+        },
+        {
+            "file": "content/Common/Sound/stream/DKB_gameover.ry.48.dspadpcm.bfstm",
+            "hash": "8C6C7058DB65F6A7535796D6DC2C36BD2A7C635CCA1EC295BB7B98AE21751099"
+        },
+        {
+            "file": "content/Common/Sound/stream/DKB_main1.ry.48.dspadpcm.bfstm",
+            "hash": "0C9EF33449DEA1DA6CE2BAC1C72D5C13BAAE7CF6C298D278C078BE3EAB4C373F"
+        },
+        {
+            "file": "content/Common/Sound/stream/DKB_main2.ry.48.dspadpcm.bfstm",
+            "hash": "3B16F8D13F52E4E31D89507489BD90EE2F2D602A3918C0F816C77864B07C1E69"
+        },
+        {
+            "file": "content/Common/Sound/stream/DKB_main3.ry.48.dspadpcm.bfstm",
+            "hash": "95676C06C15B9A142345A5EA961912AA6BB6F7977862950DF4BB5F3D9018E96A"
+        },
+        {
+            "file": "content/Common/Sound/stream/DKB_main4.ry.48.dspadpcm.bfstm",
+            "hash": "B13E3A41A49477BE5C8E56CE5CC71B4C12F52395AE2751979479FFA68090DBAF"
+        },
+        {
+            "file": "content/Common/Sound/stream/DKB_tutorial_play.ry.48.dspadpcm.bfstm",
+            "hash": "6CB768F5009DEBC295A631877803EFA934EC13D3149903EA5CDBECE05D650689"
+        },
+        {
+            "file": "content/Common/Sound/stream/Dark_Monita.ry.48.dspadpcm.bfstm",
+            "hash": "D5F800DF7AEB53C4D0DF476C87E1AB784B321FB3AF2F78651CBCFFB2E2E897DA"
+        },
+        {
+            "file": "content/Common/Sound/stream/Doubutu_camdemo.ry.48.dspadpcm.bfstm",
+            "hash": "E5BAE610C2512E267477A78CDA579B371FFFA2B353CB2AB553F0A64550596E1C"
+        },
+        {
+            "file": "content/Common/Sound/stream/Doubutu_gameout.ry.48.dspadpcm.bfstm",
+            "hash": "055FBD381FCCDB766A97F575A3635F28CC6F526CFAB1F35552CDB8034862DCFB"
+        },
+        {
+            "file": "content/Common/Sound/stream/Doubutu_main.ry.48.dspadpcm.bfstm",
+            "hash": "E2347145F78452ED31550C41D68F2EC3F90ACE65A2605D3C364DCCEDD4D34845"
+        },
+        {
+            "file": "content/Common/Sound/stream/Doubutu_main_fast_long.ry.48.dspadpcm.bfstm",
+            "hash": "3C0142BA846707B1A73FDCB5E074D5BBD6AEEADE4D026A2AA867F20E715D090C"
+        },
+        {
+            "file": "content/Common/Sound/stream/Doubutu_newtitle.ry.48.dspadpcm.bfstm",
+            "hash": "74742E44BA88A637B39FBA019033537A1E717C3863E870E3225122C772D25EC0"
+        },
+        {
+            "file": "content/Common/Sound/stream/Doubutu_newtitle_fast.ry.48.dspadpcm.bfstm",
+            "hash": "962AA6AA80870C9E5328D3F70550403E27831FD7A2ECDD3C68646D3EB92F06E3"
+        },
+        {
+            "file": "content/Common/Sound/stream/Doubutu_startdemo.ry.48.dspadpcm.bfstm",
+            "hash": "C2A1AC86A9E36ADB9E292F3145C5C673FBEBCF26515FB28138AFF1062D1F5404"
+        },
+        {
+            "file": "content/Common/Sound/stream/Doubutu_tutorial.ry.48.dspadpcm.bfstm",
+            "hash": "2732B21913A779CACD7E31E6DB335315E0B5D841B7743478D694AA1906B88F5F"
+        },
+        {
+            "file": "content/Common/Sound/stream/FZR_CamDemo.ry.48.dspadpcm.bfstm",
+            "hash": "0CC025C630A5BDDFBC134A91DD4C0D60BDB0B7379284C2388EE409020F665979"
+        },
+        {
+            "file": "content/Common/Sound/stream/FZR_SousaSetsumei.ry.48.dspadpcm.bfstm",
+            "hash": "5679BAEA9402CB0503D40AC270701C9D02B7BD81F2883C85ABF528B348A10FC7"
+        },
+        {
+            "file": "content/Common/Sound/stream/FirstDemo_0_1ThemeOfMonita.ry.48.dspadpcm.bfstm",
+            "hash": "875586F34560F51CD55217686905214723D2D9F1A4E250BC3081938772253868"
+        },
+        {
+            "file": "content/Common/Sound/stream/FirstDemo_0_2TowerAppear.ry.48.dspadpcm.bfstm",
+            "hash": "65123141D21A616DAE5CACACAD932D8CB15BA09A3509DA74EE8137FCBCCC665C"
+        },
+        {
+            "file": "content/Common/Sound/stream/FirstDemo_0_3GateAppearToFirstMainTheme.ry.48.dspadpcm.bfstm",
+            "hash": "C2B4A8AD3040F1FA4D49ECE528809DB41B89C5165B039B1ED44339590AEDD2E2"
+        },
+        {
+            "file": "content/Common/Sound/stream/Fzr_gameover.48.dspadpcm.bfstm",
+            "hash": "13701DBE149AEEA392F258636FC08EF96EBBBEE971F343E0562400FCC9620133"
+        },
+        {
+            "file": "content/Common/Sound/stream/Fzr_goll.48.dspadpcm.bfstm",
+            "hash": "AB56D18C25CF8164338A85D6EDB3D3E1265F1DBA099F14C94E796837FFB0F79A"
+        },
+        {
+            "file": "content/Common/Sound/stream/Fzr_tsunagi.ry.48.dspadpcm.bfstm",
+            "hash": "0F05D36A1635B2EE2012D54F604DE5614B3F11EB61DECA4F66102A6B7ECD86A1"
+        },
+        {
+            "file": "content/Common/Sound/stream/Fzr_tutorial.ry.48.dspadpcm.bfstm",
+            "hash": "7F86D4D76A8C933AB59E0A8EA4852741EC1A5886A2CC0DA7D359E2D5FF7AA358"
+        },
+        {
+            "file": "content/Common/Sound/stream/GWR_GameOver.ry.48.dspadpcm.bfstm",
+            "hash": "4BE608EE1AA264BA536E07BF728AF4771E80C59EEDAFAB57AB4A3461D10C418E"
+        },
+        {
+            "file": "content/Common/Sound/stream/GWR_OpnDemo.ry.48.dspadpcm.bfstm",
+            "hash": "F4DB195FAB81B42DF9F15272540755713C3F78C4C191922C87DEF343F2A24979"
+        },
+        {
+            "file": "content/Common/Sound/stream/GWR_Tutorial.ry.48.dspadpcm.bfstm",
+            "hash": "CCF1DC9734B6FDBB382FADD0541A979A57D7ED7BF4E80D7668B4E61A345F2954"
+        },
+        {
+            "file": "content/Common/Sound/stream/GWR_stage6.ry.48.dspadpcm.bfstm",
+            "hash": "059693D6770EDAEC81D5AE34CDCCA9A9B8FAE808C7E592E1970232E4175020A6"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_1-1.ry.48.dspadpcm.bfstm",
+            "hash": "0A18623B8B6E5A5ECD86C04A7C48351E45D37EB962D4C2455B96AA9A58E8634C"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_1-10.ry.48.dspadpcm.bfstm",
+            "hash": "CADDD9B420DCFD3B564DFCBDEE652D398B5336D9EED8E3997F805B6CD1AD2CEC"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_1-2.ry.48.dspadpcm.bfstm",
+            "hash": "2A320CD1039FCA00C666B5EFE714EF6786D23B81B984B53D3B252B84ABE1D38E"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_1-3.ry.48.dspadpcm.bfstm",
+            "hash": "2456ABE152B2EF58D45A7FB8179EC2D0554661F095ABF15030850CA200F0B07C"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_1-4.ry.48.dspadpcm.bfstm",
+            "hash": "62EDC9619F67E98916B7D3972141FF1EA82B552AF151D98684AA1213F94DE036"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_1-5.ry.48.dspadpcm.bfstm",
+            "hash": "4E0AD933FB4C848F7965C280E7BDBC922CFBAB292DB1B537063730CB3B130248"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_1-6.ry.48.dspadpcm.bfstm",
+            "hash": "8FE13E43B0FE1CE8FD54AC3987B5A5ED65572142C1A9467345651C7B34C911A4"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_1-7.ry.48.dspadpcm.bfstm",
+            "hash": "31A3A6BF1B967E648F98D196CA2BEAE54C84255808239D85CF6CD70CB1686BA5"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_1-8.ry.48.dspadpcm.bfstm",
+            "hash": "ABD3A9B9E5C63EDBED00E0145F11348E03B67EDF7C2430EA1E1E17EA6EC78FBC"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_1-9.ry.48.dspadpcm.bfstm",
+            "hash": "E1A438A7D1DABABBC9D4887E1DD4B693828F996E1712596439CB189A477DCB6E"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_1-intro.ry.48.dspadpcm.bfstm",
+            "hash": "9655F20E8ACB561870FDE741DFF50AAF720B71A9F7D350A87FF2E1004E4174CF"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_1-outro.ry.48.dspadpcm.bfstm",
+            "hash": "834DEE3073BE6D8BAE5CB5BEA1A6011D636DDC17AE833D33DF6517063E47126F"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_1-outro_forATR.ry.48.dspadpcm.bfstm",
+            "hash": "C9B261DBF71F50972A8C4B7034D6DEF5D15B879C34E563890E736E9976D983DC"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_2-1.ry.48.dspadpcm.bfstm",
+            "hash": "B30005C3F588D4017343ABD5E473ED8436CA03D5970703C63645E81C3E45105F"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_2-10.ry.48.dspadpcm.bfstm",
+            "hash": "786C093B34253703EB7160F6BB47877118EDA91348EB4312012EDCDB0E8DF7AD"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_2-2.ry.48.dspadpcm.bfstm",
+            "hash": "30788D7B416075FE0EAF619B981B2A798A206638FFC18C4BE7BA406C7D41D6F3"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_2-3.ry.48.dspadpcm.bfstm",
+            "hash": "FF158C579C3512ECAA8816E0359EE0F78CD434A7666B975654F9C7DD236570C4"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_2-4.ry.48.dspadpcm.bfstm",
+            "hash": "265E270AE14DAFF93EC01576B154202DDF2E9256F89077F0F1E3D10B5310FB52"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_2-5.ry.48.dspadpcm.bfstm",
+            "hash": "E94B3495B8F9B5BC9D1AADF2B7E8E46FA850CAE92C8188C35B17DE9EF5B59430"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_2-6.ry.48.dspadpcm.bfstm",
+            "hash": "E11F9C617A467BD9DF00B032262B432D6633C9F6B8D9273D4BE9C40474B5E73C"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_2-7.ry.48.dspadpcm.bfstm",
+            "hash": "F290F40031FF91446E47760A146E3ABC2EEA3AB6A474FF2C1F5178BEFC1D4EF4"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_2-8.ry.48.dspadpcm.bfstm",
+            "hash": "59DD7438A3029914E4F7BC72DA24B887EE1D9814CF5B469C91087175CAF9CFF8"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_2-9.ry.48.dspadpcm.bfstm",
+            "hash": "7A5572061F19D581AA3934FFF932EEC708B08525C08C20A9390BE2862A8E08CF"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_2-intro.ry.48.dspadpcm.bfstm",
+            "hash": "98C601FF1C442B804292A9C989467CE7557594EC31A6B347F4F9BBBD516F9D97"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_2-outro.ry.48.dspadpcm.bfstm",
+            "hash": "0DDD57584B58BDDD2E1B8D4253686B24612443520AB2A2455D5CBCF001ADE9B6"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_3-1.ry.48.dspadpcm.bfstm",
+            "hash": "71A7C93B9EE07B5D2F5AC595499F91BED5F777FD33569EB410D237A76032006B"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_3-10.ry.48.dspadpcm.bfstm",
+            "hash": "3FDBD9DD0E8FF987FF81BEE6819F7A8EE25E43551DB1116E6DB5B0C4D17B88C4"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_3-2.ry.48.dspadpcm.bfstm",
+            "hash": "4D979D420D8E19281D0A1998F9E78802E983D26AE93B86B0208571D5EFD335C5"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_3-3.ry.48.dspadpcm.bfstm",
+            "hash": "EAF09075C73EE8C17A313AC623DB5F2CBA155B312BBDF22102D375482188DB35"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_3-4.ry.48.dspadpcm.bfstm",
+            "hash": "51C2611C5EAD0031D6276CE3EC3CF984C8DDB3B1091427F1AE6C2B612A075EF2"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_3-5.ry.48.dspadpcm.bfstm",
+            "hash": "A081310F002D6A8CD165AD350B66083E69E5D8E7C35E7A5D1F937076D763A34B"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_3-6.ry.48.dspadpcm.bfstm",
+            "hash": "F66666CE487FDB233B14D7BC57499FB4F666959882EA9CA32B6410BDDCD42859"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_3-7.ry.48.dspadpcm.bfstm",
+            "hash": "DE03F18DDF6EAB81C2097711B99E2C1692FE25868C684EBA1A53A32CBAB2A071"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_3-8.ry.48.dspadpcm.bfstm",
+            "hash": "CEF0231E9488497F83FFB901FCB9C38332F0543A473F8EB4645C97278A039A14"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_3-9.ry.48.dspadpcm.bfstm",
+            "hash": "4D097139DFBA7F9C5EFC23E28E1134CBB34D2553168E0BF37EC91D1A32064F69"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_3-intro.ry.48.dspadpcm.bfstm",
+            "hash": "E5B0C595E81F094912535EE33334591446A106DE10CBC477E60AB3D5DC4520E9"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_3-outro.ry.48.dspadpcm.bfstm",
+            "hash": "07092D5D44B7277C21D9AD552F4341AD225C93A3FAE44E30EDDF5AAE9F59FAEC"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_4-1.ry.48.dspadpcm.bfstm",
+            "hash": "C14E629E94E8C78D1EA54038495392A6B4D32704B9A0598F3388ADAE45A80142"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_4-10.ry.48.dspadpcm.bfstm",
+            "hash": "EDBA28F8EF0F46FEFC71304CE51B1EC87D658A2B58F3ED44887CE9D7FFE55B85"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_4-2.ry.48.dspadpcm.bfstm",
+            "hash": "4BDF8B8DC8FF30F7A69D6F018F6162A16A13912D50C02FA0BB7D1DFC0AC6EA76"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_4-3.ry.48.dspadpcm.bfstm",
+            "hash": "9A355398D1E084D4DE40A0A264EB21750FF28B031917C98F3AC9A8CA28C920CD"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_4-4.ry.48.dspadpcm.bfstm",
+            "hash": "442D4B7A543F613C914EC6E8C74C84697BF3B1055157DE0C7F7994452392A7B2"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_4-5.ry.48.dspadpcm.bfstm",
+            "hash": "EA459031FE5A3C5B75A50B8F23FDCDCDB385219DB4060B45E45F6ED3D0ECF7B7"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_4-6.ry.48.dspadpcm.bfstm",
+            "hash": "0FB3F1A674E33D2331043CF67A25098AFDA7CE06568BC6E206BCFB4CFA22FAD0"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_4-7.ry.48.dspadpcm.bfstm",
+            "hash": "F2203F0C5FF588C0F7AA95ED718CEABDC7F39199E3E56DE32C240C35B235A7CE"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_4-8.ry.48.dspadpcm.bfstm",
+            "hash": "3F555608503894C02C8657BA321712493F8E73E4EDBC0B0206CE87B721BCC511"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_4-9.ry.48.dspadpcm.bfstm",
+            "hash": "AFB681916479E310FDC5280BDAA8F5A03B10E035582B184FA66789D7A71C6E6D"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_4-intro.ry.48.dspadpcm.bfstm",
+            "hash": "3183AAE8005A1C94C33A7A8F29E16CCCD482CD1D7C2258FED80781E283669596"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_4-outro.ry.48.dspadpcm.bfstm",
+            "hash": "7FE314FBB2F4CC4DB596622F32762D0888E2B9714AE3F3C74C061F953AC5B781"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_5-1.ry.48.dspadpcm.bfstm",
+            "hash": "A74FF62028F03C39DDF29DA1D312D7B2DBB6E56B7A4F91F4386FA796B6254A57"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_5-10.ry.48.dspadpcm.bfstm",
+            "hash": "DF2276ABF1A519AAA11AAF3DA533C20493B01BA053B590678B8AD2F8658FDDC0"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_5-2.ry.48.dspadpcm.bfstm",
+            "hash": "67199130D0E93B3F717AE49BFB844E0DEBA6457EED6EA5D14ABF4588044E0947"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_5-3.ry.48.dspadpcm.bfstm",
+            "hash": "473E3C7B17CB45044035C91F0CA66D52D370FBBDA96646E171D4303A73150BBF"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_5-4.ry.48.dspadpcm.bfstm",
+            "hash": "ED93DAC970D9FEAA4289B30996936A16B9F33405E4053095F7E82DE51DC50E45"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_5-5.ry.48.dspadpcm.bfstm",
+            "hash": "9A0448AFA1C6434B1343BE04404B7AC9DFC460C742DC05541B02694F4885B056"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_5-6.ry.48.dspadpcm.bfstm",
+            "hash": "4DDC18B628812B7AA58F4BFC6B6C3B4847BBA28090B161BDFDDCCB837F412821"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_5-7.ry.48.dspadpcm.bfstm",
+            "hash": "E879AD8F36018ADD77535CA3A2F1BE4330979406BE8F70602CCD220852391B93"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_5-8.ry.48.dspadpcm.bfstm",
+            "hash": "4A5760F8A99D02095C086CFE761751FE9E12A4275AD491434EB6D20108BDA3A2"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_5-9.ry.48.dspadpcm.bfstm",
+            "hash": "F2202727771632CEF6C731A59D7CBE522765F9471DC22C885D591A78B1EC0F92"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_5-intro.ry.48.dspadpcm.bfstm",
+            "hash": "825E4E25F1B94559FC63DFD295D091F82EBF7E249E7A77F92124937583A2E645"
+        },
+        {
+            "file": "content/Common/Sound/stream/Gwr_main_5-outro.ry.48.dspadpcm.bfstm",
+            "hash": "196392EEE42755932F0E4B623F6CD4EC7B2137AA8AC27623815F21789836B042"
+        },
+        {
+            "file": "content/Common/Sound/stream/J_Blf_evening.w.48.dspadpcm.bfstm",
+            "hash": "357E769EDF54F257F4ADB9229DB2B14D1A0375945EC8776F92D06212184C3305"
+        },
+        {
+            "file": "content/Common/Sound/stream/J_Blf_morning.w.48.dspadpcm.bfstm",
+            "hash": "EA39CF7484D58FFDB2362BB8275931936925250B5D4EEA0BB021C3ADD6ECE18D"
+        },
+        {
+            "file": "content/Common/Sound/stream/J_Blf_night.w.48.dspadpcm.bfstm",
+            "hash": "2AF91FDF81D245863704C1202C4EAE32A4F0F824E7F5AD8FC1D05250204C9C17"
+        },
+        {
+            "file": "content/Common/Sound/stream/J_Blf_noon.w.48.dspadpcm.bfstm",
+            "hash": "976DA7513494F10FA5690022F4D14AFC7C463022ABF8ED822AC7E009A56A05B4"
+        },
+        {
+            "file": "content/Common/Sound/stream/J_Dkb_main_1_3.w.48.dspadpcm.bfstm",
+            "hash": "2121903974065043664265ACA3722AB5606286848FDAAE8B08DE3F9E2EE9E4F4"
+        },
+        {
+            "file": "content/Common/Sound/stream/J_Dkb_main_2_4.w.48.dspadpcm.bfstm",
+            "hash": "81203BBB1E5FA487564A579E62A72A57C2FE81A072026EA97E1D53812EA16035"
+        },
+        {
+            "file": "content/Common/Sound/stream/J_Fzr_main.w.48.dspadpcm.bfstm",
+            "hash": "2763C7359E3AD1F265712B4FD89E2B302D9D9374A3188414EB12F076CAC60C5B"
+        },
+        {
+            "file": "content/Common/Sound/stream/J_Fzr_night_1_4.w.48.dspadpcm.bfstm",
+            "hash": "A6D4E73A4565E7E7936EC6644D53CCBF2E55E6663735EA4989213DA2808608DC"
+        },
+        {
+            "file": "content/Common/Sound/stream/J_Fzr_night_5_8.w.48.dspadpcm.bfstm",
+            "hash": "88097BA53ED93FFEC1DBAAE2FBA38B7258EA95D921EF87404CC24096BF5E842E"
+        },
+        {
+            "file": "content/Common/Sound/stream/J_Fzr_night_9_12.w.48.dspadpcm.bfstm",
+            "hash": "9F9C27C5F84E630D5D12B96FEB415C7A61D90E29394C533000FC2578B61D6D8A"
+        },
+        {
+            "file": "content/Common/Sound/stream/J_GWR_stage6.ry.48.dspadpcm.bfstm",
+            "hash": "4E7B4032EE68A60F434AC4BD5EFBC86F5CDA30FDAC833E7E7349834BCB3966AD"
+        },
+        {
+            "file": "content/Common/Sound/stream/J_Gwr_AllComplete.ry.48.dspadpcm.bfstm",
+            "hash": "F737FD98E391347525E03B37334AFED3D2D6C5B99D93039AF95978229F191127"
+        },
+        {
+            "file": "content/Common/Sound/stream/J_LIG_main.ry.48.dspadpcm.bfstm",
+            "hash": "837D243F1A0739FB2FE9ABC5430B50864DB07DAA0DB307F65E045C1615F696DC"
+        },
+        {
+            "file": "content/Common/Sound/stream/J_Mtr_Main.w.48.dspadpcm.bfstm",
+            "hash": "A9EE1BE8D2E29D81C932CD02548CD6D56D793696FBF6D8E6CA31BE1ACE60F06E"
+        },
+        {
+            "file": "content/Common/Sound/stream/J_Mtr_coinBattle.ry.48.dspadpcm.bfstm",
+            "hash": "9134A2439CA5212F52C5E1A85EECAC677B356C8783EB1170DD6BF8212E63FBC0"
+        },
+        {
+            "file": "content/Common/Sound/stream/J_Mtr_ice.w.48.dspadpcm.bfstm",
+            "hash": "E486B437E8426D91B5A03712A93A1F6778CD7DA77EB0DF9A317C4F7147452521"
+        },
+        {
+            "file": "content/Common/Sound/stream/J_Mtr_norfair.w.48.dspadpcm.bfstm",
+            "hash": "6FDC9601617E36ABDB7A636DE54C7E6624AD7F682B918A5EDBC0D8B6D2450DED"
+        },
+        {
+            "file": "content/Common/Sound/stream/J_Mtr_tower.w.48.dspadpcm.bfstm",
+            "hash": "1A2556A3565FD591A873EE157351DA3DA7A40B843E0BA75A659F63597E87623F"
+        },
+        {
+            "file": "content/Common/Sound/stream/J_Mtr_tsumiki.w.48.dspadpcm.bfstm",
+            "hash": "CB7AD2DEA7CD35F514B407D4FE19DF031681AD496268279B02FCEFC41BBA5AE3"
+        },
+        {
+            "file": "content/Common/Sound/stream/J_NZM_main.ry.48.dspadpcm.bfstm",
+            "hash": "54A85269A89DD5E3672EF543BADCF05887CD40E52741C84EB1C8133769867546"
+        },
+        {
+            "file": "content/Common/Sound/stream/J_Ysi_main.w.48.dspadpcm.bfstm",
+            "hash": "E4143D5BE0A141E1929904014D2E0855D62D3EF1BD3298F3C332056ED39E53D2"
+        },
+        {
+            "file": "content/Common/Sound/stream/J_Ysi_night_main.w.48.dspadpcm.bfstm",
+            "hash": "AC3043DB19EF47206E3161420F73532A3DD0E7A8380D78BF97491271BE2ABAC3"
+        },
+        {
+            "file": "content/Common/Sound/stream/J_Zld_GanonBattle.ry.48.dspadpcm.bfstm",
+            "hash": "45F29A00BFE2991E4C1863657D95A1C1CAB832A63ABE32C18590851BF33A10D1"
+        },
+        {
+            "file": "content/Common/Sound/stream/J_Zld_tatemono.ry.48.dspadpcm.bfstm",
+            "hash": "82901DE98255861A8B869C72D4E9832EFD8103ECFFDB1407C999BB9E96123242"
+        },
+        {
+            "file": "content/Common/Sound/stream/LIG_Belt.ry.48.dspadpcm.bfstm",
+            "hash": "C1B26118DAFB2050501D6B9EACAFA6982138630E7B4CB65106CFA6459642E1BF"
+        },
+        {
+            "file": "content/Common/Sound/stream/LIG_ObakeLose.ry.48.dspadpcm.bfstm",
+            "hash": "6A6926819E7B7424F07B0B3FFD82A6A73F5E1501D0B3FBD83C7A2FD026250BC9"
+        },
+        {
+            "file": "content/Common/Sound/stream/LIG_ObakeWin.ry.48.dspadpcm.bfstm",
+            "hash": "FEB908A469F6D8EBE4E3C70CE0AC9F416993136DCFFD06123597464E6B1F0837"
+        },
+        {
+            "file": "content/Common/Sound/stream/LIG_Okujyo.ry.48.dspadpcm.bfstm",
+            "hash": "9154A3922C3ED5764DEC11E1129F31DB075E9D9E318D15BD5D5DE79CF1E150EE"
+        },
+        {
+            "file": "content/Common/Sound/stream/LIG_Souko.ry.48.dspadpcm.bfstm",
+            "hash": "115D68087F8527A9773D170D0D91104A7C64D8BB48CA6C59DA28C7C2FA869CD1"
+        },
+        {
+            "file": "content/Common/Sound/stream/LIG_hikiwake.ry.48.dspadpcm.bfstm",
+            "hash": "1E912B2C29875DEEF52EA91D4E2B30CBCEA815D4A4D7C3AC9ACAD0F055D66CEE"
+        },
+        {
+            "file": "content/Common/Sound/stream/LIG_main.ry.48.dspadpcm.bfstm",
+            "hash": "A99176255006A9A2105E5EAEA3FD1A02F8978DBE42C783EC36939D80814B3310"
+        },
+        {
+            "file": "content/Common/Sound/stream/LIG_mati.ry.48.dspadpcm.bfstm",
+            "hash": "5BFF63A0CC0A2C3A587A64B03E69FA60253FCDA5EF259D91763A59DCC5420BEF"
+        },
+        {
+            "file": "content/Common/Sound/stream/LIG_tutorial.ry.48.dspadpcm.bfstm",
+            "hash": "85DBC59ACE94598DD2FADDBB1F6BCF785B941D5B35E42676F817E5EF96688887"
+        },
+        {
+            "file": "content/Common/Sound/stream/MRO_CamDemo.ry.48.dspadpcm.bfstm",
+            "hash": "1876F13CCA18A853817C7D1F73E2A892C59B446E0CAD03F8D9E003F197195F07"
+        },
+        {
+            "file": "content/Common/Sound/stream/MRO_OpenDemo.ry.48.dspadpcm.bfstm",
+            "hash": "0C71FCD98194802708A30C40E07E9EA02E6DF70D8BDC7D5FB90612F1E9EF6FDD"
+        },
+        {
+            "file": "content/Common/Sound/stream/MRO_doronko.ry.48.dspadpcm.bfstm",
+            "hash": "BBA8A6EADE947A4048A9966C2938496BAE1AEF326649187885486CA4256FCB57"
+        },
+        {
+            "file": "content/Common/Sound/stream/MRO_doronko_30sec.ry.48.dspadpcm.bfstm",
+            "hash": "AC923FB24E7E88AA560EB3725ADF9A2E4D3CE6482B6DF5DF1D9A0F409BB14475"
+        },
+        {
+            "file": "content/Common/Sound/stream/MRO_doronko_60sec.ry.48.dspadpcm.bfstm",
+            "hash": "9A97D7CD9E73DD72241F49395809DA1F8CF4D8CF8455E1800B0266D643E93292"
+        },
+        {
+            "file": "content/Common/Sound/stream/MRO_finish.ry.48.dspadpcm.bfstm",
+            "hash": "7C598E3BDEA7BDA1B60CAED50BB8DD09A5A44B9C29F64121C44446899675C3C4"
+        },
+        {
+            "file": "content/Common/Sound/stream/MRO_main.ry.48.dspadpcm.bfstm",
+            "hash": "3F2D4AED11AE44EB1E9AE9A53CF54075F5D4495642DA19DE2065BCF3B6065426"
+        },
+        {
+            "file": "content/Common/Sound/stream/MRO_main_30sec.ry.48.dspadpcm.bfstm",
+            "hash": "3EADE6F45AAFA68FDF0AD5A5873D2FB78C7E9F5CE01D0FA8B736F0F4B388B1AE"
+        },
+        {
+            "file": "content/Common/Sound/stream/MRO_main_60sec.ry.48.dspadpcm.bfstm",
+            "hash": "C5DF9DC21E76267000C1DE279700968F4D8B7177D5AAC9730D84F2CBA8D605FA"
+        },
+        {
+            "file": "content/Common/Sound/stream/MRO_result.ry.48.dspadpcm.bfstm",
+            "hash": "3C50A11C187CEA66A24271AF946D80B957A9AA81F592875626B378FF3E481FC1"
+        },
+        {
+            "file": "content/Common/Sound/stream/MRO_star.ry.48.dspadpcm.bfstm",
+            "hash": "3C8F43E55CFAB9C0ABDDC04E86F497D525FA273BFD074A79B307C58112069712"
+        },
+        {
+            "file": "content/Common/Sound/stream/MRO_suberi.ry.48.dspadpcm.bfstm",
+            "hash": "F3755B69F7211B50087ED896CC9CA2830C051984C3D4EC0AE34B705316F38B0E"
+        },
+        {
+            "file": "content/Common/Sound/stream/MRO_suberi_30sec.ry.48.dspadpcm.bfstm",
+            "hash": "E996115BDAAAF4225FAEFC08E0386F10ED6A09A2F489C3CB9739742F5C189D05"
+        },
+        {
+            "file": "content/Common/Sound/stream/MRO_suberi_60sec.ry.48.dspadpcm.bfstm",
+            "hash": "0D2AE75BC7ACAFB24068E0BCB698E2F11165D36A191CCAF3EAFA43586333BD48"
+        },
+        {
+            "file": "content/Common/Sound/stream/MRO_tutorial.ry.48.dspadpcm.bfstm",
+            "hash": "669E49464B42361268C8AB9BC9659CB521065A11BF9B9CE15DBB35E1B199830B"
+        },
+        {
+            "file": "content/Common/Sound/stream/MUS_Parade.ry.48.dspadpcm.bfstm",
+            "hash": "FA5BBE27DBF9B887F0866BC090F7687DDE3524C1F6008CEA8895278C5DCD5786"
+        },
+        {
+            "file": "content/Common/Sound/stream/Mtr_BossAppear_Kraid.ry.48.dspadpcm.bfstm",
+            "hash": "F173071FD7F386B493A4CB43CB05C400172F5B8159DB92F6FD270DE47D880D58"
+        },
+        {
+            "file": "content/Common/Sound/stream/Mtr_BossAppear_KraidAndRidley.ry.48.dspadpcm.bfstm",
+            "hash": "DE98124D36ECC10C7C3D49B99799FB210CD687DA769AEB5D842367E8406BB2FD"
+        },
+        {
+            "file": "content/Common/Sound/stream/Mtr_BossAppear_Ridley.ry.48.dspadpcm.bfstm",
+            "hash": "B5FA66672A3A1922E83356981C9916C257A0F6A3A6DEDE98CB0AB0B572221CA7"
+        },
+        {
+            "file": "content/Common/Sound/stream/Mtr_BossAppear_RidleyAndRidley.ry.48.dspadpcm.bfstm",
+            "hash": "538E3E00545D3570EE049B5D549FB3BE2B3DDAA4FC9B92E9AF16DE7B9011160E"
+        },
+        {
+            "file": "content/Common/Sound/stream/Mtr_BossExplosion_Kraid.ry.48.dspadpcm.bfstm",
+            "hash": "73E5038A4A3CB74E5767651E431F4ECF69800E11063E6D1E071361F81735961E"
+        },
+        {
+            "file": "content/Common/Sound/stream/Mtr_BossExplosion_Ridley.ry.48.dspadpcm.bfstm",
+            "hash": "8A010B23E9913D494AE5823A1DD4B259C5594380AFC61E14C539ACCDA213902D"
+        },
+        {
+            "file": "content/Common/Sound/stream/Mtr_CamDemo.ry.48.dspadpcm.bfstm",
+            "hash": "DF30C57FFAF0105ED8D4F5784CE0E8070C3C5BDE1E46EFDC17FA45381D44777D"
+        },
+        {
+            "file": "content/Common/Sound/stream/Mtr_MasterClear.ry.48.dspadpcm.bfstm",
+            "hash": "44B7D0F7070252E83FC57AD35636C290610E33F666C0B70D16E18C322DFF8BE6"
+        },
+        {
+            "file": "content/Common/Sound/stream/Mtr_boss.ry.48.dspadpcm.bfstm",
+            "hash": "90107B908508E82E80C68ED41D105B30A138F337FD1340D0143074C06301EB6B"
+        },
+        {
+            "file": "content/Common/Sound/stream/Mtr_coinBattle_normal.ry.48.dspadpcm.bfstm",
+            "hash": "CC9A9D1C467456BF7001051117699781A7772610B7EC977BA982C355C6ED46DF"
+        },
+        {
+            "file": "content/Common/Sound/stream/Mtr_coinbattle.ry.48.dspadpcm.bfstm",
+            "hash": "4AB9F95EB90151A8A33E2F3F55AB218A8D2A19CABA207197FF8ECDB829D96495"
+        },
+        {
+            "file": "content/Common/Sound/stream/Mtr_lose.ry.48.dspadpcm.bfstm",
+            "hash": "CD124B2198E0D0AC86DC203A79507A568A01997AAA331413B0CE6C4069AB7977"
+        },
+        {
+            "file": "content/Common/Sound/stream/Mtr_ridley.ry.48.dspadpcm.bfstm",
+            "hash": "AD276BDE7386597B90AD83E3803462C35C528ED122327B274094A18F61E23636"
+        },
+        {
+            "file": "content/Common/Sound/stream/Mtr_tutorial.ry.48.dspadpcm.bfstm",
+            "hash": "7470077135F4A2F009DB4B78BE54E90F184033AEBCBC82D81C468038A648F39B"
+        },
+        {
+            "file": "content/Common/Sound/stream/Mtr_win.ry.48.dspadpcm.bfstm",
+            "hash": "06344B5F6E57662FB96E44A861AFB9D930D53DED42A6B315C580CD40B47FB164"
+        },
+        {
+            "file": "content/Common/Sound/stream/NZM_bonus.ry.48.dspadpcm.bfstm",
+            "hash": "603ED786A7196B1517A7A4E373B8235409F2DE13AA30EAD5C84DB38B89F90355"
+        },
+        {
+            "file": "content/Common/Sound/stream/NZM_clear.ry.48.dspadpcm.bfstm",
+            "hash": "C5393C030408280DF99CFE0EBC0794E950DBC7EE79D5F69573463A48635F1810"
+        },
+        {
+            "file": "content/Common/Sound/stream/NZM_jonai.ry.48.dspadpcm.bfstm",
+            "hash": "2FC4BF0789360A6C0AB0F1D26F5D05727FF0E5368BEDDB884244B25B46C143D1"
+        },
+        {
+            "file": "content/Common/Sound/stream/NZM_kati.ry.48.dspadpcm.bfstm",
+            "hash": "0A1A71DE33A0AA8C030A7F05A20F5A54302BE9B20E6DDADDD38362F31E88E4A9"
+        },
+        {
+            "file": "content/Common/Sound/stream/NZM_main1.ry.48.dspadpcm.bfstm",
+            "hash": "451DF5101B1EDD8B356DC3CD75261B7FB0DD7AFE8E60004102614D0F5938DC33"
+        },
+        {
+            "file": "content/Common/Sound/stream/NZM_make.ry.48.dspadpcm.bfstm",
+            "hash": "D864083369B13E79DDA941CEFE263038E9D348CA14E4A788E106836C85B87DFB"
+        },
+        {
+            "file": "content/Common/Sound/stream/NZM_nebuta.ry.48.dspadpcm.bfstm",
+            "hash": "4B58150F34F179AA196C677DCEE8E3171DB72DE2B2DC8D7FD613693F25153193"
+        },
+        {
+            "file": "content/Common/Sound/stream/NZM_setsumei.ry.48.dspadpcm.bfstm",
+            "hash": "84EA39DED09090D15CAFAD5E7B31148809278981133E69E97CAED7CC1AA99617"
+        },
+        {
+            "file": "content/Common/Sound/stream/NZM_takamaru.ry.48.dspadpcm.bfstm",
+            "hash": "A8C77A4F1376B2C19AD63DF9162AFFB134B976182BF933F1FE783C4840F8583F"
+        },
+        {
+            "file": "content/Common/Sound/stream/NZM_tutorial.ry.48.dspadpcm.bfstm",
+            "hash": "66E8B321E886109ACD1DAD554E9D8E35F6E6F24D416B6FC3B93CBB9703BFE4DF"
+        },
+        {
+            "file": "content/Common/Sound/stream/PKM_tutorial.ry.48.dspadpcm.bfstm",
+            "hash": "28ECB89D1245D5DCC723DABD7F31E3292BFEC919E00C5F6E1EE09DE698548B0C"
+        },
+        {
+            "file": "content/Common/Sound/stream/Pkm_Battle.ry.48.dspadpcm.bfstm",
+            "hash": "F27678CE3A661F198CC5CD9E2ECBF687441244A3D42896D2741DB1F89A5B6584"
+        },
+        {
+            "file": "content/Common/Sound/stream/Pkm_BattleFinale.ry.48.dspadpcm.bfstm",
+            "hash": "1A0B6979256D39CE9B983619394230BB9B88B43FDF045DB81703282B17091F64"
+        },
+        {
+            "file": "content/Common/Sound/stream/Pkm_Demo_Appear_Kizami.ry.48.dspadpcm.bfstm",
+            "hash": "345369892890509EA986D9496142C5B7BE58E36FF18110C6F6B914042F608662"
+        },
+        {
+            "file": "content/Common/Sound/stream/Pkm_Demo_Appear_Mukade.ry.48.dspadpcm.bfstm",
+            "hash": "EEA6A7355F197770580E64AF2402185A7471C4DAD57492E6B28EE04271E3E4C4"
+        },
+        {
+            "file": "content/Common/Sound/stream/Pkm_Demo_Appear_Tonosama.ry.48.dspadpcm.bfstm",
+            "hash": "A849BB362C19B2E36D2159C00B19047AD5E96A6F8E1F462AFE81CACBF8F991D2"
+        },
+        {
+            "file": "content/Common/Sound/stream/Pkm_Demo_Destroy.ry.48.dspadpcm.bfstm",
+            "hash": "34975F868BB4EB12A00643FDEB7891CBEC58E4444E532FB7E8EA330E3CDF21FE"
+        },
+        {
+            "file": "content/Common/Sound/stream/Pkm_Demo_Landing.ry.48.dspadpcm.bfstm",
+            "hash": "39CD7F821AB9107B4E30F580FB18625C720BD6E4378EBA4AE31D952B7FDA75DD"
+        },
+        {
+            "file": "content/Common/Sound/stream/Pkm_Demo_MidBossDestroy.ry.48.dspadpcm.bfstm",
+            "hash": "E92A5F00D819DCFA3C9AB20A27064CF0E0268AEC15D0117EBAD14611DC2B4892"
+        },
+        {
+            "file": "content/Common/Sound/stream/Pkm_MiddleBoss.ry.48.dspadpcm.bfstm",
+            "hash": "A8E25AECD5E40D0EA6226182C278FD544759446C5673613631EDB659FCFFC6D2"
+        },
+        {
+            "file": "content/Common/Sound/stream/Pkm_OpnDemo.ry.48.dspadpcm.bfstm",
+            "hash": "9A26AD05C44A658BC768A8A8179265A2F5783AABA281155727E2B78CAA3F1392"
+        },
+        {
+            "file": "content/Common/Sound/stream/Pkm_TimeUp.ry.48.dspadpcm.bfstm",
+            "hash": "EB4821756FA69C4623956CD513E6FE1DAF5290B2DF868384B64B4EAA955B69E7"
+        },
+        {
+            "file": "content/Common/Sound/stream/Pkm_aki.ry.48.dspadpcm.bfstm",
+            "hash": "D3D63E0A6840FB2351EE1980994F069649083919350F0FD1FC844C7348BCCAD9"
+        },
+        {
+            "file": "content/Common/Sound/stream/Pkm_boss.ry.48.dspadpcm.bfstm",
+            "hash": "336379E2C42DAFDEF4912EE9A122A2A20759D9F968D9256A6BB9247189CA688B"
+        },
+        {
+            "file": "content/Common/Sound/stream/Pkm_fuyu.ry.48.dspadpcm.bfstm",
+            "hash": "C4B409BD51FCE0C63245BA7F54F81604CB568C407E3210D43178DA18FCF36BB8"
+        },
+        {
+            "file": "content/Common/Sound/stream/Pkm_haru.ry.48.dspadpcm.bfstm",
+            "hash": "4D5442BEAC44DC5493AB598CFB50B900A41A343518C5C70E19244DFC5939C109"
+        },
+        {
+            "file": "content/Common/Sound/stream/Pkm_natsu.ry.48.dspadpcm.bfstm",
+            "hash": "5356805AD0E13693A240D96DB33179A8969CF22EA940CDC9C28F4FBAE0BCFEF3"
+        },
+        {
+            "file": "content/Common/Sound/stream/Pkm_tika.ry.48.dspadpcm.bfstm",
+            "hash": "31B2472C13DEFA2A4F379749B1DC90E23341EA416C3E1C348C7537DECB695CFD"
+        },
+        {
+            "file": "content/Common/Sound/stream/Sequence_BeforeStaffCredit.ry.48.dspadpcm.bfstm",
+            "hash": "CC6EF219E661856CEE9E5B9DBB1152B684A246943F4B8BF9D9416EBA1432FC52"
+        },
+        {
+            "file": "content/Common/Sound/stream/StaffCredit_FirstHalf.ry.48.dspadpcm.bfstm",
+            "hash": "29686DC7B03896BCD6B8B204D99969C0C91FFA39E6C3BE1835F53F8858CC0B59"
+        },
+        {
+            "file": "content/Common/Sound/stream/StaffCredit_LatterHalf.ry.48.dspadpcm.bfstm",
+            "hash": "8A7FD4EA7A579462CCCA0ED05993EB72C0E1350F7009AC8FA7C9A26C7E7DF3ED"
+        },
+        {
+            "file": "content/Common/Sound/stream/ThemeOfMonita-Din.ry.48.dspadpcm.bfstm",
+            "hash": "8372F28425860C9A7182512314ED1D7F67255D32C69555E914A54F68CDA0512F"
+        },
+        {
+            "file": "content/Common/Sound/stream/Ysi_AllClear.ry.48.dspadpcm.bfstm",
+            "hash": "944C9F3CFC2EBFE78F3EACA5C0320B6856E3CBE96C0D7333A356E59390C9E9D2"
+        },
+        {
+            "file": "content/Common/Sound/stream/Ysi_CamDemo.ry.48.dspadpcm.bfstm",
+            "hash": "6CEE2E38FD0BEA370D1B856F6E9BBE649077A5D434E7BD164D409BF7D880E760"
+        },
+        {
+            "file": "content/Common/Sound/stream/Ysi_main1.ry.48.dspadpcm.bfstm",
+            "hash": "679868CAF55E0A7CA6B9BEC332D277C473CF0ADE007CDA65BDB1743C44565B72"
+        },
+        {
+            "file": "content/Common/Sound/stream/Ysi_main2.ry.48.dspadpcm.bfstm",
+            "hash": "2799A258A16151537E0B793511D2161818C58DEAA6345251C274AAC8C38DF7B2"
+        },
+        {
+            "file": "content/Common/Sound/stream/Ysi_main3.ry.48.dspadpcm.bfstm",
+            "hash": "BAC518CE90B7C4AA0F1D98AFCFCA22E4E1B2234C0B9E418BDB0A0AE694B43E95"
+        },
+        {
+            "file": "content/Common/Sound/stream/Ysi_main4.ry.48.dspadpcm.bfstm",
+            "hash": "5F0A03D3738CF3A244D7B7D5296D9FE9249915C1479C076EA0DD17F92C71CA8A"
+        },
+        {
+            "file": "content/Common/Sound/stream/Ysi_main5.ry.48.dspadpcm.bfstm",
+            "hash": "07F18B8662ADCA5061FD1B47131198212FBAF94C7DD1AAB9CBD1860A2A3533B3"
+        },
+        {
+            "file": "content/Common/Sound/stream/Ysi_nightStage_scroll.ry.48.dspadpcm.bfstm",
+            "hash": "5AA8DB4AD2CD3B73EC3C0DF0BEA6268C6CA9EEDD5FAC061F78FAA2D53FFBFD5E"
+        },
+        {
+            "file": "content/Common/Sound/stream/Ysi_night_main1.ry.48.dspadpcm.bfstm",
+            "hash": "CF6F391A65B5FA84F7C2F22CD57C4198943F56D4AAABA4B319F06886F18773DA"
+        },
+        {
+            "file": "content/Common/Sound/stream/Ysi_night_main2.ry.48.dspadpcm.bfstm",
+            "hash": "414FF909DD80DD44C7D63FDA90B4453F90694E284D09AA0EAA48110B5775E6F2"
+        },
+        {
+            "file": "content/Common/Sound/stream/Ysi_night_main3.ry.48.dspadpcm.bfstm",
+            "hash": "0C3373B4F7B91AAB8970164CBD6C123E2423AA5AD602FEBAC1A0B46728A8FE2E"
+        },
+        {
+            "file": "content/Common/Sound/stream/Ysi_night_main4.ry.48.dspadpcm.bfstm",
+            "hash": "6DACE891BE187D2D16B66CCED039B1AE9D733442C1B39421587E29DE5B08F951"
+        },
+        {
+            "file": "content/Common/Sound/stream/Ysi_night_main5.ry.48.dspadpcm.bfstm",
+            "hash": "9528F99D5F3DE05B55EB961A986DE354DF7B92FC4769FE3D488FC2EFF33DD6C9"
+        },
+        {
+            "file": "content/Common/Sound/stream/Ysi_tutorial.ry.48.dspadpcm.bfstm",
+            "hash": "8163219FD50C25FD059913B1E4988F0773FF02126FEE1B36740D8FC8BA5039B9"
+        },
+        {
+            "file": "content/Common/Sound/stream/Zld_BossBattle.ry.48.dspadpcm.bfstm",
+            "hash": "C787F3B7F094CA9560D754B7D2D7316A8B1C4910385831234CC5832B49EF94C8"
+        },
+        {
+            "file": "content/Common/Sound/stream/Zld_ForthGet.ry.48.dspadpcm.bfstm",
+            "hash": "3F759BAD657F2ABBA7F86EF99503AFA874AE324B761BB2EC84C314F1A8F01CDF"
+        },
+        {
+            "file": "content/Common/Sound/stream/Zld_LastGanon.ry.48.dspadpcm.bfstm",
+            "hash": "726E25B21BFC21E39C1846B97DCC8FA28495EEB3ACCD9EC2E58E92B0188096D2"
+        },
+        {
+            "file": "content/Common/Sound/stream/Zld_MasterClear.ry.48.dspadpcm.bfstm",
+            "hash": "171FF96E0FC743EC0598CDF25B0E8F2207F16763FC925861CE9EC74080ECEC08"
+        },
+        {
+            "file": "content/Common/Sound/stream/Zld_OpnCmaera.ry.48.dspadpcm.bfstm",
+            "hash": "82279CC687FC480ABACE9C010F2ADD054D668D43476894205E5C454A1A04FD68"
+        },
+        {
+            "file": "content/Common/Sound/stream/Zld_TimeAttack.ry.48.dspadpcm.bfstm",
+            "hash": "17EE26AE09267DF179EE142D7BB392CA136435812623115E4D098ED74240CADF"
+        },
+        {
+            "file": "content/Common/Sound/stream/Zld_TimeAttack_Clear.ry.48.dspadpcm.bfstm",
+            "hash": "4C38990AFFB9DD10912C7D45BF3443F3F3B5EF8CA7B0FA3AB139513FFE19432A"
+        },
+        {
+            "file": "content/Common/Sound/stream/Zld_TimeAttack_MasterClear.ry.48.dspadpcm.bfstm",
+            "hash": "C532CE964A6F658D8DB5107E9691B925F04AAAA8CF027B8A39B768063AD29BD7"
+        },
+        {
+            "file": "content/Common/Sound/stream/Zld_YamaYugata.ry.48.dspadpcm.bfstm",
+            "hash": "BA4C1E834A3D3DD9265D6DBDD423ADC783789009BC4E1385E99A9308B1797871"
+        },
+        {
+            "file": "content/Common/Sound/stream/Zld_gameover.ry.48.dspadpcm.bfstm",
+            "hash": "E982C69FF850F2777C078F4D53E7DFC1FDED1F458100C5CF1C1C702D1ACC1D8F"
+        },
+        {
+            "file": "content/Common/Sound/stream/Zld_ganon.ry.48.dspadpcm.bfstm",
+            "hash": "7616AE8B6260D4412A8A91B2455BB6558F5A3EDA720B731BAEA79257575388A6"
+        },
+        {
+            "file": "content/Common/Sound/stream/Zld_mori.ry.48.dspadpcm.bfstm",
+            "hash": "12FD8EAC6235E9BD8892F313F0A217DE5524BF24DBF7BDBEC57A9299F734D845"
+        },
+        {
+            "file": "content/Common/Sound/stream/Zld_sougen.ry.48.dspadpcm.bfstm",
+            "hash": "D0BFDEF5CEA1C505E1BAEF06427F0EAA47A53D15E8828301B550B6FE263D7185"
+        },
+        {
+            "file": "content/Common/Sound/stream/Zld_tutorial.ry.48.dspadpcm.bfstm",
+            "hash": "7BB81232C4E14A1438E106935EA94C68D9915E34669332AD8A0924EFD41F28C1"
+        },
+        {
+            "file": "content/Common/Sound/stream/Zld_yama.ry.48.dspadpcm.bfstm",
+            "hash": "75442F20234E11E93D834DBB0C7DD0EA0E0950020EC301B76DB125327BBF9518"
+        },
+        {
+            "file": "content/Common/Sound/stream/gate_balloon.w.48.dspadpcm.bfstm",
+            "hash": "DA9EB854EAEA13144E23E4923AAE8F53725CDB8C3A7F953D596779D1F3F824D6"
+        },
+        {
+            "file": "content/Common/Sound/stream/gate_donkey.w.48.dspadpcm.bfstm",
+            "hash": "2D51FCB9352B5272D6DD318498163482862098EF02BE87C9BBC854B4AC0D754C"
+        },
+        {
+            "file": "content/Common/Sound/stream/gate_doubutsu.w.48.dspadpcm.bfstm",
+            "hash": "D117D5117CA0313A39A20EB318D5824F0512D91A89AD9982FF54633919A6111D"
+        },
+        {
+            "file": "content/Common/Sound/stream/gate_fzero.w.48.dspadpcm.bfstm",
+            "hash": "E232FDE3A597731A94D1F929C37B95FCE5EC5E539E7125F26F8D85DC514C10E4"
+        },
+        {
+            "file": "content/Common/Sound/stream/gate_gamewatch.ry.48.dspadpcm.bfstm",
+            "hash": "88BE23265D2879C656FA10CADA5AE0CAE83A7C450CEABDAB9E639735B3922812"
+        },
+        {
+            "file": "content/Common/Sound/stream/gate_luigi.w.48.dspadpcm.bfstm",
+            "hash": "CCAE176FDADE3BED7D2801E657F862EA779F4CE874926FEE16163ECB47283309"
+        },
+        {
+            "file": "content/Common/Sound/stream/gate_mario.w.48.dspadpcm.bfstm",
+            "hash": "BD2897AD1445AF5B9B05588613847121399804452408ED7749771B6F9CE44783"
+        },
+        {
+            "file": "content/Common/Sound/stream/gate_metroid.w.48.dspadpcm.bfstm",
+            "hash": "794D0154D62D68F833360391B1CA6D03C510FED65D0C93C2C68316077329DD16"
+        },
+        {
+            "file": "content/Common/Sound/stream/gate_murasame.w.48.dspadpcm.bfstm",
+            "hash": "8DEFE4238EDE488D957F8EAC0340CE0229F8CF8CFF7FE47C85CE48265D58EE6A"
+        },
+        {
+            "file": "content/Common/Sound/stream/gate_pikmin.w.48.dspadpcm.bfstm",
+            "hash": "BCE5E9F33EEBDCC565EB12D325DC31FF2DEF615974DE911A8C782B1EB8412449"
+        },
+        {
+            "file": "content/Common/Sound/stream/gate_yoshi.w.48.dspadpcm.bfstm",
+            "hash": "374734DE5E8B86365850223EA2CE64C274E93AAE259DA5547809B5B53AD4D9F5"
+        },
+        {
+            "file": "content/Common/Sound/stream/gate_zelda.w.48.dspadpcm.bfstm",
+            "hash": "419D324DAEB8AF1770C734F4BE7F6E440EA211E11D8A47C911FB68DE71437D37"
+        },
+        {
+            "file": "content/Common/System/RegionLang.txt",
+            "hash": "CAF895215728F73424C7241FA4983354F108F4C6BCF3BE182B5DC9BAE74A6EFA"
+        },
+        {
+            "file": "content/Common/System/revision.txt",
+            "hash": "5E18661F657D5D0CB723BB86C1A2CCA8946E7034E71A39F7FB48310461CD942E"
+        },
+        {
+            "file": "content/Common/System/timeStamp.txt",
+            "hash": "555EE5C22938B8DF2DDDB6FEF76FDBAFDD7AC585B92BAB92D67E6BCA6C5A60AC"
+        },
+        {
+            "file": "content/UsEnglish/Layout/Font.szs",
+            "hash": "1492653DBFC8EA4E377DFC4E7C88CF6ECE12352E55B7522BF0D48A69B6513FEC"
+        },
+        {
+            "file": "content/UsEnglish/Message/AllMessage.szs",
+            "hash": "A1A263E1A359636BF6F0F973C99CF519E871317FD5AFF5D1E619D5263D46334A"
+        },
+        {
+            "file": "content/UsEnglish/Voice/Atr.sarc",
+            "hash": "52A4F3754DE6B2C0A84F992106261139D5FD02D5235130D116632A9A13F86D72"
+        },
+        {
+            "file": "content/UsEnglish/Voice/Blf.sarc",
+            "hash": "F27A3A12C594D6FA0882376A6D4E43B137021905371817FFAE80F21A9C9544D0"
+        },
+        {
+            "file": "content/UsEnglish/Voice/Common.sarc",
+            "hash": "04006BCAF2C9237FF68A8A7C5259FC2A61A57D18A9AE9E5ECDA1064CC87A7CA9"
+        },
+        {
+            "file": "content/UsEnglish/Voice/Dbt.sarc",
+            "hash": "6B6906843D7B39B0F712B7012359351BAC1E0F7835C6206458D503073227331B"
+        },
+        {
+            "file": "content/UsEnglish/Voice/Dkb.sarc",
+            "hash": "C0E2BAD3A1FB21CD1D8825CD5804F5F4F7D0D8E72C8FB94F73BF1C5FE261C156"
+        },
+        {
+            "file": "content/UsEnglish/Voice/Fzr.sarc",
+            "hash": "7C1DDC3D844D17380FDAD0125F2EF69AD979ADECBE76DEAED6483F823055C639"
+        },
+        {
+            "file": "content/UsEnglish/Voice/Gwr.sarc",
+            "hash": "8D943C6E756329C846C958F116C03F69FCE17EF673C322A349720EBCE02B05EF"
+        },
+        {
+            "file": "content/UsEnglish/Voice/Lig.sarc",
+            "hash": "B3CA58BF9816D12684627CACA5BC149C33D2EB99AD2E42A6270B5DD90C14C3DD"
+        },
+        {
+            "file": "content/UsEnglish/Voice/Mro.sarc",
+            "hash": "12989A9368558BBA6316949E6D6B0FBB01532A62E215322B0682758228E12F32"
+        },
+        {
+            "file": "content/UsEnglish/Voice/Mtr.sarc",
+            "hash": "579511405C9AB914E3CD89ADF713D038DFC47D32BF183C9EC741EF544F83E69D"
+        },
+        {
+            "file": "content/UsEnglish/Voice/Nzm.sarc",
+            "hash": "2567BBA29DF9F561E47A0B0E8CB76C0142C5724503D1D5E681161D4EB3D08884"
+        },
+        {
+            "file": "content/UsEnglish/Voice/Pkm.sarc",
+            "hash": "4D8F5EF7FFD764A6BA0340712129C7C87A9F38C521DA18F6ABC0407A9B701196"
+        },
+        {
+            "file": "content/UsEnglish/Voice/Ttl.sarc",
+            "hash": "D3CFEEA7F11E954668EBD1214B0D351B099F8D56EED36A62277C46675D3343AF"
+        },
+        {
+            "file": "content/UsEnglish/Voice/Ttl_Statue.sarc",
+            "hash": "FF1EDBADF527CED1B7E400C28850F7E5AE853C5B94DABBA7024719384D3BBD83"
+        },
+        {
+            "file": "content/UsEnglish/Voice/Ysi.sarc",
+            "hash": "8DAE8A6051DF2465A1D70D3B7356B60ADA1823B77864927A94F0E7662ABE2F14"
+        },
+        {
+            "file": "content/UsEnglish/Voice/Zld.sarc",
+            "hash": "5873A12B743DDCE9519CCB51B6E624BB456E7B76FF9DC1DC1183EE0092A5C4EA"
+        },
+        {
+            "file": "content/UsFrench/Layout/Font.szs",
+            "hash": "7542032C1F050BABBAF44F4BA2EC17E4684A5505728ACD296F8E3438360201C9"
+        },
+        {
+            "file": "content/UsFrench/Message/AllMessage.szs",
+            "hash": "63875C6F703FE80A463A9D56C8C1FCF34FED724E9F1D9A9AB197EF5575B58004"
+        },
+        {
+            "file": "content/UsFrench/Voice/Atr.sarc",
+            "hash": "892D29CDD054FB265A990E53844F45D80DAAD8E19FF3E367B526C888DACD6DF4"
+        },
+        {
+            "file": "content/UsFrench/Voice/Blf.sarc",
+            "hash": "4BF5F7BDF08EDCF3A80AECC0A2136EF0C136F8FB212ABFFC49F1D0CBFB755730"
+        },
+        {
+            "file": "content/UsFrench/Voice/Common.sarc",
+            "hash": "A0DE334C1C9350590DC9EB4E364A83A174F3B1DE033072CA65E20FA6C05BFFFD"
+        },
+        {
+            "file": "content/UsFrench/Voice/Dbt.sarc",
+            "hash": "F9E9F3AA56CF0DCF88A1AC307E384469D0554EA2B217A28C419B82AD1859F5B7"
+        },
+        {
+            "file": "content/UsFrench/Voice/Dkb.sarc",
+            "hash": "7439F1547A2897BF163D6F4A1CC38485603E71A208601B2F2233DFFB5E6D79A7"
+        },
+        {
+            "file": "content/UsFrench/Voice/Fzr.sarc",
+            "hash": "BD786CD027CD7BE6A57E95144709195FA730CEA7CDD93F0D2200FBCDE6185FB2"
+        },
+        {
+            "file": "content/UsFrench/Voice/Gwr.sarc",
+            "hash": "7951B79DC6EA73B98BB66AFFFCF5745D25C213A7D4908BEFE7FFB7F779E72657"
+        },
+        {
+            "file": "content/UsFrench/Voice/Lig.sarc",
+            "hash": "331D4B0A77B3D5562CD853D3229EB3FD1A36B598CF5766A0DF2608256FDECE9C"
+        },
+        {
+            "file": "content/UsFrench/Voice/Mro.sarc",
+            "hash": "96D78B73FF0D80787A214CEEAF963EB2AB5ADEB09A18D3A21F93480CB631F532"
+        },
+        {
+            "file": "content/UsFrench/Voice/Mtr.sarc",
+            "hash": "EAD745037758727F122927F766329DE91E6DD4642CF9DB888156BC939A03EE43"
+        },
+        {
+            "file": "content/UsFrench/Voice/Nzm.sarc",
+            "hash": "9887226C311BA88924FF0D7218093A3766DFA82C6143BA7B4CEB553E77CBC3E7"
+        },
+        {
+            "file": "content/UsFrench/Voice/Pkm.sarc",
+            "hash": "DC964CFEDCEA0B79C013E7F23247C9C3E0381B481AA7FAFF8022655BDE6EFB21"
+        },
+        {
+            "file": "content/UsFrench/Voice/Ttl.sarc",
+            "hash": "49D7491E4DB6ACF0E8350277AAD2DB7F126FA8C07D9EE75D6B98C7A91929A180"
+        },
+        {
+            "file": "content/UsFrench/Voice/Ttl_Statue.sarc",
+            "hash": "26962F6D667749BAFA352B0DFBB476B352A027A6F7588360489519A255CE327B"
+        },
+        {
+            "file": "content/UsFrench/Voice/Ysi.sarc",
+            "hash": "0DAB941BDC99869B30A21A50A9075B4B77EB01DAB604DCA5691B95D4D513A14C"
+        },
+        {
+            "file": "content/UsFrench/Voice/Zld.sarc",
+            "hash": "D3800BB95A9BF55123FA2EBB1B6A4CB5374A9A0939EF3C1BE62A60CD50F62F96"
+        },
+        {
+            "file": "content/UsPortuguese/Layout/Font.szs",
+            "hash": "004547574335E7458B72C84F4F947B4DE380B34391C269ECE979E2BB251E8C71"
+        },
+        {
+            "file": "content/UsPortuguese/Message/AllMessage.szs",
+            "hash": "A0A577C67C6E2919D192FA7AFA2BC978DCE7832BBCA29FB040B9721AA1D4B0DB"
+        },
+        {
+            "file": "content/UsSpanish/Layout/Font.szs",
+            "hash": "5CEDAD4D69205BDB68D5D62668C109B427EF405C26CED54A11963D7831DAB614"
+        },
+        {
+            "file": "content/UsSpanish/Message/AllMessage.szs",
+            "hash": "59E5A608D917F20AEB314B38CC166B5D190686AE418C2F3D219A2E630160E15D"
+        },
+        {
+            "file": "content/UsSpanish/Voice/Atr.sarc",
+            "hash": "C1F3D50670E470FFD848E11BC60626FCFF998F264FEEDBFFC1D0A58600BEBD32"
+        },
+        {
+            "file": "content/UsSpanish/Voice/Blf.sarc",
+            "hash": "003DF9FD4AA553EB3C20AAE3E8476AFEA861ED83CB2881395665B85B004484BD"
+        },
+        {
+            "file": "content/UsSpanish/Voice/Common.sarc",
+            "hash": "1A173CD71EF25AA8D1623738CF98650D2AF60ACA92C093C16CA9E1D90A68434B"
+        },
+        {
+            "file": "content/UsSpanish/Voice/Dbt.sarc",
+            "hash": "DEC1CD5B862D64E8103D9639F3971FD4B12F8D3C9E4FB4F6792A6FFF126DE6FD"
+        },
+        {
+            "file": "content/UsSpanish/Voice/Dkb.sarc",
+            "hash": "7FDEDF07B74F3CBA70FAF4B6643831CFACAE23B1B4B23F404E5D4FFF171D7C2F"
+        },
+        {
+            "file": "content/UsSpanish/Voice/Fzr.sarc",
+            "hash": "8CE0EE6A5E9B645FF4E5EB4146CF162AA1DAD8981FECBAAFE6C964BFEAAD6D06"
+        },
+        {
+            "file": "content/UsSpanish/Voice/Gwr.sarc",
+            "hash": "440B9D21E9B7BCCDCBC991883D71B6C9E916538EADB2BD0A1D6C03389C37DC3A"
+        },
+        {
+            "file": "content/UsSpanish/Voice/Lig.sarc",
+            "hash": "C24E4946E157D62298EBAE9A07ED73806DB4DCAFFB7FDD5F2DF4D79A1B6BB3B0"
+        },
+        {
+            "file": "content/UsSpanish/Voice/Mro.sarc",
+            "hash": "B6EB3B2318B0DFF2993C98BB99522999DC025BBFC8141E705EBDEDA9F1537684"
+        },
+        {
+            "file": "content/UsSpanish/Voice/Mtr.sarc",
+            "hash": "D9B561A93CBE30E0265A1EBD6CDB491D3EE4C2D86B32801E97E29F34C539DCC5"
+        },
+        {
+            "file": "content/UsSpanish/Voice/Nzm.sarc",
+            "hash": "208464E7DAFEC19B9E53AFFB25D814DB7CBAA89FCFBE37304A57BD39C2D0E9A8"
+        },
+        {
+            "file": "content/UsSpanish/Voice/Pkm.sarc",
+            "hash": "ED65DA2ABFE23773CEDA64705C2DB067842CDEE225578BC916B7B2E338E8A0AB"
+        },
+        {
+            "file": "content/UsSpanish/Voice/Ttl.sarc",
+            "hash": "BFACB993F7C62F93D8995E1B5F49081DE948263ED4EFE6E121CB66B6863F2A48"
+        },
+        {
+            "file": "content/UsSpanish/Voice/Ttl_Statue.sarc",
+            "hash": "D31C948C7EB30BF02491078ED7E7FF124CC199E9FCDF96A06CCA4B66B21C8908"
+        },
+        {
+            "file": "content/UsSpanish/Voice/Ysi.sarc",
+            "hash": "E6C1B6BFF8F1392C33B75D78551CACE0EFC96BB9459FD5811FFC063122308357"
+        },
+        {
+            "file": "content/UsSpanish/Voice/Zld.sarc",
+            "hash": "3B39AE0A893FBDF46159B199DA91C4A467F0B38E0DA14F77404881D22B9A724F"
+        },
+        {
+            "file": "meta/bootDrcTex.tga",
+            "hash": "925CE96C030CC4F335BABBE94590B54E6C96D46E0F169B8A6C98CB8465DACE8B"
+        },
+        {
+            "file": "meta/bootLogoTex.tga",
+            "hash": "91B63D9C03F7F9153C8B9FC8179E1CCCB6F4AFC60204B988D91D1B5EFCEE4AA8"
+        },
+        {
+            "file": "meta/bootMovie.h264",
+            "hash": "069FD8C5713F4B23EA1098D2674BCC839E610BA844683BF532E1E6CB10642621"
+        },
+        {
+            "file": "meta/bootSound.btsnd",
+            "hash": "1311CC05155DCD92D2ED26E44B9BF7EF543AF512B6151F4AB5B84152648F13D0"
+        },
+        {
+            "file": "meta/bootTvTex.tga",
+            "hash": "64E1F5A9E7810E4906BC2E759B35D122B70A018B8327A5C1C7DD291B7939F6DF"
+        },
+        {
+            "file": "meta/iconTex.tga",
+            "hash": "79CD784934DF8D2BB6DB34BE067EF7192054837658614302455196A202805880"
+        },
+        {
+            "file": "meta/manual.bfma",
+            "hash": "1E48C7D7BF28028C2734635CBC3444756F0C12642EFC614554E2E1535351A675"
+        },
+        {
+            "file": "meta/meta.xml",
+            "hash": "3B851CA769DC91A4D2DB794C4F310FC44C830F3E038C45BEDB46D29B2E694367"
+        }
+    ]
+}

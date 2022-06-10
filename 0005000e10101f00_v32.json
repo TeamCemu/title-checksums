@@ -1,0 +1,115 @@
+{
+    "title_id": "0005000e10101f00",
+    "region": 1,
+    "version": 32,
+    "files": [
+        {
+            "file": "code/Lunch.rpx",
+            "hash": "48FAFE04F87296656C092BCD7F873CD2243B4E99879D3FFDC35C1037D2AD601A"
+        },
+        {
+            "file": "code/app.xml",
+            "hash": "B34C3B11EBF4D636DC3160479F227FC1B99BEBCF35A02E91D3032031BFA7E167"
+        },
+        {
+            "file": "code/cos.xml",
+            "hash": "C7C6FA62070A041954D04AE17ACBDC61703718E25969F5C7C64AF7A543AABF2F"
+        },
+        {
+            "file": "code/preload.txt",
+            "hash": "32408C1FE28ACA8C8D9CDB9B7F3ABA03D318AFBA087A7F3ED735385EA5D46B39"
+        },
+        {
+            "file": "content/Common/Model/Cmn_Mii_Mro.szs",
+            "hash": "9BA9DF3ECCD07B6F21051DB2228C33CD12DDF22539E93D456974224E96C63EB4"
+        },
+        {
+            "file": "content/Common/Model/Mro_Field03S.szs",
+            "hash": "D9121F137439AFA903E9CAF149F90D9EBFE2E0CD7AA2873466AE275527D3EA2C"
+        },
+        {
+            "file": "content/Common/Package/Mro_Cmn.pack",
+            "hash": "CC3051316FEBB111A856F9ECDDB061AF6A13457E182C7769FF7628E1A12EC050"
+        },
+        {
+            "file": "content/Common/Package/Pkm_Cmn.pack",
+            "hash": "05CEC170918BE5CCBDB31CCCE200B8369E292EE04C11997AFCFB62F46CEC03D7"
+        },
+        {
+            "file": "content/Common/Package/Static.pack",
+            "hash": "9694B93DFCD92F33E16F77C636D9C1C415816E65CCF14D3582DFA8A42129D4E0"
+        },
+        {
+            "file": "content/Common/Package/Static2.pack",
+            "hash": "6C70BF75816949778786D1ABC09483974DD945A8888BE946C3C25A40936F69AC"
+        },
+        {
+            "file": "content/Common/Package/Ttl_Cmn.pack",
+            "hash": "5B1A10BF335A94DE98AE12DBABA369702F965BEDECCF4E2D7E4FC9D3830E63B7"
+        },
+        {
+            "file": "content/Common/Package/Ysi_Cmn.pack",
+            "hash": "B1CB7115405D3AD6D98ABE7811C62036DBCE81DF44FB09EB631BECAE666B0F9D"
+        },
+        {
+            "file": "content/Common/SeadResource/GSysRoot/gsys_resource_cafe_dev.szs",
+            "hash": "089626665391E6F8BF5B70EA340EAC5B13F00774BC8EC42C03155E04B68772BE"
+        },
+        {
+            "file": "content/Common/Sound/lunch.bfsar",
+            "hash": "6CC5EDA15D7E53F80A6E562EFDD0FE3A4B6F7D78BE8EDCDCAB14C38965BCD8E7"
+        },
+        {
+            "file": "content/Common/System/revision.txt",
+            "hash": "C6F1C38658C6C20CECB05DF95F16E36C15202444A26EFF3D2F5993321C13BB47"
+        },
+        {
+            "file": "content/Common/System/timeStamp.txt",
+            "hash": "89CBB4B60F66BF1BD73E7350054B4331370D79CC3F563E9F7C2B1B99951AEDEE"
+        },
+        {
+            "file": "content/JpJapanese/Layout/Font.szs",
+            "hash": "1ACB79F805868B0060A585F12E60005902B58798DB6D4E8BE0B892B262689656"
+        },
+        {
+            "file": "content/JpJapanese/Message/AllMessage.szs",
+            "hash": "1CDE24D580E204477894C5D1AAE3EC484B03EDF7A93A5430FFC4673AE0584E0A"
+        },
+        {
+            "file": "content/JpJapanese/Voice/Ttl.sarc",
+            "hash": "E125AA4F462A6F456B345E0D601271E3DFA21DD20C7F46453B25B708141C99D0"
+        },
+        {
+            "file": "meta/bootDrcTex.tga",
+            "hash": "925CE96C030CC4F335BABBE94590B54E6C96D46E0F169B8A6C98CB8465DACE8B"
+        },
+        {
+            "file": "meta/bootLogoTex.tga",
+            "hash": "91B63D9C03F7F9153C8B9FC8179E1CCCB6F4AFC60204B988D91D1B5EFCEE4AA8"
+        },
+        {
+            "file": "meta/bootMovie.h264",
+            "hash": "069FD8C5713F4B23EA1098D2674BCC839E610BA844683BF532E1E6CB10642621"
+        },
+        {
+            "file": "meta/bootSound.btsnd",
+            "hash": "1311CC05155DCD92D2ED26E44B9BF7EF543AF512B6151F4AB5B84152648F13D0"
+        },
+        {
+            "file": "meta/bootTvTex.tga",
+            "hash": "64E1F5A9E7810E4906BC2E759B35D122B70A018B8327A5C1C7DD291B7939F6DF"
+        },
+        {
+            "file": "meta/iconTex.tga",
+            "hash": "79CD784934DF8D2BB6DB34BE067EF7192054837658614302455196A202805880"
+        },
+        {
+            "file": "meta/manual.bfma",
+            "hash": "8D905DF1CCA65123F7DD57E8D89A04E22848F756437758AF00F39C90AE080631"
+        },
+        {
+            "file": "meta/meta.xml",
+            "hash": "9467069F75E950F32CBD47E17C0C3ACC369F977F42E9FC5DD70285821838BA76"
+        }
+    ]
+}
