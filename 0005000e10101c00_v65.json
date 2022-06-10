@@ -1,0 +1,231 @@
+{
+    "title_id": "0005000e10101c00",
+    "region": 1,
+    "version": 65,
+    "files": [
+        {
+            "file": "code/app.xml",
+            "hash": "A5A8CB8005AB4AD9BAD027752F303045FDD495FE3039C6AC748F8401A6A159A0"
+        },
+        {
+            "file": "code/cos.xml",
+            "hash": "FB08629F63C22E7247459F2FA57AE6D2ADC358581A82A87A3F8CD762BFCEAD18"
+        },
+        {
+            "file": "code/preload.txt",
+            "hash": "12E82F7AB29939DB5D565BE7B7E1FA6EFC5AC0C770269DBEE81D2DD9D560D228"
+        },
+        {
+            "file": "code/red-pro2.rpx",
+            "hash": "1DD3C89E9B38174A795AE76522E2649DF651CC6CC7B51829B22B7044F8885658"
+        },
+        {
+            "file": "content/CAFE/message/project.msbp",
+            "hash": "AD1B136D9FEBBA8935C75F23F949F9AAC4F521593D82713B58EB7BF08D02B7AC"
+        },
+        {
+            "file": "content/Common/actor/KinopioAnm.szs",
+            "hash": "A8FA18566563D18047916AADC914724471045A330490D21CA0A5505C4944943F"
+        },
+        {
+            "file": "content/Common/actor/LuigiAnm.szs",
+            "hash": "235A30F493DCF960FB95262593BF4F73DFC6D201375563A4CCD56A1B071979F8"
+        },
+        {
+            "file": "content/Common/actor/R_block_luigi.szs",
+            "hash": "15E9E7F51C7EF423B7DD9593B8E3F35EC6DC4B52D97A577DA6C7CAEBA59F5A03"
+        },
+        {
+            "file": "content/Common/actor/R_blue_ring.szs",
+            "hash": "D53DCF0592472D1B6389C501B5DF93B2CF51D240740B8C40E7BE13FF707C74A4"
+        },
+        {
+            "file": "content/Common/actor/R_copyright.szs",
+            "hash": "1C8DAD24867DD40F35562710150FA2353F3D3465AF867C74CC16E680795D4A3E"
+        },
+        {
+            "file": "content/Common/actor/R_goal_set.szs",
+            "hash": "B620F5CBEE27691285563AD851A01A3BA1DF3120E1D48AF3E6BCEC461A2009C8"
+        },
+        {
+            "file": "content/Common/actor/R_goal_set_kaiga.szs",
+            "hash": "BAFE71D03D10FE39E550889C09A4D8538ED8C9D5816BA6A26BD1F606A2E39007"
+        },
+        {
+            "file": "content/Common/actor/R_kanban_1_1.szs",
+            "hash": "3C19D8708495D14C63778E0C2068569C99868BFAD68DBB8448165CA1F2ABABB1"
+        },
+        {
+            "file": "content/Common/actor/R_kanban_9_9.szs",
+            "hash": "F7FE6D01956B1F5F2350DA439F6CC0246B56E3ADDBE3CA95B5F3FD10F271B85A"
+        },
+        {
+            "file": "content/Common/actor/R_killer_mag_houdai.szs",
+            "hash": "2E0F42B33D17638773E244C050A44803A4ED8D041671C94FFA6AD0F34C166096"
+        },
+        {
+            "file": "content/Common/actor/R_lift_kinoko_shiso.szs",
+            "hash": "F3DD70CFF686E87491CADD63CE6FF1665C06EB65F118E8F0383615124273663A"
+        },
+        {
+            "file": "content/Common/actor/R_lift_number_ship_up.szs",
+            "hash": "374974FF8D763802B3CA378CD1DB57E3A4F2EA31E2AB9739C3CFCD74FABD321A"
+        },
+        {
+            "file": "content/Common/actor/R_miniGame_shuffle.szs",
+            "hash": "2004FE06B91148A7F342D9424A785651420EFDA3CA59D30F2B65118CF5B6279E"
+        },
+        {
+            "file": "content/Common/actor/R_obj_gear.szs",
+            "hash": "AAC3CA252706A7DED332658E6289AA8DA3AF9F02225FC4D4F2AE3D5DB0966B36"
+        },
+        {
+            "file": "content/Common/actor/R_yogan_jimen.szs",
+            "hash": "24606B2AB224AB0D7DD28030ECE3AAC6F7E1CDA1B8664C254F2AE5A83A1F2BE4"
+        },
+        {
+            "file": "content/Common/actor/R_yogan_jimen_line.szs",
+            "hash": "96A1F0B3967B934646AA5AE7F9E9C08FF8BE050E1C32CFB50585AF2CA7B9BAE5"
+        },
+        {
+            "file": "content/Common/actor/cobPack.szs",
+            "hash": "A3300374293D81D0EDED6152EE860AADC26951CA11F670432AF7C6B09AB053E2"
+        },
+        {
+            "file": "content/Common/actor/jyotyuActorPack.szs",
+            "hash": "423EC6376160CC0066B3FD5B9120D526FA425EF49438A0204E6988948B3CC154"
+        },
+        {
+            "file": "content/Common/actor/obj_baloon_Mii.szs",
+            "hash": "BBBAAD434D232C4D83DEF5C4CB50BBFED6004A6881951CC69E2AAF0BEB567CBA"
+        },
+        {
+            "file": "content/Common/actor/shadowkun_player.szs",
+            "hash": "F755CAFF5F59F1C0CA6FE55C4DDB750F016B61CD0EFA558D205F54CD47D974EB"
+        },
+        {
+            "file": "content/Common/distant_view/dv_R_Kumo_Luigi.envset",
+            "hash": "2A9093273C0DFEDF180CB0B8EAD01134B71881588A0DD56DB963207BE923E906"
+        },
+        {
+            "file": "content/Common/distant_view/dv_R_Kumo_Luigi.szs",
+            "hash": "CE1B89592E06FBE243B83170E2FA1B35ED126E15E5591F7A82AF4D3B3605BB41"
+        },
+        {
+            "file": "content/Common/distant_view/dv_R_Obake_hune.envset",
+            "hash": "F7DCB48999D654AC17C41DDEF5AC7B6D6B0BF3B67B5360784052A3586DF6AADA"
+        },
+        {
+            "file": "content/Common/distant_view/dv_R_Obake_hune.szs",
+            "hash": "7EE850ED7FC36B75C9E7E8DA986CEC05E729A7A11121CAA7533EFC0B80BDC53C"
+        },
+        {
+            "file": "content/Common/distant_view/dv_R_Picture_2.envset",
+            "hash": "AF70FAB3449362DBEF4D1983141013A1B7C4187A40A56624BEB8557B5105E01A"
+        },
+        {
+            "file": "content/Common/distant_view/dv_R_Picture_2.szs",
+            "hash": "7620244365B1C232026140CE811F9BA29B67FAAFEE0A7D9B9F4B2003817E4D75"
+        },
+        {
+            "file": "content/Common/distant_view/dv_R_Setugen.envset",
+            "hash": "0D68EC4C2F91761BA7713E33BB148F12FF5AE85040373DEE009A2FB065E43C51"
+        },
+        {
+            "file": "content/Common/distant_view/dv_R_Setugen.szs",
+            "hash": "BE7DFCE7A593A04F079A7408A9B39E23E776A3ECB0261BA0FAE3C2CED7FF6339"
+        },
+        {
+            "file": "content/Common/distant_view/dv_R_Siro_Yoko.envset",
+            "hash": "3A47FE5E66FC12A577196D92D781760F6C2F627FB6340A252E7A61E270D98CDF"
+        },
+        {
+            "file": "content/Common/distant_view/dv_R_Siro_Yoko.szs",
+            "hash": "B8D79D772C527D33E8F3BA9290E9F70DE5C7F86AC784250180809B5704878EC4"
+        },
+        {
+            "file": "content/Common/distant_view/dv_R_Suityu.envset",
+            "hash": "62DD8BB50E288853547C0C78F7041FE27C97E626FFF8CD57E4712C8C0CC6B391"
+        },
+        {
+            "file": "content/Common/distant_view/dv_R_Suityu.szs",
+            "hash": "B7384915E2B1B862569E6E63C24F13D99169439A4C79A07868558CEBBD25B89A"
+        },
+        {
+            "file": "content/Common/env/env_pack.szs",
+            "hash": "1CB8295E7E0C180C6BEEAAD76AA3258104141CB9F4E97A87A2FBDF1F4188A7DF"
+        },
+        {
+            "file": "content/Common/layout/Common.szs",
+            "hash": "96E9937F44B0406A298FF198C6BE35E32E511E9BCD8A1965863D8BCE2C3743FE"
+        },
+        {
+            "file": "content/Common/layout/CourseSelect.szs",
+            "hash": "FD520F60D85223188EF89DF1C0CD0F641DFB26F966DF84CF13E05BD745672651"
+        },
+        {
+            "file": "content/Common/layout/Game.szs",
+            "hash": "5F85AD1B50E66A6D38718D86CE08E59DD7AAB4F0CDF4EE9FDE6085035F50E5B8"
+        },
+        {
+            "file": "content/Common/layout/Title.szs",
+            "hash": "56517D77232252AC259E15E2BC2B25C8F2779380ACD44A16852389A0A89AB031"
+        },
+        {
+            "file": "content/Common/layout/VSMenu.szs",
+            "hash": "B765C2B52F64A6F54B4B29FAA65AA03B92A158CC0F04A19ECE1B7CDF9D094FDD"
+        },
+        {
+            "file": "content/JP/Japanese/message.msbt",
+            "hash": "509B8190B2B315560EECC388422C5B94CE4449909BE8DC9FB5551EED758BAF32"
+        },
+        {
+            "file": "content/JP/Japanese/staff_credit.msbt",
+            "hash": "D514C994D5977F2433FB0830424A1830960AAADB0383552A7580CBF8759F354F"
+        },
+        {
+            "file": "content/JP/font/redpro_MarioFontOutline_86.szs",
+            "hash": "7AED994E8084D192E76DB650FDFDDD58D66C0BC7CD898BA4BF6A933262EA3299"
+        },
+        {
+            "file": "content/JP/font/redpro_MessageFontOutline_42.szs",
+            "hash": "DE07BDD99E68D56CC00E3380992E0EA28E14D5DC635B6BE5F7EE999E8369E456"
+        },
+        {
+            "file": "content/JP/font/redpro_PictureFontOutline_42_RGBA8.szs",
+            "hash": "52729AEF70B34693B475B7CD1E38EC8E9A0ABD034F044B73A11E4479CBF678A3"
+        },
+        {
+            "file": "meta/Manual.bfma",
+            "hash": "521C1E0A17D2C2CBEC86CBFBBA97C266D83BD19EADB7CBAC02BCCE1983A2D291"
+        },
+        {
+            "file": "meta/bootDrcTex.tga",
+            "hash": "F2DA4F27965BD3AF4A709F1936BB9184586C063BCCD9F4D3C79C4DB4D7AA5BAE"
+        },
+        {
+            "file": "meta/bootLogoTex.tga",
+            "hash": "91B63D9C03F7F9153C8B9FC8179E1CCCB6F4AFC60204B988D91D1B5EFCEE4AA8"
+        },
+        {
+            "file": "meta/bootMovie.h264",
+            "hash": "069FD8C5713F4B23EA1098D2674BCC839E610BA844683BF532E1E6CB10642621"
+        },
+        {
+            "file": "meta/bootSound.btsnd",
+            "hash": "8DF3F832443D3A154D7D974DFE9151DAFF303F52EB7021956B0390ED2FA42EC3"
+        },
+        {
+            "file": "meta/bootTvTex.tga",
+            "hash": "64A789F9100201D75FF33D30D9C768C563DFD29997D372CE27E65F149E68B94C"
+        },
+        {
+            "file": "meta/iconTex.tga",
+            "hash": "F19BD66E52FBDF4F7688D8D2D74AE1EC98CBC6740BF27CCD577D9AC37C66F9D5"
+        },
+        {
+            "file": "meta/meta.xml",
+            "hash": "B34218A15D51041374B4E0CAFA91D8AA7B1F2A8D9ABD3A3901912AF2B266624A"
+        }
+    ]
+}

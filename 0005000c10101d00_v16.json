@@ -1,0 +1,631 @@
+{
+    "title_id": "0005000c10101d00",
+    "region": 2,
+    "version": 16,
+    "files": [
+        {
+            "file": "code/app.xml",
+            "hash": "D7B3DA4B27DF62B1010462D9B9A3E2E28BC21FB7ED6C979817DA094E3FD53D2F"
+        },
+        {
+            "file": "code/cos.xml",
+            "hash": "E48E850C6A975A49B44B863AFEBBE040BDDAF7C615DE617857E53B70E6A1717A"
+        },
+        {
+            "file": "content/0010/US/English/course_name_R-Dash.msbt",
+            "hash": "460614ED062C895DCEBC896439C136388BB6AE39938F4F851A571BBA77D2E7C8"
+        },
+        {
+            "file": "content/0010/US/English/staff_credit_R-Dash.msbt",
+            "hash": "C969F6449510B4FFBA27C091E852A18A9C0CEE41F2B60780AFB4F08E977DAC4F"
+        },
+        {
+            "file": "content/0010/US/French/course_name_R-Dash.msbt",
+            "hash": "B1184806517DB702E1B9F83CDE1072CF9236021F7E886AA598729B40D1DCDDD0"
+        },
+        {
+            "file": "content/0010/US/French/staff_credit_R-Dash.msbt",
+            "hash": "C969F6449510B4FFBA27C091E852A18A9C0CEE41F2B60780AFB4F08E977DAC4F"
+        },
+        {
+            "file": "content/0010/US/Spanish/course_name_R-Dash.msbt",
+            "hash": "CD97849429AA6BB547831517BCEB702AE97C1A3CDDAA08DA2826C644520416FA"
+        },
+        {
+            "file": "content/0010/US/Spanish/staff_credit_R-Dash.msbt",
+            "hash": "C969F6449510B4FFBA27C091E852A18A9C0CEE41F2B60780AFB4F08E977DAC4F"
+        },
+        {
+            "file": "content/0010/course_res_pack/1-1.szs",
+            "hash": "0544CAFD7FB257298D65463E176697E6AC7C549E3AAF0381B65FC36667D8126D"
+        },
+        {
+            "file": "content/0010/course_res_pack/1-13.szs",
+            "hash": "01859CEA692C7E30723172EDA4C436B28C200F1FEDB41E365DD28295F8CECAF8"
+        },
+        {
+            "file": "content/0010/course_res_pack/1-2.szs",
+            "hash": "B61AF8009A3D150EED40B27AFA82AEA7B67F47C45CB06AD666D6575C0E0A8015"
+        },
+        {
+            "file": "content/0010/course_res_pack/1-21.szs",
+            "hash": "B1F1E89351B8A7B917898560D0287A749569176CAFEB4EC12A69B1976A866F0F"
+        },
+        {
+            "file": "content/0010/course_res_pack/1-23.szs",
+            "hash": "5FC4A87A293AA4289B1210BEEF6468A0DE66E4A15C9FF4D0B0482439D17639F9"
+        },
+        {
+            "file": "content/0010/course_res_pack/1-25.szs",
+            "hash": "241989747CD8353279E3543947C345EE5CFE1439E9FB2AD0FFBEA7A9C13ABE4C"
+        },
+        {
+            "file": "content/0010/course_res_pack/1-26.szs",
+            "hash": "74D8959752D2EF59EAD77F13DA707964D8E8DDC209BA0A54EF089388F4EFD919"
+        },
+        {
+            "file": "content/0010/course_res_pack/1-27.szs",
+            "hash": "369CD77739FBB2139BE3D0028D11D22E6C5C61D871434203587B3F7BD7162524"
+        },
+        {
+            "file": "content/0010/course_res_pack/1-28.szs",
+            "hash": "09D4F35E23E251B95FC55D9313A68B6A975D7E541C8493774B1B4BFFEBE1D121"
+        },
+        {
+            "file": "content/0010/course_res_pack/1-29.szs",
+            "hash": "73E5218A602A3C297BCD4AB3B31333F442D76881C256B22B1D74B50016CBC12D"
+        },
+        {
+            "file": "content/0010/course_res_pack/1-3.szs",
+            "hash": "EAF027098424205646A8179E1839C7C57805C3778BB5268F3175BD17B429EF9D"
+        },
+        {
+            "file": "content/0010/course_res_pack/1-30.szs",
+            "hash": "AB4116DE08500063EEF2E9A35D835399FA5C7479FCA6939C0020C432C4573E3B"
+        },
+        {
+            "file": "content/0010/course_res_pack/1-31.szs",
+            "hash": "E2E15DC731F6744A15D1DAD8C8FEC424B067BACC19D24A8B86FB068CAD3633BC"
+        },
+        {
+            "file": "content/0010/course_res_pack/1-32.szs",
+            "hash": "C933F528FFDCB7E732DC43140E0E74E66BBFC61BD944C4210D7EC4BF0D2C87FF"
+        },
+        {
+            "file": "content/0010/course_res_pack/1-33.szs",
+            "hash": "C1F93AE3D5474C8E9010BBFA9FB4AA8999C71EF8E9353456E1F317CA7414A780"
+        },
+        {
+            "file": "content/0010/course_res_pack/1-34.szs",
+            "hash": "6E75C8ED8B8784F8BE46076645D07B47C59F62C098E07ADFC2E36263965DFAEF"
+        },
+        {
+            "file": "content/0010/course_res_pack/1-39.szs",
+            "hash": "A4C1E7C23CB67439AC548B24B49798583C5B53906FC138C9F6AA0889C032A5CB"
+        },
+        {
+            "file": "content/0010/course_res_pack/1-4.szs",
+            "hash": "E455A627170A04CF015207B3239328CDFE3D029A0AB345897E7D1E524AECE6D7"
+        },
+        {
+            "file": "content/0010/course_res_pack/1-41.szs",
+            "hash": "20B13C5C2FB6C0B99031122325820D38C9205C222F5EB6A7E285C5156ABF10B8"
+        },
+        {
+            "file": "content/0010/course_res_pack/1-46.szs",
+            "hash": "324EFEB493B92403EB865E2E79EF5D3C5F8D8923AB6B6CE35E5DF125DE52FE32"
+        },
+        {
+            "file": "content/0010/course_res_pack/1-47.szs",
+            "hash": "AF7376BB0DE94FD9909849AB1FA76A01E12619BF22C92475CFF1C0E5E87A7D36"
+        },
+        {
+            "file": "content/0010/course_res_pack/1-48.szs",
+            "hash": "8257265BDC39EF87E2B18651C87E09377DC175C2708DBC2B7AAAE80A96D8D3F0"
+        },
+        {
+            "file": "content/0010/course_res_pack/1-49.szs",
+            "hash": "193FA599DF3100B77540581BC5B2479A898F7DA7155A55C5A49B9E86DDAE3CD2"
+        },
+        {
+            "file": "content/0010/course_res_pack/1-5.szs",
+            "hash": "B4505BFD1A92A936F42CBCCB0A02878EBADF1AF66D6B58774A5F07784C20989E"
+        },
+        {
+            "file": "content/0010/course_res_pack/1-55.szs",
+            "hash": "0C29E0F82A7D420164627C30E0FA33C6B52C5866F03ABFD8381CAC8EC9644C83"
+        },
+        {
+            "file": "content/0010/course_res_pack/1-58.szs",
+            "hash": "7DEBED4D725561EEC0BE1D4B41B8C7AF2FDEFC64A416CA165B4FA2690E5FB3DA"
+        },
+        {
+            "file": "content/0010/course_res_pack/2-1.szs",
+            "hash": "408C02B24565B80A65F9158E7A7749A6515DD04994553A89ED08D73052B0E660"
+        },
+        {
+            "file": "content/0010/course_res_pack/2-13.szs",
+            "hash": "CF6E36F7D2333BB5CDB15D6783A2D83C4000EF4676F40A0FC50DB1FB2B616252"
+        },
+        {
+            "file": "content/0010/course_res_pack/2-14.szs",
+            "hash": "DA19B22725D03271A9D88C242EFA3A47C6913FCD6E7B34255895DC7ED676B333"
+        },
+        {
+            "file": "content/0010/course_res_pack/2-2.szs",
+            "hash": "CA29D078C47DBC5C192224D7D1C546A386FFC2A050E88CAE5661F28C398440DD"
+        },
+        {
+            "file": "content/0010/course_res_pack/2-21.szs",
+            "hash": "B70779AF948CA3FF98C90D528B96883C1A6BF3AA77D53AD2DC596E091634537A"
+        },
+        {
+            "file": "content/0010/course_res_pack/2-23.szs",
+            "hash": "0B4D35BB3170BE0B6021589D1270470427148A1C517B0BC1F9DF1164D831D516"
+        },
+        {
+            "file": "content/0010/course_res_pack/2-25.szs",
+            "hash": "DF638FEE8453B19A984A68A516D13D20E1EC31B4F67371FD972FE2912AAC65D1"
+        },
+        {
+            "file": "content/0010/course_res_pack/2-26.szs",
+            "hash": "1AAE7BE77557FF062E6DE2935E39ADACBC2A3BE439B22C4A27C19EFF3FC6C6F8"
+        },
+        {
+            "file": "content/0010/course_res_pack/2-27.szs",
+            "hash": "CB4A57D8AE0BA75EEB19563060880D052DDD98613A95E8FAC41DD81421B6C43E"
+        },
+        {
+            "file": "content/0010/course_res_pack/2-28.szs",
+            "hash": "53E758F4FD22660BF98DA6380E0CF07D2B43834263101D3A0C39A97727499BED"
+        },
+        {
+            "file": "content/0010/course_res_pack/2-29.szs",
+            "hash": "AC6263606105EAFF6C856C2058454F19E410E21F7919424E05FF06B2679A44B2"
+        },
+        {
+            "file": "content/0010/course_res_pack/2-3.szs",
+            "hash": "76B4F12F70B5F6FC80C701DD60F29E63823623AF99CF7114B7089E9E4A20BD7E"
+        },
+        {
+            "file": "content/0010/course_res_pack/2-32.szs",
+            "hash": "E51259668B95F5455688EB06E73F388784BB52FBEF20AC2E53A9CC917689E439"
+        },
+        {
+            "file": "content/0010/course_res_pack/2-33.szs",
+            "hash": "3F9AA40AFCBCA64B2265BCAEBCA232B207C1DE91815D24FA33DC8E1CAEAD75B8"
+        },
+        {
+            "file": "content/0010/course_res_pack/2-34.szs",
+            "hash": "406E46C4EAF77D5C1BA9733528909E49398223A302ADC7019E6FA633EFD56392"
+        },
+        {
+            "file": "content/0010/course_res_pack/2-4.szs",
+            "hash": "3CC12EBBFA2753650CA7742CDA7ABB1742975B14F3091A3C06ABF2ECBF2FA078"
+        },
+        {
+            "file": "content/0010/course_res_pack/2-5.szs",
+            "hash": "8E3628CBF3B598DA86C1BC592440DD979B345D97DC30B019522CB5ADA3E1A681"
+        },
+        {
+            "file": "content/0010/course_res_pack/2-55.szs",
+            "hash": "5FAF2B3FD8036E42D454EE45A3510584D7285D8AF06C2E0E9A109CEBA933F912"
+        },
+        {
+            "file": "content/0010/course_res_pack/2-56.szs",
+            "hash": "6026B1919FBEF2790B6540642973939C0132392D5E044CFC12699633EA45DBDB"
+        },
+        {
+            "file": "content/0010/course_res_pack/2-57.szs",
+            "hash": "C452CBEDBC1522E95FD0D76A6E9F475880B0B479B1D7C378A428EF4114543FA7"
+        },
+        {
+            "file": "content/0010/course_res_pack/2-6.szs",
+            "hash": "CF5637A0D0649CBF3450281A39016EA7783D4B621CEA169BFE1A80D57AF19994"
+        },
+        {
+            "file": "content/0010/course_res_pack/3-1.szs",
+            "hash": "88F7DB09EDC01833202BED576CC97EA44D499DD7BCC334B2197D10D94BFAB9D3"
+        },
+        {
+            "file": "content/0010/course_res_pack/3-13.szs",
+            "hash": "1160F9DEE377A95EC969BBAEAE9455E924530DE42D1FCBCD6438F3F8D9A05128"
+        },
+        {
+            "file": "content/0010/course_res_pack/3-15.szs",
+            "hash": "C8F29B8E9D93F3B0BC0C9EDD478AFAB477D5112C3ADC8FD0E784678C76F0894A"
+        },
+        {
+            "file": "content/0010/course_res_pack/3-2.szs",
+            "hash": "890F0AC8E0C8A7FF2508AD12637FBCCE9C306B6CEFAFB89FC16D7ACF2AA6BEB0"
+        },
+        {
+            "file": "content/0010/course_res_pack/3-20.szs",
+            "hash": "1B95A23EB964D4550178FC95D4290F0C4BBCA3A03E18E576B5F63F7F22FEE1DC"
+        },
+        {
+            "file": "content/0010/course_res_pack/3-21.szs",
+            "hash": "1A0927CAD6EF7ABBBEC0BD5EAF75116E18263B4054E1E5B100A610C0110A5E5A"
+        },
+        {
+            "file": "content/0010/course_res_pack/3-23.szs",
+            "hash": "2E22E4645F428265E4E34B158416F0BF9AE64E09E3ACAAFF30E8C408BEEE2D56"
+        },
+        {
+            "file": "content/0010/course_res_pack/3-25.szs",
+            "hash": "52352A3BB70B9EC70696C3475E7AF30C7674762181BD91DEEAA98DA05940A1D7"
+        },
+        {
+            "file": "content/0010/course_res_pack/3-3.szs",
+            "hash": "E40B09D788240EE781A697BBA295E29F5DD86AE1E57930606D512FF0B16A5D6C"
+        },
+        {
+            "file": "content/0010/course_res_pack/3-32.szs",
+            "hash": "7586E4DF346FAD81D025DE878847EB1740DA2D5FD7E278943197AC6C17CB27EC"
+        },
+        {
+            "file": "content/0010/course_res_pack/3-33.szs",
+            "hash": "F09EB2521E96843DC5ED2DB66BF88BBB743AE5EAD9C4641EB5DEC96BE3138076"
+        },
+        {
+            "file": "content/0010/course_res_pack/3-34.szs",
+            "hash": "269DD63ADB3C818A31802B63DA8E41EAD5C8F28A34C8161E1A40E120BE2A9663"
+        },
+        {
+            "file": "content/0010/course_res_pack/3-4.szs",
+            "hash": "7565D3271A3C6A1FCA1811C17F61EDFF460FA7542E9727B247D97A45E04B8FD8"
+        },
+        {
+            "file": "content/0010/course_res_pack/3-5.szs",
+            "hash": "C5914429ED4D74338CC9947231B66052F5EACA8335EFF1C5D4C59799EF49D8E9"
+        },
+        {
+            "file": "content/0010/course_res_pack/3-55.szs",
+            "hash": "587636F742165896C2E70BF3B11505D78B8C15D27AAC6C037339184C44A92D32"
+        },
+        {
+            "file": "content/0010/course_res_pack/4-1.szs",
+            "hash": "BB8B5226AF3F5A5002503D952D7CEB0BFECE801F4DA7AF5E77B17EA11DE60BCD"
+        },
+        {
+            "file": "content/0010/course_res_pack/4-13.szs",
+            "hash": "1CD072C3164B3FFA63A0F05D1D156EF802A7E76CD3519D2A2D91D5B6549DD988"
+        },
+        {
+            "file": "content/0010/course_res_pack/4-16.szs",
+            "hash": "9870995BC9F6E1AF013F1EC1A5EBC7193058080441E3FFC0539BA41FA0D53328"
+        },
+        {
+            "file": "content/0010/course_res_pack/4-2.szs",
+            "hash": "7C5DCEF75AA15EFCA90263766645BB56607CC0438C40ABBC394C1DB1E4DB6C8B"
+        },
+        {
+            "file": "content/0010/course_res_pack/4-20.szs",
+            "hash": "46F815829EFF1DDC5F6EF6D1BEE05E31F3DC53F253CCC55DC4E9E5E8D2DBBFC9"
+        },
+        {
+            "file": "content/0010/course_res_pack/4-21.szs",
+            "hash": "82615DF2DFA03500B18FBE4C0BDC90BE6C49AE9910DADC9F162195A14F5FA37D"
+        },
+        {
+            "file": "content/0010/course_res_pack/4-23.szs",
+            "hash": "00928F0017FBE5469B05B7F3783B2867B5A6AAC7CD48ECD653C4D273E88E7127"
+        },
+        {
+            "file": "content/0010/course_res_pack/4-3.szs",
+            "hash": "CABCEDCCBF0B2ADD33C7D163065E7446019BF672AC1754DE1B4946DBEC92B6B9"
+        },
+        {
+            "file": "content/0010/course_res_pack/4-32.szs",
+            "hash": "E46CC92F613C725FFA20037B9281A83465725B9CD3AAFD57BA2BACE65AA260E9"
+        },
+        {
+            "file": "content/0010/course_res_pack/4-33.szs",
+            "hash": "E310C2465D4E0F96BA3E040C97D0566C175D068D65B41165C3A71D9A92586E86"
+        },
+        {
+            "file": "content/0010/course_res_pack/4-34.szs",
+            "hash": "310D192F6521F759670B321479A615F7BAFC6857581C371C1AA5A5D81D2C950E"
+        },
+        {
+            "file": "content/0010/course_res_pack/4-4.szs",
+            "hash": "391E3DB5466F93817BAAABDB5C0A58D79622AB27B0C7B91B52419DD245D325AF"
+        },
+        {
+            "file": "content/0010/course_res_pack/4-5.szs",
+            "hash": "4A7B4EDB7067FDDDB5131477EF8D514EC48C467840166D043D38BB44D184AD27"
+        },
+        {
+            "file": "content/0010/course_res_pack/4-55.szs",
+            "hash": "D743BEDA583B3B429110FA7843CCC04C80CA68A55464A1C41E4088CD1C17E135"
+        },
+        {
+            "file": "content/0010/course_res_pack/4-56.szs",
+            "hash": "950B43034D7BA2E072A1F22909462152CB8D4AF8AE387CB62A0F98ADBB0620BB"
+        },
+        {
+            "file": "content/0010/course_res_pack/4-57.szs",
+            "hash": "FB18817BFE74ED3CBCCB45BDD66AE33A1C99239C902DBC4F88E90247EC20946A"
+        },
+        {
+            "file": "content/0010/course_res_pack/5-1.szs",
+            "hash": "D27828D169C70AD526F3B8002395A495065C98DDAA6203EA321077EB1E772842"
+        },
+        {
+            "file": "content/0010/course_res_pack/5-13.szs",
+            "hash": "270A19B8264BEA4B30DF04DC1D465B1FEBD95D7484394FA4F7BE0307C76892C9"
+        },
+        {
+            "file": "content/0010/course_res_pack/5-17.szs",
+            "hash": "EF392CBBB5DD9867F3923F9E63C9DD48814405201F1CF54676F1F9AB8968C1F0"
+        },
+        {
+            "file": "content/0010/course_res_pack/5-2.szs",
+            "hash": "E53FA1CBBAF15AC127B256CA3ECB20AAE34B1285BF9ADAB1C1A6A8379E0085AD"
+        },
+        {
+            "file": "content/0010/course_res_pack/5-20.szs",
+            "hash": "A56FC45289AB23CA46984B6FC7242D1C0B616C74BEF7AEB168D90BCDBE8FBA0F"
+        },
+        {
+            "file": "content/0010/course_res_pack/5-21.szs",
+            "hash": "86556101AC037E173BD9CD892C90EF826528AA9470A7FCC9FD6C0D849A005DC9"
+        },
+        {
+            "file": "content/0010/course_res_pack/5-23.szs",
+            "hash": "36E7C8D49C18E52CE3755DF5B24AAAD23C5EE5A6D0123A442DFB889075D3597B"
+        },
+        {
+            "file": "content/0010/course_res_pack/5-3.szs",
+            "hash": "D7D1C7B6BD837113E6A878BC13553A45470F4B291D5A85096FC47F723ED22031"
+        },
+        {
+            "file": "content/0010/course_res_pack/5-32.szs",
+            "hash": "F6F2838FA4FD8345C80B3E1EC99478E191AA90A89011ED4A57ACDB3342A07C82"
+        },
+        {
+            "file": "content/0010/course_res_pack/5-33.szs",
+            "hash": "2C8F8363CD368E3DC66786E3F7E21F5C4FBC933121C2433222662E1BC0CD44C4"
+        },
+        {
+            "file": "content/0010/course_res_pack/5-34.szs",
+            "hash": "11F78ED7C996E3BC70991F53505C4FFA0C3010D45B8E852AD13D9F9FD17F57C5"
+        },
+        {
+            "file": "content/0010/course_res_pack/5-37.szs",
+            "hash": "4044D04478E47F4420835B9534D0CDE6C3751BDA535348DD5518322BBAF3C94C"
+        },
+        {
+            "file": "content/0010/course_res_pack/5-4.szs",
+            "hash": "4D670D1A72494DA7EABB1759F20D77728C70AF6094BEDFC3986848DEBE38CAA2"
+        },
+        {
+            "file": "content/0010/course_res_pack/5-5.szs",
+            "hash": "8D0CC4736BBAA537554A45562DF731DAB956A4C1D445ED1C9330F51C94570532"
+        },
+        {
+            "file": "content/0010/course_res_pack/5-55.szs",
+            "hash": "AAF0B0FE74AE2E0205A5353B469A27D5E81868D3BBDADFFFEB5B220168F18C91"
+        },
+        {
+            "file": "content/0010/course_res_pack/5-56.szs",
+            "hash": "87C23292AC37FAE274EA497B58EEC64EE1A05343C56A4106B49BCA4385639965"
+        },
+        {
+            "file": "content/0010/course_res_pack/5-6.szs",
+            "hash": "E3D92DCF0A3D2E73C406A19971C990BA23D209B4A09A0A4855B769D93B1A9EEE"
+        },
+        {
+            "file": "content/0010/course_res_pack/5-7.szs",
+            "hash": "2ADB3654BD31F654C425B35C9066C2E86F9C124F699C894D4BB11DCEFD16CB83"
+        },
+        {
+            "file": "content/0010/course_res_pack/6-1.szs",
+            "hash": "96A78663E37020D4B92D01A1721157A45B75D80359C42748E7084AE6958C9896"
+        },
+        {
+            "file": "content/0010/course_res_pack/6-2.szs",
+            "hash": "0252A02B3FB8AA7C4B906C465BED1F450DDC16B88D6106DCEC5D9E7F886D9790"
+        },
+        {
+            "file": "content/0010/course_res_pack/6-21.szs",
+            "hash": "AFDAD15572A40785B24279DB85EF8E222F00D2C94216469E2765C6962D303FE5"
+        },
+        {
+            "file": "content/0010/course_res_pack/6-22.szs",
+            "hash": "DB044E4EFDB8955FF403E704DDA4E1AD7B3A5A8C1DC77CE4B79BB520FC563255"
+        },
+        {
+            "file": "content/0010/course_res_pack/6-23.szs",
+            "hash": "ABA47C8B07D845B2ED3D481307907380B7F13FCCF80F4C9ED34C2A0BAE3E3DD2"
+        },
+        {
+            "file": "content/0010/course_res_pack/6-3.szs",
+            "hash": "C0D2963E4FAA0C8D2A7E9794524C3ED98C6097F874B10A8B07E7FED445225F7F"
+        },
+        {
+            "file": "content/0010/course_res_pack/6-4.szs",
+            "hash": "5B327D2907F594902A1FEE0297A3B363BD2B6684C0612364857CE8F0837F8FA8"
+        },
+        {
+            "file": "content/0010/course_res_pack/6-5.szs",
+            "hash": "EDBED5D18F81761B8D8340358D93E85778F8A956D40714EA51D8F8724974E8E9"
+        },
+        {
+            "file": "content/0010/course_res_pack/6-6.szs",
+            "hash": "7C0A45442A9A12099CDDCDCC92CE1F3278C6DAB27A7EDB06B15959BC6E8F625A"
+        },
+        {
+            "file": "content/0010/course_res_pack/6-7.szs",
+            "hash": "869B0960BF85BD44CB9BA5654B849B913F05A97C8FB4994355D55862CBD7C932"
+        },
+        {
+            "file": "content/0010/course_res_pack/7-1.szs",
+            "hash": "77375E9FC57D95AD68CB877AD60F7CE689D1CF7A92781E9A1D0E8E1C2CE77742"
+        },
+        {
+            "file": "content/0010/course_res_pack/7-2.szs",
+            "hash": "975FA7255D29D35EB6EB7F0D10A0939CECD42A80E0D86EDEC58230D067F7E3BA"
+        },
+        {
+            "file": "content/0010/course_res_pack/7-20.szs",
+            "hash": "313F40088446A89804573CA38721466D0F1A8CFE2BCDCF63132C71CA9A487A03"
+        },
+        {
+            "file": "content/0010/course_res_pack/7-21.szs",
+            "hash": "43B58EEB2013285F0B8B29CE0350436719A56127F9CC823757CA14D1845EBA4C"
+        },
+        {
+            "file": "content/0010/course_res_pack/7-23.szs",
+            "hash": "F589C81072D2DBA8DB8F21E0FAC052395C9F75FEEF19A436513918B18033C0C9"
+        },
+        {
+            "file": "content/0010/course_res_pack/7-3.szs",
+            "hash": "915AE050E47AD0DF71B023B6C62A438766AE66669E821F6B3914DFCB2B1BAF0E"
+        },
+        {
+            "file": "content/0010/course_res_pack/7-32.szs",
+            "hash": "F481FCA3A188A757DB1BFD847B6DA2F1A80BD693185D3E66DC42604A615E03A3"
+        },
+        {
+            "file": "content/0010/course_res_pack/7-33.szs",
+            "hash": "C8471D220228DEBCC7E5632C0E2F6D1D606159FC1B8A72266D0600EC6F8B3D9A"
+        },
+        {
+            "file": "content/0010/course_res_pack/7-34.szs",
+            "hash": "20136F051419CB9D8783CF902C14DBAB6B139EE8E8A73001D1066A8C06F66C52"
+        },
+        {
+            "file": "content/0010/course_res_pack/7-37.szs",
+            "hash": "70433177E75DCDA809DFFD99AD82EEFEEBAD89230030A41601C47E4649A86A2E"
+        },
+        {
+            "file": "content/0010/course_res_pack/7-4.szs",
+            "hash": "7826EFBE7963EB5079F04F2153B1610F9514D4AD6FB4B5786A4EE35B2226961B"
+        },
+        {
+            "file": "content/0010/course_res_pack/7-5.szs",
+            "hash": "60856CD63414CB82E7EF04215A07688F0F1DAD868C9B2931CF7A7C04F6A0619E"
+        },
+        {
+            "file": "content/0010/course_res_pack/7-55.szs",
+            "hash": "4EB66C08B139AD134C5E1ADC2C97D20D25BDE68604D8B297B073DC638CA20F3F"
+        },
+        {
+            "file": "content/0010/course_res_pack/7-6.szs",
+            "hash": "77B209D55D377BC4857B913B744344BFB8253EA4DE36AC36C3A1B4D0CDB111FD"
+        },
+        {
+            "file": "content/0010/course_res_pack/8-1.szs",
+            "hash": "57276DB604392C334DB093174C7E8DBFD8AE249F2227537AD53816FC27424533"
+        },
+        {
+            "file": "content/0010/course_res_pack/8-2.szs",
+            "hash": "95E00DD2FB6BFA8FC93373180CCD43B9AB2BB5167C5520B6AAD2B8335FE70761"
+        },
+        {
+            "file": "content/0010/course_res_pack/8-23.szs",
+            "hash": "9CCCB26DC9A06B143A70D4B3256F90F942F40F351273AA2DFA86374028BAEED4"
+        },
+        {
+            "file": "content/0010/course_res_pack/8-3.szs",
+            "hash": "803AAE6808C83675448B1B674BD794B0A889FF00A65C60DA86993C05FC780A9A"
+        },
+        {
+            "file": "content/0010/course_res_pack/8-4.szs",
+            "hash": "EE89DB1C70DF109D6D752632667EC087556725758D58FACDE6492687A7116062"
+        },
+        {
+            "file": "content/0010/course_res_pack/8-42.szs",
+            "hash": "53BE80DD42CEEC193A747B2144B0F1117FF35E0C9D425F352EE4D03FC6AAE386"
+        },
+        {
+            "file": "content/0010/course_res_pack/8-43.szs",
+            "hash": "C5E295E4652FEA3E705E1F03BE2C62E1EF46B3C4E645C974C0AF84723AAFDF01"
+        },
+        {
+            "file": "content/0010/course_res_pack/9-1.szs",
+            "hash": "FD3BA071277C2BD3AFF11161B0D3CCC91807BED9A7C17861D2B38181880E2658"
+        },
+        {
+            "file": "content/0010/course_res_pack/9-2.szs",
+            "hash": "3F47C242D38F787D8A4C5D9597D1FFFA89FF11E8577E7B7B50D20A5A1D73C270"
+        },
+        {
+            "file": "content/0010/course_res_pack/9-3.szs",
+            "hash": "04B60837401E10127DE927700A29959F1A634549A7FF118F4FAE9DFF9C42F3FA"
+        },
+        {
+            "file": "content/0010/course_res_pack/9-4.szs",
+            "hash": "AE56755B4CE09D1A49E1B192AF4D4BEBBE808D4A2A3A0708870634A26ED28969"
+        },
+        {
+            "file": "content/0010/course_res_pack/9-5.szs",
+            "hash": "D7BC5962F33DB5F8CB29889C20CE7B9B494A75BA25478E7708012A08A75923BB"
+        },
+        {
+            "file": "content/0010/course_res_pack/9-6.szs",
+            "hash": "89A356A2658C8EDF39EF629C57F259F3C7742915561083B8E7BD39B9120F6660"
+        },
+        {
+            "file": "content/0010/course_res_pack/9-7.szs",
+            "hash": "61741C92043C7B650ECFC9FA20E7711BBFF0C7568B8847A99E0DCD4F9A16E6D1"
+        },
+        {
+            "file": "content/0010/course_res_pack/9-8.szs",
+            "hash": "BD26573522B19584CCA1A4C23B83D771C0CF9C4C5A14C078E013C3507472B2FC"
+        },
+        {
+            "file": "content/0010/course_res_pack/9-9.szs",
+            "hash": "60FAB3D5ECFBDD670F75A6AB334645A6E69F366CEF68B0FD28C7EC87CD1AFE0A"
+        },
+        {
+            "file": "content/0010/replay/title/title000.dat",
+            "hash": "C375FEE7686A7ACD8E93B0DB9D1654009E499B264D98EE355680C6B570EAAB9F"
+        },
+        {
+            "file": "content/0010/replay/title/title001.dat",
+            "hash": "DCBF0D3CB3DB70D7F29C17DABBA601D18989D3E5181C191A9FB34E3636E2155D"
+        },
+        {
+            "file": "content/0010/replay/title/title002.dat",
+            "hash": "92C89BBDDA274DBF9249DCBF4E8D8B84341247212BE98AAF2735733680DEC2F2"
+        },
+        {
+            "file": "content/0010/replay/title/title003.dat",
+            "hash": "6CAADC88EBB112D85E5B86E6E8A190F4C2CA49BD326AB0DC2BECBF843DC0CFF1"
+        },
+        {
+            "file": "content/0010/replay/title/title004.dat",
+            "hash": "E6D33379FC9786FCE689D79007D5B1141907603B11B5D0AD55505A02CB7B1C62"
+        },
+        {
+            "file": "content/0010/replay/title/title005.dat",
+            "hash": "787EFEA2F49D5A201EE6BBBB845DF7CCCA14734635B25CF42A61BE589963BD76"
+        },
+        {
+            "file": "content/0010/replay/title/title006.dat",
+            "hash": "9DC843C18BF526872665EA2D58F0CDF1557BACE8E3F4E71E8C72F3892B1F6135"
+        },
+        {
+            "file": "content/0010/replay/title/title007.dat",
+            "hash": "4E7F350F64FBC46FB118D45AF863072316C5F52A3D7D93F4F7499CB9CCB972B8"
+        },
+        {
+            "file": "content/0010/replay/title/title008.dat",
+            "hash": "C586B8669748AF6B2F0D30912C44224373ADCE44512DA3589F6E275189460718"
+        },
+        {
+            "file": "content/0010/sound/cafe_r-dash_op_demo_bfwav.sarc",
+            "hash": "A9D21AEF60A5AA9E0BF2677DF54FA1C6C8C6B58DEA236454D6A98FF65F241A87"
+        },
+        {
+            "file": "meta/iconTex.tga",
+            "hash": "F19BD66E52FBDF4F7688D8D2D74AE1EC98CBC6740BF27CCD577D9AC37C66F9D5"
+        },
+        {
+            "file": "meta/meta.xml",
+            "hash": "77620CCAD09BC57D5025E7DF297CD4E7EBC6B9AACEFA945014590CA0F96FFFD8"
+        }
+    ]
+}

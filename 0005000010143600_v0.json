@@ -1,0 +1,4087 @@
+{
+    "title_id": "0005000010143600",
+    "region": 4,
+    "version": 0,
+    "files": [
+        {
+            "file": "code/app.xml",
+            "hash": "DD482171FB078CC5636B17D70C67DA2F478405DA7D5153158AF6DF060F4C3F56"
+        },
+        {
+            "file": "code/cking.rpx",
+            "hash": "F9F461738949A09481DC1A31C01AD27DB813C4C6058FDD7D015624A4146BBF0B"
+        },
+        {
+            "file": "code/cos.xml",
+            "hash": "01A8B1A19BA3BA0A6E661DFA16CDEDF6AB5778DB4AD7836D5EC19E9D8334FAD2"
+        },
+        {
+            "file": "content/Cafe/Common/agl_resource_cafe.sarc",
+            "hash": "56FE599CA0DF1EB9C37ACA83E992721804B83E319525292D8753F10B35BA7A5D"
+        },
+        {
+            "file": "content/Cafe/Common/agl_resource_cafe_dev.sarc",
+            "hash": "305F53BABCADC9731215E40E1A36DA5030CCF1B8D76E3EDDD0341423F7FDFCB7"
+        },
+        {
+            "file": "content/Cafe/Common/primitive_renderer/primitive_renderer_cafe.gsh",
+            "hash": "27C12959A068F6DCA780D52AD39EA81B8683CD2C74DA703A224855A29EE190E6"
+        },
+        {
+            "file": "content/Cafe/Common/primitive_renderer_cafe.gsh",
+            "hash": "27C12959A068F6DCA780D52AD39EA81B8683CD2C74DA703A224855A29EE190E6"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/A_mori_0.aw",
+            "hash": "21C589338183A77747947A61575DB08FF323F76D89283229BA80DBA51132DEDD"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/A_umikz_0.aw",
+            "hash": "0B5C9844EE4433EFA9E2D77000AD3E4F8FF7CBC613A5DBED45C98FA7CC905477"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/Asoko_0.aw",
+            "hash": "4EB49EB558C00450F1342C614DD3D9811EB0EC71C43CDC98A2BF8E05DA541C8A"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/Atmos_0.aw",
+            "hash": "20C07A22C4DC9706E9E7D25D52582E6CF5DF67D09C96CC194B34FE8F50269917"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/CharVoice_0.aw",
+            "hash": "60DB68D14765798008921C449328CF1AB4374E95C231152D7F36E04CF44648D4"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/DaiDun_0.aw",
+            "hash": "D18F3944CBE51331490539BDF55166CCCF5306984E10AE569E460EA285AE7205"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/Footnote_0.aw",
+            "hash": "991A22BF109994D7DB74921EB55161CFF157125B4AED38CE5EC5FF97C6059F48"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/GanonB_0.aw",
+            "hash": "80428B80488E4F50BDDA39D3DAB0CF490B4ADBB6F558C86E174823FB7203600B"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/GanonT_0.aw",
+            "hash": "CB02F745E8ADAB21F9C5742384798EC97CDBE06EF42C91911C06115CCC7B1CF4"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/I_Maju_0.aw",
+            "hash": "4EBFA72D516DD02E49C90E32C8BA57A7AFCC1032EB5EAE213E5C6C31E92366D6"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/InForest_0.aw",
+            "hash": "43CD510F6D6BB3B88D82F229D039DDC92C643A372AB52EB660008A8FB2A1E0CA"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/IsleDrg_0.aw",
+            "hash": "27ABB7835A8B07773A55A20456A3DF4A9466A0EBF44840B86C93F3C72E8D7676"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/IsleLink_0.aw",
+            "hash": "ABFBCD1BE95BBC9FE4F9E4E0BBC78BDE048DC130503E1CA712EF32EAE55D104E"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/IsleRiv_0.aw",
+            "hash": "AF79ABF33CB4570B8658E795D4C97292FB98A9E4DAA21D4DB41FD47A636C5558"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/IsleTown_0.aw",
+            "hash": "13BD18AE169338C75ADB83EF6B2AAADD4825D1395A7377ED87152C68B186F8CF"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/IsleWood_0.aw",
+            "hash": "02A713E07A475D307E2DAAA9314A1BC74A26D804250D44683336FDFF96616D6F"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/Jaboo_0.aw",
+            "hash": "AD30A6C23F5BB3BFFEC761DDD1F11B47BD9A802E6A97E5B9990E26D60115AECA"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/Kindan_0.aw",
+            "hash": "B080F95ED7AF4E81BA04D18E0630F702E8EDAEBF8962A44D03866D69908BCD6B"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/LinkMotion_0.aw",
+            "hash": "D8017AA6A0D54401DA27253C3DAE0A30C7ABADCABE27E3AECE070D13D65B90DC"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/MJGanon_0.aw",
+            "hash": "8CF01DDF52E06C485CDF58ADE60071F36C5AA7FBC60CA9A83250C469133B1F90"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/Mj_Tower_0.aw",
+            "hash": "105CAE8F557FDDE2586EEC97D5A6C1DFCD40BE9554BCAEAFFE48268A2A4C4BA1"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/Ojhous_0.aw",
+            "hash": "BA1E40446C287D41117A513B4B64BBC5A77D6D3EFEA9342B9928345ACA620826"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/Omoush_0.aw",
+            "hash": "3BE49EB2F09AAFDB2260DB02E5E7C354D098BFDBD41091CAE5614B2862E95A15"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/Orichh_0.aw",
+            "hash": "D9F77BF4A115117D1F64E92199F9E5A8394AAA5CAA3726D5CC54C959A2A435E1"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/Raichin_0.aw",
+            "hash": "14FD2A9DD053290335641F41F3725FA1CC7C477FD2D8F2F584E00E0CF70530A0"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/Ryu_Mt_0.aw",
+            "hash": "D415EBDFFDD336B6AE3B8E9AB0EFCCDEAC5892269D5DA2A116AF99BB7FEECF6D"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/Shiren_0.aw",
+            "hash": "AF1DB87F331FC4B9F694E8AC6659AEF986EB9E7A74DB780F8FEAB515F0775120"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/SystemSE_0.aw",
+            "hash": "B098DD5BA2A7B68F8F0F55D2090C00E747ACB9B4FCAB32150DBC10B880C2C44C"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/WindDun_0.aw",
+            "hash": "0787A999B7F5BA643A3B789BCE1FAF69B227AC5D4F8D39265A6C5435169EC80A"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/bigpow_0.aw",
+            "hash": "228549AF9EE62B63CBA214A103570F0DD95C0FF84C95CBDE9061CAC609DA99B2"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/bird_0.aw",
+            "hash": "1DE187B469CD8C665D026ADF12A851FEE219D07AC3F258B5D3E4A9059A87BDA0"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/boco_0.aw",
+            "hash": "E7D811CC778C2AAAB0C446816E1219AD405EDB311966341B0B0ED90E25342998"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/d_amosu_0.aw",
+            "hash": "BF130ECA7709B416E145CF4A7FA74288624AB31F98DAECBC993CF2052072B7FE"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/d_earth_0.aw",
+            "hash": "D471C055B7EB20186E94CD07FF3052E5090FE6ADE28A29E14C1F83F6043F3790"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/d_forest_0.aw",
+            "hash": "089DE7A9B2EC66BE94284CD985169448AFD88E2D63050EE20A2D6DF1BD9723CF"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/d_ganon1_0.aw",
+            "hash": "C535D5AB84BFC1E63D565607ACDE6BAC8701D6BB4A0F5E867C2E77DC7AECCB08"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/d_ganon2_0.aw",
+            "hash": "BAB5AEA07AF052FD08039EAC6EEA74F4D02B0ADDA03C50BD02A8F0F69F102996"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/d_wind_0.aw",
+            "hash": "610426EAA73299F6A4AACA72AC6DDEB067C0D7EE382C96E712832FC37F460D7E"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/e_diocta_0.aw",
+            "hash": "A7BC918B1CC34BA007633D8EA8C80E1A52A75C757D455EA6E3C9165DDE2AA68F"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/goma_0.aw",
+            "hash": "6D530C7101897AA509788F89EA9FB0AE04F52EBBFC4C7105180C7D594CEDE127"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/hyrul_0.aw",
+            "hash": "62B4207080FED4B5547E95BAC800844E776A43409CF2156074B8612D83001102"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/kaminoto_0.aw",
+            "hash": "D3D27CCDCC9E0F2C86144762AB8644660D43F32C7D9AF82201FFE9245E7853FD"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/kugutu_0.aw",
+            "hash": "0549512C7DD3F5913DDCD5E1F6BFB42070CD004965351616ED848ECD27CE4E33"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/mboss_0.aw",
+            "hash": "7A508E4948D88FD1B2379EC03704FD522DA10F6F33423FF86516BCAFD12D8F80"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/n10i_ryu_0.aw",
+            "hash": "18E0EC380253FB6BFC7DC4849E5557D479DC63D02E1ABB1FFD2CBCAD1C9B799D"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/n11i_tur_0.aw",
+            "hash": "8DEE7E5CE5463AA3EE521157B0717C5C6BF8A34B94ADBBFB4F5EE477B3BC8CC7"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/n12death_0.aw",
+            "hash": "2C079109B2876C3704C9623CD2ECC236E2DC35F2C6A6135474D2BBCC54132AB6"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/n2i_link_0.aw",
+            "hash": "43F4398FCC51A6DB6D2DE2EF93C44062A732BA74A4A12876EDD45404D7AB4930"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/n3i_maju_0.aw",
+            "hash": "FA6580C5A00350F1BB5E6DD856A400E386443630941515CBA5D308BB893EF949"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/n4d_ryu_0.aw",
+            "hash": "E32050863D3B44895ADD2D0D449963EF52085679A1F898B05659CF63079F8BEC"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/n5store_0.aw",
+            "hash": "97106A1FE65B086EBEB1EC01ADC9369F9AA5985F6B38FBD17142430C4527DD27"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/n6pirate_0.aw",
+            "hash": "0CD19AEDA5178419FF74E2D1C9FD47D7ECA8D4A229FE91255626F005252FFD16"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/n7i_mori_0.aw",
+            "hash": "3BAA9E6E26BC0F1E4D2F35F0126770142398BCFE3AD1629E89A94992F161AAED"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/n8s_race_0.aw",
+            "hash": "0237E3AB32036AFE45C22F956569DDC95A98D0CB682715FF38FBDB0F08DDDF0A"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/n9drug_0.aw",
+            "hash": "CBB3FD8AF6FC0010D4BA0FDC18B02B2521A3D72DE983854CAC84F7028425AF1E"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/n_zelda_0.aw",
+            "hash": "6AF44E34A02E45EC0B733932F86C496BCA5FEBF9B05F941E916CE364BB19EB78"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/objSE_0.aw",
+            "hash": "7019EC244BC62077C6CBEA00552EEA1FE7574B2C7C222207E3CDC4F0743DFB01"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/p_ganon_0.aw",
+            "hash": "89E8D3D1FCD59D9ACEED98D9026B77D83176F5D8B923B90DED7587171F712062"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/p_goma_0.aw",
+            "hash": "AE411DD71E13E03EC20869D664153364F160E1B49AFA03937C8A7CDF01F40169"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/rane_0.aw",
+            "hash": "7ADECE5A5200E64B364ADED819686B85A52610B938B54104F26237B64EEA2D28"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/room1_0.aw",
+            "hash": "561E5060F966E638BA726C7CF707312DB522731653DE73B6BA49CF89029D9E2E"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/shop_0.aw",
+            "hash": "E2E7511B131960D5AC44FC4DF2C1514722326396105CFFC7799CC40C734C024B"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/tetra_0.aw",
+            "hash": "A2F0FAEBDA27CE1E111FF8C92AE15935367E9AAAC28DD4F8AD03A46BEF819D99"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/tower_0.aw",
+            "hash": "16DF9261A8FF991243C46F005DEAFDBF857B5C2F3FE34B687B7337176FE8C15F"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/umi_0.aw",
+            "hash": "9128093C4CB71854B44AF5C9F8C8C46BAD6D34FECF3B7444A71818B6087226E1"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/voice_0.aw",
+            "hash": "43DC3B33A6EC683A3CBF43640BA134B0A95D6D0B9C0F5CBB07CAB690B9572676"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Banks/w_zelda_0.aw",
+            "hash": "94BAF0B5D5277E7777C93011F95F33C7C63B9BDE265253D958C0944015B6A55A"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/JaiInfo.asn",
+            "hash": "490B1D378CE35F9558C5738A7EBD548B4D4BE1202CBD4D35263A73C5C924CA1E"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/JaiInit.aaf",
+            "hash": "6A074815666207C959C0C7F2196B60AA9EE611D8EEDBA3DAF7636B7A2D244BC2"
+        },
+        {
+            "file": "content/Cafe/EU/AudioRes/JAudioRes/Seqs/JaiSeq.bdt",
+            "hash": "2E0C2740FB6738BF59384B1DCED32BD14F0108E6FDDE00E3B18CCC7EAC0ACFFE"
+        },
+        {
+            "file": "content/Common/AudioRes/c_king.bfsar",
+            "hash": "DFCF04688B80A68812F2B23EFD401C1BB2DB2CEEC7944DBCE48792C258DF7F2F"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/00_e3title.r.32.c4.dspadpcm.bfstm",
+            "hash": "1BD186B6EF09D63FFA83C5DC1CA34B1201E0CEA2A6E6C50857D2DE24E2BCAEC2"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/02_goma_start.w.32.c4.dspadpcm.bfstm",
+            "hash": "A156654628CB9E90D55563036BD4CA3D495C37D7570EB0061EB933DF3D285677"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/03_boss_clear.w.32.c4.dspadpcm.bfstm",
+            "hash": "DD41B0E7CBE12A66637BE876D8BD869DC836D888D57F6C0CC6332AAE5314DAF0"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/06_maju_d1_lr.n.32.c4.dspadpcm.bfstm",
+            "hash": "B00F70E0881E253FF335D3628108DCEC68D85853169EC113FE513CAB37991E83"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/07_kindan_start.w.32.c4.dspadpcm.bfstm",
+            "hash": "B7A0D60F3E7882460B8BE0DB0CC5CB82F35B9C22F97D5AD872A1EEA369EB2FCC"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/08_bird_s.w.32.c4.dspadpcm.bfstm",
+            "hash": "AE528F0C57FFA6E209DFBECA3779AB718E4FC74CC47BEE5FA7554C190674CB8F"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/09_d_amosu_start.w.32.c4.dspadpcm.bfstm",
+            "hash": "EEA2398FFEABCB918D9CE513646950F186135D6394DFF0857282925024BB7146"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/10_m_14_01.g.32.c4.dspadpcm.bfstm",
+            "hash": "CB56A11889CD9620A185BE39B4974483007F12C0983150825D92579195F12E1F"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/11_m_14_02.g.32.c4.dspadpcm.bfstm",
+            "hash": "52CB4A89A2D804D4BD45C8990F798B51DEA15FCB06E848522E936BF40136A34B"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/12_m_14_03.g.32.c4.dspadpcm.bfstm",
+            "hash": "C1EDC9976053878C06E826F72C9B1EA98A98098977B1BAF31801C813256C8BD7"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/13_m_14_04.g.32.c4.dspadpcm.bfstm",
+            "hash": "128270EBF641269F65DFED72FFB8FF99D58E0F461C61877BEA25BB4DEF51E63D"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/14_m_14_05.g.32.c4.dspadpcm.bfstm",
+            "hash": "3CE01A97BE48E9D86F60E42A764F411960D5A2456C971EE6BFE98EEBA8527FFC"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/15_rane_start.w.32.c4.dspadpcm.bfstm",
+            "hash": "49BB31C3E5BE064920A4B18BEE40F3E18B454871C3D80016B950FEBC34B74D1E"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/16_m_15_01.g.32.c4.dspadpcm.bfstm",
+            "hash": "2B58E94C737D2888EFB4CC73B2BA3344DDA69160E11E553C88425EB365538C98"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/17_m_15_02.g.32.c4.dspadpcm.bfstm",
+            "hash": "5177943A9A25E22140D204EDCA5F36F51073BFE3BF9376C4B8730162E64E79EF"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/18_m_15_03.g.32.c4.dspadpcm.bfstm",
+            "hash": "ACB0F4F2EA664D43C39DD615C8F1C22952D412F39953363F0AC48DE16A20E052"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/19_m_15_04.g.32.c4.dspadpcm.bfstm",
+            "hash": "38D5C5B07D7F6AF7EE16C45DDE06ED7D05CD76239A97B1C81A7FFBC38FF337F3"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/21_ariru_yukai_2.w.32.c4.dspadpcm.bfstm",
+            "hash": "8F6AA1FB02AB6024CB193412DFE206994F4D80098C88C70C9EF0E9AE34A0240F"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/22_sisio_1.w.32.c4.dspadpcm.bfstm",
+            "hash": "148C70439735D20B8B11705D5757956913A7474F14CDBE615519B0E6CDCCB839"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/23_sisio_2.w.32.c4.dspadpcm.bfstm",
+            "hash": "87ED7C003E767565A0C0499F65EF30E71F6EC821971584A6C697A114D3A4AC34"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/24_sisio_3.w.32.c4.dspadpcm.bfstm",
+            "hash": "BE0845931EE71B9AC61ADADA0F56AD0782A83F8B8BDCA0651D475D27A785BD9A"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/25_d_amosu_clear.w.32.c4.dspadpcm.bfstm",
+            "hash": "E464E3E68A5536EF7C40BDDBFEBCDBCEFECDA282B4430CF5042BEC6BDE54BC8C"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/26_bird_clear.w.32.c4.dspadpcm.bfstm",
+            "hash": "E4CA74C8A3FA26EBD8CE738145E3E88320218F197E1AFABB74B6EA8A2D6028A1"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/27_rane_clear.w.32.c4.dspadpcm.bfstm",
+            "hash": "2FEC8CA7DE01EDD04830AF6B58DE86C32F250F4F5181352B36227E78D7B990B4"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/28_5departure.k.32.dspadpcm.bfstm",
+            "hash": "6519781F04DC073FFEA2DD4909A8A1AA99AE6EE4324C77A68E69B2F221BF0F37"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/29_m_24_01.g.32.c4.dspadpcm.bfstm",
+            "hash": "5878B0CAAA5C754AFB4751AC3E37AD8F439C13C4338031FF024A6AA5D37E412F"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/30_m_24_02.g.32.c4.dspadpcm.bfstm",
+            "hash": "9016ACFC0670097BEBF5CEAEE297574BD516066C499BE98F2A489F7C0E89AD34"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/31_m_24_03.g.32.c4.dspadpcm.bfstm",
+            "hash": "223BDF4892E4CA7B6D02698D02656B1E3A452F0FC51AAB3B17B2A66771A76801"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/32_m_24_04.g.32.c4.dspadpcm.bfstm",
+            "hash": "FA2EAFAB56A3230379258E7E69DB5EE0A8988CAFCBAF3101B107AD3955F60841"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/33_m_24_05.g.32.c4.dspadpcm.bfstm",
+            "hash": "6F62E5E553779307035057892593D91DDF063CD02656FF100A827AA24EFE53B1"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/35_m_33_01.g.32.c4.dspadpcm.bfstm",
+            "hash": "DECC301C6F85ACC0EE4529C59AAE9C3EF10BC9D4BC2C1C5EA8CD9961F1EB22DC"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/36_1tale.k.32.dspadpcm.bfstm",
+            "hash": "F8460EB9817BA5C32C98D43AB009498D9F20273FCBB90419AC7B16B915370B00"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/38_25awakezelda1.k.32.dspadpcm.bfstm",
+            "hash": "71005F46670773CB63587E88ECD7968332C9F5BF524A21C9E271546BDE50B9BC"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/39_25awakezelda2.k.32.dspadpcm.bfstm",
+            "hash": "D2B4631857521F678AFD3478A0E7F342512DB525FF97557952D8927EC65DEB87"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/40_25awakezelda3.k.32.dspadpcm.bfstm",
+            "hash": "624907EB5FE92CD93EE15CDFC890F170AAD8ED53206834266E3EE8DDD02608B2"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/41_25awakezelda4.k.32.dspadpcm.bfstm",
+            "hash": "9BF2F549D4EB0997926D3A57CD642F7AC51710DBD46E6D275CA2F04F9411ECAE"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/42_18jabuu.k.32.dspadpcm.bfstm",
+            "hash": "7BA9150CAB12C91D95D53006273FBBB76807B6C28E4751F76E07846A3C7E9480"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/43_26fairy1.k.32.dspadpcm.bfstm",
+            "hash": "C81ABECADBC3747DFF3C34CDDB2951C26731A0E71AE00415A528D16C7E883521"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/44_26fairy2.k.32.dspadpcm.bfstm",
+            "hash": "9CE78307AA8D74AA8ABDD0362C7270E6CB0A17A7D21F41BE9CC680E226337E9D"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/45_rescue_1.w.32.c4.dspadpcm.bfstm",
+            "hash": "7391D5D5B54897443FE47DC3C0F6F9B549F278A3A6231E5E88497152DAB359E2"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/46_rescue_2.w.32.c4.dspadpcm.bfstm",
+            "hash": "D933C21D2E98488BDB0FA69341AED5163342077BF4B5512DD36522ADA7FBC17C"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/47_rescue_3.w.32.c4.dspadpcm.bfstm",
+            "hash": "9E08F31DC32D60224D13069CCE4C653B2356E78CE1C7BBB7D62CFA51629F1076"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/48_rescue_4.w.32.c4.dspadpcm.bfstm",
+            "hash": "11B435D4001E85F896283ACD66EB62CA4EA76D7C9D2640B340348CA02AB4E78E"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/49_rescue_5.w.32.c4.dspadpcm.bfstm",
+            "hash": "8E8F53FC6D866C95B42359BE83946FAF0A8FE684C507E1ED2C52AD03B567B265"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/50_m_44_01.g.32.c4.dspadpcm.bfstm",
+            "hash": "471A59192251B5A66F53AAF1976D390BE949B34D3A93E7784B230A3FF7837617"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/51_43sono2.k.32.c4.dspadpcm.bfstm",
+            "hash": "2771A37791382382489722E701B4229620D866C09721AF168C605451038EB287"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/52_bp_start.w.32.c4.dspadpcm.bfstm",
+            "hash": "F21D3B0E9A695AE78CC5987AF1BC1FC0AE31F273B3EA50658CDCF7D3245233F8"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/53_m_27_01.g.32.c4.dspadpcm.bfstm",
+            "hash": "E0AD9EE4C22BBD75367ECCDA958D9B535B2C8B3F829774AD45089606E7C1835C"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/54_m_28_01.g.32.c4.dspadpcm.bfstm",
+            "hash": "223BFE18E0831E5198A53761013E4EFF8668CA2D586F69708C0903DD441ECA91"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/55_m_28_02.g.32.c4.dspadpcm.bfstm",
+            "hash": "17A095EF0BAF67F62F677C290070FBF823BC63C880257F9C7E225BF13F2A7AA5"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/56_m_29_01.g.32.c4.dspadpcm.bfstm",
+            "hash": "B0CC76220C42585B6416C5015002FBD6A0BA5B3E92E120F89BF7523175F72A8B"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/57_m_36_01.g.32.c4.dspadpcm.bfstm",
+            "hash": "1FF3E02ED7991F022E8A7A2FCC0EBD7ABBB6376F3E71BDE42BDEB49594168640"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/59_m_30_01.g.32.c4.dspadpcm.bfstm",
+            "hash": "04AD85883BD10E532696A2EF517ADC8CF211BCC6722A7BBFC2784409E0C719B6"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/61_m_32_01.g.32.c4.dspadpcm.bfstm",
+            "hash": "80FCA4581A6833593005BEEFD11DA67C81332CA45F86A72C09043BE1ED0930F4"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/62_title.n.32.c4.dspadpcm.bfstm",
+            "hash": "946360842D361A23863EE6D7B4F5A961564BABCECC0FB59DCCD530C6E5E0C5F5"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/63_m_42_01.g.32.c4.dspadpcm.bfstm",
+            "hash": "3A724ECDE727C6333C417B0C2B2BC45673953D4723C5D09989E6EF6D6E777E26"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/64_m_42_02.g.32.c4.dspadpcm.bfstm",
+            "hash": "95E8F7FECB543F0C81ED02C4DE077521A61C7EC3EEE41A800F4C3FC51F540BA9"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/65_m_42_03.g.32.c4.dspadpcm.bfstm",
+            "hash": "58983F330DA5FB1108A152552A790DE91E31703D3C2C3F0BA4B86907A80922BD"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/66_m_42_04.g.32.c4.dspadpcm.bfstm",
+            "hash": "015E5D2DE85897EBCDB9FCC3046C4144EE06B111132EF8A7326B7AECC8CF2AF3"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/67_m_42_05.g.32.c4.dspadpcm.bfstm",
+            "hash": "C248C240E8991653C0A3CFD1B4F633A2EAF514DF0103B1A481C754D10BB71525"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/68_m_42_06.g.32.c4.dspadpcm.bfstm",
+            "hash": "CEAE24D9EAAA2E318351F6655C30D455348B78DA4D6687039C6D6CF3631B52AA"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/69_m_35_01.g.32.c4.dspadpcm.bfstm",
+            "hash": "035AFF192D6801EFF1BFA5FFE583F595723BD914DCB6081FD1AC5346A1DC7FE5"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/71_m_35_03.g.32.c4.dspadpcm.bfstm",
+            "hash": "0C3A789EF95A94D153380BFDD9191E29B855926B83E1E4EAE57A60727DC91FE7"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/72_m_35_04.g.32.c4.dspadpcm.bfstm",
+            "hash": "0CC5CE65D3E327DBDB17476BD6DFCE8777FFBD3F4539935EA2AB630A6C6D302B"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/73_m_42_07.g.32.c4.dspadpcm.bfstm",
+            "hash": "6798DC3AA90EDB8A9B62CA3B063037CEA652196BFC03C8B765A19E74CB67FB59"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/74_ganon_laugh.i.32.c4.dspadpcm.bfstm",
+            "hash": "3D6412F5F60C8725AA69DD84D103D808535CF38CD9B1CA82D9207B99F306493F"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/Baachan_CK.o.32.dspadpcm.bfstm",
+            "hash": "6CF98CB75B813F4ACA43E7849C70168C1BAA42C11293AB6024F80FE7FF114AF8"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/D_Forest_CK.o.32.dspadpcm.bfstm",
+            "hash": "C31467ECFD13C607E1C054A263554B8E08B342BEC7B97FD2CAC1579C2BCFC447"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/D_Wind_CK.o.32.dspadpcm.bfstm",
+            "hash": "05EBE8FFBF2C73D6845B55FB73AAF7F3E66C65E05D01A1DE5FBFC1CAD587B1AC"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/Deku_Pinch_CK.aa.32.dspadpcm.bfstm",
+            "hash": "F45818B009F306362559B9FB764810E068A2464D33C6026AAAB814296BB9C693"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/Diocta1_CK.aa.32.dspadpcm.bfstm",
+            "hash": "C49805935B0A5D82E23781715A48A200E053E7A65176FD8AD7D80279FBB7EFAB"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/Diocta2_CK.aa.32.dspadpcm.bfstm",
+            "hash": "0A67DE8DD0B2CC3AD01FB7A559261CAB5347F16E5E7890AB17908BD13D7146D8"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/Elf_CK.o.32.dspadpcm.bfstm",
+            "hash": "FA1DBAC146913881E1787AACD83D5E97AE037DB736B2E19299F81C0C98419BB5"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/Find_Tetra_CK.w.32.dspadpcm.bfstm",
+            "hash": "B3D6249D4E7A2C1F9EC8D37687914BFD30C95FA7A07C1DEA9353C3736FDC45C5"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/Goma_A_CK.aa.32.dspadpcm.bfstm",
+            "hash": "823D6CA7B756D4E8C9C788FDA3AD69A95038A4CB4968BA86AF7197B83941F54E"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/Goma_B_CK.aa.32.dspadpcm.bfstm",
+            "hash": "C5E0E95CC60E3BF73BAF9697CCE57817EDD9038470F83924231A03797796125C"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/House_CK.n.32.dspadpcm.bfstm",
+            "hash": "3597D6B27EA73D4D9C918CC106D65AD82C154E6C3417BA33067AA134CF30D893"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/House_G_CK.o.32.dspadpcm.bfstm",
+            "hash": "7D77E7EB771C269902F3F1AE652598916408BB987B2C7550F879FB775260A2AD"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/Hyrul_On_CK.o.32.dspadpcm.bfstm",
+            "hash": "04A64E9F51FB3489072CC423B5F7C6E5E141DD51599FDA85BBAAC0E422E65C8A"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/Kugutu1_CK.w.32.dspadpcm.bfstm",
+            "hash": "C6CCAD2FFDC8721DD25D731120DE2B5CE4626980D33AEB32EB109FA3AB553E4A"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/Kugutu2_CK.w.32.dspadpcm.bfstm",
+            "hash": "6860D1FEB29DD02E9596E5C4CCD309EC5383CF1976D2BE889137CC27B960488F"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/Kugutu3_CK.w.32.dspadpcm.bfstm",
+            "hash": "D41DFEF63280FBE337F85327A0DCD20DDC83FFDA29B31ACB046CF8DE0BEA30CD"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/Kugutu_Taraba_Intro_CK.w.32.dspadpcm.bfstm",
+            "hash": "D016658676B8CFA8DB7D9BF4C6157F6D5223234E5847DD88A89F99E273E49AC8"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/MajuIsl_CK.n.32.dspadpcm.bfstm",
+            "hash": "9AFF9CDF1D43A3281170B3668569DA376D1373BD5AB265F3689B79C86307AE17"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/MajuIsl_Jail_CK.n.32.dspadpcm.bfstm",
+            "hash": "BE29FF6737357F3A9C78F0C8EDADFB3A6339FE36D0B9168FE7EE2F6FC02B8629"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/MasterSword_Get_CK.o.32.dspadpcm.bfstm",
+            "hash": "D33670DC21368E9FF7E1C8C931C71F36A4A32B31C159D2DD172D8DCC998608CB"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/Moldgera_CK.aa.32.dspadpcm.bfstm",
+            "hash": "35EB0616C62E0E7D378BF10A049AD3B9245A4878097FAFE54E9B2F63C189AB8E"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/NW_STRM_DEMO_04_01.bfstm",
+            "hash": "6CD276A7E70D152686549640A3D4C8A6E34F49E3759C814C3F02C44B4BB0669F"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/NW_STRM_DEMO_19_01.bfstm",
+            "hash": "C4C4D8F55F85363D1059C0839E333ECA6345E6DAA7ACFECCCFD414D0A517232C"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/NW_STRM_DEMO_24_06.bfstm",
+            "hash": "619EA574D87EA280E74A76797F7E23985D210D7E6ACAD3BD4C16B212E0C78FE7"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/NW_STRM_DEMO_31_01.bfstm",
+            "hash": "46B8A4F52E34B5A55542EFB880EA2D15056C08F5FCF05EDCB28205BB5D37BD06"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/NW_STRM_DEMO_34_01.bfstm",
+            "hash": "18DE9A1EDBCC322FCF8E40BD7D9E358FCD9D9725EBC81F2D9BF260899A4F1D72"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/NW_STRM_DEMO_35_02.bfstm",
+            "hash": "3ADAD51048C7F844666071D5F0E2768C8A894820A08698042B49B9F0F42535BA"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/NW_STRM_DEMO_45.bfstm",
+            "hash": "6C4EB69F3CB37AE217D3F9F3537449C69376F1C53451B73854288382E7E6ECE4"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/NW_STRM_DEMO_GO_MAJU.bfstm",
+            "hash": "B409885A6B02048B894C118F65430648CCEA6639A0F87DE6CFDF4406277316EE"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/NW_STRM_DEMO_MJ_SISTER.bfstm",
+            "hash": "A7A49A6B880837839B3327A57C899301887200C3D487ABD6691814725A35888A"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/NW_STRM_DEMO_TETRA_FLY.bfstm",
+            "hash": "F2A39FEEDAF895BA2AA584E3B22813495D9D99BF8CBE06DFDD97F73F0F961D4B"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/NW_STRM_ENDING.bfstm",
+            "hash": "AF0D3CB6ACBF1E07AE42F4BA3723821AA6477B17464DFBD778C2C66E3B1DFD39"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/NW_STRM_EPILOGUE.bfstm",
+            "hash": "941A052F00E9F517B569C65F7E5FE6E4AD122E6C4F2A393F3096176BAED8D2FD"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/P_Goma_A_CK.w.32.dspadpcm.bfstm",
+            "hash": "912A0C84D44F44CF80D56115CEBCE5F90157A0B88787BAA8672D75A250DD11A5"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/P_Goma_B_CK.w.32.dspadpcm.bfstm",
+            "hash": "F9907A30044CA5B4E419F2F9A1E122A33ED74471DECC162EBDF5E1629B280B41"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/P_Moldgera_CK.w.32.dspadpcm.bfstm",
+            "hash": "7678A03E924A9138B17BEDF8F79F076820B7EEC0D4DCDD2A4F48621BD1334A5E"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/Pirate_CK.n.32.dspadpcm.bfstm",
+            "hash": "886C35C17373982A8752892E983B3CF75DAA0E6C102F63DBD4E1D20AF1F2D2AD"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/Pirate_Cabin_CK.w.32.dspadpcm.bfstm",
+            "hash": "656D6FD42CA1ECC7CBC9A32A130C2AE997881B7134C012C1780D4AC5C322B5E6"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/ProloForest_FadeIn_CK.n.32.dspadpcm.bfstm",
+            "hash": "8A3BB7773E50825EC4C46CC5ACBED73C7C7FF6F387953AACC20CE833AB28C0A1"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/ProloIsl_A_CK.n.32.dspadpcm.bfstm",
+            "hash": "3ED81873A04A98D98BDF54969869D1EF070C19EFF67366BCC2CD92D7D270C23A"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/ProloIsl_A_Intro_CK.n.32.dspadpcm.bfstm",
+            "hash": "3839AAC8FB5F1CB3F9B6AE8FF72E6882183D237C0099F95A6AC6F2302AE26637"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/ProloIsl_B_CK.n.32.dspadpcm.bfstm",
+            "hash": "4E55588A5A47E777C96779CCEC3F240F6DC9FBE4E1FE8AA974DC89E2A7044BF9"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/Select_CK.n.32.dspadpcm.bfstm",
+            "hash": "DBBC842559B2AE5064481235A1A00E6FC11D6AB079A218477FAA762144E0376D"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/Tak8_MDR_CK.n.32.dspadpcm.bfstm",
+            "hash": "E83F6FB655C79FB8519B3F98EE4A8E68C04095A3B37103BDB8ED189C766ABB88"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/Tak8_MKR_CK.n.32.dspadpcm.bfstm",
+            "hash": "797E8A76431AEC98742AD1AF4BB8489C8D038F29D19D527FFB7AAE8227037F61"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/TauraIsl_CK.n.32.dspadpcm.bfstm",
+            "hash": "4F01909E7F2FA0F43CB950083F9AD393CDAE4884489F50BAA3A30E7515916426"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/Tetra_Meet_CK.w.32.dspadpcm.bfstm",
+            "hash": "59A9700D7225094733927FDED7187125646E27400E96F9DD8B62831F5E90FB24"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/Tower_Battle_CK.aa.32.dspadpcm.bfstm",
+            "hash": "0494E3A6E232F7C9CE25F0A0EA1614ACE89ACE33D28C82311D7FBFC1A2AA874E"
+        },
+        {
+            "file": "content/Common/AudioRes/stream/end_credit.n.32.c4.dspadpcm.bfstm",
+            "hash": "C9B78F2615A150E9D3B14FF31EF6416B3EB26FCB0805EC63CCB036D8207859D6"
+        },
+        {
+            "file": "content/Common/Jpeg/Jpeg.sarc",
+            "hash": "2AF68F7AAB6A9BA3E776E4520E3F72B92A6F2EFBCE0694F332D726967017226A"
+        },
+        {
+            "file": "content/Common/Layout/Boot_00.szs",
+            "hash": "9A0E9D71B12853E690685F1DE08DD93307DEE525855A47D1868C45FC6150FCC6"
+        },
+        {
+            "file": "content/Common/Layout/BtnController_00.szs",
+            "hash": "381CD79B66073647CE097D04F855858A99DB26DE6EE09BADD1D52B74963238B0"
+        },
+        {
+            "file": "content/Common/Layout/BtnDifficulty_00.szs",
+            "hash": "AF18FE84B2BFD25B2CD5282C90EB49385AFAF14DFFC229C95D034FD22ADBF79D"
+        },
+        {
+            "file": "content/Common/Layout/BtnSaveData_00.szs",
+            "hash": "9EAFCDE4B686F6A6F0B4374A485052A17961E69BABAA30AF82B51A9974E251DA"
+        },
+        {
+            "file": "content/Common/Layout/Bubble_00.szs",
+            "hash": "08D387FC874087D7773C93501AD6D4BE7BB61BA86F1403FAB70A5A646CB12A36"
+        },
+        {
+            "file": "content/Common/Layout/EndingEnd_00.szs",
+            "hash": "51A41234D289D0FAE86B71F30666F26E21753FD5843D11588EDCEE4498B62470"
+        },
+        {
+            "file": "content/Common/Layout/Opening_00.szs",
+            "hash": "06AEDFC3F555CBE2759FEE979F653BA265820C47F7057F9B8809987B48BF683D"
+        },
+        {
+            "file": "content/Common/Layout/SaveData_00.szs",
+            "hash": "B24659DF7E5F9AC7595C97F32F391DDFB4ADEEB1C0B8C02129AFC61349A1AD6D"
+        },
+        {
+            "file": "content/Common/Layout/SelectController_00.szs",
+            "hash": "B58E7E24C398B9A41E77A8D969B794B8E53E7358EB315E0A4FBAE4F93663B6DE"
+        },
+        {
+            "file": "content/Common/Layout/StaffRollBG_00.szs",
+            "hash": "2276F1B258889652FB017BAB64DEB33AB40449875F39DB2875A36337A5D16ED6"
+        },
+        {
+            "file": "content/Common/Layout/StaffRollBubbleS_00.szs",
+            "hash": "187962BB9A3471952A962B0D3E9C6B774AFA15BA7F56290EFE130E25C1774BD0"
+        },
+        {
+            "file": "content/Common/Layout/StaffRollBubble_00.szs",
+            "hash": "F626F6C3B3F48612543D979102FC4F86EC7AF4C02ACF2FBFA7E52CEB008556AF"
+        },
+        {
+            "file": "content/Common/Layout/StaffRoll_00.szs",
+            "hash": "DA5211A79CD5B9CF537D65F3E19675F1E4C90D5A861E0BFE71C0852B014E86C3"
+        },
+        {
+            "file": "content/Common/Layout/StartSequeneBG_00.szs",
+            "hash": "1DCCD069FCE70C1C03C001F20976F563D4C6A18DAC49D7D3697A6A3A25D76474"
+        },
+        {
+            "file": "content/Common/Layout/Title_00.szs",
+            "hash": "06AAA05D996605D379B04E7AB1DFB9592D8D739C7C13E97BCD23049D33F29C5A"
+        },
+        {
+            "file": "content/Common/Misc/Misc.szs",
+            "hash": "2BC5B3C42E98CBFBE3E9DF1F4DD4BCC3444C766E4C202F764B2FA85C339A2219"
+        },
+        {
+            "file": "content/Common/Object/Apzl.szs",
+            "hash": "6A4EA4BF8121D941D77A6F833789DFCD91A4BC88A1D3AB2CC118874380152E6F"
+        },
+        {
+            "file": "content/Common/Object/Auction.szs",
+            "hash": "12C7311BA3C63089EDE079C83D808FCEEA8D1F07449418FA76455EBF165D0549"
+        },
+        {
+            "file": "content/Common/Object/Bdk.szs",
+            "hash": "DE0C45C58427C5096796DFA6AA9D1EE74939D57B8E95A662E1A4FBF18A52C025"
+        },
+        {
+            "file": "content/Common/Object/Bgn.szs",
+            "hash": "0EB49984D7047D0A4FB25FE646562F069459087A86FB15A8BA59F77B440428B4"
+        },
+        {
+            "file": "content/Common/Object/Bin.szs",
+            "hash": "B66C01A96BF3D89A8428A7F2626DF5C84D93FFBC378241A0B2928C968D5DCFE9"
+        },
+        {
+            "file": "content/Common/Object/Bita.szs",
+            "hash": "E9F90B4CD61AE587CD31CB3E6A511D08612E4C530EAB010AC04F90A5037426A9"
+        },
+        {
+            "file": "content/Common/Object/Bmd.szs",
+            "hash": "952199AB0BD10DE6165B64C2896008D97F0BFB8E094B9CC0C16B90518BD5DE6A"
+        },
+        {
+            "file": "content/Common/Object/Bmdfoot.szs",
+            "hash": "14A6F025193F9A7D80DDA45B7FAB6F6BC792DA2B10838A467989DACDA050A726"
+        },
+        {
+            "file": "content/Common/Object/Bmdhand.szs",
+            "hash": "E0E52DAC4884D7C1DAB07BE849F6A3ACD163585D664EC9682B64D836955D6859"
+        },
+        {
+            "file": "content/Common/Object/Bms.szs",
+            "hash": "DE7514319383332D25EDA37A8164CE4907AA82632B2407398726981230E9B3B7"
+        },
+        {
+            "file": "content/Common/Object/Bomb_00.szs",
+            "hash": "6B8FDF0C7CFC6B969D4BEE6B0A5A5B589B8DCB3E889314499138FAD9D2F0A1E8"
+        },
+        {
+            "file": "content/Common/Object/Bomber.szs",
+            "hash": "FFEDD087A7FEC115DE16EEAA26C74B963A24DC0303196067E04ED7F40867246B"
+        },
+        {
+            "file": "content/Common/Object/Boom.szs",
+            "hash": "49B58BA870017EEAFFEF7492AF2EFD152680B805D92F7DF622B04CA00B3DDE06"
+        },
+        {
+            "file": "content/Common/Object/Bpw.szs",
+            "hash": "3DBAA50EF1C833E08F3D42AF978831FD9D7233898F47FDD28EE0987981958699"
+        },
+        {
+            "file": "content/Common/Object/Bst.szs",
+            "hash": "53CC384CE9A6C911CBAB7059840D1C884041340DDC347342036684537F795B7C"
+        },
+        {
+            "file": "content/Common/Object/Btd.szs",
+            "hash": "78E01B1AB6A4CE65D5A3D0B17CEDCE058ED8139AE707614046564EB3B98BB7DD"
+        },
+        {
+            "file": "content/Common/Object/Bwd.szs",
+            "hash": "FAD4EBC34CD61037C7D0BD427181C87999B87EA798242CE14DA13C7EC61F4B5C"
+        },
+        {
+            "file": "content/Common/Object/Bwdg.szs",
+            "hash": "0F40F400653A52BEA2BAAE37B1B6E895B8B72564102A0016A933E0C06533651A"
+        },
+        {
+            "file": "content/Common/Object/Bwds.szs",
+            "hash": "33DFD6134669DA02EFBDDED33889B295AFAF33239E1B8E3C002390C483454170"
+        },
+        {
+            "file": "content/Common/Object/Deku.szs",
+            "hash": "B70EABFD60FAB39F047014A19209482611001724CD2B95B858D02FC8FC918191"
+        },
+        {
+            "file": "content/Common/Object/Demo01.szs",
+            "hash": "0BDF8242FDE9506F9EF3045896F02026F732DD9EBECD7D963CC64AC86913892A"
+        },
+        {
+            "file": "content/Common/Object/Demo02.szs",
+            "hash": "2BA6F1CC66B96F6D18000F87008C23487EAA13126B9BEBCB8046ACDB26672723"
+        },
+        {
+            "file": "content/Common/Object/Demo03.szs",
+            "hash": "7BD147B9ED1DE3E6861F4F0B8018AAFC9DFD7FEAB8FE636EC9E02051168BA60A"
+        },
+        {
+            "file": "content/Common/Object/Demo04.szs",
+            "hash": "0F1E8DF7F96426D410AF045525F2FB7F9338D9D75C886D582DAC8E7E5507E9A2"
+        },
+        {
+            "file": "content/Common/Object/Demo05.szs",
+            "hash": "7542023873871753DC6068FDEC672A194F3A2B42A097FED772111BDB8ED8792E"
+        },
+        {
+            "file": "content/Common/Object/Demo06.szs",
+            "hash": "137575B089827C1CEAF1AC8059130A4FF88C826C21B0E732644BA008B0A450D0"
+        },
+        {
+            "file": "content/Common/Object/Demo07.szs",
+            "hash": "B80BFA58C427498DDBBBCE9536495AE9026349E08C0F114A4EFEE5EF599B79C9"
+        },
+        {
+            "file": "content/Common/Object/Demo08.szs",
+            "hash": "3D459ACED590A5FB285FAD9763632801658B64A04B4C6A1A36035D59076903D7"
+        },
+        {
+            "file": "content/Common/Object/Demo10.szs",
+            "hash": "DB200A3E7EFFE83886C25B679481C733B4B08C5B9680DF3D0F59F26597948FF3"
+        },
+        {
+            "file": "content/Common/Object/Demo11.szs",
+            "hash": "318BCEEE098295518E44D076E8610CBDDE9462A49E705DD6D39FE7EA64A66179"
+        },
+        {
+            "file": "content/Common/Object/Demo14.szs",
+            "hash": "86A723F28DB6D6081DFAAB088ED7EB984AB2BC1D9EC4040520F6839C9FD53286"
+        },
+        {
+            "file": "content/Common/Object/Demo15.szs",
+            "hash": "B9A2181554E37137B36544254A554C4633BDBCC4562E7AD4FB4070DB37C96400"
+        },
+        {
+            "file": "content/Common/Object/Demo17.szs",
+            "hash": "8232ECD4BA2FA4D9B537F747D0F4BB1FFFF3CE780023702E51F8D88B22AF68F2"
+        },
+        {
+            "file": "content/Common/Object/Demo18.szs",
+            "hash": "D28548EE7EB5E4CA76A5A3199B99F35DF7A414598FA0C4BE0D4996196D8DD8E7"
+        },
+        {
+            "file": "content/Common/Object/Demo19.szs",
+            "hash": "ED825C2A67F9AB82647FCD90F95445763616FCCA17726E6702B5494CCC8893CC"
+        },
+        {
+            "file": "content/Common/Object/Demo20.szs",
+            "hash": "55D79768074A9A38B23D2B911B967980A1E7B212B1918B7AD3280C5D931B0124"
+        },
+        {
+            "file": "content/Common/Object/Demo21.szs",
+            "hash": "128651C50A07DA3286C279DE6DA36373C5D3949428E1A28FE2407F2B6FC75A8E"
+        },
+        {
+            "file": "content/Common/Object/Demo23.szs",
+            "hash": "D0A549EA5D0B9C06EB7D2215571F7C4B6737386F1899B9D847516BEC4CAD57DD"
+        },
+        {
+            "file": "content/Common/Object/Demo24.szs",
+            "hash": "4D7AFC10589681E693E8B7A4ECD6B5928B8E1E6D621B98DE5741C4FFF58A874E"
+        },
+        {
+            "file": "content/Common/Object/Demo25.szs",
+            "hash": "F025A463E8CDF63037CBE7F2363D5F80ABE607EBC4F5235E98C4088852F70741"
+        },
+        {
+            "file": "content/Common/Object/Demo26.szs",
+            "hash": "5D1F16ABCEA99D0AF82900A4B7CB710BB213D1C1F820B65C326220DB85CFBBA9"
+        },
+        {
+            "file": "content/Common/Object/Demo27.szs",
+            "hash": "7ABA8BDBB0D8BEEE924686574C2F90A1AC026F362D049BEB2C8517A54C2EA25D"
+        },
+        {
+            "file": "content/Common/Object/Demo28.szs",
+            "hash": "F4A2E4BB8BB64059D99A912C634C3F8CEC3CAC58EBB0F211D0ED887A547C7594"
+        },
+        {
+            "file": "content/Common/Object/Demo29.szs",
+            "hash": "D4C7509C9A528F573D57DBA985D9A15F2DCED15764C21463B9B00B9F9D5967D0"
+        },
+        {
+            "file": "content/Common/Object/Demo30.szs",
+            "hash": "EF878D7791C7DC1FF42AF15648CA206E740A563D7B977E92C4AB6ED038CF0D77"
+        },
+        {
+            "file": "content/Common/Object/Demo31.szs",
+            "hash": "B01826EA4510AEEB9EFB73D747BF2E6383365AB87CA0FC2F82BA94484AB60022"
+        },
+        {
+            "file": "content/Common/Object/Demo32.szs",
+            "hash": "87000DE65F25B01C89E83A8D8FCFF2B5F7375A1CA83422E07616778D857544FA"
+        },
+        {
+            "file": "content/Common/Object/Demo33.szs",
+            "hash": "647731FA9E3BFAD98CA7C1DB52BA99512CB3520DA297E94542D322785BAF606D"
+        },
+        {
+            "file": "content/Common/Object/Demo34.szs",
+            "hash": "574DCE65DC16762B80383342665534C231D0126E58D6C1B15A5FE9751B0F2788"
+        },
+        {
+            "file": "content/Common/Object/Demo35.szs",
+            "hash": "F572AA4B1C2D59F81AD6C254073AB8499E3F13518FADAF9F5A0D7C3DD4A8A5B8"
+        },
+        {
+            "file": "content/Common/Object/Demo36.szs",
+            "hash": "0CFE3A85E1214FEEEFA60655C026E90601117FC96F7A8CB98A8AE0C2C06F746C"
+        },
+        {
+            "file": "content/Common/Object/Demo37.szs",
+            "hash": "A88774175E2264BD01A8CFBC28F7DDB5468356720F16A8D2E493CEAE26DB4A6A"
+        },
+        {
+            "file": "content/Common/Object/Demo41.szs",
+            "hash": "13D19385B0622275F9B08E9AD461C55C9D4D68E9D72EAC54F64BB717E45E0ACB"
+        },
+        {
+            "file": "content/Common/Object/Demo42.szs",
+            "hash": "900C895E6F7588DA83402948E6D92C31406287B42E30AA28F47F54245300CF4F"
+        },
+        {
+            "file": "content/Common/Object/Demo43.szs",
+            "hash": "B0B59CBF56B16380ECAC9EDE9D800A157E3B13FFA8084ED6C1E6D7DFFE65A27F"
+        },
+        {
+            "file": "content/Common/Object/Demo44.szs",
+            "hash": "8580CF0E77B0422E217B6A7D9624607D5AAE485810A49865F2A5E4BB8293D482"
+        },
+        {
+            "file": "content/Common/Object/Demo45.szs",
+            "hash": "09BD0E8FE4E28BB4B8E7A57CA71603A080046E24304F9EDB9E23572240EFA2F2"
+        },
+        {
+            "file": "content/Common/Object/Demo46.szs",
+            "hash": "DC20ED07B89808D147AD1CA57673878DB3572571BA8BEBC5B004FA1DB81AB152"
+        },
+        {
+            "file": "content/Common/Object/Demo48.szs",
+            "hash": "8748DB787F715092749E97D216C29B9998BE30D66D0D4C634B92539BBF9CA02E"
+        },
+        {
+            "file": "content/Common/Object/Demo49.szs",
+            "hash": "DAEC19422CDC1EE6FDE5212D3807A8AB0800DB26CAC82C12D73586B0F9885090"
+        },
+        {
+            "file": "content/Common/Object/Demo50.szs",
+            "hash": "E02BDC07D1D20C40A4C9E1E76E97022B9A5418668943837D616F1BE40D0C73D0"
+        },
+        {
+            "file": "content/Common/Object/Demo51.szs",
+            "hash": "58DA8CE3D060D85C71CAC45593E2678E72C4B2EC2760896E17B0CEF54F0061ED"
+        },
+        {
+            "file": "content/Common/Object/Demo_Kmm.szs",
+            "hash": "3684BD3FD58226581FB49C4E9F68C203D30ECEA949261ED748744F7E9EA1F860"
+        },
+        {
+            "file": "content/Common/Object/Dk.szs",
+            "hash": "F8C4D79271654EF7F0419E92CC9BA612AC2721665F5B49DDE592C93736B1106D"
+        },
+        {
+            "file": "content/Common/Object/DoguuD.szs",
+            "hash": "DEB2EC61AC6D4DE673EB73AA459477A7A49161046E340ABADC725DE775F47967"
+        },
+        {
+            "file": "content/Common/Object/Dr2.szs",
+            "hash": "8D83F589A8EBE784427C968ACD4AC02F1A89659EA3AA388BBF7BE43B36540D1A"
+        },
+        {
+            "file": "content/Common/Object/Ds.szs",
+            "hash": "E9B4DAE9BA4E29B848C2140293C59C7DEDA414CCA994F67C03B05FDB93E8A7D2"
+        },
+        {
+            "file": "content/Common/Object/Eayogn.szs",
+            "hash": "C8A99A8DF93356E46F44212A94BB0E49C168592BB08DE34DF81C9CFCD5AD7E81"
+        },
+        {
+            "file": "content/Common/Object/Ebomzo.szs",
+            "hash": "0595F14675DA22AFD482213C440CD708A2548DB773CDDC551448F3A97E122BD0"
+        },
+        {
+            "file": "content/Common/Object/Ekskz.szs",
+            "hash": "E69DF2FCE1C3A4938B65B7486B0F85068049C10742DCCD4E1936EC2DD9B44503"
+        },
+        {
+            "file": "content/Common/Object/Esa.szs",
+            "hash": "C33BB2A551E6C44483EBB1DC7F86FAEE68445C09431301154574636C6C4EC4B8"
+        },
+        {
+            "file": "content/Common/Object/Eskban.szs",
+            "hash": "399732560C937168CC7FCA4DB37B8E5196DB2B118C042382EFE8B5EAE15DD200"
+        },
+        {
+            "file": "content/Common/Object/Fa.szs",
+            "hash": "449BBCDB6A8E5FD099E43C1EF24E2B32398AA5395E5A1212A0ACAAE6383C532D"
+        },
+        {
+            "file": "content/Common/Object/Figure.szs",
+            "hash": "3624C80A780C672DE8FF7FBDE2A27B0BF108697A0CEA689D925D41696A768A9E"
+        },
+        {
+            "file": "content/Common/Object/Figure0.szs",
+            "hash": "10FD92117BAC8FA0B068DF8F22C6C18A723AF59B113545C45C5031A2A35BFCBC"
+        },
+        {
+            "file": "content/Common/Object/Figure1.szs",
+            "hash": "88450B36F2BF2A565E3F97CC6E02196F8342857FF435FA055671E8ACB6A014D8"
+        },
+        {
+            "file": "content/Common/Object/Figure2.szs",
+            "hash": "25FA81077690E6B34D592812A99A0EC0F3333DD3268B3FB210D9A30251FBD601"
+        },
+        {
+            "file": "content/Common/Object/Figure3.szs",
+            "hash": "C0D9F0648D2445777BBE319699AB99016CF2AD0511FC15085C76D29BED553D77"
+        },
+        {
+            "file": "content/Common/Object/Figure4.szs",
+            "hash": "BE517D831AA7C97A0D500D9DC29239114B727404ACEA7DBEEF9B97573CB972A0"
+        },
+        {
+            "file": "content/Common/Object/Figure5.szs",
+            "hash": "61183A3B5AB14DB702634B94E183B225199DE2C735E86D9E8030929FEE4C2748"
+        },
+        {
+            "file": "content/Common/Object/Figure6.szs",
+            "hash": "9E99D7E3EB32A6EF1F7CAFE38472BAD493BDFADEFC8C9B2336927DD4D39FD39E"
+        },
+        {
+            "file": "content/Common/Object/Flag_a.szs",
+            "hash": "D7E1FDF75885EFC2CDB4CBF0DE52D5F4B47C489517CDCFE33A9676EE5D93A0F8"
+        },
+        {
+            "file": "content/Common/Object/Flag_o.szs",
+            "hash": "542EE2A3F8A8339036122F9D78E6A9055A2C0EBBE55D0DCEDCD087D9428E9C43"
+        },
+        {
+            "file": "content/Common/Object/Flag_t.szs",
+            "hash": "B0F6A935A69E213F66540148D8A3508E37B0E94C34D89368EF90F2A9030A93C3"
+        },
+        {
+            "file": "content/Common/Object/Flag_y.szs",
+            "hash": "373026C658BF22FFC10A5115D65A11E5AB9A080362434C14E03A4A62D906223E"
+        },
+        {
+            "file": "content/Common/Object/Fobj00.szs",
+            "hash": "DC48320211751BFF0946F8FECE3231D0EFD8687A05969CE203353F24E731BAAA"
+        },
+        {
+            "file": "content/Common/Object/Fobj01.szs",
+            "hash": "18C18A124AA3CFE5E95ED45B74DCE47A5AFBD7F0C7CC2FD778AC2E4DB3A435B1"
+        },
+        {
+            "file": "content/Common/Object/Fobj02.szs",
+            "hash": "D0F5A4E32AC9DBC7D02365808093EA6182F575DB4E4CF0C5F55244DE5C414D62"
+        },
+        {
+            "file": "content/Common/Object/Fobj06.szs",
+            "hash": "A715AF7AA626E2C12D84A2C242C8AE0D6A4F01D4F69E302AB74A07EDA590A1E5"
+        },
+        {
+            "file": "content/Common/Object/Fobj08.szs",
+            "hash": "13F5A279F7110957515941E62B10F2F8726D45C2B5E57C7314543AFBD8072CE2"
+        },
+        {
+            "file": "content/Common/Object/Fobj09.szs",
+            "hash": "2BCB9542675182AFC2A869DC21EE08011013465836E8ED241EC15A52A15EDB06"
+        },
+        {
+            "file": "content/Common/Object/Forest.szs",
+            "hash": "553DC5CE0A654CB70861BFBADDEFDE380F7F8D3B703DE96FB1C6628856C92CAA"
+        },
+        {
+            "file": "content/Common/Object/FwBin.szs",
+            "hash": "3D8FBF61C7BF07E0EC6F4062E63C76D4FBE5744A77435EF09B2BF719BADC93A0"
+        },
+        {
+            "file": "content/Common/Object/Gbed.szs",
+            "hash": "AEE9092BAE9125D7AE51D0393FB484C721B8E69E24D3AB19954B11DF337F7808"
+        },
+        {
+            "file": "content/Common/Object/Gdemo20.szs",
+            "hash": "5BAE2E77281CEEDE640563F08D137065F9321D3BB2AF9809642C8A22816E9B2C"
+        },
+        {
+            "file": "content/Common/Object/Ghrwp.szs",
+            "hash": "9017987826464E8F81C860DEEDEEECE30EF8A6E4117BB1DFCCDB1FE6BF199A22"
+        },
+        {
+            "file": "content/Common/Object/Gmjwp.szs",
+            "hash": "A2E5FC3FAA6D6FAEEB5399F2E6A87B09595594BE05AB0603CB9155F0129CB0FC"
+        },
+        {
+            "file": "content/Common/Object/Gmtw.szs",
+            "hash": "5E75C746A3694E401074D025E1C9797E4D54B6E8C2047424F8D6D1CA7E3625E0"
+        },
+        {
+            "file": "content/Common/Object/Gnd.szs",
+            "hash": "FFEF46CBEB822E37315F5AC55DAA34965A2E4F1C7BB2D23E9E4DA38F899DD499"
+        },
+        {
+            "file": "content/Common/Object/Gnnbtltaki.szs",
+            "hash": "CFC94B2799094B417BDEEF6C11AA6B22EFAC522C8DCDC69265867E49F3355E5B"
+        },
+        {
+            "file": "content/Common/Object/Gnndemotakie.szs",
+            "hash": "3D505FAB1447305BF2FE9975D1B66B26A2D5F85EFC78698560046CEC0DA15606"
+        },
+        {
+            "file": "content/Common/Object/Gnndemotakis.szs",
+            "hash": "C8789B1728A9B40E23F48CF8A6B4516ED9FBA52A65868ECBA80D477A5791117D"
+        },
+        {
+            "file": "content/Common/Object/Grid.szs",
+            "hash": "AF7F20D8CA8976D8F0C68727D5517741C7FF160762984D4D517EFA89A54216A1"
+        },
+        {
+            "file": "content/Common/Object/Gtaki.szs",
+            "hash": "9949AEAABCBDD77F0B18D1DCC123B605D9CCCF9583B8B54A7C4B00D1A53B05C5"
+        },
+        {
+            "file": "content/Common/Object/Gtfglow.szs",
+            "hash": "EE4C09F2468D8F9F7E577599B9F8A3B00F158D580661468FED07770BB6CEF585"
+        },
+        {
+            "file": "content/Common/Object/HomeBtn.szs",
+            "hash": "6A60B489D12FE02ABEAF80F293E4E8943A18056C4F10767AD8AD54308A9250E2"
+        },
+        {
+            "file": "content/Common/Object/Homen.szs",
+            "hash": "DDAAA45C31420DF516C28A0BAA38921D9A43746125964AFC9340BE0D5DCD7AE1"
+        },
+        {
+            "file": "content/Common/Object/Jb.szs",
+            "hash": "56DBA43507CF3B96E220586261DC1466ED77D54C90862C484C0BDEBBFFA8655A"
+        },
+        {
+            "file": "content/Common/Object/Ls.szs",
+            "hash": "7416ACA69B83EA0D25D936A57FB497AAEEC8B1F8775CD1B92D6C47B00F0E9DF6"
+        },
+        {
+            "file": "content/Common/Object/Ls1.szs",
+            "hash": "47E3650AAC8E80FF8922F7FF2246BCD5D8931B7E09A96E0D474966048B6A87CE"
+        },
+        {
+            "file": "content/Common/Object/Ls2.szs",
+            "hash": "652519C67D523E725D4D0A1F3BC3518D7E9CD57F467343D245CFFC1A6E01FE0B"
+        },
+        {
+            "file": "content/Common/Object/Md_ship.szs",
+            "hash": "9EBA3824A4B0E6485ACCD866C34A5199C7CBE982F10F2CB84713F5E3BDA11D3A"
+        },
+        {
+            "file": "content/Common/Object/Med_b.szs",
+            "hash": "9F75C18B28B8C4FDB48E4D3A4DD6D630AADC4BE209EF94F99B648A7B54BD9E8A"
+        },
+        {
+            "file": "content/Common/Object/Med_g.szs",
+            "hash": "8A09770C1A24C35E60B3E96652A17B77649DE9D606F9B9AEB254AD936CB7B1A0"
+        },
+        {
+            "file": "content/Common/Object/Med_r.szs",
+            "hash": "F5735F222A509766E1AEACB6467808E4F14740A9788A217DC7D6105202BB5CFF"
+        },
+        {
+            "file": "content/Common/Object/Mkdan.szs",
+            "hash": "5B2FC945C59A66502C3184CAC5DB314661C97F46527BDB739F2431AE1671C87F"
+        },
+        {
+            "file": "content/Common/Object/MtryB.szs",
+            "hash": "BD532D572A4A2E1F52B698DA409BBE380582362D1404B10D5B3602A4567B565D"
+        },
+        {
+            "file": "content/Common/Object/Olift.szs",
+            "hash": "EB299961665D55A2F1655222F6E829D8FB23BD1F8FCC668514DA9078D1A2C70C"
+        },
+        {
+            "file": "content/Common/Object/PName.szs",
+            "hash": "7D87803917ED80CB9404AD5ADCD3AB97164E5D52741A76274094376AEC549955"
+        },
+        {
+            "file": "content/Common/Object/Po.szs",
+            "hash": "94D5EE9A51253B405C91E990DF13C6F2B78FEEDD3D9989F1D63354CD8AE8589A"
+        },
+        {
+            "file": "content/Common/Object/Pz.szs",
+            "hash": "808F3B139629DF2FDC15CF03868354E0A6FCE908E55F99B0E13D8029D9CE40CE"
+        },
+        {
+            "file": "content/Common/Object/Salvage.szs",
+            "hash": "4548162ED4367EDD4C6CD856EEFCBFCBCA9FDF20D349AB2D7147EBE4DF743809"
+        },
+        {
+            "file": "content/Common/Object/Sarace.szs",
+            "hash": "97A2B9E6B092383F442A9CB313E495B9850FE74027539F17642B91BCA0100203"
+        },
+        {
+            "file": "content/Common/Object/Shand.szs",
+            "hash": "D784159A1686D8537E955CFEBB98D79A68BD0CF854B47821CE79AA6BE75735B4"
+        },
+        {
+            "file": "content/Common/Object/Shinju_d.szs",
+            "hash": "B7D573538C5A6E6310D7322EA2E4098A97D6F005C2730A74590AF2C1D26B355A"
+        },
+        {
+            "file": "content/Common/Object/Shinju_f.szs",
+            "hash": "5D8F63D886A79ECFB4CB741155640E94A5C521FE830E1ABEB91848B937C6A7BE"
+        },
+        {
+            "file": "content/Common/Object/Shinju_n.szs",
+            "hash": "CA255CBA6A4F49572E1E05D7F104AF9629D332458AA69FF18F31805811858BC1"
+        },
+        {
+            "file": "content/Common/Object/Swtdoor.szs",
+            "hash": "846EF32AB88DE6DD95217479E0D6089939C9DE0E5F2DDE52F9BC9EE958D486E1"
+        },
+        {
+            "file": "content/Common/Object/System.szs",
+            "hash": "0C58FA6AE79FAA8F361356411EEC6A7AE652D44D64D985EBB647C8EE9206AD30"
+        },
+        {
+            "file": "content/Common/Object/Tgflag.szs",
+            "hash": "6B720D6DC7D698C1086B1F4E1B5DFC34263E2822F8143237E5A0A8F91810C773"
+        },
+        {
+            "file": "content/Common/Object/Tkwn.szs",
+            "hash": "7E710E4426EE405A67A940CFC23CEA4153DE8E4B8D24BBC7C4DABC1CE7192163"
+        },
+        {
+            "file": "content/Common/Object/Tlogo.szs",
+            "hash": "8F1751D50BC4E3D74184AA35B1DA5E5BE0015153FE4B08CD7AD75E4265D8BCA7"
+        },
+        {
+            "file": "content/Common/Object/VBinY.szs",
+            "hash": "4F4D49C22FDF9ADD236A2618EAAC823E99BBB393BC101775F0CD11B1280BB972"
+        },
+        {
+            "file": "content/Common/Object/VamuY.szs",
+            "hash": "8A0C59D29CC92DEEBFA14303D15C1AE4735ADD7204DD76B0928CDD0D439CF471"
+        },
+        {
+            "file": "content/Common/Object/Vamuk.szs",
+            "hash": "C2F4858733C0856593F4BDDF0EC586B5D8863D3A817B1DD4FBF7C1D039E24B2B"
+        },
+        {
+            "file": "content/Common/Object/Varfi.szs",
+            "hash": "FC1FEB29ED1B7D47BA5FB7365B9D15B9BE181758A03CEB63D0E4CAE36F7134B2"
+        },
+        {
+            "file": "content/Common/Object/Varrl.szs",
+            "hash": "82C078876E74A828F109C0ACEA0D32EDCE438546E1094A47E426E5BEAAC1FADA"
+        },
+        {
+            "file": "content/Common/Object/VbagE.szs",
+            "hash": "F106880696CD92FA48267E82B2556697E6AB39A273AF302054FA155DF7D7F25C"
+        },
+        {
+            "file": "content/Common/Object/VbagF.szs",
+            "hash": "FE75DA76F22228B657272B525AA892032D1EEB1494808E99E0564A2C6F810DC2"
+        },
+        {
+            "file": "content/Common/Object/VbagH.szs",
+            "hash": "695B65A4D5B770451345207301D5C1A0F5B70955AC165A4089AA439E01432794"
+        },
+        {
+            "file": "content/Common/Object/Vbelt.szs",
+            "hash": "7055C7E8C16ECF4617946186E9FE31831B565721F8418A0744343B24151FAF7F"
+        },
+        {
+            "file": "content/Common/Object/Vbeso.szs",
+            "hash": "6F5E1F94857A5E73110FD2D661A552787C9317FFF0EFC6BD354C1CAA63638C3E"
+        },
+        {
+            "file": "content/Common/Object/VbinH.szs",
+            "hash": "901DD78C331E5878D889879D26084B95B4851298414FFF8EDCC5C54D40A6F336"
+        },
+        {
+            "file": "content/Common/Object/VbinS.szs",
+            "hash": "25E35F4E09D298C28C4530294207F75692DD57ABC3194B00C4312322430E6E6D"
+        },
+        {
+            "file": "content/Common/Object/VbinW.szs",
+            "hash": "9572FE70BB37131B555D341E3241BD60409B7C4BAACB7E745FBA0468D79557FF"
+        },
+        {
+            "file": "content/Common/Object/Vboko.szs",
+            "hash": "1613EC6B81E67BA5492AE1D8D2CE88FD5933A8C1F2363198FFBDEEE024D208B1"
+        },
+        {
+            "file": "content/Common/Object/VbomL.szs",
+            "hash": "A7162EBC232ABAA0BFEEA3074224541F7348E9C7A12E2FBF34AAE6E2F2C8AB9E"
+        },
+        {
+            "file": "content/Common/Object/VbomM.szs",
+            "hash": "8A032756438C6EB4115BBFE1E17BA91AE6291831FDB0096D212EDA0427C5CB5A"
+        },
+        {
+            "file": "content/Common/Object/Vboot.szs",
+            "hash": "FAA747B06D5BCFEEABCBC1B8E763C2299B815118FDE6E67024F3A9B9A3E3C475"
+        },
+        {
+            "file": "content/Common/Object/Vbow.szs",
+            "hash": "E6289DD1CA102420D3B48C379897A0531F1767C281D1F9A116079E3D214D9A87"
+        },
+        {
+            "file": "content/Common/Object/VboxA.szs",
+            "hash": "8A436E28EE681FBA195D35BB929542B5E24A15FD95273BBB57A55C72F0144BEE"
+        },
+        {
+            "file": "content/Common/Object/VboxN.szs",
+            "hash": "1333D9DF08A4B4C84B69F89AD4347C147C35857D063AA8BD4247D04C87974F92"
+        },
+        {
+            "file": "content/Common/Object/Vchin.szs",
+            "hash": "F8816714A2D88A0B3D04A5BE57E562E6CEE72BDFF5C179BAE516221542C3F98A"
+        },
+        {
+            "file": "content/Common/Object/Vchuj.szs",
+            "hash": "89228BE324FBBAC855082B4FFD46B00B297FC1B6AFE06F99F61A9588A05010AC"
+        },
+        {
+            "file": "content/Common/Object/Vdoku.szs",
+            "hash": "47C6129AF15475C7F21121BE6434BBF010EFF84A4C8F19D4D4110CEFA7E37F9D"
+        },
+        {
+            "file": "content/Common/Object/Vdora.szs",
+            "hash": "99C2E5A2C77B36B60DA5DBA2B6E7A32AC3ED230A4199AA83C170C93AE9D50FBD"
+        },
+        {
+            "file": "content/Common/Object/VdunC.szs",
+            "hash": "049E2845294E39442397BD13CD0DCC14068173B95B344F3F431F8481829A2BFE"
+        },
+        {
+            "file": "content/Common/Object/VdunM.szs",
+            "hash": "5F9529418E1DF156AA8FA78D72EBD74DBCB33F422B195B68A3129CAB58327BB7"
+        },
+        {
+            "file": "content/Common/Object/Vesa.szs",
+            "hash": "24434A8EBB4D2CC1DB7C50A2F31142E505EFDDE9F58F03647A777D2B7124AF73"
+        },
+        {
+            "file": "content/Common/Object/Vfan.szs",
+            "hash": "61F9471DCBEF8B48C6E412012FBF87FFB3B901C75D92AE5C1A2E8EF20C042DD0"
+        },
+        {
+            "file": "content/Common/Object/Vfuku.szs",
+            "hash": "B3D5417BF10A20C96BD03C9394B71A4EA7A5C55291C01BB1CE5AD8EA10406081"
+        },
+        {
+            "file": "content/Common/Object/VgnFD.szs",
+            "hash": "EFF2CE113795DAED920AB75EA2CA4A02AD2C9B63E0921C89ACAB8C5C3B13622B"
+        },
+        {
+            "file": "content/Common/Object/Vhamm.szs",
+            "hash": "5FB8EDB440F00AC6782170227E39D304A0FCB4F20B556776B11A3F0C7CC296B4"
+        },
+        {
+            "file": "content/Common/Object/Vhane.szs",
+            "hash": "1D9F4933863C86126A50D00EE16BC4CAD4ED6FE1C75F97DD57196A2D2EE85F6B"
+        },
+        {
+            "file": "content/Common/Object/Vhapp.szs",
+            "hash": "E716FEE73D311CE9616939AC795E5A4E87B55F11120460644DA2294A749A4AAA"
+        },
+        {
+            "file": "content/Common/Object/Vhkak.szs",
+            "hash": "438C302527C07595D7B17C44AF4851E3737AAFAFEEDE1CD772172B01615AB241"
+        },
+        {
+            "file": "content/Common/Object/Vho.szs",
+            "hash": "9DB642C8A256126098D9956A2D8F78851C03854527219D04C03725D3F394C42E"
+        },
+        {
+            "file": "content/Common/Object/Vhook.szs",
+            "hash": "2CD952BC5BE9C4F13539B692A2D0BF9E867ED66A7B143CA1318D297D6642A424"
+        },
+        {
+            "file": "content/Common/Object/Vhutu.szs",
+            "hash": "2BB949F7A07742AEC71632E184E27A88D5BB71B6EC017DF9E0C9D0597FACC2FB"
+        },
+        {
+            "file": "content/Common/Object/Vhyoi.szs",
+            "hash": "C1042D06D27D7156F84D99AF0CDACCD6FA2569D5958ECED2AA88BC880AF91A92"
+        },
+        {
+            "file": "content/Common/Object/VkeyN.szs",
+            "hash": "BBAD79AC2E6C276660B338BA815D6EFF575B20CC6192B0F202EB6648726F89DB"
+        },
+        {
+            "file": "content/Common/Object/VleMG.szs",
+            "hash": "0DBC88CE5C6F74674CB4A174D0276F2EA7C004A6989567087C937DEED8702AD9"
+        },
+        {
+            "file": "content/Common/Object/VleMO.szs",
+            "hash": "692339782AA114B077C091F763707763E1F33017B6DF9701DDFD960AA7DEA321"
+        },
+        {
+            "file": "content/Common/Object/VleOF.szs",
+            "hash": "3FF3558A2F6855829294F749F802C413D97686169FE8AACD008DBDAA80B96BE7"
+        },
+        {
+            "file": "content/Common/Object/VleTT.szs",
+            "hash": "424A9DD9C495C8F184F1276E59C637B0DB39E849ECA8B6BE75592A76AFF7A4A3"
+        },
+        {
+            "file": "content/Common/Object/Vleaf.szs",
+            "hash": "FEC758D1A976A72D08E6AE6EF52CA492C30148BA89D291089838CFC6F89AC28F"
+        },
+        {
+            "file": "content/Common/Object/Vlupy.szs",
+            "hash": "ED302C93AAF51F69C1F399966EEB21A2884E55C51E26DCF1821FE1AD892A4530"
+        },
+        {
+            "file": "content/Common/Object/VmagS.szs",
+            "hash": "A72E5070A0F266749F92A4EE921FB1C0E5764019547DE0FC5BF58FECF4B69841"
+        },
+        {
+            "file": "content/Common/Object/Vmant.szs",
+            "hash": "B7638C7D2CB8BA0EC8EE0E8D22D3F01B3EAD5564FE974205B3C7893F6923821F"
+        },
+        {
+            "file": "content/Common/Object/VmapC.szs",
+            "hash": "39139AB19D4E89554A6810788314B1F84FA8A598C0739310C6EB5A9CEF19A787"
+        },
+        {
+            "file": "content/Common/Object/VmapG.szs",
+            "hash": "52795A89B5CD2B3A53F2BC2E2DC60B3169239A7D3076550A9E7B45026A81E804"
+        },
+        {
+            "file": "content/Common/Object/VmapH.szs",
+            "hash": "47ED8006342A614AAC9087AC4AA4C912C480F931AE9C1D8DEEF1E19C05831C63"
+        },
+        {
+            "file": "content/Common/Object/VmapQ.szs",
+            "hash": "25A6EFCF722F28FEFB962F1128CD9A540B71CF4700712A475B6D607583AB6A71"
+        },
+        {
+            "file": "content/Common/Object/VmapR.szs",
+            "hash": "F6DE912101449278153D5B8BD5233A2D52B71CB7A77CC0FD25E22292E81B1FA5"
+        },
+        {
+            "file": "content/Common/Object/VmapT.szs",
+            "hash": "E5DE71C0B3AADEB04BD5FF5A538B952C2BD2DDCEF20B2DADB3E6DFECE8D9AF28"
+        },
+        {
+            "file": "content/Common/Object/Vmr.szs",
+            "hash": "67E3579F70755A26C04661B2534A48E45E10783D7B6C7B34145AB23C20473D77"
+        },
+        {
+            "file": "content/Common/Object/VmsDZ.szs",
+            "hash": "0EE68F3C039E5E621B21EC23145A4A7A1350FE0CA067B24C09309B8902A4EF6C"
+        },
+        {
+            "file": "content/Common/Object/VmsMS.szs",
+            "hash": "6D5178217D6F3501DD48F47843AC96D5F8227CD559616CF598A2D5F5064BF846"
+        },
+        {
+            "file": "content/Common/Object/Vobj00.szs",
+            "hash": "A7F1E4A741C60DFAD0173F4174062634AD915EA3A8B5D8020B3780559176A28F"
+        },
+        {
+            "file": "content/Common/Object/Vobj01.szs",
+            "hash": "E49B1A062612E30D66BA2821368C1DA5AC2589CDCAC5CB58FCDF9DD76A428294"
+        },
+        {
+            "file": "content/Common/Object/Vobj02.szs",
+            "hash": "574722B9B4994900A410591F4F915C2B38F6AD3743B7A23A617095236BB18F8E"
+        },
+        {
+            "file": "content/Common/Object/Vobj03.szs",
+            "hash": "4E8578241F5B5B3682CA38E6CF04D28E30B8FDFDC56452EC7C164E8DA9B2BDE4"
+        },
+        {
+            "file": "content/Common/Object/Vobj04.szs",
+            "hash": "891CD341A527F8581C6F3FA06DE3BFB2B1EB4BF2F578659173AE4824EDC16AA5"
+        },
+        {
+            "file": "content/Common/Object/Vobj05.szs",
+            "hash": "719D37D2F647EFEC3A5450FD90E4617F0A3F4E0EDF0F414E830A998A71D686D7"
+        },
+        {
+            "file": "content/Common/Object/Vobj06.szs",
+            "hash": "C899B5130F0EEC3AD00A11D21594592A07FE920DA784CB47123147B1AD2E1942"
+        },
+        {
+            "file": "content/Common/Object/Vobj07.szs",
+            "hash": "9A3C69D5C6301A75A634202072550582287E489CA2CB7DD29B9D62944F17868D"
+        },
+        {
+            "file": "content/Common/Object/Vobj08.szs",
+            "hash": "0D118E7DEDC3A132AA00AF544DB54FEB36BA29DFB10598CBE6C6779405636889"
+        },
+        {
+            "file": "content/Common/Object/Vobj09.szs",
+            "hash": "890E2B4ABA119EAF041F36795D1E950E7C992BD67CE3A613338B0C7F2409AA34"
+        },
+        {
+            "file": "content/Common/Object/Vobj10.szs",
+            "hash": "0E788536B706002288681F99CA8F57C86D463F8105E89342E1384E89502B909B"
+        },
+        {
+            "file": "content/Common/Object/Vobj11.szs",
+            "hash": "D970FBD1D49561159612E1D464D72EA7CB436C38734F193A9C7E4123DBCC0DB3"
+        },
+        {
+            "file": "content/Common/Object/Vohom.szs",
+            "hash": "CBEA6AA080850B7BAE06AC1694F631C76F39BC3E347709AA626A380B3AACF55D"
+        },
+        {
+            "file": "content/Common/Object/Vpbot_00.szs",
+            "hash": "C05C34B9C2E1D18E06A0B0BE91C5663B4668B18B16565B93FE9FBB577E95F6B9"
+        },
+        {
+            "file": "content/Common/Object/Vpowr.szs",
+            "hash": "C4CEE08EEDA49635865718CA0636B544D38A1C641C2B1FC3EBE87AFA15518D1E"
+        },
+        {
+            "file": "content/Common/Object/Vrope.szs",
+            "hash": "C1329077532FEDFF3672A96549B7CFC1859BA1FB6921ADAAB7CF29CC2E9DFD77"
+        },
+        {
+            "file": "content/Common/Object/VsaiL.szs",
+            "hash": "3095F091F3C8813FAA754EE62FE86B3158170C19AB54B1075F6FC46A7946D42C"
+        },
+        {
+            "file": "content/Common/Object/VsaiM.szs",
+            "hash": "1A8664129EA51AB893D0EAC991D339C1530C558CE9521A039B9EFDF60063625D"
+        },
+        {
+            "file": "content/Common/Object/VshiM.szs",
+            "hash": "A9F71E812B7D971568B307F04358B5D512BB2A80D0471211737C5D51BF7DFCAF"
+        },
+        {
+            "file": "content/Common/Object/VshiN.szs",
+            "hash": "949C68E4AA7E478927B3CF033607D3DCBCA657712A593B1B9982F9D15DA557DA"
+        },
+        {
+            "file": "content/Common/Object/Vtact.szs",
+            "hash": "0AEE35F21D216CEE5C3511C1C2DB5855AA17435644AE0AB88679396B4A17C53D"
+        },
+        {
+            "file": "content/Common/Object/Vteng.szs",
+            "hash": "9FBAC250F9D4DBD056376DCBB125B809AFC6515DB0A5C6861693A3360D3DB258"
+        },
+        {
+            "file": "content/Common/Object/Vtil.szs",
+            "hash": "E1775880A2CC57CA1FA2C4DB57B59469F5DA37AA0548FEDC9F37BFFFCB2E4D4A"
+        },
+        {
+            "file": "content/Common/Object/Vtin1.szs",
+            "hash": "611DF839079830746BF8C6046306C5242F6E75E5DD7D2A6B4E7DFA94F36DA5F0"
+        },
+        {
+            "file": "content/Common/Object/Vtin2.szs",
+            "hash": "BBC56260FE1456138DD6697C99A3CF231D6E80ACEA28A1D14D686A6245E78F2B"
+        },
+        {
+            "file": "content/Common/Object/Vtin3.szs",
+            "hash": "664FDA134496B06BEEF2CE9F6BC06DEC5C80D243A4F81F890F5D2585CC65B281"
+        },
+        {
+            "file": "content/Common/Object/Vtin4.szs",
+            "hash": "0E3BB04DD14E731C9B3148DD33707024D0B2369ECCB9DFB9D84BC95B649FD48F"
+        },
+        {
+            "file": "content/Common/Object/Vtin5.szs",
+            "hash": "8C9F5BB5FDDCFC3C1F3718915ECB0FC4D864F2763CCCA3AFCD6CE5AC66609946"
+        },
+        {
+            "file": "content/Common/Object/Vtri1.szs",
+            "hash": "891F835B22656585AA098B2D2AC2BCCF90156385B2042DBFB80B06793AC6C1E5"
+        },
+        {
+            "file": "content/Common/Object/Vtri2.szs",
+            "hash": "6C00D49748175DA0D0A86D4DF763ED99FBFCF236876122A7EA2FF4D74046645D"
+        },
+        {
+            "file": "content/Common/Object/Vtri3.szs",
+            "hash": "05F3557C751A8B56A3180522DA849FC934C37100E7D4796F8D1E19F0AD202953"
+        },
+        {
+            "file": "content/Common/Object/Vtri4.szs",
+            "hash": "A04E5E4BF28388A560746FB4D6114C35F92D9C81B862A8C3F7C9A6DD4D346F5F"
+        },
+        {
+            "file": "content/Common/Object/Vtri5.szs",
+            "hash": "4E9917997AF5E40F2F035C178002020BB0933BAB373AC493C72EA1DD560EC6C2"
+        },
+        {
+            "file": "content/Common/Object/Vtri6.szs",
+            "hash": "7A87F7F0E1F90274F13A811556759A67200298D2D0565B01945BED29C1FAAB8A"
+        },
+        {
+            "file": "content/Common/Object/Vtri7.szs",
+            "hash": "B8EBEF1160BED462934B822E624B2134986F1649FA446C16DF036822D9F9D861"
+        },
+        {
+            "file": "content/Common/Object/Vtri8.szs",
+            "hash": "B2A0B6ADCF2F90F9BAE1B07BFA25FA8C1CB0CFA99B97DEDCFF1130EFFBB63DE2"
+        },
+        {
+            "file": "content/Common/Object/VyatL.szs",
+            "hash": "87E3452CA88F2CF83D7CA99E9D8C24107FC894F01CDB099663974BEAB9FAD399"
+        },
+        {
+            "file": "content/Common/Object/VyatM.szs",
+            "hash": "AE82BB4C6AADA7D47D853C0AC280BF4407E1D4C60A2C711B5FBD7BC17239DA0C"
+        },
+        {
+            "file": "content/Common/Object/VzouK.szs",
+            "hash": "8461753EF6E564180BD5ED2906C7D0E498FFCED0C8F655FE9E4C4E3537A301A3"
+        },
+        {
+            "file": "content/Common/Object/Wbird.szs",
+            "hash": "A5377A8FB00A80CC62E40119A76F5432D0DCECD62E58093D69EC8B1DBB3817D3"
+        },
+        {
+            "file": "content/Common/Object/X_futa.szs",
+            "hash": "EFCD2D6539C495B6547C8E6B6A6F5E05E5F3D87D80E785C0D0DFB8C6BD4CBBDD"
+        },
+        {
+            "file": "content/Common/Object/YLzou.szs",
+            "hash": "3A5652C7300D4241CA21873AED41F960F7504A68D70F0D301CC6483F19673FEC"
+        },
+        {
+            "file": "content/Common/Object/YakeRom.szs",
+            "hash": "450EB7D4B650D0B5217D2D083CA1F65E3585CD59DB36163B1D7E3F380ED1E62E"
+        },
+        {
+            "file": "content/Common/Object/Ybgaf00.szs",
+            "hash": "C32C25A3F61DB0BDDB200C60CC5877F8D2590AD67195E5EE9DECEC7C1043407B"
+        },
+        {
+            "file": "content/Common/Object/Ycage.szs",
+            "hash": "61BB5FC76D7F91191B7E1BA6FD0BF1F199E0558EA2E610B4C228088DE1A0EE57"
+        },
+        {
+            "file": "content/Common/Object/Ygcwp.szs",
+            "hash": "0F5F69A065F3EA24917E8E72BF77C2A4A0D71674DB287C14DCEE01FE1C68A654"
+        },
+        {
+            "file": "content/Common/Object/Ysbwp00.szs",
+            "hash": "17F080C8E67BF7466C19829C2553CC3F298B93E867021372B37404CD403C587D"
+        },
+        {
+            "file": "content/Common/Object/Ysdls00.szs",
+            "hash": "3E93F7468A6772F2033C72A1C9DB87ECE6FEFF17D61D2A91FFFB7D42FB9B1294"
+        },
+        {
+            "file": "content/Common/Object/Yswdr00.szs",
+            "hash": "C1FDF966AAD295ECB322AE32E6D03AAA945CDF3A2902AD21291688278F04A6C6"
+        },
+        {
+            "file": "content/Common/Object/Ywarp00.szs",
+            "hash": "7C70696F12E2DD4B0781091DCAF2254D242B1C93C97E299E6A925E199CB5A324"
+        },
+        {
+            "file": "content/Common/Object/Zk.szs",
+            "hash": "3F37B190557B8829D06F5D87449223C712876E5B4639FD1B3FF4038E1D02EBC9"
+        },
+        {
+            "file": "content/Common/Object/Zl2.szs",
+            "hash": "3710B811D22C70037BB6EDF070283EF8A3DBFC1A6D328345A940703DBEA9FE1B"
+        },
+        {
+            "file": "content/Common/Object/dmgroom.szs",
+            "hash": "0001FB9C735CA5BA4644BCA2DCF1C4AD82CAFD3FDC7349965C96829AD25390A2"
+        },
+        {
+            "file": "content/Common/Object/tele_00.szs",
+            "hash": "5B714DC746BB8BCE3DE72B264C5134872FAE035CEA82EAC864001169840DCDA1"
+        },
+        {
+            "file": "content/Common/Pack/first_szs_permanent.pack",
+            "hash": "EA6ADD9C1F77736E56E10E809E28558F333062A7501ACFBBE3D8713F7CF9D9A1"
+        },
+        {
+            "file": "content/Common/Pack/permanent_2d_EuEnglish.pack",
+            "hash": "1BE052731649D4EF2B7D6CCF35C16C42625C8DD318B3BB9741DC248822F512B1"
+        },
+        {
+            "file": "content/Common/Pack/permanent_2d_EuFrench.pack",
+            "hash": "A723C72E677077F1436ACA75EE39ACC1968E3A7EFC20324A1C63E81E3FC6CC98"
+        },
+        {
+            "file": "content/Common/Pack/permanent_2d_EuGerman.pack",
+            "hash": "787FC7C004AB5C631BA472CE9AD96AF43F0677CEDE4AB92C41EC8482FB913594"
+        },
+        {
+            "file": "content/Common/Pack/permanent_2d_EuItalian.pack",
+            "hash": "EEAB31A53DCF000426FD394CDA6D7A5AD79EDE53418E848F7F02269088C4D553"
+        },
+        {
+            "file": "content/Common/Pack/permanent_2d_EuSpanish.pack",
+            "hash": "80005753B3442DD30D0104D317D5125E42395107FE6077EF8E30BC9AD8727FC9"
+        },
+        {
+            "file": "content/Common/Pack/permanent_3d.pack",
+            "hash": "91884E7C7AF2696FD3348B98EE9215934BC43A6D4622D6BA6A3B6EAD0C67806F"
+        },
+        {
+            "file": "content/Common/Pack/szs_permanent0.pack",
+            "hash": "0CA778C94FDBE100F1FF9C4EAABE7D4BCDF89C370A0B31DA37F7CE7169BDC3F5"
+        },
+        {
+            "file": "content/Common/Pack/szs_permanent1.pack",
+            "hash": "FF858B9EF51BA53D477843AC966D57508316DFFCFC6A069EEB2B927D9F407778"
+        },
+        {
+            "file": "content/Common/Pack/szs_permanent2.pack",
+            "hash": "627CFB61F074AABF1F8E2E50B3E58CBE051C9D812634C72B868E87A0057B69CA"
+        },
+        {
+            "file": "content/Common/Particle/Particle.szs",
+            "hash": "FFA36B68C23612B9C22C273133527FD321BB5BC258C9E0369232E14D81AF5CD3"
+        },
+        {
+            "file": "content/Common/ProgramTexture/ProgramTexture.szs",
+            "hash": "167CFE542C9B92F29031494023E939BC6AB8E21C8B779EB81970B3C40373A6E8"
+        },
+        {
+            "file": "content/Common/Shaders/Prim/wii_pipeline.sharcfb",
+            "hash": "155583F4A57B1F671A80C91BF81A27099B7BAEA701637C006BDE8D05221EFAA6"
+        },
+        {
+            "file": "content/Common/Shaders/particle/wii_pipeline.sharcfb",
+            "hash": "C4A110673A0F848CEBCC22EA2F8A99626367BA456B3B0539724ECD7BEFFE9472"
+        },
+        {
+            "file": "content/Common/Shaders/render_buffer/render_buffer.sharcfb",
+            "hash": "DD4F04C43257FA77B512950964117344653C47DF09FA513F5D0D03229BAC9930"
+        },
+        {
+            "file": "content/Common/Stage/ADMumi_Room0.szs",
+            "hash": "F8DFB724E312C95DE5A682B0090F03BF7729A0A5DC848CB0FA24BD1E9A826630"
+        },
+        {
+            "file": "content/Common/Stage/ADMumi_Stage.szs",
+            "hash": "BC03C12E78636CBB794A49E589A0D6A301CB54029A0B3711ADC041BDCEA39C15"
+        },
+        {
+            "file": "content/Common/Stage/A_mori_Room0.szs",
+            "hash": "E42438E663438052C54BB566CFF920F400590CBF37163E08E111EF02EFE0F69E"
+        },
+        {
+            "file": "content/Common/Stage/A_mori_Stage.szs",
+            "hash": "74F22A3C4C30FC42F08129D7F3B98206CF677D7AA655178AC0F403398F972D86"
+        },
+        {
+            "file": "content/Common/Stage/A_nami_Room0.szs",
+            "hash": "6140B34ED8685A19BC9F3E9633E91BF0D78A4B4C17E3FF50D8E1AE64314A0FD3"
+        },
+        {
+            "file": "content/Common/Stage/A_nami_Stage.szs",
+            "hash": "CBC007D164B90BB5E8836D2D55078E56756B35704A07FA5DBFD2A302FFF229BD"
+        },
+        {
+            "file": "content/Common/Stage/A_umikz_Room0.szs",
+            "hash": "FAFA95C7A17EA1C6CC081105E72FABD47A3A9A956F3E80D773C2C921F06091D5"
+        },
+        {
+            "file": "content/Common/Stage/A_umikz_Stage.szs",
+            "hash": "0128FDC9FD05A28531D8D0DAB7EAA3EAB4C8DAEDBDEA9FEDD06465610F914095"
+        },
+        {
+            "file": "content/Common/Stage/Abesso_Room0.szs",
+            "hash": "61C5C8E6CD03529D65DB947ACA7907E6330038B0B474DE32F5C2A44D9434C5AB"
+        },
+        {
+            "file": "content/Common/Stage/Abesso_Stage.szs",
+            "hash": "67A9CB81CBA657C6278BD94DD965D82351E5AB3E6E813ED1DCB4CF49E94E5337"
+        },
+        {
+            "file": "content/Common/Stage/Abship_Room0.szs",
+            "hash": "0815729A7F41E49F58C5FF762B893D10C7C855FF52242F7735BA2CE7B3E59E86"
+        },
+        {
+            "file": "content/Common/Stage/Abship_Room1.szs",
+            "hash": "CABCC9DE44EC069AE9504398D9BE6786B64288B01B959D2CD87032C38CCA1913"
+        },
+        {
+            "file": "content/Common/Stage/Abship_Room2.szs",
+            "hash": "653B27EB3385B60F9993F5B5297FE11E64BD6E3721EF21895380CCBF1C0623CA"
+        },
+        {
+            "file": "content/Common/Stage/Abship_Room3.szs",
+            "hash": "5E6BB1045DD6FD08C1EB2D08C34EFE333912212FB4C2B17F927D5FA3C2AF6961"
+        },
+        {
+            "file": "content/Common/Stage/Abship_Room4.szs",
+            "hash": "0DE231D55F238DAFA26F797F9DD6544C61BD81EACC8D5175AEEFE0F9E9AAD755"
+        },
+        {
+            "file": "content/Common/Stage/Abship_Room5.szs",
+            "hash": "ECB92C8E1AB743D8E70686D76FA12F554010094C984F646D334EC18A67BEF572"
+        },
+        {
+            "file": "content/Common/Stage/Abship_Room6.szs",
+            "hash": "4CA4A5F1CCA354CDDC6C3A2331D01110226E74EEF64E050547E0BC296FD0B08E"
+        },
+        {
+            "file": "content/Common/Stage/Abship_Room7.szs",
+            "hash": "4A6BE442E4BAFFFC70A336B7F6623B89FE88536DC8AC9572BD9D7CE68D0E9345"
+        },
+        {
+            "file": "content/Common/Stage/Abship_Stage.szs",
+            "hash": "B1FC30573B8180503FF1F7FFF8277DA32F2AD652F7878E84683DF1F32BF8BED5"
+        },
+        {
+            "file": "content/Common/Stage/Adanmae_Room0.szs",
+            "hash": "EBC51A9CD6D7D0FE7FE46ACB2D224C68FD2C1196B7FEECBFA180914BD14FDB59"
+        },
+        {
+            "file": "content/Common/Stage/Adanmae_Stage.szs",
+            "hash": "164E589713D935833BE888831D8AD2528F3C033E4E2D7A12BAF9AA11720BBCC8"
+        },
+        {
+            "file": "content/Common/Stage/Asoko_Room0.szs",
+            "hash": "CF79D170B3640C5F2A3AEC79F82CE20D4BE96BD8358A5B98C5CFE12A8EC8BF17"
+        },
+        {
+            "file": "content/Common/Stage/Asoko_Stage.szs",
+            "hash": "F9F708FC308B8EE2DCF56F32B15565BE58A0B98B9F5696EAC29459223869F1B8"
+        },
+        {
+            "file": "content/Common/Stage/Atorizk_Room0.szs",
+            "hash": "269626C5B73695522E49106500307CF422B76584E17BB3E149D6EEB935FB6FD0"
+        },
+        {
+            "file": "content/Common/Stage/Atorizk_Stage.szs",
+            "hash": "9C04DD51A0B826DBE1023429BBA4E894DB171DD273564064BC677671493798E8"
+        },
+        {
+            "file": "content/Common/Stage/Cave01_Room0.szs",
+            "hash": "53254251721FA6F8C30B10C9C1D2609FF7974AACD65898CB09EC161B787AB87D"
+        },
+        {
+            "file": "content/Common/Stage/Cave01_Room1.szs",
+            "hash": "D8EE06AAD3F79E31FC4AD2EC5352A4CB4D162464994AE9474011C8420C6E978E"
+        },
+        {
+            "file": "content/Common/Stage/Cave01_Stage.szs",
+            "hash": "45AC0F623FABCA2AB5ECE25C7B471B79D4F0E53F9B8DE99CAA2CC8761E617B6B"
+        },
+        {
+            "file": "content/Common/Stage/Cave02_Room0.szs",
+            "hash": "ADB4F32401B0C9CC9772E6AD1640C313A068E9854B05CA267A18924B977A571F"
+        },
+        {
+            "file": "content/Common/Stage/Cave02_Stage.szs",
+            "hash": "39B997FBB8941F217F56A6437843B5DC996A01FDE075211B4194BC6B959F9274"
+        },
+        {
+            "file": "content/Common/Stage/Cave03_Room0.szs",
+            "hash": "2DA61AD783A26F82444822E117931F2CEE363F1DA46704BD347B8D93177E8CDF"
+        },
+        {
+            "file": "content/Common/Stage/Cave03_Stage.szs",
+            "hash": "A2E32CB20F3FCA6F937DC3F5A1F6D3FA17C615CC3218EB5290D81B4D6BC01FA0"
+        },
+        {
+            "file": "content/Common/Stage/Cave04_Room0.szs",
+            "hash": "DD0CEC44A0C42DDBA75A92949C150BB5838DC7FC67F7A889B18D5A25D59359E7"
+        },
+        {
+            "file": "content/Common/Stage/Cave04_Stage.szs",
+            "hash": "013CFB6391469387F1695F86593D2C822C23DFD5581013235287E1D4C2272B8A"
+        },
+        {
+            "file": "content/Common/Stage/Cave05_Room0.szs",
+            "hash": "A16B69C36B3094B88ACD99B6B0E3E53275CE51EE3F0D30E4F1E7A4F532D332AF"
+        },
+        {
+            "file": "content/Common/Stage/Cave05_Stage.szs",
+            "hash": "769B69236DD9A9ABFE4F95F5CE90D2F79A760E550BB626EFFEB5F4708F6B1A45"
+        },
+        {
+            "file": "content/Common/Stage/Cave06_Room0.szs",
+            "hash": "44A09D91BDACB268B75E3BB40990CB09F8D08F26004E4ABBC7C2985E64D01DD8"
+        },
+        {
+            "file": "content/Common/Stage/Cave06_Stage.szs",
+            "hash": "DC7FE43CB8D45A502023ED3AD980E888EB6842B95FAF652B1DAD2E18C441DECD"
+        },
+        {
+            "file": "content/Common/Stage/Cave07_Room0.szs",
+            "hash": "315ED6F97C4B65A6089DB768C790B730DA519D271CAB461F3F0BFC51E426A220"
+        },
+        {
+            "file": "content/Common/Stage/Cave07_Stage.szs",
+            "hash": "7B6FAB090C2040FD08CC7BFC0B5304416843498D40FC3357322634D4628EE73F"
+        },
+        {
+            "file": "content/Common/Stage/Cave08_Room1.szs",
+            "hash": "4049F2D095D8252EF191F8BDA25110787DFF3FE8A64FFF0F26D63918B8A5F957"
+        },
+        {
+            "file": "content/Common/Stage/Cave08_Room2.szs",
+            "hash": "AAC817C8776A2CFA5D6479DA8CB714C94FBDD9281F5CA12FD675A063E55A94F8"
+        },
+        {
+            "file": "content/Common/Stage/Cave08_Room3.szs",
+            "hash": "12B008235DC6A728D0E523397128258BC902EB5BF81DB6FADA48997BAEC08009"
+        },
+        {
+            "file": "content/Common/Stage/Cave08_Stage.szs",
+            "hash": "7EF29E12D7F8995375FF28B49B959853275E8972328042EA01E9433841C5F7B7"
+        },
+        {
+            "file": "content/Common/Stage/Cave09_Room0.szs",
+            "hash": "A9AB266F8AD953705F4A9D3407501EA5590F964E5BE498F4E2A67AB26C7347D2"
+        },
+        {
+            "file": "content/Common/Stage/Cave09_Room1.szs",
+            "hash": "954FF8A65F4C3AFEE2C2C8C290E4868EA0CAEDCEA54E01289084D77952AE23C1"
+        },
+        {
+            "file": "content/Common/Stage/Cave09_Room10.szs",
+            "hash": "365E2D0213E8A77F0D4991C8F8EFE944C5A3B924A6A2DD64D8B5FF871D91C39B"
+        },
+        {
+            "file": "content/Common/Stage/Cave09_Room11.szs",
+            "hash": "E12D83B272DFA7B6A2C2B6DA4511BE52FD45B957830B805568906B3AF28F99A3"
+        },
+        {
+            "file": "content/Common/Stage/Cave09_Room12.szs",
+            "hash": "2138937560827CDF87C600482F6428FFD03CC87EBF7833F8EECD80EB94A26C15"
+        },
+        {
+            "file": "content/Common/Stage/Cave09_Room13.szs",
+            "hash": "E7CC21257A7D4C3E08BA805429C159815DD1E7DB4103B4A32D91A38D88DD1D0D"
+        },
+        {
+            "file": "content/Common/Stage/Cave09_Room14.szs",
+            "hash": "000B39143F080808491F4354635472172B442E83EEDEAA3309E8212FF228F1F2"
+        },
+        {
+            "file": "content/Common/Stage/Cave09_Room15.szs",
+            "hash": "BE4A9B02CA96C9962FB60A9461DA8F45CE4DD7EFD5205E878ACA4F1F70FFBA7C"
+        },
+        {
+            "file": "content/Common/Stage/Cave09_Room16.szs",
+            "hash": "74E1A535122CC07D60CFC2050B7B97D455B0B0B7790B4BBB2B6D53076FFAFBD2"
+        },
+        {
+            "file": "content/Common/Stage/Cave09_Room17.szs",
+            "hash": "03A69A32001B978CCE42983B03611F71E74D061C1C7B7317E7C231E33AE6D2D1"
+        },
+        {
+            "file": "content/Common/Stage/Cave09_Room18.szs",
+            "hash": "E3D8E3DD42842E089C823D5DAC93AF5FA180C46036C831DE8DB17DDCEC019553"
+        },
+        {
+            "file": "content/Common/Stage/Cave09_Room19.szs",
+            "hash": "DA499E1870A12EBE7ED0B9145FF859EFF19AD3EAD046C30C96509F6CE6E1499E"
+        },
+        {
+            "file": "content/Common/Stage/Cave09_Room2.szs",
+            "hash": "A24553CB92CFB36DE6D44412810001DC5BA272FC4FA975CCA8E483D5C12C69D1"
+        },
+        {
+            "file": "content/Common/Stage/Cave09_Room20.szs",
+            "hash": "B1375107E61C7F88626391B5D433426536A51A2033AD842C27E49704C90F98DA"
+        },
+        {
+            "file": "content/Common/Stage/Cave09_Room3.szs",
+            "hash": "C0C55D7F1942DD6098D70363567143073C82F87B85F3F0DDB38CBA3E379D32FE"
+        },
+        {
+            "file": "content/Common/Stage/Cave09_Room4.szs",
+            "hash": "E7BF8EB2C6F111501DA7977E3A939FCD53F19651B51B63BBC340D1DD3BC5908C"
+        },
+        {
+            "file": "content/Common/Stage/Cave09_Room5.szs",
+            "hash": "C45CE181E5D1593146423A0A1B7FD4A3CB0D7052F1BD58D0311B07BABD35923D"
+        },
+        {
+            "file": "content/Common/Stage/Cave09_Room6.szs",
+            "hash": "F3053EBE1DB33FC0A242FB0E7631AFAA9B8BD0B0A7586AE3FE3DA4E7663D8F7A"
+        },
+        {
+            "file": "content/Common/Stage/Cave09_Room7.szs",
+            "hash": "117167C81249F758A4BD1D3389A958771490AAE8970914B3D44F8131CCFACEB5"
+        },
+        {
+            "file": "content/Common/Stage/Cave09_Room8.szs",
+            "hash": "AB5EC9622B241B531FBA4232EAF5F3656E30F19030AB38CEE91DE5E2E53D85A0"
+        },
+        {
+            "file": "content/Common/Stage/Cave09_Room9.szs",
+            "hash": "91CD3DC8CE24F019DDE1F0147D3EF671C5F8EA2059B59D79615123D59685A29F"
+        },
+        {
+            "file": "content/Common/Stage/Cave09_Stage.szs",
+            "hash": "2B3CC0ED3B69915F9C5A3267D78957C0803A6A5BC28B10AC395A0BB34AAC7588"
+        },
+        {
+            "file": "content/Common/Stage/Cave10_Room0.szs",
+            "hash": "CF5348D2FCCE38CED474C98C1BD541038508F7199EBD5186797EE5B9CB67281A"
+        },
+        {
+            "file": "content/Common/Stage/Cave10_Room1.szs",
+            "hash": "A6B81FCA4DB8C14E29DF0C37A583F231D5664F96FD27B2C9E2E561C515EDF1C3"
+        },
+        {
+            "file": "content/Common/Stage/Cave10_Room10.szs",
+            "hash": "6286011B2FBD3D0F2C95DE91A8DFDC7AB1A4B058E3028CE0F90F87ADA77450E3"
+        },
+        {
+            "file": "content/Common/Stage/Cave10_Room11.szs",
+            "hash": "BCC37584C9543DF631383D06845D20C9435F8B101883A4158C29F624319BC176"
+        },
+        {
+            "file": "content/Common/Stage/Cave10_Room12.szs",
+            "hash": "23551A8B07636094E34E50C0011674ED57150678CD34614D3D972E65AA3BE3CC"
+        },
+        {
+            "file": "content/Common/Stage/Cave10_Room13.szs",
+            "hash": "60B21D9659FEFC9EC9E47350138317FEB6D966A2BC24A592F088C39A57324767"
+        },
+        {
+            "file": "content/Common/Stage/Cave10_Room14.szs",
+            "hash": "BAC177F9C30B4F78DAF82B61DBB01D1D82AA745EAD402C9FAE57BE124B22F64A"
+        },
+        {
+            "file": "content/Common/Stage/Cave10_Room15.szs",
+            "hash": "2BC64C92C66E627066AD6FD80AB71F534107379ECEC12D47E55151B5E72B547C"
+        },
+        {
+            "file": "content/Common/Stage/Cave10_Room16.szs",
+            "hash": "384B7B3CD34F03E312428FEF615516290418BA394F6DB6027BFCE730A25FAE5D"
+        },
+        {
+            "file": "content/Common/Stage/Cave10_Room17.szs",
+            "hash": "4A205F8E8F457C9D2BA3FBCA71E6FE7271E952A8D25B75713976896E206AD255"
+        },
+        {
+            "file": "content/Common/Stage/Cave10_Room18.szs",
+            "hash": "129067D62FC3EB2B82B554B5E63F3394266D567C211211DC506303F9B1F20FF2"
+        },
+        {
+            "file": "content/Common/Stage/Cave10_Room19.szs",
+            "hash": "351D5177E6874DF79AF8A7E680F5E226964822F042C3A38ABE91D776ABB6E937"
+        },
+        {
+            "file": "content/Common/Stage/Cave10_Room2.szs",
+            "hash": "7C09887021777D3AB0E6AC50D36A56E5F3722889BCCCFE6E12AF2DE7975A46D6"
+        },
+        {
+            "file": "content/Common/Stage/Cave10_Room20.szs",
+            "hash": "34C661087EB57449A6B44E9B60E7AEA06CFE2B08A15A23B35F3A00339FF8ACE0"
+        },
+        {
+            "file": "content/Common/Stage/Cave10_Room3.szs",
+            "hash": "2D2E606FB69D51EE93AFD3B0B0C771C30E354B81CF8BFA00CD4C577D41E98E64"
+        },
+        {
+            "file": "content/Common/Stage/Cave10_Room4.szs",
+            "hash": "2082564D8EAA9AE11D25783858760555C9E04617DC82344105DA26C64CD81F99"
+        },
+        {
+            "file": "content/Common/Stage/Cave10_Room5.szs",
+            "hash": "28B7785F1A6160DB0C30C05192D09FC085494D277FAD6658EEA494C07FE7DEF3"
+        },
+        {
+            "file": "content/Common/Stage/Cave10_Room6.szs",
+            "hash": "C94E0913E747270D5A2F746749037B834A078D42633295F65539CE95C2ADCBD7"
+        },
+        {
+            "file": "content/Common/Stage/Cave10_Room7.szs",
+            "hash": "FCFD2C85A3C98A3029C081A9AABA3F4D2B9F2B0D0E6AC355AB192F6E510D81E6"
+        },
+        {
+            "file": "content/Common/Stage/Cave10_Room8.szs",
+            "hash": "6BEDBDC34F1A20D201EA88CDA7E6825C7298FBCA9C1B032E696AF5A18E3FCA82"
+        },
+        {
+            "file": "content/Common/Stage/Cave10_Room9.szs",
+            "hash": "5769D6C81231C4CF27A934A1E54D7A2E8D450DE8EF4D6F4674F5A96A19047A76"
+        },
+        {
+            "file": "content/Common/Stage/Cave10_Stage.szs",
+            "hash": "361B50C9A728C10E4DC497130F33A76654FD152699F5EACDCDDA5A10D2C9DFB2"
+        },
+        {
+            "file": "content/Common/Stage/Cave11_Room0.szs",
+            "hash": "13216737F4C60032C84422530FDF69D0E942EA03F250D80B796B3FAFFE08F4F1"
+        },
+        {
+            "file": "content/Common/Stage/Cave11_Room1.szs",
+            "hash": "0D1FCAAE94FEF6D9BC2BE299F05CA63B252D2451128E99775DD2B7206F54AAA5"
+        },
+        {
+            "file": "content/Common/Stage/Cave11_Room10.szs",
+            "hash": "33F19EB7F1FB02C7AEC03C101D5262E51A305A3D3C0E7C2573449E85E439C5E6"
+        },
+        {
+            "file": "content/Common/Stage/Cave11_Room11.szs",
+            "hash": "8EE9867B595039F00E95433EC59DC6EE7FFCA7218BE044CFEA15543D0EB706AC"
+        },
+        {
+            "file": "content/Common/Stage/Cave11_Room12.szs",
+            "hash": "704B8548C0B1A7EC0C001DEC5B8D76ED7A4F6A126013D4CED757C3006A730727"
+        },
+        {
+            "file": "content/Common/Stage/Cave11_Room13.szs",
+            "hash": "C62DC31BC15CD3E48AA8910614028A6B6044CB24F3B3605A5CEDCC43BD7B5A9B"
+        },
+        {
+            "file": "content/Common/Stage/Cave11_Room14.szs",
+            "hash": "824FE46A1264B519080361FD91CA6646755B1C87A06D7339118ECB91078C2C72"
+        },
+        {
+            "file": "content/Common/Stage/Cave11_Room15.szs",
+            "hash": "AFAAD0F64535CCE873CFE474F38B58D8BE77CA0E8F36ABE01E0558A5E021AD72"
+        },
+        {
+            "file": "content/Common/Stage/Cave11_Room16.szs",
+            "hash": "C7E5DF0978CAC585E9A24F537B6FD1695247F2A2B0A98C5C039C4F4D6ECEC7B9"
+        },
+        {
+            "file": "content/Common/Stage/Cave11_Room17.szs",
+            "hash": "EF638F352575BFC09D9C1FEE8A561D40687B669C686919F34AFCADB1FF5EECBE"
+        },
+        {
+            "file": "content/Common/Stage/Cave11_Room18.szs",
+            "hash": "0AFF67B9E7CF9265EACB7399CBFBE464CFC1097DC7508CD9A268C04A565B2D07"
+        },
+        {
+            "file": "content/Common/Stage/Cave11_Room19.szs",
+            "hash": "7B2ACA35367C58D2ECDFF97F3BC42AB2B4BD5A249B2C78F3C9C07591D7FEDC04"
+        },
+        {
+            "file": "content/Common/Stage/Cave11_Room2.szs",
+            "hash": "0B0F3C61CBAF191D11F8DABF400C71EB48A93579692BDF58A043DD81FD9B7391"
+        },
+        {
+            "file": "content/Common/Stage/Cave11_Room20.szs",
+            "hash": "3407F4EA2D001D54E6FE469111578BFBC6B32A225E49B1C116D8EBC94F3BF363"
+        },
+        {
+            "file": "content/Common/Stage/Cave11_Room3.szs",
+            "hash": "91F2A020068E58579F014691981D0C4D2052AABBD9229AFBA10EA85663861953"
+        },
+        {
+            "file": "content/Common/Stage/Cave11_Room4.szs",
+            "hash": "377A8BFD1A420C0F55E75B38EFDE19F0BE454297E8DC8BD969D8BA56863A45A0"
+        },
+        {
+            "file": "content/Common/Stage/Cave11_Room5.szs",
+            "hash": "6FCBD8274211D4DADB71D73680CB616B74CF826414FA7644EC2241DC1C873A21"
+        },
+        {
+            "file": "content/Common/Stage/Cave11_Room6.szs",
+            "hash": "85A21E3553D77C8525C34711C34F72176D439980D11136206917001799723EB9"
+        },
+        {
+            "file": "content/Common/Stage/Cave11_Room7.szs",
+            "hash": "310473EB460B62CF94AAC8363FCE5C0D8F973F3977FC2DEF2BA49719F0A700FA"
+        },
+        {
+            "file": "content/Common/Stage/Cave11_Room8.szs",
+            "hash": "09260A3F43A9E886BAB77556EC5BE4EC9C1A052B22268C491CF6188B9A5D51F1"
+        },
+        {
+            "file": "content/Common/Stage/Cave11_Room9.szs",
+            "hash": "941B7DB90BA6011041EF4CAB687231E9D077FD38B4A9B1ED679B1617CCD6E6C3"
+        },
+        {
+            "file": "content/Common/Stage/Cave11_Stage.szs",
+            "hash": "3D179A891081DE8B5B496CE22FB962CE0B1F7466CDDF7112C7D7716C2C6C9A93"
+        },
+        {
+            "file": "content/Common/Stage/Comori_Room0.szs",
+            "hash": "9437E4ED28828267A164488509BCDF2002CDA8EBF8C41BAEA57633D5A80EE6B0"
+        },
+        {
+            "file": "content/Common/Stage/Comori_Stage.szs",
+            "hash": "6E9BA6C5DC6C59AE550F89A165294CBD50989081D84F7AE0A460D11D4FF36178"
+        },
+        {
+            "file": "content/Common/Stage/DmSpot0_Room0.szs",
+            "hash": "F1E6B1CE89F1CF21C7AB63493A751B6199B099412F5C7DB25AAFD6FA234FC62A"
+        },
+        {
+            "file": "content/Common/Stage/DmSpot0_Stage.szs",
+            "hash": "C90923D5B15B27EC38A85B5B42D20B907871A2173A70488ECC9FBB88A8C0985E"
+        },
+        {
+            "file": "content/Common/Stage/E3ROOP_Room0.szs",
+            "hash": "60B4087CB5C1952BDEB55FF9A59F8486133BB883846E51E101AE29E8FA594564"
+        },
+        {
+            "file": "content/Common/Stage/E3ROOP_Stage.szs",
+            "hash": "29BC2D4E4E90CBD1C021D05E7BE5C7F6ED9486A3022A2F1023820CE745909227"
+        },
+        {
+            "file": "content/Common/Stage/ENDumi_Room0.szs",
+            "hash": "9A383CE5E3D7213A3AE65EC4F53271FC8AB05B88D8F6E9F5313717419144E23B"
+        },
+        {
+            "file": "content/Common/Stage/ENDumi_Stage.szs",
+            "hash": "00C3D5A12B5EE3AA699227ED2A9ED6ACD78D28A21FFE44D02DEC90D98B619ED9"
+        },
+        {
+            "file": "content/Common/Stage/Ebesso_Room0.szs",
+            "hash": "551C14C956B43246BE90622183E5714BC53FD53C4A54A8FE543366E52602B1C2"
+        },
+        {
+            "file": "content/Common/Stage/Ebesso_Stage.szs",
+            "hash": "E269C148458FE10FA8565C44444D0E17DFDA7C20AA7B8B914A2804AEC8146D6B"
+        },
+        {
+            "file": "content/Common/Stage/Edaichi_Room0.szs",
+            "hash": "B13D7A692A4112F2C2EC5F9ED7E677C5F91E0C1191397975D276C8DD62E8684D"
+        },
+        {
+            "file": "content/Common/Stage/Edaichi_Stage.szs",
+            "hash": "1DF9AEBB970D1000A282D96AF66EF0B109E20A565CBC3FEE094A68FFCBD5225E"
+        },
+        {
+            "file": "content/Common/Stage/Ekaze_Room0.szs",
+            "hash": "950BDE8E5512AC941374E3B357C7C52B91013326ABD29DAA29EF09363A522275"
+        },
+        {
+            "file": "content/Common/Stage/Ekaze_Stage.szs",
+            "hash": "1419E28D5769E5FD38F01F25F2AFE3D17372B1323830948F8341CC2BCEF49A1A"
+        },
+        {
+            "file": "content/Common/Stage/Fairy01_Room0.szs",
+            "hash": "4DF0D718DAED67B76152B9B7086FAACCDB3DC3DF5335EC25C9611DC5B370482C"
+        },
+        {
+            "file": "content/Common/Stage/Fairy01_Stage.szs",
+            "hash": "FE1A26D05A9FCA71DE793200B1E7361A521AEF1FEDD4A8A38F64E6FED5D80F94"
+        },
+        {
+            "file": "content/Common/Stage/Fairy02_Room0.szs",
+            "hash": "5357006F429CC68CAF661E4B3EC0E104A66FF3C575295CD5C9FD7DD0DB509772"
+        },
+        {
+            "file": "content/Common/Stage/Fairy02_Stage.szs",
+            "hash": "FF35D7BD3803CA95BEB0148350F1AF8B74FCF81592DB0187484F5B0ACD59F089"
+        },
+        {
+            "file": "content/Common/Stage/Fairy03_Room0.szs",
+            "hash": "945A186DD753E000D56ED666B72818E000128CD0EB1E702C8CBE1F381348A440"
+        },
+        {
+            "file": "content/Common/Stage/Fairy03_Stage.szs",
+            "hash": "E39846DC76FD359DD6E8C824FC17B693E8FD517F0B661A82BE545D720B277F3C"
+        },
+        {
+            "file": "content/Common/Stage/Fairy04_Room0.szs",
+            "hash": "39B8AB04EE5F8E5831A3BA09A63AFFF5F820A2961A72EA1C4A1D9700FA06FB98"
+        },
+        {
+            "file": "content/Common/Stage/Fairy04_Stage.szs",
+            "hash": "FCF690EF6D2D65E800A107414A9EB3CD91F3BAB65B3F978D22AF2B15E61F890D"
+        },
+        {
+            "file": "content/Common/Stage/Fairy05_Room0.szs",
+            "hash": "93AFBF7CB86C3A4B586076DA396C55FC25CC3B7551F0DCB5755BBD27ED55B36C"
+        },
+        {
+            "file": "content/Common/Stage/Fairy05_Stage.szs",
+            "hash": "0C39873691CB907F75C0923FA8D777F18A5AED9BA1D2241E8FC29FAB8388775A"
+        },
+        {
+            "file": "content/Common/Stage/Fairy06_Room0.szs",
+            "hash": "51825D86F805FD0132F06DC75E1AFE4D59BE5287F5A10D0FAD4B4BD5358D5B1A"
+        },
+        {
+            "file": "content/Common/Stage/Fairy06_Stage.szs",
+            "hash": "077BE88E0FF1A78FBC574E193372D3CB7E8020FF4E873FA2A62EA73400A49646"
+        },
+        {
+            "file": "content/Common/Stage/GTower_Room0.szs",
+            "hash": "A91B3B8D1948DB8CE155229A76067BFA277FAE771A317126E0F869F93B6BCA38"
+        },
+        {
+            "file": "content/Common/Stage/GTower_Stage.szs",
+            "hash": "35224A5EAA77DB44B64A4536015024B8B3EE4ADC506FAAE6EED972CA0767A3E2"
+        },
+        {
+            "file": "content/Common/Stage/GanonA_Room0.szs",
+            "hash": "D350E9A00785A40A10C0766A88D9043735001982F6F0EEBF6E8FFB48510848B1"
+        },
+        {
+            "file": "content/Common/Stage/GanonA_Room1.szs",
+            "hash": "F7AA080DDCB2524486153303AA53052598FB74F9019AAB19FD03B740F0AEF97E"
+        },
+        {
+            "file": "content/Common/Stage/GanonA_Stage.szs",
+            "hash": "74FA8DEB341330A4AB82ADCDF5DE6CADDE313E2E3C47D3B07F402549C30BD450"
+        },
+        {
+            "file": "content/Common/Stage/GanonB_Room0.szs",
+            "hash": "52FCB80AD8F37278BF61185D0C65BF727A3BF222D5AB730CBFFD72BEA7661027"
+        },
+        {
+            "file": "content/Common/Stage/GanonB_Stage.szs",
+            "hash": "A9E444CD0B911CC851F19F605F2AA5001FA2893AD6A807CE31942CEE369FE334"
+        },
+        {
+            "file": "content/Common/Stage/GanonC_Room0.szs",
+            "hash": "B3CCA4EF74D1897DA0EF0AFCFDCEB54333653E2E77BD28BD72D66AF5A28BF1BF"
+        },
+        {
+            "file": "content/Common/Stage/GanonC_Room1.szs",
+            "hash": "95C19D5BFE26F8DA8C43542A4A7C3A6EE5E95F773FD9CFEA31E63C6FB8D82EFF"
+        },
+        {
+            "file": "content/Common/Stage/GanonC_Room2.szs",
+            "hash": "C811047965286B01C45EACAE9570CC58FAFF7968693984E1A4E5536CA6E23663"
+        },
+        {
+            "file": "content/Common/Stage/GanonC_Room3.szs",
+            "hash": "6C090CA8B47B2E15F5C86BD11FE8CFE2888CF4B5F6ABD971B8EF675E8CFFAD6B"
+        },
+        {
+            "file": "content/Common/Stage/GanonC_Room4.szs",
+            "hash": "AFE6DDDAA4DE7F8D368AE226F683F4C3FA5830FA0433A57B32D64A421CF1F48F"
+        },
+        {
+            "file": "content/Common/Stage/GanonC_Room5.szs",
+            "hash": "FB7E93F5BAA8DCBD3F816E114DCE8090054C6AA5B7C4C3B16CF6B6D818437497"
+        },
+        {
+            "file": "content/Common/Stage/GanonC_Stage.szs",
+            "hash": "6AB432BC56B5EE0D409E878C0A8D1F6A799C06BD8E10F52709940255DC72B362"
+        },
+        {
+            "file": "content/Common/Stage/GanonD_Room0.szs",
+            "hash": "D1E986EA5FB1F9A6E492F91819E0EC054270B6688F6063E77AFA4DAB5010F1CA"
+        },
+        {
+            "file": "content/Common/Stage/GanonD_Stage.szs",
+            "hash": "6A4BC72A6F78752BFF503338816709BA3161EA19819FA2D70A40A4BF3CD70791"
+        },
+        {
+            "file": "content/Common/Stage/GanonE_Room0.szs",
+            "hash": "65FB141F41A67391C6087BA0B715C8C464D53CA28AF8D703EDF811FDF18E19EF"
+        },
+        {
+            "file": "content/Common/Stage/GanonE_Stage.szs",
+            "hash": "F936AEBEFF8303FF5BD670EEBB6DD9419746AB479750005C97A06C792BC1B763"
+        },
+        {
+            "file": "content/Common/Stage/GanonJ_Room0.szs",
+            "hash": "233E3FC7379B4C70F8401E6D99D210AFF1BE8C00276A2797A95D7EFDE1878800"
+        },
+        {
+            "file": "content/Common/Stage/GanonJ_Room1.szs",
+            "hash": "2A1D38BF0CF8A3882912AECE2F036337948760B47143DAE20074D75AFE6DF360"
+        },
+        {
+            "file": "content/Common/Stage/GanonJ_Room10.szs",
+            "hash": "C5AE59826ECD5B41DD925553A513CE3A434FDAA05AA29856F8A72B72AAACBFC8"
+        },
+        {
+            "file": "content/Common/Stage/GanonJ_Room11.szs",
+            "hash": "BCE48F861E97D8CAFD21EB813D791DBBBCD7A7B10F61A6EDA07739903CA339DE"
+        },
+        {
+            "file": "content/Common/Stage/GanonJ_Room13.szs",
+            "hash": "E584B0E1B605013DA8B70148E80A4CF9C4308D93C4246D78D0B936519A2C69A0"
+        },
+        {
+            "file": "content/Common/Stage/GanonJ_Room2.szs",
+            "hash": "70AADBE15DC936E32F5C68E7631B0C3C4D00491F3147115233D0C32B7B7996C4"
+        },
+        {
+            "file": "content/Common/Stage/GanonJ_Room3.szs",
+            "hash": "4FCB2CF44F40009EB5AF40E910B4E67C2DCD4608C54E8B77680453FB2714D267"
+        },
+        {
+            "file": "content/Common/Stage/GanonJ_Room4.szs",
+            "hash": "25BA0C6C2BB88062818C6B48F894A70462D400A975CE9F4965C118E539DE2E64"
+        },
+        {
+            "file": "content/Common/Stage/GanonJ_Room6.szs",
+            "hash": "BBF5C20AB814A6A22E7B8B9712814C6D6CFDA897B6B9229D29705A73A3668EFE"
+        },
+        {
+            "file": "content/Common/Stage/GanonJ_Room7.szs",
+            "hash": "816969E856D00D6A4AAF9720F10DB81AB2BDBF7D6FDA666188C1054BCFFC7A11"
+        },
+        {
+            "file": "content/Common/Stage/GanonJ_Room8.szs",
+            "hash": "8F37E4E097E7B21E885CC3D40AE5FE71B79641C7C165A230579893E3B30D6D3F"
+        },
+        {
+            "file": "content/Common/Stage/GanonJ_Room9.szs",
+            "hash": "84FB9C55F7C91B2D7AF1DEEF372DCEB5DC4B2E7A3B3E8137992726D6CB116CBA"
+        },
+        {
+            "file": "content/Common/Stage/GanonJ_Stage.szs",
+            "hash": "5DA0FAD713C5CAA60822F14119827743BE1E1494EA36E73D4BF639FA10EFB2BD"
+        },
+        {
+            "file": "content/Common/Stage/GanonK_Room0.szs",
+            "hash": "53D7F1A2671C68F61966EF75173747861380602BAC78D4CF67BD31F3F32B0A59"
+        },
+        {
+            "file": "content/Common/Stage/GanonK_Stage.szs",
+            "hash": "7DCF2C00BAF8F46D0184B608C7E88F9CC987A8C94CEED720E39F340B9DD44F74"
+        },
+        {
+            "file": "content/Common/Stage/GanonL_Room0.szs",
+            "hash": "CD51BDC78F8EDD91F4069B95458141A0DF4E8B186FF8A0F95FE298102D8C24DE"
+        },
+        {
+            "file": "content/Common/Stage/GanonL_Stage.szs",
+            "hash": "5BC593D262E035369D74C6CD83158655B1B100D86ECA938471E22164EC0FB29F"
+        },
+        {
+            "file": "content/Common/Stage/GanonM_Room0.szs",
+            "hash": "16B5CB651B3A27DB809E208D5F79637E990256587F5799E1CF1931AD254CD7C6"
+        },
+        {
+            "file": "content/Common/Stage/GanonM_Room1.szs",
+            "hash": "086A2D548F9415CF2AD3467AB24E4994996E6A0F6FDFB00BFDA61D8098269027"
+        },
+        {
+            "file": "content/Common/Stage/GanonM_Room2.szs",
+            "hash": "277E381477A80CAE48EE8DF78BEBA889582CE4233DF16C311AA26F1BA24056A4"
+        },
+        {
+            "file": "content/Common/Stage/GanonM_Stage.szs",
+            "hash": "FFC8E9F5DF25D4104847F89F18567639B97BE8D73337E28CE0F42EC2ED6AFA3A"
+        },
+        {
+            "file": "content/Common/Stage/GanonN_Room0.szs",
+            "hash": "B013A8573E441B8CA6C00C402553D10F37EA96144C1B64654E532F97C7D2770A"
+        },
+        {
+            "file": "content/Common/Stage/GanonN_Stage.szs",
+            "hash": "1B8B7CEC101D373B3C45F3745197B3F05291D17255DFD9EF736F8DF4C291B0C0"
+        },
+        {
+            "file": "content/Common/Stage/Hyroom_Room0.szs",
+            "hash": "733568EB51CA50770BEF29065C09F6CD44C7773C7D443CAD95FA8A487390C203"
+        },
+        {
+            "file": "content/Common/Stage/Hyroom_Stage.szs",
+            "hash": "59F06A4F8C5FD8C2922E0A1A711172FC851FCCD096BD997A67F0F897EF1CAF63"
+        },
+        {
+            "file": "content/Common/Stage/Hyrule_Room0.szs",
+            "hash": "DDB1F14D6471E3AA5E92F0BDF74CEC5194221061DE9F71EC0E325315F66E50EF"
+        },
+        {
+            "file": "content/Common/Stage/Hyrule_Stage.szs",
+            "hash": "EC25B26826F9DCF2E4872F44EA73CBAEC79E4383670C8C230F5FE468681FDF65"
+        },
+        {
+            "file": "content/Common/Stage/ITest61_Room0.szs",
+            "hash": "F9448D5BB4E6A771051E51C4EEA7C3FCE1A2416D3B11DEFBF41BC783F80E4889"
+        },
+        {
+            "file": "content/Common/Stage/ITest61_Room1.szs",
+            "hash": "54BB389658B890842C47C10ED722A9BF09FF85A2E66D2B55391A88CEA036BD79"
+        },
+        {
+            "file": "content/Common/Stage/ITest61_Stage.szs",
+            "hash": "24D29EC2CD927A45C78291E5B29515E370F4D2D793C57D5C6733E086A39906C3"
+        },
+        {
+            "file": "content/Common/Stage/ITest62_Room0.szs",
+            "hash": "BB8F58A33D02AA98CD834F30232F3075712D1CA9F8EC54C5804AA0C5E53783C6"
+        },
+        {
+            "file": "content/Common/Stage/ITest62_Stage.szs",
+            "hash": "580E70E397FAD66E3114A9F2E3F447BBF5EE5B4A50A564C1B4BCAAD168C23B7E"
+        },
+        {
+            "file": "content/Common/Stage/ITest63_Room0.szs",
+            "hash": "12A5CAF7C2A57C98B421AE8BF5568E3AEE3F9F2F579D020FCFF6D90E037A09CE"
+        },
+        {
+            "file": "content/Common/Stage/ITest63_Stage.szs",
+            "hash": "9886A2EABB29426C3A086EE05DA03AF3302E041E360DC4D443007E787C3D699D"
+        },
+        {
+            "file": "content/Common/Stage/I_SubAN_Room0.szs",
+            "hash": "099FA3D9192D1897F05BA4FABA31DE5BC9A8338D2CB774BA1CED950A1E4A3F0F"
+        },
+        {
+            "file": "content/Common/Stage/I_SubAN_Room1.szs",
+            "hash": "A7C9ADFB487B741786C2238B3B5283D7B13C2E10F133C2D0544B30B7D5FB5297"
+        },
+        {
+            "file": "content/Common/Stage/I_SubAN_Room10.szs",
+            "hash": "3C23FF2F4FD9D8839486EB2A52F9B340419BCC96BE800C3CB29B2D9DAC85D732"
+        },
+        {
+            "file": "content/Common/Stage/I_SubAN_Room11.szs",
+            "hash": "49046DC3FCDDFF000D630A0916BE5956EA475C833A2E26396F089C9A6E1D635F"
+        },
+        {
+            "file": "content/Common/Stage/I_SubAN_Room12.szs",
+            "hash": "9F1588C0CC01B4C963624B3D94DBE0C32F7F0AB95FD87B6974B9BB656F07D90E"
+        },
+        {
+            "file": "content/Common/Stage/I_SubAN_Room13.szs",
+            "hash": "E9D6B15681F10435C59370084E12D27323705F16F152EB5E8730FECE6B74AF2C"
+        },
+        {
+            "file": "content/Common/Stage/I_SubAN_Room14.szs",
+            "hash": "37A9FC02930578097315C7E53EEDDB75C74208B198CBDA805014E99A41AF0822"
+        },
+        {
+            "file": "content/Common/Stage/I_SubAN_Room15.szs",
+            "hash": "869F3BE345C6943F0CA84E1476725E5C75827D78389F54642C8C16ABAB52F533"
+        },
+        {
+            "file": "content/Common/Stage/I_SubAN_Room16.szs",
+            "hash": "B1A9F5E64FFBE3B2A321ACB6F596CA7B35F45F44843A8EBDC95333C2B3C2369B"
+        },
+        {
+            "file": "content/Common/Stage/I_SubAN_Room2.szs",
+            "hash": "41DAE41D0F18F0E591D94F70FF32963C8996E8F6AB1910150BBE7582252E572C"
+        },
+        {
+            "file": "content/Common/Stage/I_SubAN_Room3.szs",
+            "hash": "3A528849DAB3C2EBE5FCFC15CE3E49B2A41B901B8256C99C2D2F4AC3B03D6E35"
+        },
+        {
+            "file": "content/Common/Stage/I_SubAN_Room4.szs",
+            "hash": "5282449673D0AB0A334731CB99B293B8542B93F70FC5524BD621284B80B8F4A5"
+        },
+        {
+            "file": "content/Common/Stage/I_SubAN_Room5.szs",
+            "hash": "1386D052FE975652B6FD1C32A8DCA5BB33E8C4E45C85E1614B40DFA2CE4EA565"
+        },
+        {
+            "file": "content/Common/Stage/I_SubAN_Room6.szs",
+            "hash": "D210061CAAD3A92446E7DD0FBF2EAEB03D618EE5D0D0D8411D01E43326536148"
+        },
+        {
+            "file": "content/Common/Stage/I_SubAN_Room7.szs",
+            "hash": "1317133EF3A0AA27651D8EFD2CFA5334119EA4F07139F789B2B5DACAC28C695A"
+        },
+        {
+            "file": "content/Common/Stage/I_SubAN_Room8.szs",
+            "hash": "3FE1D5B15DE31248E986DB08E32C4461294015AD8AE304729864C3592B8B6210"
+        },
+        {
+            "file": "content/Common/Stage/I_SubAN_Room9.szs",
+            "hash": "6BDDEA5A754A3A2670CBB0D7E1108619E2FBDB842A10D944C55E51E1D804B410"
+        },
+        {
+            "file": "content/Common/Stage/I_SubAN_Stage.szs",
+            "hash": "53EBE8F0CBCA8C95526EBBEB2DA9262246034C790E8B262739E8F02F6C8AC0CA"
+        },
+        {
+            "file": "content/Common/Stage/Kaisen_Room0.szs",
+            "hash": "0C761A6BAB2E7428B68B757AC9D224A87575CC6F508DF0F9E1D4859FB585DFF4"
+        },
+        {
+            "file": "content/Common/Stage/Kaisen_Stage.szs",
+            "hash": "11E3B3FC0794E8123537D44BB003FD0B9AFC09682753F5BDD5BF8F9712E788D6"
+        },
+        {
+            "file": "content/Common/Stage/LinkRM_Room0.szs",
+            "hash": "3DAB4111E353A593675C503BADEA26A20F4CA8F07F027EF027068B03BA145718"
+        },
+        {
+            "file": "content/Common/Stage/LinkRM_Stage.szs",
+            "hash": "F34624B5499F5E586BC723C05F8D6CD570523435799E6B4E1190AF1D4BCC2545"
+        },
+        {
+            "file": "content/Common/Stage/LinkUG_Room0.szs",
+            "hash": "1FD1EB46B66A05504D392F10463902938F3DB8B112082772757ACD7DCDAF36F6"
+        },
+        {
+            "file": "content/Common/Stage/LinkUG_Stage.szs",
+            "hash": "A9D97BEA36AAE90B7F1576AC4A829B8C7B456EA352FA1E398F034497D3785443"
+        },
+        {
+            "file": "content/Common/Stage/M2ganon_Room0.szs",
+            "hash": "8F0AD007B7D6592701686469B35C8120305F1572AE83981C6352CC64B2EEBA88"
+        },
+        {
+            "file": "content/Common/Stage/M2ganon_Stage.szs",
+            "hash": "0FCEE11A9CE48EB68BC2CB64A96048EC6CEDB523AB6165AB49BBC0B0EA2C721E"
+        },
+        {
+            "file": "content/Common/Stage/M2tower_Room0.szs",
+            "hash": "7934CB083967D3C71C13202B28C268070E2B309CD22CA9465C6985BA3E44F945"
+        },
+        {
+            "file": "content/Common/Stage/M2tower_Stage.szs",
+            "hash": "C7392A4829189C4F953FB70A072B48418B8DA93E1BB29CF3C1F22034D0BD7030"
+        },
+        {
+            "file": "content/Common/Stage/M_DaiB_Room0.szs",
+            "hash": "1E932C9D97FA4EAACEE275D9A1EE98EF776E6CC686FEB554FE236B735D35E0AB"
+        },
+        {
+            "file": "content/Common/Stage/M_DaiB_Stage.szs",
+            "hash": "C60EBCB66E01206C1B8C9B52EF67F76680A4FF9C98F853BCF728B195A09CEFF2"
+        },
+        {
+            "file": "content/Common/Stage/M_DaiMB_Room12.szs",
+            "hash": "E95D5FF1E851D653D4E674B7713352CDEE6D64AC6AFF8A484FFF2A92C17B493F"
+        },
+        {
+            "file": "content/Common/Stage/M_DaiMB_Stage.szs",
+            "hash": "25917DE3D2ABD4FBDF2398AAFB875E4F6604D95D412903F2D289A5107FB32626"
+        },
+        {
+            "file": "content/Common/Stage/M_Dai_Room0.szs",
+            "hash": "A43CE66A1728C186A024055D2877E149DE8D150766632CC18AC1931F8224EA10"
+        },
+        {
+            "file": "content/Common/Stage/M_Dai_Room1.szs",
+            "hash": "843F0F3B589F81E9DE5A36FEB76A887CEA2471583A1A0BA139FA694D231848EA"
+        },
+        {
+            "file": "content/Common/Stage/M_Dai_Room10.szs",
+            "hash": "58BAF8BD558281FB52AB84725FFE4AE22C8D0FCC33A063A9B1FFE1D0FC249D6B"
+        },
+        {
+            "file": "content/Common/Stage/M_Dai_Room11.szs",
+            "hash": "5C4C749144907A80410542B611F19A6EDB8091CC85B9E6AACE221D5C4B98D522"
+        },
+        {
+            "file": "content/Common/Stage/M_Dai_Room12.szs",
+            "hash": "8EDD2BA2AC303971537E512BC161D8016CA7F5903032D88B48DC8E446A915A4D"
+        },
+        {
+            "file": "content/Common/Stage/M_Dai_Room13.szs",
+            "hash": "4BA9F627FFEB999432207DD6D433867E8F686686037A7F22E379AEE67028893B"
+        },
+        {
+            "file": "content/Common/Stage/M_Dai_Room14.szs",
+            "hash": "838A78D192C07E186FDE25C890742D15A052F01AC853F26969BFCACC72E85C1D"
+        },
+        {
+            "file": "content/Common/Stage/M_Dai_Room15.szs",
+            "hash": "97C3CBFD179243A72CC719554FF6E56D030D9B1C7E2F707713433851610B7087"
+        },
+        {
+            "file": "content/Common/Stage/M_Dai_Room16.szs",
+            "hash": "348FC00CF7D08FAE115F4FC3DEE2A8C7A94878EBCC7D39B2045A310AFF9C9D5F"
+        },
+        {
+            "file": "content/Common/Stage/M_Dai_Room17.szs",
+            "hash": "A91B4707898ED39DBAE9886E2974C200C0285ECAF18FDD24164CDF6D6F5315F3"
+        },
+        {
+            "file": "content/Common/Stage/M_Dai_Room18.szs",
+            "hash": "9C4B06F3103A031394B312CA4C680A05CE133BEDA05FDFB127F8856C2964E0B1"
+        },
+        {
+            "file": "content/Common/Stage/M_Dai_Room19.szs",
+            "hash": "5402BBEB4DEC304DA8A31A38DC45A5184646637E2E8A203E43B83EEEC7148EFA"
+        },
+        {
+            "file": "content/Common/Stage/M_Dai_Room2.szs",
+            "hash": "9A755A5DE50522D2DA7C44F7A596BAC5CBFE52051D574F0C6F892E3C68A20336"
+        },
+        {
+            "file": "content/Common/Stage/M_Dai_Room20.szs",
+            "hash": "B1D4F35CF824720B9D5B3F073911D0DE87A8563078B66DF015421C49958D55F2"
+        },
+        {
+            "file": "content/Common/Stage/M_Dai_Room3.szs",
+            "hash": "5BBDEB720A3F8F4C2C8C25C4BBED314215395FA2CAD876443172DC23535C04E1"
+        },
+        {
+            "file": "content/Common/Stage/M_Dai_Room4.szs",
+            "hash": "FA775CA52060B22EA6F23E875FB015A75854731B8617CC27A783A1AE6B16CB07"
+        },
+        {
+            "file": "content/Common/Stage/M_Dai_Room5.szs",
+            "hash": "F0EF34B2DD15C699ACC87A51E6D506C05961F7C0A30A400007D80817B22627FB"
+        },
+        {
+            "file": "content/Common/Stage/M_Dai_Room6.szs",
+            "hash": "63D9AD669DCC23E23C043793CB43818A5BE93BC4E98C5FE8CE204EDAF7CEC498"
+        },
+        {
+            "file": "content/Common/Stage/M_Dai_Room7.szs",
+            "hash": "69F44717C0824074AA3BADE8746E4D9A3D5B773C0BADC7717DD52307FDCF707C"
+        },
+        {
+            "file": "content/Common/Stage/M_Dai_Room8.szs",
+            "hash": "577E16EA672D21C743AE2C3F502344BDBBB6467C5D0413F9076BF4D71EC83932"
+        },
+        {
+            "file": "content/Common/Stage/M_Dai_Room9.szs",
+            "hash": "EEBE610E8CDBAF3B0C817DD821AF1D07C64BA5B26B4140BE50C896EC8ABB25E4"
+        },
+        {
+            "file": "content/Common/Stage/M_Dai_Stage.szs",
+            "hash": "485157B9EA554A90B335463FE625654CF1F126D3E9221738AC1A9AA7C8927366"
+        },
+        {
+            "file": "content/Common/Stage/M_Dra09_Room9.szs",
+            "hash": "B1607F9ED5D3BF668DB62AE9BBDDE02251BF1E7B9BF3471EC8894839A07E618E"
+        },
+        {
+            "file": "content/Common/Stage/M_Dra09_Stage.szs",
+            "hash": "E4C43F8217263D8DCB52F8A2321D80D2BA99A82B35285EC0676A65643C3D107E"
+        },
+        {
+            "file": "content/Common/Stage/M_DragB_Room0.szs",
+            "hash": "1026CBB43AD5C91B2C5B52CF226F17312A1829C5AA6A502CBF3FACB409125C1E"
+        },
+        {
+            "file": "content/Common/Stage/M_DragB_Stage.szs",
+            "hash": "ECC1F1B183426E51067029E925E955092E445B5FDE5692CC0A44FE141C6D82D0"
+        },
+        {
+            "file": "content/Common/Stage/M_NewD2_Room0.szs",
+            "hash": "09868849C38ADBC0E04C27EB0029F410CBFFF74FE57810488B89C3DC166D4CDE"
+        },
+        {
+            "file": "content/Common/Stage/M_NewD2_Room1.szs",
+            "hash": "6B00FC4812A83387911A816901FB10A7B0B498C917260A654A64B165B592A6BB"
+        },
+        {
+            "file": "content/Common/Stage/M_NewD2_Room10.szs",
+            "hash": "90BAD5BC270B335C4EDB5246C97B095D889CC3F6EDE8F04A03A0F1438DE88654"
+        },
+        {
+            "file": "content/Common/Stage/M_NewD2_Room11.szs",
+            "hash": "DDBACBB3BE864E1BC8FDA9347C61483D3A31FA137AD1D044EE24666B796B28D7"
+        },
+        {
+            "file": "content/Common/Stage/M_NewD2_Room12.szs",
+            "hash": "5D29CF66D8D8660207125A59E3EBAFFCDFCFE5835A0648CCCD4B900AD5FEBEEE"
+        },
+        {
+            "file": "content/Common/Stage/M_NewD2_Room13.szs",
+            "hash": "992A799963CACA3613E4AF868E86634D6C424EE1C8366C7105471ECC5A822446"
+        },
+        {
+            "file": "content/Common/Stage/M_NewD2_Room14.szs",
+            "hash": "78F00DD109851A11606E9ACEC72B01F8ADE5A74ED369C2F04CC6C3ACD493E015"
+        },
+        {
+            "file": "content/Common/Stage/M_NewD2_Room15.szs",
+            "hash": "3C954C1B92FC911D470882AF4EAC0863D43584F23A9AEC1CA898BE026B5EEA4A"
+        },
+        {
+            "file": "content/Common/Stage/M_NewD2_Room16.szs",
+            "hash": "343C633A5E0E6E4C11D3D6A2B0161538A643AB318EFA470E0CB6DD21827C091A"
+        },
+        {
+            "file": "content/Common/Stage/M_NewD2_Room2.szs",
+            "hash": "A8A968521C291E4D04B9B279E418B360A6F6D59A586926A9039A536374B9AF9F"
+        },
+        {
+            "file": "content/Common/Stage/M_NewD2_Room3.szs",
+            "hash": "5F62E4880C66A2AC2C5C6649109E3DC2778789F151B1438BD2F3794143ACCC48"
+        },
+        {
+            "file": "content/Common/Stage/M_NewD2_Room4.szs",
+            "hash": "2631C89CAF8690DC513637D5C25C22CA747B45654295181F7C5A738B42AA7659"
+        },
+        {
+            "file": "content/Common/Stage/M_NewD2_Room5.szs",
+            "hash": "A1D181451ECA2C4488FEAF499D278308A88F69328A1E364A68275BFDBF8A8107"
+        },
+        {
+            "file": "content/Common/Stage/M_NewD2_Room6.szs",
+            "hash": "8AB3791695BB264A65BB59E13766B7FAEB523EEA529BA2B1FAFA9DC184C1217A"
+        },
+        {
+            "file": "content/Common/Stage/M_NewD2_Room7.szs",
+            "hash": "D4642DF3EF3E282C781AF5B11EC8CB8846042E57AC7D07402D7D172AFE29B65D"
+        },
+        {
+            "file": "content/Common/Stage/M_NewD2_Room8.szs",
+            "hash": "E6DE3B85402683640E0885CB4400F3A2FA04D00E7D89B861819590A4E5FB479B"
+        },
+        {
+            "file": "content/Common/Stage/M_NewD2_Stage.szs",
+            "hash": "D0777C8BF6385367CCB78367C1D28CBFC27C391B1146C7F42E887BE078A7B8BC"
+        },
+        {
+            "file": "content/Common/Stage/MajyuE_Room0.szs",
+            "hash": "B6E02666CAAADA23BCAA25F03EB7B29BC0E71905B37B645650EECE7EB581840E"
+        },
+        {
+            "file": "content/Common/Stage/MajyuE_Stage.szs",
+            "hash": "0A2B7092AE819454BA6002F076EC1250EAB30C3B170419AF096DFA7FF51B796E"
+        },
+        {
+            "file": "content/Common/Stage/MiniHyo_Room0.szs",
+            "hash": "5A2F5FE60968B26CBABF0BAAB66A76E3B91349D90BAC9604C192A58ACC7CA913"
+        },
+        {
+            "file": "content/Common/Stage/MiniHyo_Stage.szs",
+            "hash": "BB2FD851C358D47D0167EA5CD280D81CC41FC900EA6BE45B5B6472E16821F267"
+        },
+        {
+            "file": "content/Common/Stage/MiniKaz_Room0.szs",
+            "hash": "4F88A336B00B8D357757293C66C0D0F5EE892042F4976F3D7AE19E6043D4F5D1"
+        },
+        {
+            "file": "content/Common/Stage/MiniKaz_Stage.szs",
+            "hash": "CF975E6F4539F56B646927FCD3721A753CB849EC90E8CC26DBF0AE7BCF0A88DD"
+        },
+        {
+            "file": "content/Common/Stage/Mjtower_Room0.szs",
+            "hash": "4B16CC23437DBBBBC32CC19EFB2468082117F20C2CA42CF1EC3EFD8DE6740CA0"
+        },
+        {
+            "file": "content/Common/Stage/Mjtower_Stage.szs",
+            "hash": "165551614DC10CAFEC120DCC531F57E284F5BA2B56D4221E3949B52C79317582"
+        },
+        {
+            "file": "content/Common/Stage/Msmoke_Room0.szs",
+            "hash": "B2ED51C69DF79D36661A75809E0EDE35BE2E4280EAFF7D9B0EEF7FEBA00BB1EE"
+        },
+        {
+            "file": "content/Common/Stage/Msmoke_Room1.szs",
+            "hash": "B11AEBB1211B1DD083631956728CB1061414A27F40B8B38207A55265AC6FA0CD"
+        },
+        {
+            "file": "content/Common/Stage/Msmoke_Stage.szs",
+            "hash": "9E6256254C4E84687435B62EE5538DCA89EB2D73D0606B749666B7BD88748AEB"
+        },
+        {
+            "file": "content/Common/Stage/Mukao_Room0.szs",
+            "hash": "9CB52FC4368A8A78C033A6229E608925694CDC515F780EDCE73893C9D650885C"
+        },
+        {
+            "file": "content/Common/Stage/Mukao_Stage.szs",
+            "hash": "FC3C8A7CE9BCEA06A6DCD00C9C6ECED300C903D4E69B2F794485E60E8233F0D0"
+        },
+        {
+            "file": "content/Common/Stage/Nitiyou_Room0.szs",
+            "hash": "56CDBE49380E32661BCF76B1C9955CF6DA0D89C55C4A0B0A0429B26F0C467853"
+        },
+        {
+            "file": "content/Common/Stage/Nitiyou_Stage.szs",
+            "hash": "CA1A3850DAAD5981C19611E48937B6952902716FFEEC19818D0291FF58649F35"
+        },
+        {
+            "file": "content/Common/Stage/Obombh_Room0.szs",
+            "hash": "B6727DC55A8E3E414ADE1D92A033B8F600AD8BDCA94E1D7F20D595FBFEE3FFD9"
+        },
+        {
+            "file": "content/Common/Stage/Obombh_Stage.szs",
+            "hash": "80858FA002D71A01F5175254B0E8C104D689E3EF86EB7799E7808E8C7E014828"
+        },
+        {
+            "file": "content/Common/Stage/Obshop_Room1.szs",
+            "hash": "D1507EC5E4FC4A8C4E6743C06779ACA236A5874C6D8C27C64F855D73D05485AE"
+        },
+        {
+            "file": "content/Common/Stage/Obshop_Room2.szs",
+            "hash": "EB852349EB4BF19BBF298F9984C7532271C41C67AF9A96839B86387ACF8FC843"
+        },
+        {
+            "file": "content/Common/Stage/Obshop_Room3.szs",
+            "hash": "91BCC1E6908613AA3CC197411A953F13FD31B2DB1A13D18822F0BABB086CF656"
+        },
+        {
+            "file": "content/Common/Stage/Obshop_Room4.szs",
+            "hash": "F82E3C670201B423BE630CA019A94F6E9D8699893B1A5BC2736BDF6E38588373"
+        },
+        {
+            "file": "content/Common/Stage/Obshop_Room5.szs",
+            "hash": "79D8DD935F4C905C4FB40A363C1644D440008EAE9B06C5E7A8B942E594D56918"
+        },
+        {
+            "file": "content/Common/Stage/Obshop_Room6.szs",
+            "hash": "723306C4A2BF9A2A6C9945304616BF1C9F6AB7DDD6CB77D793701C325802611E"
+        },
+        {
+            "file": "content/Common/Stage/Obshop_Stage.szs",
+            "hash": "5951625AF012A3D5249F1378EDC232732E63ED00CE9E03D5774A5E6A31295E6D"
+        },
+        {
+            "file": "content/Common/Stage/Ocean_Room0.szs",
+            "hash": "5E606F7A674C1629F1ACCB627F78F6259C6770AE933023C81C67C83AC374A5AA"
+        },
+        {
+            "file": "content/Common/Stage/Ocean_Stage.szs",
+            "hash": "D659DA1F0A20F1C3626A9725ED7E82B991BBB83375DA4BAAE8C5357CA8D99709"
+        },
+        {
+            "file": "content/Common/Stage/Ocmera_Room0.szs",
+            "hash": "B7B3E351EFAC685DF519683C583945AA15AFE0645496F6E0D0B96187C1A0E068"
+        },
+        {
+            "file": "content/Common/Stage/Ocmera_Stage.szs",
+            "hash": "B0D257E5D3F773B0B81C7A65846F9DDF24410664C1E59B9FF6D1AEF5C0563D14"
+        },
+        {
+            "file": "content/Common/Stage/Ocrogh_Room0.szs",
+            "hash": "870C1BD6FEFC10DE732F405D9A4036FDC1A2D78D82FD99EA41EB2E959D9B0872"
+        },
+        {
+            "file": "content/Common/Stage/Ocrogh_Stage.szs",
+            "hash": "56671B5B070467551ACCEA80F3F236DED9552475D185AB81D91B3E6D5A62B322"
+        },
+        {
+            "file": "content/Common/Stage/Ojhous2_Room0.szs",
+            "hash": "BFAC85B339924891FC2FF22E0BFB538B128DAD2AFDB95FE934E5BD9216E26B8E"
+        },
+        {
+            "file": "content/Common/Stage/Ojhous2_Room1.szs",
+            "hash": "277312F077AD4187E9283D54DFAD53E3D50F1708301B8000260808FE2C50CD3F"
+        },
+        {
+            "file": "content/Common/Stage/Ojhous2_Stage.szs",
+            "hash": "A0B6FF5EEDFDC86AEA52C24D05E8588CDFEEB150DE067FB864225F6EA9B32FE3"
+        },
+        {
+            "file": "content/Common/Stage/Ojhous_Room0.szs",
+            "hash": "81F8042BA57E053D1947297388527D32346F22B66BD0254CDA5907D31C40A75A"
+        },
+        {
+            "file": "content/Common/Stage/Ojhous_Room1.szs",
+            "hash": "1EA5C6EB6A5F90D57A10F7ACFE1AB7B83E76CA34472460F74746DC6273CC4BC5"
+        },
+        {
+            "file": "content/Common/Stage/Ojhous_Stage.szs",
+            "hash": "5EB6A64130861E4291C56850717D7FC575875307179D8AE12583642457808CA9"
+        },
+        {
+            "file": "content/Common/Stage/Omasao_Room0.szs",
+            "hash": "1BD013180833AD1A4A6D9B7BCA4672006128E75ADD247DF65D61C1C5EFCAFEC8"
+        },
+        {
+            "file": "content/Common/Stage/Omasao_Stage.szs",
+            "hash": "583EC355426F0BDDBC2A75B7A5A3640A068BC637E229ED15FC926CE707BC11E9"
+        },
+        {
+            "file": "content/Common/Stage/Omori_Room0.szs",
+            "hash": "BF691645932E9D7C1783971F5C89C982D0BEBCC126C7B3E0D71EB80AC8FD19FE"
+        },
+        {
+            "file": "content/Common/Stage/Omori_Stage.szs",
+            "hash": "B3916353AF74DF459740C21D4C025DA717CE814859899C3086AEC0A34AA2A2CC"
+        },
+        {
+            "file": "content/Common/Stage/Onobuta_Room0.szs",
+            "hash": "C27DC49B8E9E673C894A4542CF9F912EF1AF6B9FB0D11AF39E234D0ACF3183B8"
+        },
+        {
+            "file": "content/Common/Stage/Onobuta_Stage.szs",
+            "hash": "C65DFDC01F3765D7CA178C8BEF69C5EE3A8DB5ACD163A9796BDEA25F67BA92D9"
+        },
+        {
+            "file": "content/Common/Stage/Opub_Room0.szs",
+            "hash": "8D3A18017B420126ACA53DEFBAF1656073AC8F8384338528775F6B148DBAE2F8"
+        },
+        {
+            "file": "content/Common/Stage/Opub_Stage.szs",
+            "hash": "168B77A441D978607B6A7979BD15B90230EF5307CBDC790FE958717D2C81DD85"
+        },
+        {
+            "file": "content/Common/Stage/Orichh_Room0.szs",
+            "hash": "E8E7EFB1D2AF3965FCFF70BFB86583145A014C23833AA759C60824090115E77A"
+        },
+        {
+            "file": "content/Common/Stage/Orichh_Stage.szs",
+            "hash": "EE05C2D6995B0E5FCED892134943B08F948B5D2BAC57084C532AB0B7CE9EF044"
+        },
+        {
+            "file": "content/Common/Stage/Otkura_Room0.szs",
+            "hash": "744E391ED88B67A175CF453B8F4EF842C392AFC071B8FD7201985CDE224DE069"
+        },
+        {
+            "file": "content/Common/Stage/Otkura_Stage.szs",
+            "hash": "4674D7E956B2CB0AFA26B762CAEDFC5E0237459A11309853D3819A3248FBDA0E"
+        },
+        {
+            "file": "content/Common/Stage/PShip2_Room0.szs",
+            "hash": "52D41E4C52C90E26FA3184A6B2E455AF9FFF98A2A451F617DB64924256826064"
+        },
+        {
+            "file": "content/Common/Stage/PShip2_Stage.szs",
+            "hash": "2F57F6001A17F9694F27AF5FD7130F37CE5CDA560EEBC1DB9CF6A919E7CCEC4F"
+        },
+        {
+            "file": "content/Common/Stage/PShip3_Room0.szs",
+            "hash": "798683A35D0D8B28965F22118440002280D226E661A97386C834E301862687A1"
+        },
+        {
+            "file": "content/Common/Stage/PShip3_Stage.szs",
+            "hash": "77EEEDB7101327838F0C9B9651B18AE93340CF8828E3F5BAE6E520D24E8FDAB4"
+        },
+        {
+            "file": "content/Common/Stage/PShip_Room2.szs",
+            "hash": "893BEC5721DA4013CC1848F4E6BACDF923F0CFBC60EE6F6023CBFEA2C6E56CD2"
+        },
+        {
+            "file": "content/Common/Stage/PShip_Stage.szs",
+            "hash": "745FD264900FEF459ECB4DD6D62AB46D0046549085826CD4FBA0F0F4F17D52DF"
+        },
+        {
+            "file": "content/Common/Stage/Pdrgsh_Room0.szs",
+            "hash": "3CB83D49A74C53A21D7BA9F5B27ACDED29A26FD608D12FE7485EFA1AF672F57C"
+        },
+        {
+            "file": "content/Common/Stage/Pdrgsh_Stage.szs",
+            "hash": "DCE0FDC01CD5FBA638A5C4814197D129B54516ABE388B4220A07D77B59572538"
+        },
+        {
+            "file": "content/Common/Stage/Pfigure_Room0.szs",
+            "hash": "702651A2ADC833D11ADC0E7B00F395081678573CF0AD46257487816BDC31A6AE"
+        },
+        {
+            "file": "content/Common/Stage/Pfigure_Stage.szs",
+            "hash": "11163D914DEC15E3072736CDD25F46A1310B407B1E3345EEDC5F2F7B499205FA"
+        },
+        {
+            "file": "content/Common/Stage/Pjavdou_Room0.szs",
+            "hash": "7722DE3A0C3E03B9C6C4515B3E77ABFE39B2C1B5C78345057744D3F01E9F0F17"
+        },
+        {
+            "file": "content/Common/Stage/Pjavdou_Stage.szs",
+            "hash": "2F084BD60D9CF079950868EC774FB4F05B0F8A68EE554C554F4A4056B15026A6"
+        },
+        {
+            "file": "content/Common/Stage/Pnezumi_Room0.szs",
+            "hash": "1D3AA62885717AFD33725F23BE7EE093FA0DF5000E76578A3BDE340B2EBDFF0B"
+        },
+        {
+            "file": "content/Common/Stage/Pnezumi_Stage.szs",
+            "hash": "D3E4057159EA4B7514B017F17813CE0D2E721698439F8FC2AC76255369A3BD8D"
+        },
+        {
+            "file": "content/Common/Stage/ShipD_Room0.szs",
+            "hash": "64A1E392DCEFB3714EFD5EF1CE26EA8BE40DAA96B153C83E79949A917EE87CD2"
+        },
+        {
+            "file": "content/Common/Stage/ShipD_Stage.szs",
+            "hash": "91221467694F3D51B57B9268B0A5D08D23E91993E9AECD64812ED1CF9ADA6C52"
+        },
+        {
+            "file": "content/Common/Stage/SirenB_Room0.szs",
+            "hash": "8E330FF01C8E51F5F5F0688CE93E99BB3E994CA6AAF96238A98AC4EE31B11842"
+        },
+        {
+            "file": "content/Common/Stage/SirenB_Stage.szs",
+            "hash": "E52EDDE4C6F61D51A1E73C955C02EBE1B9A87FD70D95657F1CC744089238C307"
+        },
+        {
+            "file": "content/Common/Stage/SirenMB_Room23.szs",
+            "hash": "1D5A0D084AD03041857894D8D7DA14BC30E02ABB7CD6D945A3AC49F2C2A93221"
+        },
+        {
+            "file": "content/Common/Stage/SirenMB_Stage.szs",
+            "hash": "8EF074AEB44C3AA191AA34CB4A31C95B2B08A2B6F170D33AFB218D23E7894B5D"
+        },
+        {
+            "file": "content/Common/Stage/Siren_Room0.szs",
+            "hash": "879DDFC82D34294A77CA4C731E02793BEA5123E476A42FA7A4E9704C1C667575"
+        },
+        {
+            "file": "content/Common/Stage/Siren_Room1.szs",
+            "hash": "2B55CBE20D40550E7279B42FB2B32AC5C790C024868A56C66B4320D0AC4D0164"
+        },
+        {
+            "file": "content/Common/Stage/Siren_Room10.szs",
+            "hash": "9C09FD5DA17045E5B49C29261B8877B8B6E0C7593DC3C30BB96FF75E48835E64"
+        },
+        {
+            "file": "content/Common/Stage/Siren_Room11.szs",
+            "hash": "FD3CA631620BE4D206A3C0B58FA83606389D8AD701EC3C237D5A1AB3E80A07E2"
+        },
+        {
+            "file": "content/Common/Stage/Siren_Room12.szs",
+            "hash": "ECE7B4CB97AE30D8BC29E437726977B22588842EB17CF85D149900B4A65FB1DD"
+        },
+        {
+            "file": "content/Common/Stage/Siren_Room13.szs",
+            "hash": "29E8CD3C107E5D66B2B33278ADF0E9311776F0C81E00E637545EB39C5CD31F8A"
+        },
+        {
+            "file": "content/Common/Stage/Siren_Room14.szs",
+            "hash": "254166AB4CC518F154B7A0BEFF22980BA5BB3149F9C3C59A7ACF5B5CA9314429"
+        },
+        {
+            "file": "content/Common/Stage/Siren_Room15.szs",
+            "hash": "F8BF6CA413F5B6ACE6FBB17A8CC83505E35EC5EC21A25355D203EDBED1B025D1"
+        },
+        {
+            "file": "content/Common/Stage/Siren_Room16.szs",
+            "hash": "07AB4DC87A56CDEBE7D5914A0FE7FCBB61E31517529392AFA00305B3FDCD8AC3"
+        },
+        {
+            "file": "content/Common/Stage/Siren_Room17.szs",
+            "hash": "492E557FC7DBB31D16BC02AD6E9BD389A52089C1DA4DB3B75B42932AC70BBAF1"
+        },
+        {
+            "file": "content/Common/Stage/Siren_Room18.szs",
+            "hash": "D4C557DD982BA7D7D8FB5DDCC59A66FD1E224DBDDEBF4529916043C26F7DA69E"
+        },
+        {
+            "file": "content/Common/Stage/Siren_Room19.szs",
+            "hash": "8705BF41B55C83113425BFA5E5420632E63C720FBCC2057ED7E597D2A7D2550F"
+        },
+        {
+            "file": "content/Common/Stage/Siren_Room2.szs",
+            "hash": "A6EEE7DA17F464B967481F9B59C18D876554877D014E64BE24CE441AFD30AAF7"
+        },
+        {
+            "file": "content/Common/Stage/Siren_Room20.szs",
+            "hash": "9F7A7B15FE3639790AC7E481C1D7FCBAC32C24CD76D9B403408D32E07D31F0F9"
+        },
+        {
+            "file": "content/Common/Stage/Siren_Room21.szs",
+            "hash": "F0D78E8F3E3556ECB4156C04DA384E2BAB5D0ECF20249FC57D80F639D80AEEFA"
+        },
+        {
+            "file": "content/Common/Stage/Siren_Room22.szs",
+            "hash": "3743A5A762967AF1E080D7041FA3200AF66CB424BD3DA8493DB723AEA2EC90B2"
+        },
+        {
+            "file": "content/Common/Stage/Siren_Room23.szs",
+            "hash": "5B0E7C1930BCA76183CD10F4864110DA48E8F7AD385886458B3A46956A18748B"
+        },
+        {
+            "file": "content/Common/Stage/Siren_Room3.szs",
+            "hash": "F293F5270747BFA282F75F9143EEBD2807EE69A6136CDFD5AFC5AA32EE839515"
+        },
+        {
+            "file": "content/Common/Stage/Siren_Room4.szs",
+            "hash": "8D4482C332515BF1527477420724DEB3A35C963BE0D7E8E06E95B6E7AA74324F"
+        },
+        {
+            "file": "content/Common/Stage/Siren_Room5.szs",
+            "hash": "1A066C68EF547DB61412EE1046A38670C051F531961DF0D5E86EFF7C918B369F"
+        },
+        {
+            "file": "content/Common/Stage/Siren_Room6.szs",
+            "hash": "A55BDFF01594D7094509D6EED89079981E14D085B15470F0A291C641C35FB3B7"
+        },
+        {
+            "file": "content/Common/Stage/Siren_Room7.szs",
+            "hash": "861C618DA04A43A58B45488C5A8BB82151FA7C50630E889DF8626D25B2E10B19"
+        },
+        {
+            "file": "content/Common/Stage/Siren_Room8.szs",
+            "hash": "63B4EABB3088343FE30AB1C7EA960D0BBA382961A157092366C5FA46C6AE178B"
+        },
+        {
+            "file": "content/Common/Stage/Siren_Room9.szs",
+            "hash": "D251402C9EE0D3FEFE6AF1B8270DE1AC3119772A3D1AC4772FE70902A3E31A78"
+        },
+        {
+            "file": "content/Common/Stage/Siren_Stage.szs",
+            "hash": "D68290F32362433726DCA65B3DE727373362C87CCDAD60CC7ED83EE341502CCE"
+        },
+        {
+            "file": "content/Common/Stage/SubD42_Room0.szs",
+            "hash": "1294BEC450899229229462B1D539A305A8752FD05939B4AB4E3981EE75CA309C"
+        },
+        {
+            "file": "content/Common/Stage/SubD42_Stage.szs",
+            "hash": "61542A7B522FAB96B57EAAADD915576D83C4EDBA6225872FD00F4C15C9E39589"
+        },
+        {
+            "file": "content/Common/Stage/SubD43_Room0.szs",
+            "hash": "A91ED541959DFF2C89FE5196AA5C8E4A37759C1B0D9D19EE93925F7398324897"
+        },
+        {
+            "file": "content/Common/Stage/SubD43_Stage.szs",
+            "hash": "072AD096A717326ACCDCF42AFD0796367C51953A4A0D4F38BED174EB645A8E22"
+        },
+        {
+            "file": "content/Common/Stage/SubD44_Room0.szs",
+            "hash": "FB1C6CA2089EB47DB68F0E66C0BD36F9A5674C0A6D86426D5A0273013BB6622E"
+        },
+        {
+            "file": "content/Common/Stage/SubD44_Room1.szs",
+            "hash": "6CE31EC535B020FBCF204E9AE05E483AD71CC24A99A662832339EEBBC1977A57"
+        },
+        {
+            "file": "content/Common/Stage/SubD44_Room2.szs",
+            "hash": "7594A783707929B5F5A31479E35C3D1438820C87B3065BF459D8E4852B2F9259"
+        },
+        {
+            "file": "content/Common/Stage/SubD44_Room3.szs",
+            "hash": "6B64DDF05753D087A112214D5AA5720EE28E3C17DBAA47A0ACC2D0E1DE48E39A"
+        },
+        {
+            "file": "content/Common/Stage/SubD44_Room4.szs",
+            "hash": "32B5397429B099CBC7E334F253AEDEF9D181EC6339AF72EAD51A84E21F17B406"
+        },
+        {
+            "file": "content/Common/Stage/SubD44_Room5.szs",
+            "hash": "1082DF984AA96A8B5A6C9D018CBBC573CC3205CEEAB62971EA1D0D8EC3271577"
+        },
+        {
+            "file": "content/Common/Stage/SubD44_Room6.szs",
+            "hash": "1F1FD42AF4B809A741C4CB3BFBCC31CBBCF99622B7C8E4DF52FE534DEAE46C30"
+        },
+        {
+            "file": "content/Common/Stage/SubD44_Stage.szs",
+            "hash": "B69435535820227EDB45E32310696CA277B6F17151DA8C6EF47B51B4B95E0A6F"
+        },
+        {
+            "file": "content/Common/Stage/SubD51_Room0.szs",
+            "hash": "2FC82563BE45EE18906F9F2D0B1957E0406E25F0FECC0DA73283103DFC017959"
+        },
+        {
+            "file": "content/Common/Stage/SubD51_Room1.szs",
+            "hash": "A971822DC762DDF53782E79A1B1311809C7E1C3E28A4CDEBE14ABBCB5B029A27"
+        },
+        {
+            "file": "content/Common/Stage/SubD51_Stage.szs",
+            "hash": "34D61A55B193BB9B36A878615A1388F566ED800720B476436C20080CDFAA836D"
+        },
+        {
+            "file": "content/Common/Stage/SubD71_Room0.szs",
+            "hash": "1241885E89B24001228132B79D2C738F00350EEED7AA0670430EABB460C2F44F"
+        },
+        {
+            "file": "content/Common/Stage/SubD71_Room1.szs",
+            "hash": "7DCC7ECA3176CDC8476CB8E60DF059DF45B0A2A9FBB809B255377DB0C474D6E1"
+        },
+        {
+            "file": "content/Common/Stage/SubD71_Room2.szs",
+            "hash": "13728ACA68D13EFBE32EA2FB92A1537A6B02B89BFF4D0F4AE07C0F50D638A21A"
+        },
+        {
+            "file": "content/Common/Stage/SubD71_Stage.szs",
+            "hash": "E7F1851E9BFC67F32659DC16C19F7397CD2372F84C5AF3FE03D1C8F51365E2AB"
+        },
+        {
+            "file": "content/Common/Stage/TF_01_Room0.szs",
+            "hash": "6E34B60CA105F8194204562ADABBD1D69105E766592848A6715B5488895602F7"
+        },
+        {
+            "file": "content/Common/Stage/TF_01_Room1.szs",
+            "hash": "44483194F6C1C9B8DFA666DA7C24D91AA95446B4D30697473CF9BC785F977C22"
+        },
+        {
+            "file": "content/Common/Stage/TF_01_Room2.szs",
+            "hash": "998050D2C870066CD04D0B59ECA39F465C30D959B914239F135DF161063ED89B"
+        },
+        {
+            "file": "content/Common/Stage/TF_01_Room3.szs",
+            "hash": "25C39B57E56B76A9AC942D6F9183CADFCB217DC8B5D6D53BE1FBF1F1C4A75CDE"
+        },
+        {
+            "file": "content/Common/Stage/TF_01_Room4.szs",
+            "hash": "58A856046EB102C6F6D71E1B01891D9DED5112D6DE95450E3F6476A1684A1ACC"
+        },
+        {
+            "file": "content/Common/Stage/TF_01_Room5.szs",
+            "hash": "9ACBF4CB5A68C24F08B7B881B08964DB40684D96E1C38F182CE59FBC6283C91D"
+        },
+        {
+            "file": "content/Common/Stage/TF_01_Room6.szs",
+            "hash": "78F80C397D1D1A606F3AB6A26FB1F30970D5B54B29FB5186F6D4E95A882B2AD1"
+        },
+        {
+            "file": "content/Common/Stage/TF_01_Stage.szs",
+            "hash": "E36482A9ADC552826DDE6B656D892CCF57E024B454F8E93AF43AD7EBA95FB4B1"
+        },
+        {
+            "file": "content/Common/Stage/TF_02_Room0.szs",
+            "hash": "ECE859C0D7C2EE690FB83E3BE5D87F86256B2305AF8E1FC08DE7912BE5ADC68E"
+        },
+        {
+            "file": "content/Common/Stage/TF_02_Room1.szs",
+            "hash": "2221C694B1F59EFA64EF6B375D3075793C88FD5B54B053F4311239F050440019"
+        },
+        {
+            "file": "content/Common/Stage/TF_02_Room2.szs",
+            "hash": "DB286D4D0B94F7EE7E937E557DDF3EC885FD5F8B7D64F94E963E27244D7976E6"
+        },
+        {
+            "file": "content/Common/Stage/TF_02_Room3.szs",
+            "hash": "39C8EF75802A2B1C6B9BE95013667E90F8B75F02C53598A7229F54D3B6E2E5D3"
+        },
+        {
+            "file": "content/Common/Stage/TF_02_Room4.szs",
+            "hash": "0EBBAF5F4AB7479E1E850C1F8929B60DE1AD8A66F7EC569AA7021892A04C0B6A"
+        },
+        {
+            "file": "content/Common/Stage/TF_02_Room5.szs",
+            "hash": "72EDC7CB607B2CB86297BD0B70CBE82BB3DE854D026811C9585F5EF48AC23493"
+        },
+        {
+            "file": "content/Common/Stage/TF_02_Room6.szs",
+            "hash": "5FC871119E758204C8E833F64017C745C167E8A1F550B172BEA083B429A1ED3E"
+        },
+        {
+            "file": "content/Common/Stage/TF_02_Stage.szs",
+            "hash": "C5538B7AF5B962EED584E386E96021D3D3DD0950D07E386522E83A498CDDB548"
+        },
+        {
+            "file": "content/Common/Stage/TF_03_Room0.szs",
+            "hash": "F899C4D72ECFD8A229D329C11E11D75689D8FC5D0E14727E6717FF971515B80E"
+        },
+        {
+            "file": "content/Common/Stage/TF_03_Stage.szs",
+            "hash": "3B24B8D4DAAD723ABD5DC1AB8C813EA98F6F3C7006876D8EA425DFBB6ED49996"
+        },
+        {
+            "file": "content/Common/Stage/TF_04_Room0.szs",
+            "hash": "DEBF71A177D50476C15EA3C14C30EB6D06056286AEE3B0AE738E38E1EB8D8636"
+        },
+        {
+            "file": "content/Common/Stage/TF_04_Stage.szs",
+            "hash": "2C74AB315D63CB6C689E74F622DFDCD11686A7C9D91A562893A2E764D05E0912"
+        },
+        {
+            "file": "content/Common/Stage/TF_06_Room0.szs",
+            "hash": "252321BCE8E9210DB9114A174435FB922EF0C25F1CF389D788432666E9817CBA"
+        },
+        {
+            "file": "content/Common/Stage/TF_06_Room1.szs",
+            "hash": "64D95A11BD384EE0C06EC467480BD30BF383F442E8D5F7C91587D3F55EB1008C"
+        },
+        {
+            "file": "content/Common/Stage/TF_06_Room2.szs",
+            "hash": "B26FD2DE8F554D11F71FB3CDB00D03756F917C77F960829BFBA7AED7BCBF993F"
+        },
+        {
+            "file": "content/Common/Stage/TF_06_Room3.szs",
+            "hash": "C5EEEF996D9AAD149110E00E9AC1D79F9B34BCC5E37A99B63E1470D905F63297"
+        },
+        {
+            "file": "content/Common/Stage/TF_06_Room4.szs",
+            "hash": "04AAF50FA3BC8C9568A9DC199896103CC67E18EF6B2EEB8A3F933A9FAB06A122"
+        },
+        {
+            "file": "content/Common/Stage/TF_06_Room5.szs",
+            "hash": "E427CF08C640F998B8B31656B76DF0D247A186C343E199EF91A5FF0C3030DB52"
+        },
+        {
+            "file": "content/Common/Stage/TF_06_Room6.szs",
+            "hash": "513443F3544BAB8793FBD8818D142CD9A725DAC48FD0AD1B4D224CA1252DE0A0"
+        },
+        {
+            "file": "content/Common/Stage/TF_06_Stage.szs",
+            "hash": "F1E141DDDAA9662C80D4359EF27CB779465FAECBA808FB8F85397480D3EB1C95"
+        },
+        {
+            "file": "content/Common/Stage/TyuTyu_Room0.szs",
+            "hash": "AB4748060910290F4CB11B88C819031978D3E06D39CE02BD2BFF97D8D59ED0FB"
+        },
+        {
+            "file": "content/Common/Stage/TyuTyu_Stage.szs",
+            "hash": "89B3DA0C038EE94435479EBE30E18C730CFA15E54D1788A8D18CFB1CA9FFA23F"
+        },
+        {
+            "file": "content/Common/Stage/WarpD_Room0.szs",
+            "hash": "68897EF2489A4344303FB4771C8A59B5F728729377B15644E0836E1887511264"
+        },
+        {
+            "file": "content/Common/Stage/WarpD_Stage.szs",
+            "hash": "22BDD0F0BDB02E4A7995C2119B654E84B6342BCFC7E52B5968815553090F816E"
+        },
+        {
+            "file": "content/Common/Stage/Xboss0_Room0.szs",
+            "hash": "506D1B48026FF7DCD4A577192B22068B123EC68D935C78E2649DB7BFCD16CE6B"
+        },
+        {
+            "file": "content/Common/Stage/Xboss0_Stage.szs",
+            "hash": "248CB5FEF4B243022D9E25E4092212F6D0EA416ADA5E5453BF8856327EAEBB6F"
+        },
+        {
+            "file": "content/Common/Stage/Xboss1_Room0.szs",
+            "hash": "1B5B8722090930F2206E903A39F94209C9B149A6AD93569FF2CF04A0C3DADD67"
+        },
+        {
+            "file": "content/Common/Stage/Xboss1_Stage.szs",
+            "hash": "C811C51157E758BCB43BB23F4869868F381F44F9958B3FCADF40ACA5CB21466A"
+        },
+        {
+            "file": "content/Common/Stage/Xboss2_Room0.szs",
+            "hash": "EB0BAA954A1C0E38AA20E03951052649FBE3F149DD71CB5F7E924CC2ED23721F"
+        },
+        {
+            "file": "content/Common/Stage/Xboss2_Stage.szs",
+            "hash": "F95498C4D4CF817FEFDA8BC5D13DB8AF4A649465608BF24CF2870FF22AFD3B5B"
+        },
+        {
+            "file": "content/Common/Stage/Xboss3_Room0.szs",
+            "hash": "1A98512A786B88C54AF21F4F7FCAF5A98A6904EDB383F8C76797DA7CF628A09C"
+        },
+        {
+            "file": "content/Common/Stage/Xboss3_Stage.szs",
+            "hash": "2650A92FAD77931365A3540934EF9EE01CE2F231F5389395932392845D4E2342"
+        },
+        {
+            "file": "content/Common/Stage/figureA_Room0.szs",
+            "hash": "5CF9D3975C6AE4DA7FEDD224B4DBCA94916E3A54761A07D20B8C9C781BB9D40B"
+        },
+        {
+            "file": "content/Common/Stage/figureA_Stage.szs",
+            "hash": "79A6FFE1AC4FF95A5F2B7B9392B05F453A5DA22555C24A712D9153655C0DD6F8"
+        },
+        {
+            "file": "content/Common/Stage/figureB_Room0.szs",
+            "hash": "EE2E267EA8E46874294A2076F88CEFAEAD365ADF2A8F542594392528363F466C"
+        },
+        {
+            "file": "content/Common/Stage/figureB_Stage.szs",
+            "hash": "439BF7865DDCA8C867EF2C5F8543263C2C21B2533B47C7528F1E0FE1056BB6D9"
+        },
+        {
+            "file": "content/Common/Stage/figureC_Room0.szs",
+            "hash": "C6C230F3FCFEE69F091E102A53C21E419C698CA8E2052E9E7FA173E0E1AEE077"
+        },
+        {
+            "file": "content/Common/Stage/figureC_Stage.szs",
+            "hash": "B76F381B6C44723486286496295E4E667107768A8DCF309865AFD08C9E40267D"
+        },
+        {
+            "file": "content/Common/Stage/figureD_Room0.szs",
+            "hash": "2D2EAC5CF722BAA4CD5B331C63E76765DCC6D9797C631114A7561ABFFB561E37"
+        },
+        {
+            "file": "content/Common/Stage/figureD_Stage.szs",
+            "hash": "60C161AAFA655D83755828B20BF51AAB4B0FFEC82A44EE9E9659751942535BC4"
+        },
+        {
+            "file": "content/Common/Stage/figureE_Room0.szs",
+            "hash": "73050E221B95938C60CBD557A405C0AF9E21F7AF9640BFFD4DE92D990C27A768"
+        },
+        {
+            "file": "content/Common/Stage/figureE_Stage.szs",
+            "hash": "D9D448D6F6EE83D3AC4F7FC1B38E036DEF739424EA26540AA1268EAE8DDDF884"
+        },
+        {
+            "file": "content/Common/Stage/figureF_Room0.szs",
+            "hash": "98FDBD62563495D72F851F02530A10C0971B0D799E944E7D4EDD2413FF425C84"
+        },
+        {
+            "file": "content/Common/Stage/figureF_Stage.szs",
+            "hash": "4E7309057500A42A77F0C3AB8849604D86C8BFA6027F9BF0054AD606B18807AB"
+        },
+        {
+            "file": "content/Common/Stage/figureG_Room0.szs",
+            "hash": "61970DD58943EAAA408BF0CE53598D54BBD1D200D0060A38B8BBEE4586540F2A"
+        },
+        {
+            "file": "content/Common/Stage/figureG_Stage.szs",
+            "hash": "19ADDB813B4132F907143F21770CD91AE063C75453DC15DDD7F8CF298E8E1B3D"
+        },
+        {
+            "file": "content/Common/Stage/kazan_Room0.szs",
+            "hash": "F6570F8EF51975FC2D75A4630966B34473F70B79A4E4C817F08AAF7720D18DBE"
+        },
+        {
+            "file": "content/Common/Stage/kazan_Stage.szs",
+            "hash": "29999CFF2166C964BB0B0748988CF58356C272390DD45A2A91977647B3D62A36"
+        },
+        {
+            "file": "content/Common/Stage/kazeB_Room0.szs",
+            "hash": "229397B1065265FCD6C5FC238BC8CCC10B35515E2050D7A8742B1B0206FAF157"
+        },
+        {
+            "file": "content/Common/Stage/kazeB_Stage.szs",
+            "hash": "3377A84763268EDB5BF953AB372C2B3C7E403B076E2F33627E30BA4E58C49B7B"
+        },
+        {
+            "file": "content/Common/Stage/kazeMB_Room6.szs",
+            "hash": "6EC6CF50C4D15B969A2E1DDEC0D1400DE01139B5137F024DE6C6B378893721C0"
+        },
+        {
+            "file": "content/Common/Stage/kazeMB_Stage.szs",
+            "hash": "7F7C70EB306B620D89378A1C9D83B70DE4D6E38A5E4BFBEDD354C6F88F686D65"
+        },
+        {
+            "file": "content/Common/Stage/kaze_Room0.szs",
+            "hash": "165F66A32D3D6996BF2E89C426FC9D6F13AF3A3FAB7F17165DA5A561FE2F497C"
+        },
+        {
+            "file": "content/Common/Stage/kaze_Room1.szs",
+            "hash": "94072CC052341D3C931443EF7C048CBEDAA11512182C6F7567448A515F750C63"
+        },
+        {
+            "file": "content/Common/Stage/kaze_Room10.szs",
+            "hash": "03DA4C112EA7B1E59A2370CBDBBF18620F86AFAC3EF3B353F1FD09A5D0A54D1C"
+        },
+        {
+            "file": "content/Common/Stage/kaze_Room11.szs",
+            "hash": "57C9E08BB5546A41CE5F02D6FC4E41D0BEAEE6FCADB9795AC90D3909C6B327E0"
+        },
+        {
+            "file": "content/Common/Stage/kaze_Room12.szs",
+            "hash": "C20A99969BB4B9DA8C19686A65BC90CEF023AD860E805D9BC721A831B7EF0743"
+        },
+        {
+            "file": "content/Common/Stage/kaze_Room13.szs",
+            "hash": "78B4A3A4BED264BFD321399DA0DE08CB01A08B6704142D46EC0DF98E651C93DE"
+        },
+        {
+            "file": "content/Common/Stage/kaze_Room14.szs",
+            "hash": "E37E01C0DD87087D6B1DC6AC17E431E95CDECE223823F27DD6B76CA7E187636D"
+        },
+        {
+            "file": "content/Common/Stage/kaze_Room15.szs",
+            "hash": "4C2DC7391B3C6BE71F7CF259D588D13BFDAC021045EA6E5E3E7DADE8AF7772CE"
+        },
+        {
+            "file": "content/Common/Stage/kaze_Room16.szs",
+            "hash": "22C3195B921993DC3F0547A966A8013824A9A7A28768916277014ABE1D312026"
+        },
+        {
+            "file": "content/Common/Stage/kaze_Room2.szs",
+            "hash": "14B894AEABE3F6215EF21AF1F19151844D5D11DC75FD20C3AA73768533ED8B28"
+        },
+        {
+            "file": "content/Common/Stage/kaze_Room3.szs",
+            "hash": "69DA8101DB0A6F6682A3AB6AFC08D2FAD2424CD3C614D7D4D0ECCC782D4E30FD"
+        },
+        {
+            "file": "content/Common/Stage/kaze_Room4.szs",
+            "hash": "7EE12AD3A95995B4A308FD8D21DC9534BF67EB704D94A75A06014921B0783AC7"
+        },
+        {
+            "file": "content/Common/Stage/kaze_Room5.szs",
+            "hash": "3C55D7B0FFE00598276D0751182107086666BE20AA80932FC261FBE5F0781B3E"
+        },
+        {
+            "file": "content/Common/Stage/kaze_Room6.szs",
+            "hash": "4B6CA65CA2C510E81F2825A82814C6A3A853521000EDBF41E20A8E22881230C2"
+        },
+        {
+            "file": "content/Common/Stage/kaze_Room7.szs",
+            "hash": "A4AD0EF5F45A2D17DD550A5E3F32C3DD11B0217A4EA6247CBF5B1D67ECA5350A"
+        },
+        {
+            "file": "content/Common/Stage/kaze_Room8.szs",
+            "hash": "572C14EA0D78637457BED85CCF01C8BA2D4CA6DF7DC5FA664B78EE8B4909A4AE"
+        },
+        {
+            "file": "content/Common/Stage/kaze_Room9.szs",
+            "hash": "CDBE1F8003B9680D3549573E99D39666170D9515A973C5D5F1E70496A4ED7A59"
+        },
+        {
+            "file": "content/Common/Stage/kaze_Stage.szs",
+            "hash": "36F41448C1F2466787A6797B32062598B1675A932BD78C5A476837D1F74510E5"
+        },
+        {
+            "file": "content/Common/Stage/kenroom_Room0.szs",
+            "hash": "BDB7C44649DFCCA2B487FC8950E1B353DF5C023E6E802DFFCCFB2808D86E48CB"
+        },
+        {
+            "file": "content/Common/Stage/kenroom_Stage.szs",
+            "hash": "03B90944B729B1F6DD9DEF1819A111730EB63944D79BC8A3C05E1515ECF24B86"
+        },
+        {
+            "file": "content/Common/Stage/kinBOSS_Room0.szs",
+            "hash": "5207CBCDE2D8910CC8CB8EAB28CC86E16A9DB5675C80DD757EC5B78BCC1F269C"
+        },
+        {
+            "file": "content/Common/Stage/kinBOSS_Stage.szs",
+            "hash": "FEF1F2D8C4B6040B6B9688D348D275E118F0268206B1CE3DA4B330F4B642424D"
+        },
+        {
+            "file": "content/Common/Stage/kinMB_Room10.szs",
+            "hash": "FC78B1B2EC2599F6638FEC3D1DF4A8DE7E77CCFF6315C7BE902F07090AF76BE3"
+        },
+        {
+            "file": "content/Common/Stage/kinMB_Stage.szs",
+            "hash": "BFA79157691FCD04AAAB0EE31C121A3CCE23BC40BC18C74646BAED8CC722D54B"
+        },
+        {
+            "file": "content/Common/Stage/kindan_Room0.szs",
+            "hash": "0F6BC1BE5296BE6EEDCB3193E632AE6E80089520B9589F648C4CEEBF2A7CAF31"
+        },
+        {
+            "file": "content/Common/Stage/kindan_Room1.szs",
+            "hash": "B94B8434BE6ECE092BEF753DF34D117B3A3E81C113B3995530C7AA92CFADA094"
+        },
+        {
+            "file": "content/Common/Stage/kindan_Room10.szs",
+            "hash": "C64E6D674567F0F5398B5A36C685374AA526ED1C0132F74A6272BD4D50E6486E"
+        },
+        {
+            "file": "content/Common/Stage/kindan_Room11.szs",
+            "hash": "111D34BF67DCC006E60ADCA87D1EBBDA86A9577317F17A34A20A6ADE52F462D6"
+        },
+        {
+            "file": "content/Common/Stage/kindan_Room12.szs",
+            "hash": "5D14A3DE98CEFD80B555606A1D60FB22CC9E26BAA56846778190723EE50C7136"
+        },
+        {
+            "file": "content/Common/Stage/kindan_Room13.szs",
+            "hash": "F0E158659BB9891D0D4983AE6D65243C4C7BE412747FA4E929B24B58F38A9581"
+        },
+        {
+            "file": "content/Common/Stage/kindan_Room14.szs",
+            "hash": "C28DA755311A249F2BFBF8777210EE4568E0408AE173FB45AC62C64D803A6C4A"
+        },
+        {
+            "file": "content/Common/Stage/kindan_Room15.szs",
+            "hash": "A95ABBE70765F2E800FDD5220B4AF62EBFB01EB7BDF3AE50DAB29AD894020BDD"
+        },
+        {
+            "file": "content/Common/Stage/kindan_Room16.szs",
+            "hash": "DEC705624303E7693452701016E64C9B2E1C3FAF0079EF1A286F68EC8B2D48E3"
+        },
+        {
+            "file": "content/Common/Stage/kindan_Room2.szs",
+            "hash": "F086E9B570611A8D3B1284A2474A98973511C3FEDE884673364A5EF230580DF9"
+        },
+        {
+            "file": "content/Common/Stage/kindan_Room3.szs",
+            "hash": "BEA403A43007FC24A523017019D18993C6FD4C68BA2C8A5A4A9D4A7C71F615E6"
+        },
+        {
+            "file": "content/Common/Stage/kindan_Room4.szs",
+            "hash": "5D36AE9369EBFFADF4487864B9BC28EE84468AF2A27695DCB12D95F965E80824"
+        },
+        {
+            "file": "content/Common/Stage/kindan_Room5.szs",
+            "hash": "1D84DF4D23220A1B21493148163F095C4A471E9C9E7BD2B1DAB2BBB751A65D85"
+        },
+        {
+            "file": "content/Common/Stage/kindan_Room6.szs",
+            "hash": "9DB0D14CE4AC4C90E903DECA2546E54310361F72F26DD595675C39BF22DA0D75"
+        },
+        {
+            "file": "content/Common/Stage/kindan_Room7.szs",
+            "hash": "912087FB6DF614115F74EBF4CC935BC9D90C56395C79F591C8F512E79E618679"
+        },
+        {
+            "file": "content/Common/Stage/kindan_Room8.szs",
+            "hash": "B71DFACB0EB083925CCB94F7AED1702199796A8C907C48E8AA5D7093B29FF365"
+        },
+        {
+            "file": "content/Common/Stage/kindan_Room9.szs",
+            "hash": "16639F3A4640C3C04EA3885A31E660C0CFF6F3FF79F612B7BD3030905D50FEDA"
+        },
+        {
+            "file": "content/Common/Stage/kindan_Stage.szs",
+            "hash": "EC5F8DD0C9741574E6B0EDB2141CE47292A84752A1BA9B7925D7072F3F35BA91"
+        },
+        {
+            "file": "content/Common/Stage/ma2room_Room0.szs",
+            "hash": "F895C7B01A74E84F226741C9BA96002428BF61E28D441268CB2998D95C0F2CD8"
+        },
+        {
+            "file": "content/Common/Stage/ma2room_Room1.szs",
+            "hash": "083EFCD89EDF7CE393A0B5C771BE920A9DA2DD7A8259749F2D243ACBCDA9C0F1"
+        },
+        {
+            "file": "content/Common/Stage/ma2room_Room2.szs",
+            "hash": "AABD95CC669368F3576E17002A278889060790DCC479F9F116265FFC4C2D245F"
+        },
+        {
+            "file": "content/Common/Stage/ma2room_Room3.szs",
+            "hash": "AC84462104A2E14A44E606CF7DA207D38D2A7AE7718985763ACDE587373D0D56"
+        },
+        {
+            "file": "content/Common/Stage/ma2room_Room4.szs",
+            "hash": "A830B8702891D7C5517C1C09DE6BA855E438AE463A9362767B880384D2F2CAE7"
+        },
+        {
+            "file": "content/Common/Stage/ma2room_Stage.szs",
+            "hash": "80B8BED22169EFC778A87928EF1F16D68E72C19B61347ACB3A283551992C5DA9"
+        },
+        {
+            "file": "content/Common/Stage/ma3room_Room0.szs",
+            "hash": "BE39038F3927B510C3D7D32E205D06043A78577FB7C1563E0ACC96B3BBAD901A"
+        },
+        {
+            "file": "content/Common/Stage/ma3room_Room1.szs",
+            "hash": "D501B9049458BD3212841A1DC29A1FCBB02CDA152F0587CBFA584714856DF51A"
+        },
+        {
+            "file": "content/Common/Stage/ma3room_Room2.szs",
+            "hash": "78180FB1C3833F7F13F603FDBF96DCBA24B7C10EFF34D2F5643468B6BF7188F0"
+        },
+        {
+            "file": "content/Common/Stage/ma3room_Room3.szs",
+            "hash": "7F4D680D989C817561C5F287B47570FF5E1E22AC8C60C65F3F09D28E1ECBAFD9"
+        },
+        {
+            "file": "content/Common/Stage/ma3room_Room4.szs",
+            "hash": "074ABEA13AABB37EBF2276F4F5165E082764BA14DF889D837718414023491CC4"
+        },
+        {
+            "file": "content/Common/Stage/ma3room_Stage.szs",
+            "hash": "DBFD739D94BCA78D4FBE4908E0F7C3CA89B91E9E3C6A92397D12067AA0E4EF56"
+        },
+        {
+            "file": "content/Common/Stage/majroom_Room0.szs",
+            "hash": "469B1B3440645AF5C86085FB244DB4A1CBAEA031C02751DBA87DCA1A03741036"
+        },
+        {
+            "file": "content/Common/Stage/majroom_Room1.szs",
+            "hash": "0449F705CB349F8B3E657ACEAD140B8103C487D7218E2822CBED26878973712B"
+        },
+        {
+            "file": "content/Common/Stage/majroom_Room2.szs",
+            "hash": "E5849BE10402246B5F7B8AA3BC4DC5EBA2429004587A53C0242CAA7EBE8F73A1"
+        },
+        {
+            "file": "content/Common/Stage/majroom_Room3.szs",
+            "hash": "AB4D91B3EFBA5F444F70642A05643FFE5CC213129DF7125252822924F54CC6A3"
+        },
+        {
+            "file": "content/Common/Stage/majroom_Room4.szs",
+            "hash": "A4D970EBD9471EEA394CC11FED2093CA003DCC37349AE6893D6075B5CDF57DED"
+        },
+        {
+            "file": "content/Common/Stage/majroom_Stage.szs",
+            "hash": "BEDA520003A6CF3FD9372E0F075767C89BD940EF4BEFA7DBA76AF2CB9557DA41"
+        },
+        {
+            "file": "content/Common/Stage/sea_E_Room0.szs",
+            "hash": "EAC3E4AF35BAE4E8D2C430C9AA5E09F896C0CD90649AF077CA62E8AAC4E96914"
+        },
+        {
+            "file": "content/Common/Stage/sea_E_Room44.szs",
+            "hash": "57106992D466734B20FED3CDB78143E7F23E781FB14535A86684E35FDC67DBB6"
+        },
+        {
+            "file": "content/Common/Stage/sea_E_Stage.szs",
+            "hash": "E621A38B74598F510520F5A52C7A95DC48AD2BB5EC219A8B656245C7B90BECC9"
+        },
+        {
+            "file": "content/Common/Stage/sea_LODALL.szs",
+            "hash": "FEE2D082551DAEA626BCE9F1E3BDA231FE867FFC116425DE2F07C2416C7AC043"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room10.szs",
+            "hash": "7275528F957D024FA16BE651FA3721567A44EB60985342C818113B80E3F3D5EF"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room12.szs",
+            "hash": "C21B072E6D6417D50A7A71D30AD0EF49096AEC43BE7F7D63DC747D396AEF3DA4"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room14.szs",
+            "hash": "CFA1E08E807B10DF504A6DDB9BDBFC79C06D9D65CF3AC0F609AECE66A19780DC"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room15.szs",
+            "hash": "FD6B328E6BA2242C20303D482EF676C5BD26BD4FC7BF435355747C07F3F0F8E9"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room16.szs",
+            "hash": "DB3A3F8871F7EE8BCB518BC510CB891AA8AC3225EC6E28FD086BF219FCAC2DE0"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room18.szs",
+            "hash": "D197AC9EEA78E89EA25360F24A0E48EB4343723E8638F84ADE30873B68E5467C"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room19.szs",
+            "hash": "FE921C65FCF55F6CA2869365FE290DFDFB9B1394709A3469FE16474DE99CEFEA"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room2.szs",
+            "hash": "1CA987DF00D21A6444F39DCEBCB96728F103BEF52D26968CA2C00C1B675A6CB3"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room20.szs",
+            "hash": "8471F13F805D743BF40942808A70EFEA909D6F863D65B7A8A5003E92C8E27E76"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room21.szs",
+            "hash": "1CA02FCE4565BD3B31AB4E38AF24D82910ED5D986C23E6848BFA79435E161053"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room22.szs",
+            "hash": "7620171FA20F3BC8D27F217C3642C8525B66ACAA3D9C8DE66C6B27AA50765D1E"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room24.szs",
+            "hash": "8564BE81B126DC0A53CC99D6862DD2658E7EB90369760BE32772AACD378EF789"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room25.szs",
+            "hash": "6F86E792F126B80856BB051E30297A324DAC2AF3A8DDB52EE1B4581BA217A38E"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room26.szs",
+            "hash": "8EED5E963AA702AAE7EBE3F8D911BD6F49E19EA1FBF906AB37E5CF1F6C396265"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room27.szs",
+            "hash": "6E28EBDA12916FB2C9BD02238A7977E35A139D2F15766FA861B4EAC1FFEC1B7A"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room28.szs",
+            "hash": "D6891C33C3B668A70DED1E1695AFF497D83804BACBAC1FF2428D569C662B936D"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room29.szs",
+            "hash": "5D39014820CDCF278AF9591B15697A3A4ED7525E4B8B5E308212351EA0C4755E"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room3.szs",
+            "hash": "AAA603C32B762FDA24053215C5FFF70042935C3D2F5CE095F2CF135D1ECA2AF4"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room30.szs",
+            "hash": "835A8B8E9975F65E6A0E3ABF9EFDC255FFC58917EBE62223D65CC2632728B4A7"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room31.szs",
+            "hash": "E67901D274ADECD00270FB91B1D87111D6441519BB42E59236A6C39AB4AD603B"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room32.szs",
+            "hash": "45F4F49F87C190493267100B052E7C32BC615C5D0E3E5C697FF1E18C54997927"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room33.szs",
+            "hash": "5A9D12AAFFBCA02056FE87677608FC3AFB2A31D897F5F3688175B1164CA416B2"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room34.szs",
+            "hash": "92C5391E9126928FABBDB8870DE9E2355911E1B07603FB07E54E447D075968DA"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room35.szs",
+            "hash": "F064936B3504E7A4C088772E963355C89452743E56B834FB5BECC4B87FAB34E5"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room36.szs",
+            "hash": "8AAC80FD517137C340426EA48C4D46258E9B27BAB93A39B7CEB6DC48DFFF347E"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room37.szs",
+            "hash": "6A559A7B8EFE3EF362EDEC9815BA47289E3B5B00B69E6B3A94DE55101251F5DD"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room38.szs",
+            "hash": "2C2F11336F204BF123A5B8393C1095D18C54CEB2AD6453EB91714ED0D88A2BAA"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room4.szs",
+            "hash": "D4DB153FD916D87055CBE5955A15D8BF2DCC147DD153FDADE5E8469E010961A5"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room40.szs",
+            "hash": "9AFDE942979EE882812B5386AED17703F05528389D3493192103415A7A1D8BE2"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room42.szs",
+            "hash": "B1F5AE35CE9BC85897FD6E9FDC3C229A6AB2E399DE0F6F1CA2E4E631A20153E0"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room43.szs",
+            "hash": "AFF19149C02304F2FB3AA9011126DD51FA46558C049E2C95B552CDDDE38E4C56"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room45.szs",
+            "hash": "57559E097D3E7CF1A64C20A78A7C3FDBEA83E3686A3D6E5868AE9DECB277C6F9"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room46.szs",
+            "hash": "BE17C18CD4AB6550A8AC24E84B45406F72F29AA93AD15FBE83AE432DC3BEDD16"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room47.szs",
+            "hash": "8E0D898EE743A623E22E06EE958852CBF42EF355C045588B14C33E9C0B5B549C"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room48.szs",
+            "hash": "3E09958569C1F10F0163AC3155FB4A0939DA0B3E5AD77D139886E2F8B89A12E5"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room49.szs",
+            "hash": "702187F094C903D2D552D9250E415C939480F595CF34684C1168A657DE3726B6"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room5.szs",
+            "hash": "DF9A75DAF3248DDEAB04C232FF71CB24F31877527BE0B447FE5BE85D71A63DF9"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room6.szs",
+            "hash": "9739C7EC6D1F38DB9517EDF5D38C06AD1806121447C890DBB2D7A84624FB4461"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room7.szs",
+            "hash": "53430F5A324DFE24B13D332BDC2FE07FFEC3B81F4A1D902292D5557DFB80F673"
+        },
+        {
+            "file": "content/Common/Stage/sea_Room8.szs",
+            "hash": "22714E813AB639827282A2C93FD59BE6943188671A4AD37DDCAE87FF4168F5D9"
+        },
+        {
+            "file": "content/Common/Stage/sea_T_Room0.szs",
+            "hash": "BE1C2B67EC6EED7E85F088791AFDF9590D76370CFB677DAFF645BCE69EE945D8"
+        },
+        {
+            "file": "content/Common/Stage/sea_T_Room44.szs",
+            "hash": "C82D4B33006585B82BD24172A328B3E6D76F94958C348E4D00B7DCFC9F6897DA"
+        },
+        {
+            "file": "content/Common/Stage/sea_T_Stage.szs",
+            "hash": "D5050EBF8ED5BAEC5E743691EDC50B75F473213A567037505ED60FB73BF5BB3B"
+        },
+        {
+            "file": "content/Common/Stage/tincle_Room0.szs",
+            "hash": "E63DD4E9E154321F05C206F56B0B44B6183707B8C84EC9A0C24967642F98FC46"
+        },
+        {
+            "file": "content/Common/Stage/tincle_Stage.szs",
+            "hash": "DB01F588097D92E2434CD34CEAD0D4D0DB0C1CB19A8E5673E28CC4A90469CC06"
+        },
+        {
+            "file": "content/Common/env.baglenv",
+            "hash": "40BF9DF9A3B1647EBFE8FC6BC3A44952637B266E9CD7946C064113732C801004"
+        },
+        {
+            "file": "meta/Manual.bfma",
+            "hash": "CC7B3BB69F5B2FE7C58D25F4BCCCC173BC9CCEC45D072F3E24E0EE87904B4743"
+        },
+        {
+            "file": "meta/bootDrcTex.tga",
+            "hash": "98815A24785698B92F358CF5FAB3AECA72E12E8B56656E16F9055E62BBE7CE08"
+        },
+        {
+            "file": "meta/bootLogoTex.tga",
+            "hash": "91B63D9C03F7F9153C8B9FC8179E1CCCB6F4AFC60204B988D91D1B5EFCEE4AA8"
+        },
+        {
+            "file": "meta/bootMovie.h264",
+            "hash": "069FD8C5713F4B23EA1098D2674BCC839E610BA844683BF532E1E6CB10642621"
+        },
+        {
+            "file": "meta/bootSound.btsnd",
+            "hash": "29E0E55EACEC6BD90E1AF0B235E92314C450D9BCA88DEACD0B091F0F1C75467A"
+        },
+        {
+            "file": "meta/bootTvTex.tga",
+            "hash": "27CB4795EC98631ECC68DB433EBDDBEDDF2925D5ACD6485616F404658BC404ED"
+        },
+        {
+            "file": "meta/iconTex.tga",
+            "hash": "93ADFB2894CAE07428CD4CAA56100CF937E84C764BA82757B0F99247BFB5CC35"
+        },
+        {
+            "file": "meta/meta.xml",
+            "hash": "C68D92DFBDD2F914DF1FF828A628716F4D9B394009AF137F630A9B6AAE882B0A"
+        }
+    ]
+}
